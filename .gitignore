@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.pyc
+scripts/raw_seed.json
+scripts/msip_seed.json
+scripts/extract_seed.py
+.DS_Store

@@ -1,0 +1,2119 @@
+[
+ {
+  "date": "2026-06-30",
+  "headline": "KKR to acquire EDF power solutions' North American renewables business for $4.2bn",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "BusinessWire",
+    "url": "https://www.businesswire.com/news/home/20260630667572/en/KKR-to-Acquire-EDF-power-solutions-North-American-Operations-for-$4.2-Billion"
+   },
+   {
+    "name": "ESG Today",
+    "url": "https://www.esgtoday.com/kkr-acquires-edfs-north-american-renewable-energy-business-for-4-2-billion/"
+   }
+  ],
+  "players": "KKR agreed to acquire EDF power solutions' US and Canadian operations for $4.2bn in equity consideration plus up to a further $0.39bn in contingent payments, buying through its Global Infrastructure Strategy. The business is among the top ten owners of US renewable capacity, with a diversified solar, wind and battery storage portfolio plus development, construction and O&M capability and a near 40-year operating history. Existing management continues; close is subject to regulatory approvals.",
+  "why_it_matters": "This is KKR's largest single renewables investment and a straight corporate carve-out from a seller under balance-sheet pressure, which is usually the best entry basis available in a crowded asset class. Buying the development and O&M capability alongside the operating fleet is the point, it converts a portfolio purchase into a platform that can originate at cost rather than compete at auction. The contingent $390m suggests a bridged view on pipeline value, which is sensible given US tax credit sunsetting. Watch whether KKR keeps the development arm intact, because the alternative, harvesting the operating fleet and shrinking development, would signal a very different underwriting.",
+  "firms": [
+   "KKR"
+  ],
+  "companies": [
+   "EDF",
+   "EDF power solutions"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States",
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-30-kkr-to-acquire-edf-power-solutions-north-america-d9af30",
+  "story_id": "story-kkr-to-acquire-edf-power-solutions-north",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-30",
+  "headline": "Debtwire: Brightline Florida restructuring likely to split along creditor lines, with Chapter 11 or Subchapter IV in play",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "ION Analytics / Debtwire",
+    "url": "https://ionanalytics.com/insights/debtwire/brightline-floridas-restructuring-track-could-split-along-creditor-lines/"
+   }
+  ],
+  "players": "Debtwire maps the creditor stack: $2.219bn Series 2024 tax-exempt bonds with Assured Guaranty Municipal insuring roughly 51%; $1.119bn taxable corporate notes held by distressed debt and hedge funds; $985m Series 2025B commuter rail bonds whose collateral is tied to future county payments not yet contractually established; and $1.21bn of Series 2024/2024A bonds that have already deferred two consecutive interest payments. Routes discussed include an out-of-court restructuring for the weaker collateral positions, Chapter 11, and a Subchapter IV railroad reorganization requiring a trustee.",
+  "why_it_matters": "The observation that the commuter bonds' collateral rests on county payments that do not yet contractually exist is the single most important structural fact for recovery analysis, and it puts that tranche closest to a full impairment. A senior municipal bond analyst quoted in the piece says AGM holds a lot of the cards and would be unlikely to force a bankruptcy at this stage, which supports a bifurcated outcome where subordinated classes get restructured out of court while the senior insured tranche is left intact. Subchapter IV is the tail risk most investors have not modelled, because trustee appointment removes management control of the process. Distressed funds in the $1.119bn taxable notes are the most likely to push for court supervision if consensual terms disappoint.",
+  "firms": [
+   "Assured Guaranty Municipal",
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Trains Florida",
+   "AAF Operations Holdings"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-06-30-debtwire-brightline-florida-restructuring-likely-a24957",
+  "story_id": "story-debtwire-brightline-florida-restructurin",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-30",
+  "headline": "Brookfield and Bloom Energy expand their AI infrastructure partnership fivefold to $25 billion for onsite power",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloom Energy Investor Relations",
+    "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Brookfield-and-Bloom-Energy-Expand-AI-Infrastructure-Partnership-to-25-Billion-Fivefold-Increase-to-Build-and-Finance-Rapid-Power-for-AI-Infrastructure/default.aspx"
+   },
+   {
+    "name": "Carbon Credits",
+    "url": "https://carboncredits.com/brookfield-bloom-energy-25-billion-ai-data-center-power/"
+   },
+   {
+    "name": "Bloom Energy",
+    "url": "https://www.bloomenergy.com/news/brookfield-and-bloom-energy-expand-ai-infrastructure-partnership/"
+   }
+  ],
+  "players": "Brookfield and Bloom Energy announced on June 30, 2026 a fivefold expansion of their AI infrastructure partnership to $25 billion, up from $5 billion announced in October 2025. Brookfield finances the power projects through its AI Infrastructure Fund, launched in November 2025 with a $100 billion deployment target, while Bloom supplies its fuel cell platform. Target markets include AI infrastructure and hyperscalers plus data centers, semiconductor manufacturing, utilities, hospitals, college campuses and other commercial and industrial sites. The companies cited 'strong and sustained demand from hyperscalers and AI infrastructure developers for fast, reliable, and community-friendly power.'",
+  "why_it_matters": "The commercial logic is speed, not cost: onsite fuel cells bypass interconnection queues that now run five-plus years in the constrained US markets where AI load wants to sit, and customers will pay a premium for time-to-power. Brookfield is effectively underwriting equipment-backed project finance with contracted offtake, a cash-flow profile closer to leasing than to merchant generation. A fivefold increase inside nine months is a strong signal on demand, but it also concentrates counterparty risk on a single technology provider and on gas supply economics. Watch the pace of actual project financial closes against the $25bn headline, since framework capacity and deployed capital are very different numbers.",
+  "firms": [
+   "Brookfield"
+  ],
+  "companies": [
+   "Bloom Energy",
+   "Brookfield"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-30-brookfield-and-bloom-energy-expand-ai-power-part-48cf0e",
+  "story_id": "story-brookfield-and-bloom-energy-expand-their",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-29",
+  "headline": "Digital Realty to buy Blackstone's stakes in three Northern Virginia data centres in $3.5bn transaction",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Blackstone",
+    "url": "https://www.blackstone.com/news/press/digital-realty-announces-purchase-of-blackstone-interest-in-three-northern-virginia-data-centers/"
+   },
+   {
+    "name": "Technical.ly",
+    "url": "https://technical.ly/entrepreneurship/digital-realty-buys-blackstone-stake-in-virginia-data-centers/"
+   }
+  ],
+  "players": "Digital Realty agreed to purchase Blackstone's interests in three Northern Virginia data centres for $3.5bn, comprising $1.2bn of cash and $2.3bn of Digital Realty stock. The stakes are 80% in two Manassas facilities and 50% in one Sterling facility, together drawing up to 96MW. The assets sat in a joint venture Digital Realty and Blackstone-affiliated funds established in 2023.",
+  "why_it_matters": "A three-year hold on a 2023-vintage development JV exiting at $3.5bn for 96MW implies roughly $36m per MW, which is a stabilised hyperscale valuation and a fast realisation for Blackstone. Taking 66% of consideration in DLR stock rather than cash is notable, it keeps Blackstone economically exposed to the sector while crystallising the development premium on these specific assets. For the market this is a clean read on where leased Northern Virginia capacity clears, in a submarket where power constraints have effectively frozen new supply. Watch whether Blackstone recycles into greenfield land-and-power positions, which is where the remaining spread sits.",
+  "firms": [
+   "Blackstone"
+  ],
+  "companies": [
+   "Digital Realty"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-29-digital-realty-to-buy-blackstone-s-stakes-in-thr-9fd4b0",
+  "story_id": "story-digital-realty-buys-blackstone-s-stakes",
+  "story_size": 2
+ },
+ {
+  "date": "2026-06-29",
+  "headline": "FTAI Infrastructure acquires Tidewater Logistics for about $45m in cash, funded by upsizing its term loan",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/06/29/3318790/0/en/ftai-infrastructure-announces-acquisition-of-tidewater-logistics.html"
+   }
+  ],
+  "players": "FTAI Infrastructure announced the acquisition of Tidewater Logistics, a barge and rail transloading company operating in Ohio, West Virginia and Texas serving energy and shale markets in the Appalachian Basin and Gulf Coast, for approximately $45m in cash. The purchase was funded through an upsizing of FIP's existing term loan with current lenders and was described as completed. Management expects roughly $9m of Adjusted EBITDA over the next twelve months, and CEO Ken Nicholson cited complementarity with the Wheeling & Lake Erie Railway.",
+  "why_it_matters": "At about $45m for roughly $9m of forward EBITDA this is a five times entry multiple, well inside where FIP's own equity trades, so it is accretive on a look-through basis before any integration benefit. Funding via a term loan upsize rather than proceeds from the Long Ridge sale shows lenders are willing to extend against the rail platform independently of the pending divestiture. Strategically it confirms the redeployment thesis management flagged on April 30, that Long Ridge proceeds and incremental debt would go into freight rail and terminals. The integration question is whether Wheeling & Lake Erie volumes actually route through the acquired transload assets, which will show up in Railroad segment EBITDA from Q3.",
+  "firms": [],
+  "companies": [
+   "FTAI Infrastructure",
+   "Tidewater Logistics",
+   "Wheeling & Lake Erie Railway",
+   "Transtar"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-06-29-ftai-infrastructure-acquires-tidewater-logistics-24a3ea",
+  "story_id": "story-ftai-infrastructure-acquires-tidewater-l",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-29",
+  "headline": "Digital Realty buys Blackstone's stakes in three Northern Virginia data centers at a $7.8B gross valuation, 6.5%+ cap rate",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Digital Realty",
+    "url": "https://investor.digitalrealty.com/news-releases/news-release-details/digital-realty-announces-purchase-blackstone-interest-three"
+   }
+  ],
+  "players": "Digital Realty agreed on June 29, 2026 to acquire Blackstone's equity interests in three Northern Virginia data centers for $3.5 billion in total consideration ($1.2 billion cash and $2.3 billion in Digital Realty shares), implying a $7.8 billion gross valuation at 100% share. The assets are an 80% stake in two 96 MW Manassas facilities and a 50% stake in one 96 MW Sterling facility — 288 MW of IT capacity, 100% leased to investment-grade hyperscale customers on 15-year leases with 3.6% annual escalators. Digital Realty cited an initial stabilized capitalization rate of over 6.5%; two assets stabilize in H1 2027 and one in H1 2028.",
+  "why_it_matters": "This is the cleanest public pricing mark of the quarter for stabilized hyperscale capacity: roughly $27 million per MW of IT load at a 6.5%+ stabilized cap rate on 15-year investment-grade leases with 3.6% bumps. That gives infra investors a defensible comparable for both entry pricing and exit assumptions in Northern Virginia, still the deepest data center market in the world. It also shows a sponsor monetizing development risk into a strategic buyer's paper — a template for exits from the 2021-2023 development vintage. Watch whether similar cap rates hold in secondary markets, where power is available but tenant credit and lease term are typically weaker.",
+  "firms": [
+   "Blackstone"
+  ],
+  "companies": [
+   "Digital Realty",
+   "Blackstone"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-29-digital-realty-buys-blackstone-s-stakes-in-three-be1d6e",
+  "story_id": "story-digital-realty-buys-blackstone-s-stakes",
+  "story_size": 2
+ },
+ {
+  "date": "2026-06-29",
+  "headline": "Williams in advanced talks to buy EnCap-backed Momentum Midstream for about $5.5bn",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/williams-set-acquire-momentum-midstream-075558501.html"
+   },
+   {
+    "name": "Pipeline Technology Journal",
+    "url": "https://www.pipeline-journal.net/news/pipeline-giant-williams-nears-55-billion-deal-momentum-midstream"
+   }
+  ],
+  "players": "Williams was reported in advanced talks to acquire Momentum Midstream for approximately $5.5 billion from EnCap Flatrock Midstream, with an announcement expected within about a week of the June 29, 2026 reports. Momentum operates roughly 4,000 miles of pipeline in East Texas and Louisiana serving 10 LNG facilities and 26 power plants. No final decision had been reached and EnCap could retain the asset.",
+  "why_it_matters": "At $5.5bn this would be the largest US midstream transaction of 2026 in a year otherwise dominated by sub-$2bn bolt-ons, and it is a private-equity exit from a Haynesville-to-Gulf gathering platform built for the LNG export cycle. The asset's customer mix — 10 LNG trains plus 26 power plants — is exactly the demand-pull story infra buyers are paying premiums for, blending export volumes with data-centre-driven power load. If it clears near $5.5bn it resets the bid for remaining sponsor-owned Haynesville gathering systems. Watch for confirmation, the disclosed EBITDA multiple, and whether EnCap instead runs a broader process.",
+  "firms": [
+   "EnCap Flatrock Midstream"
+  ],
+  "companies": [
+   "Williams",
+   "Momentum Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-29-williams-in-advanced-talks-to-buy-encap-backed-m-818440",
+  "story_id": "story-williams-in-advanced-talks-to-buy-encap",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-27",
+  "headline": "DOE opens $17.5B American Nuclear Supply Chain Loans program for AP1000 long-lead components across five projects",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Neutron Bytes",
+    "url": "https://neutronbytes.com/2026/06/27/doe-to-offer-17-5-billion-in-supply-chain-loans/"
+   }
+  ],
+  "players": "The Department of Energy announced on June 27, 2026 a $17.5 billion American Nuclear Supply Chain Loans Program through its Office of Energy Dominance Financing, plus $100 million in construction loans. The facility supports five utility- and energy-company-sponsored projects each building two AP1000 reactors, financing long-lead items such as reactor pressure vessels, steam systems, cooling pumps and turbines that take three or more years to manufacture. Sponsors must commit $500 million of equity per reactor, $1 billion per project, before drawing DOE funds. DOE said the program could accelerate deployment of 10 large reactors by up to three years.",
+  "why_it_matters": "Long-lead procurement is where nuclear projects die, and federal debt against forgings and turbines removes the single largest pre-FID capital risk from the AP1000 restart thesis. The $1 billion per-project equity gate is the real screen: it tells you which sponsors are actually funded and creates a natural co-investment window for infrastructure funds seeking nuclear exposure without construction risk. It also supports the supply chain names — forging, heavy fabrication, turbine services — that are the lower-risk way to play the nuclear cycle. Watch which five projects are named and whether the equity commitments are met on schedule.",
+  "firms": [],
+  "companies": [
+   "US Department of Energy"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-27-doe-opens-17-5b-american-nuclear-supply-chain-lo-7e6841",
+  "story_id": "story-doe-opens-17-5b-american-nuclear-supply",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-26",
+  "headline": "FERC issues final environmental statements for nearly 500 miles of Kinder Morgan Southeast gas expansions",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Pipeline & Gas Journal",
+    "url": "https://pgjonline.com/news/2026/june/nearly-500-miles-of-kinder-morgan-gas-pipelines-advance-with-final-ferc-eis"
+   }
+  ],
+  "players": "FERC staff issued final environmental impact statements on June 26, 2026 for two Kinder Morgan projects: the Mississippi Crossing Project on Tennessee Gas Pipeline (199 miles, 2.1 Bcf/d) and South System Expansion 4 on Southern Natural Gas (291 miles, 1.323 Bcf/d). Combined, the projects total roughly 490 miles and 3.4 Bcf/d, and now advance to Commission review and a final certificate decision.",
+  "why_it_matters": "Final EIS is the last major environmental gate before a certificate order, so both projects have moved from permitting risk to construction and cost risk — a meaningful de-risking for anyone holding Kinder Morgan paper or contracting capacity behind these lines. Together they add 3.4 Bcf/d into the Southeast, the region absorbing both LNG export feedgas growth and gas-fired power additions for data centres. New long-haul capacity of this magnitude will compress Southeast basis differentials, which matters if you are underwriting merchant gas storage or peaking assets that monetise those spreads. Watch the certificate order timing and any conditions on landowner or environmental mitigation that could shift capex.",
+  "firms": [],
+  "companies": [
+   "Kinder Morgan",
+   "Tennessee Gas Pipeline",
+   "Southern Natural Gas"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-26-ferc-issues-final-environmental-statements-for-n-84baf6",
+  "story_id": "story-ferc-issues-final-environmental-statemen",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-26",
+  "headline": "EPRI and utilities push data center flexibility as the speed-to-power fix: 18%-55% of AI load may be curtailable",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/data-centers-flexibility-utilities-speed-to-power/822588/"
+   }
+  ],
+  "players": "Utility Dive reported June 26, 2026 that US data center power demand is projected to reach 66 GW by 2027 from 31 GW in 2025 and could consume up to 17% of US electricity by 2030. Research cited found AI workloads can offer between 18% and 55% flexibility relative to average power consumption without compromising quality of service, and that a 1%-2% reduction in data center peak demand can lower electricity rates 0.5%-2.8% while protecting reliability. EPRI's FlexMosaic framework defines five flexibility classes A-E, with classes D and E providing maximum system value; EPRI's DCFlex initiative is expanding to nine demonstration sites across the US and Europe. The Emerald AI platform coordinates utility-data center flexibility while preserving utility dispatch authority, and a 96-MW Aurora AI Factory launching in Virginia in late 2026 will validate workload flexibility at scale.",
+  "why_it_matters": "Flexibility is now the currency data centers use to buy faster interconnection, which means a facility's ability to curtail is becoming a monetizable asset — and, conversely, inflexible load will pay more or wait longer. If 18%-55% of AI load is genuinely curtailable, the effective firm capacity requirement behind the demand forecasts is materially lower than headline GW, which should temper the most aggressive generation build theses. For owners, designing for flexibility becomes a value driver in lease negotiation and interconnection queue position. Watch DCFlex demonstration results and whether utilities begin offering tariff discounts explicitly priced against flexibility classes.",
+  "firms": [],
+  "companies": [
+   "EPRI",
+   "Emerald AI"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-26-epri-and-utilities-push-data-center-flexibility-1bc002",
+  "story_id": "story-epri-and-utilities-push-data-center-flex",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-26",
+  "headline": "ICF: 445 GW of nameplate capacity by 2030 delivers only 191 GW of effective peak capacity; PJM and ERCOT full past 2027",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/solar-storage-demand-growth-data-centers-icf/823866/"
+   }
+  ],
+  "players": "ICF projected on June 26, 2026 that 445 GW of nameplate capacity will come online in the US between 2026 and 2030 — 177 GW solar, 120 GW battery storage, 77 GW gas and 62 GW onshore wind — but that this translates to only 191 GW of effective peak load capacity. ICF forecasts electricity demand rising 21% by 2030 and 39% by 2035 from a 2026 baseline, with peak demand up 14% by 2030 and 25% by 2035. The analysis found PJM and ERCOT have no spare capacity to support demand growth beyond 2027, and that some large-load interconnections are being delayed until infrastructure is available.",
+  "why_it_matters": "The 445 GW versus 191 GW gap is the most important framing in the report: headline capacity additions overstate firm capacity by more than 2x because of solar and storage accreditation. Investors reading nameplate build numbers as reserve-margin relief are underestimating scarcity and therefore underpricing firm capacity and dispatchable assets. 'No spare capacity beyond 2027' in PJM and ERCOT means the marginal data center in those markets must bring its own generation or wait. Watch effective load carrying capability accreditation rules, which will determine whether storage build actually closes the firm-capacity gap.",
+  "firms": [
+   "ICF"
+  ],
+  "companies": [],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-26-icf-445-gw-of-nameplate-capacity-by-2030-deliver-647361",
+  "story_id": "story-icf-445-gw-of-nameplate-capacity-by-2030",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-26",
+  "headline": "AES stockholders approve $33.4bn take-private by GIP and EQT-led consortium with CalPERS and QIA",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium-302812261.html"
+   },
+   {
+    "name": "LNG Industry",
+    "url": "https://www.lngindustry.com/liquid-natural-gas/29062026/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium/"
+   }
+  ],
+  "players": "AES stockholders approved the take-private by a consortium of Global Infrastructure Partners (BlackRock), EQT Infrastructure VI, CalPERS and the Qatar Investment Authority at $15.00 per share in cash. The transaction carries an enterprise value of approximately $33.4bn including assumed debt, against roughly $10.7bn of equity value. About 97.92% of votes cast approved, representing 67.17% of shares outstanding; close is expected in late 2026 or early 2027.",
+  "why_it_matters": "At $33.4bn EV on $10.7bn of equity this is a highly levered utility carve-out, and the equity story is asset rotation plus rate-base growth at the regulated Indiana and Ohio utilities rather than growth in the merchant renewables arm. The 3.1x debt-to-equity entry means refinancing and rating agency treatment are the dominant risks, and the consortium structure with two sovereign-scale LPs is what makes the equity cheque financeable. The read-through is that US regulated utilities are now firmly in play for infrastructure funds, following the Blackstone-TXNM and CPP-GIP-ALLETE templates. Watch state regulatory approvals, which have been the friction point in every recent utility take-private.",
+  "firms": [
+   "Global Infrastructure Partners",
+   "EQT Infrastructure",
+   "QIA"
+  ],
+  "companies": [
+   "AES Corporation",
+   "CalPERS"
+  ],
+  "sectors": [
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-26-aes-stockholders-approve-33-4bn-take-private-by-fb28f1",
+  "story_id": "story-aes-stockholders-approve-33-4bn-take-pri",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-24",
+  "headline": "Sunrun, Tesla and Renew Home offer utilities 16.8 GW of distributed capacity across 12 million devices in 9 million homes",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/3-home-energy-providers-offer-168-gw-of-distributed-capacity-to-utilities/823676/"
+   }
+  ],
+  "players": "Sunrun, Tesla and Renew Home jointly offered utilities 16.8 GW of distributed energy capacity across approximately 12 million devices in 9 million US homes, announced June 24, 2026. Sunrun and Tesla manage 7.8 GW of installed battery capacity; Renew Home contributes roughly 9 GW based on smart thermostats' one-hour peak load shift potential. Regional figures include Texas at 1.3 GW HVAC plus 440 MW of battery, California at 1.1 GW HVAC plus 3.6 GW of battery, and Virginia at 37 MW battery plus 276 MW HVAC, expected to reach 500 MW by 2030. The companies framed the offer around the speed-to-power challenge facing data centers and utilities.",
+  "why_it_matters": "16.8 GW of aggregated distributed capacity is comparable in scale to PJM's entire reserve shortfall and it requires no interconnection queue position, no turbine slot and no new transmission. If utilities contract it, virtual power plants become a genuine competitor to peaking capacity, which caps the scarcity value of new-build peakers in the highest-priced markets. The commercial question is contract structure: VPP capacity has historically struggled to secure long-dated, bankable revenue, and 3.6 GW of California battery capacity is worth little without a firm contract. Watch which utilities sign multi-year agreements and at what $/kW-year, since that is the number that determines whether VPPs are investable infrastructure or a customer-acquisition feature.",
+  "firms": [],
+  "companies": [
+   "Sunrun",
+   "Tesla",
+   "Renew Home"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-24-sunrun-tesla-and-renew-home-offer-utilities-16-8-29e8fd",
+  "story_id": "story-sunrun-tesla-and-renew-home-offer-utilit",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-24",
+  "headline": "Advanced Energy United: RTOs made 'significant progress' on interconnection reform but requests are not moving faster",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/generator-interconnection-reform-ferc-spp-miso-pjm/823613/"
+   }
+  ],
+  "players": "Advanced Energy United released a progress report on June 23, 2026 finding that grid operators have made significant progress on interconnection queue reform over two years, but that 'there isn't yet evidence that interconnection requests are being processed more quickly.' Across seven grid operators, SPP and CAISO showed promising improvements, MISO showed incomplete progress, ERCOT incremental progress, and PJM, ISO New England and NYISO expected progress. The report flagged that fast-track processes adopted by MISO, PJM and SPP create tension and potential for discrimination favoring utility-affiliated and fossil-heavy resources over independent power producers and renewables. Operators have implemented FERC Order 2023 cluster studies and enforceable study timelines; AEU recommended entry fees for pre-planned transmission access, better plant replacement processes and more automated studies.",
+  "why_it_matters": "Two years of reform without measurable throughput improvement means the five-year-plus interconnection timeline should be treated as structural, not transitional, in every underwriting model through the end of this decade. That permanently elevates the value of existing interconnection rights, brownfield sites and plant-replacement positions relative to greenfield development. The finding that fast-track processes may favor utility-affiliated and dispatchable resources is a direct competitive risk for independent renewable developers and should inform market selection. Watch for FERC complaints challenging fast-track eligibility criteria, which could reshape queue access in PJM, MISO and SPP.",
+  "firms": [
+   "Advanced Energy United"
+  ],
+  "companies": [
+   "PJM Interconnection",
+   "MISO",
+   "SPP",
+   "CAISO",
+   "ERCOT"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-24-advanced-energy-united-rtos-made-significant-pro-29c053",
+  "story_id": "story-advanced-energy-united-rtos-made-signifi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-23",
+  "headline": "US energy storage sets a record Q1 at 3.3 GW/8.4 GWh; Wood Mackenzie and ACP see 200 GW/655 GWh by 2031",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/"
+   }
+  ],
+  "players": "Wood Mackenzie and the American Clean Power Association reported on June 23, 2026 that the US installed a record 3.3 GW/8.4 GWh of energy storage in Q1 2026, with utility-scale, residential and commercial/community/industrial segments each setting first-quarter records. The forecast calls for 200 GW/655 GWh of cumulative installed capacity by 2031, roughly a four-fold increase, with utility-scale taking 85% of additions through 2031 and residential growing at a 12% average annual pace over four years after a 2026 contraction. Solar and storage together accounted for 91% of nameplate generating capacity added in Q1 2026; the EIA expects US battery capacity to double by end-2027.",
+  "why_it_matters": "Storage is now the swing resource in almost every US capacity plan, and a four-fold growth path to 2031 means supply-chain, EPC and interconnection access — not demand — will set returns. That 91% share of Q1 capacity additions tells you the marginal grid asset is a battery or a solar-plus-storage hybrid, which affects merchant curve shape, ancillary revenue saturation and capacity accreditation over time. Rapid duration and volume growth compress arbitrage spreads in mature markets like CAISO and ERCOT, so entry timing and market selection matter more than technology. Watch accreditation rules and whether the 2026 residential contraction is a durable policy effect.",
+  "firms": [
+   "Wood Mackenzie"
+  ],
+  "companies": [
+   "American Clean Power Association"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-23-us-energy-storage-sets-a-record-q1-at-3-3-gw-8-4-fe4783",
+  "story_id": "story-us-energy-storage-sets-a-record-q1-at-3",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-23",
+  "headline": "Abu Dhabi's MGX closes near-$50bn raise for AI infrastructure, one of the largest pools ever assembled",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/06/23/mgx-50-billion-ai-tech-abu-dhabi"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals"
+   }
+  ],
+  "players": "MGX, the Abu Dhabi AI investment vehicle founded in 2024, raised close to $50bn from sovereign wealth funds and other investors. Existing MGX positions include OpenAI, xAI, Anthropic and ByteDance, alongside its role in the AI Infrastructure Partnership that acquired Aligned Data Centers. Bloomberg characterised it as the first time Abu Dhabi has raised third-party money at this scale rather than deploying its own balance sheet.",
+  "why_it_matters": "This converts Abu Dhabi from a captive balance sheet into a fund manager, and it puts roughly $50bn of price-insensitive capital directly into competition with GIP, Blackstone and Brookfield for the same power-and-compute assets. For infrastructure investors the immediate effect is entry multiple pressure on hyperscale platforms and contracted generation, since MGX's return hurdle is strategic as much as financial. It also matters for co-investment access, MGX has consistently written alongside GIP and BlackRock rather than competing head-on, so the marginal effect may be more capital in consortia rather than more bidders. Watch how much is earmarked for hard infrastructure versus venture-stage AI, because that determines whether it is a competitor or a liquidity source.",
+  "firms": [
+   "MGX"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United Arab Emirates",
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-23-abu-dhabi-s-mgx-closes-near-50bn-raise-for-ai-in-f0b378",
+  "story_id": "story-abu-dhabi-s-mgx-closes-near-50bn-raise-f",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-22",
+  "headline": "American Water-Essential Utilities merger clears Virginia SCC, third regulator to approve",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/american-water-and-essential-utilities-proposed-merger-progresses-with-approval-from-the-virginia-state-corporation-commission-302806822.html"
+   },
+   {
+    "name": "American Water",
+    "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/American-Water-and-Essential-Utilities-Proposed-Merger-Progresses-with-Approval-from-the-Virginia-State-Corporation-Commission/default.aspx"
+   }
+  ],
+  "players": "American Water and Essential Utilities announced on June 22, 2026 that the Virginia State Corporation Commission approved their all-stock merger — the third favourable regulatory action and the first in a state where both companies operate water and wastewater services. Prior approvals came from the Kentucky PSC on April 21, 2026 and the Public Utilities Commission of Ohio on May 13, 2026, alongside shareholder approvals. The combined company would serve more than 4.7 million water and wastewater connections and more than 740,000 gas connections, operating as American Water from Camden, New Jersey. Remaining conditions include Hart-Scott-Rodino clearance and the remaining state commissions, with closing targeted by the end of Q1 2027.",
+  "why_it_matters": "Sequential state approvals with no reported rate concessions is the important detail — regulated water consolidation is clearing without the customer-credit conditions that have blocked comparable utility deals, which lowers the perceived regulatory risk for the next wave of water M&A. A combined 4.7 million connections creates a national platform with the balance sheet to absorb municipal systems, which is where the real growth in regulated water is. For investors in smaller regulated water utilities or municipal acquisition platforms, this raises the strategic bid. Watch the remaining state commissions, particularly Pennsylvania and New Jersey where both companies have concentrated operations and political scrutiny of water rates is highest.",
+  "firms": [],
+  "companies": [
+   "American Water",
+   "Essential Utilities"
+  ],
+  "sectors": [
+   "Water & Environmental",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-22-american-water-essential-utilities-merger-clears-2a41bc",
+  "story_id": "story-american-water-essential-utilities-merge",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-22",
+  "headline": "DOE streamlines electricity export authorizations, drawing a challenge that it contradicts the declared energy emergency",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/doe-electricity-export-authorization-energy-emergency/825876/"
+   }
+  ],
+  "players": "DOE issued a rule on June 22, 2026 streamlining authorizations for exporting US electricity, removing timing, content and reporting requirements from the prior process and reducing public participation. Entities with pending or existing authorizations include TransAlta Energy Marketing (US), El Paso Electric, Idaho Power, Portland General Electric and Puget Sound Energy. Public Citizen argues the rule contradicts DOE's own energy emergency findings, noting DOE issued May 2025 emergency orders requiring six plants including TransAlta's Centralia coal facility to keep operating, and said it would likely sue if its rehearing request is dismissed.",
+  "why_it_matters": "Easier export authorization increases the addressable market for generation sited near the Canadian and Mexican borders and improves the economics of cross-border transmission interconnections. It also creates a policy inconsistency that litigants will exploit, adding legal risk to any project underwriting export revenue. For owners of Pacific Northwest and border-region generation, this is a modest positive on optionality and a negative on regulatory predictability. Watch DOE's response to the rehearing request and any subsequent litigation.",
+  "firms": [],
+  "companies": [
+   "US Department of Energy",
+   "TransAlta",
+   "El Paso Electric",
+   "Idaho Power",
+   "Portland General Electric",
+   "Puget Sound Energy"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States",
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-22-doe-streamlines-electricity-export-authorization-90fe0c",
+  "story_id": "story-doe-streamlines-electricity-export-autho",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-19",
+  "headline": "Copenhagen Infrastructure Partners targets €16bn for sixth flagship renewables fund",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/cip-eyes-e16bn-for-latest-renewables-flagship-exclusive/"
+   }
+  ],
+  "players": "Copenhagen Infrastructure Partners is targeting €16bn for CI VI, its sixth flagship renewables vehicle. The predecessor, CI V, closed above its €12bn target in March 2025. First close timing and terms were not disclosed.",
+  "why_it_matters": "A €16bn target is a one-third step-up from a fund that itself was oversubscribed, and it tests whether greenfield renewables can still absorb mega-fund capital now that US tax credits are sunsetting and European auction pricing has reset. CIP's model is development-to-COD value creation, so the return depends on securing grid connections and offtake before construction capital is committed, not on trading operating assets. The read-through for the wider market is that dedicated renewables platforms with proven greenfield execution are still fundable at scale while generalist energy transition funds struggle. Watch the geographic mix, particularly how much is earmarked for offshore wind versus firmed onshore and storage.",
+  "firms": [
+   "Copenhagen Infrastructure Partners"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "Europe",
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-19-copenhagen-infrastructure-partners-targets-16bn-f10d89",
+  "story_id": "story-copenhagen-infrastructure-partners-targe",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-18",
+  "headline": "Meridiam invests EUR5m in Blyyd to scale electric yard tractors for logistics operations",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Meridiam",
+    "url": "https://www.meridiam.com/news/meridiam-invests-e5m-in-blyyd-to-support-the-decarbonization-of-logistics-yard-operations/"
+   }
+  ],
+  "players": "Meridiam invested EUR 5 million via its Green Impact Growth Fund in Blyyd, a Lyon-based company founded in 2015 that makes fully electric yard tractors for logistics and industrial operations. The technology uses swappable battery systems and smart monitoring designed for continuous high-intensity yard duty. Proceeds fund industrial ramp-up of new-generation tractors, commercial growth and European expansion. Blyyd has 160 tractors deployed across 100 sites serving major retailers and logistics providers.",
+  "why_it_matters": "Yard tractors are a strong electrification target because duty cycles are short-radius, high-hours and entirely on private property, so there is no public charging dependency and the diesel displacement economics work without subsidy. The swappable battery architecture is the specific de-risking lever, since it removes the downtime problem that blocks electrification in continuous three-shift yard operations where charging windows do not exist. At 160 tractors across 100 sites the company has product validation but not yet manufacturing scale, so this is early growth capital and the risk is industrial ramp rather than demand. For Meridiam this fits the Green Impact Growth Fund's venture-adjacent mandate rather than its core concession book. Watch unit economics as production scales and whether Blyyd shifts to a leasing model, which would make the fleet financeable and materially change the capital requirement.",
+  "firms": [
+   "Meridiam"
+  ],
+  "companies": [
+   "Blyyd"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "France"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-18-meridiam-invests-eur5m-in-blyyd-to-scale-electri-ea89d8",
+  "story_id": "story-meridiam-invests-eur5m-in-blyyd-to-scale",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-18",
+  "headline": "Altérra joins I Squared's $600m continuation vehicle for Peruvian power platform Inkia",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/alterra-joins-i-squareds-600m-cv-for-peruvian-power-business/"
+   }
+  ],
+  "players": "I Squared Capital formed a $600m continuation vehicle for Inkia, its Peruvian power business, with UAE climate vehicle Altérra joining as a co-investor. Infrastructure Investor described the commitment as Altérra's first direct investment in Latin America and its second co-investment alongside I Squared. Pricing, the rollover ratio and other syndicate members were not disclosed.",
+  "why_it_matters": "Infra continuation vehicles remain scarce relative to buyout, so a $600m single-asset CV for a Latin American generation platform is a useful pricing datapoint for a market where secondaries buyers complain of limited supply. The structure gives I Squared more runway on an asset with contracted PPA cash flows while returning capital to a fund likely near the end of its life, the standard DPI-versus-conviction trade. Bringing in sovereign-adjacent climate capital rather than a dedicated secondaries fund suggests the clearing price required a strategic buyer's cost of capital. Watch whether more emerging-market infra CVs follow, since that is the swing factor for LatAm exits.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "Inkia Energy",
+   "Altérra"
+  ],
+  "sectors": [
+   "Power & Renewables"
+  ],
+  "geo": [
+   "Peru"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-18-alterra-joins-i-squared-s-600m-continuation-vehi-a2d1c3",
+  "story_id": "story-alterra-joins-i-squared-s-600m-continuat",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-18",
+  "headline": "Energy Transfer to add 240,000 b/d ethane and 55,000 b/d LPG export capacity at Nederland, Texas",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "ICIS",
+    "url": "https://www.icis.com/explore/resources/news/2026/06/18/11217704/insight-energy-transfer-to-expand-ngl-terminal-amid-rising-us-supplies-foreign-demand/"
+   }
+  ],
+  "players": "Energy Transfer is expanding its Nederland, Texas NGL export terminal by 240,000 barrels per day of ethane and 55,000 barrels per day of LPG, with operations starting in stages from early 2028. The company has secured long-term commitments running into the 2040s for all of the additional ethane capacity. Rising Permian associated production is generating NGL volumes with limited domestic outlet, as only a couple of new US crackers are being built.",
+  "why_it_matters": "Contracts extending into the 2040s across the entire incremental ethane tranche is the underwriting point — this is a fully de-risked expansion before a shovel moves, which is how NGL export terminals should be financed. The structural driver is durable: Permian NGL supply keeps growing while US cracker additions have stalled, so the arbitrage to overseas steam crackers with naphtha-linked economics persists. For terminal investors, ethane export docks are becoming quasi-utility assets with contracted, volume-insensitive fee streams. Watch Middle East naphtha pricing and any new US cracker FIDs, which are the two things that would erode the export spread.",
+  "firms": [],
+  "companies": [
+   "Energy Transfer"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-18-energy-transfer-to-add-240-000-b-d-ethane-and-55-eee920",
+  "story_id": "story-energy-transfer-to-add-240-000-b-d-ethan",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-18",
+  "headline": "FERC issues Section 206 show cause orders to all six RTOs/ISOs on large-load and co-location interconnection rules",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "FERC",
+    "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"
+   },
+   {
+    "name": "Holland & Knight",
+    "url": "https://www.hklaw.com/en/insights/publications/2026/06/ferc-advances-new-oversight-framework-for-large-loads"
+   },
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/ferc-doe-data-center-interconnection/823360/"
+   }
+  ],
+  "players": "On June 18, 2026 FERC issued tailored Federal Power Act Section 206 show cause orders to PJM, MISO, SPP, CAISO, ISO-NE and NYISO in Dockets EL26-67-000 through EL26-72-000, finding their large-load integration tariffs may be unjust and unreasonable. Each RTO must justify or reform its rules across five categories within 60 days (extensions of 90 days available if requested within 45 days) and file resource-adequacy informational reports within 30 days. Rather than a single nationwide rule under Docket RM26-4-000, FERC chose region-specific proceedings.",
+  "why_it_matters": "This is the single largest regulatory reset for data center and large-load interconnection since the AI buildout began, and it converts a diffuse policy debate into six enforceable dockets with hard clocks. The five reform categories — study streamlining, cost-shift prevention, co-location and behind-the-meter generation, new services for flexible loads, and studies for electrically proximate generation — directly govern whether co-located gen-plus-load campuses are financeable. It re-rates behind-the-meter and co-located generation assets, which had been trading on regulatory optionality rather than settled tariff rights. Watch the August/September RTO filings and whether FERC accepts them or dictates terms itself, which Commissioner LaCerte signaled it would.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection",
+   "MISO",
+   "SPP",
+   "CAISO",
+   "ISO New England",
+   "NYISO"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-18-ferc-issues-section-206-show-cause-orders-to-all-163ac7",
+  "story_id": "story-ferc-issues-section-206-show-cause-order",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "InfraVia critical metals fund invests SEK420m for 6.6% of Viscaria copper project in northern Sweden",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "InfraVia Capital Partners",
+    "url": "https://infraviacapital.com/infravia-announces-the-third-investment-of-its-critical-metals-fund-in-a-swedish-copper-project/"
+   }
+  ],
+  "players": "InfraVia's Critical Metals Fund invested SEK 420 million (EUR 39 million) for a 6.6% stake in the Viscaria copper project at Kiruna, northern Sweden, developed by Nasdaq Stockholm-listed Gruvaktiebolaget Viscaria. This is the fund's third investment. The project is expected to produce approximately 26,000 tonnes of contained copper annually by 2028, with hydroelectric power, rail access and low CO2 emissions cited as operational advantages.",
+  "why_it_matters": "This is a minority pre-production stake, so there is no cash flow today and the return is driven by construction execution, copper price and eventual re-rating rather than by contracted infrastructure income, which puts it at the venture end of an infrastructure mandate. The strategic logic is supply security rather than yield: Europe runs a structural copper deficit and Viscaria's hydro power and existing rail connectivity give it a genuine cost and carbon advantage over most greenfield alternatives. A 6.6% position in a listed developer is a liquid, low-commitment way to establish an offtake relationship and preferential access to later project-level financing rounds. Watch the funding path to first production in 2028, permitting in the Kiruna area, and whether InfraVia converts the equity stake into an offtake or streaming arrangement.",
+  "firms": [
+   "InfraVia"
+  ],
+  "companies": [
+   "Gruvaktiebolaget Viscaria",
+   "Viscaria"
+  ],
+  "sectors": [
+   "Mining Services"
+  ],
+  "geo": [
+   "Sweden"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-17-infravia-critical-metals-fund-invests-sek420m-fo-f29af3",
+  "story_id": "story-infravia-critical-metals-fund-invests-se",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "Invenergy takes a $765M federal payout to surrender four offshore wind leases and redirect capital to geothermal and gas",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Canary Media",
+    "url": "https://www.canarymedia.com/articles/offshore-wind/invenergy-offshore-wind-payout-geothermal"
+   }
+  ],
+  "players": "Invenergy received a $765 million settlement in exchange for relinquishing four offshore wind leases off the coasts of California, Maine and New York, per a June 17, 2026 report. The company plans to deploy funds into enhanced geothermal systems, beginning early drilling work later in 2026, and holds 45 geothermal leases covering approximately 144,000 acres across five Western states. Invenergy declined to specify the geothermal allocation, noting the remainder will support natural gas plants in the Midwest. This is Invenergy's first venture into geothermal despite extensive wind and solar experience; the company said it will deploy capital into projects deliverable on a commercially reasonable timeline.",
+  "why_it_matters": "The largest private US renewables developer converting stranded offshore wind leases into cash and redeploying into geothermal and Midwest gas is a clean statement of where developer capital now believes returns are: clean-firm and dispatchable, not intermittent and permitting-exposed. It also puts a price on federal lease surrender, which matters for anyone still holding offshore wind development positions. A 144,000-acre Western geothermal land bank entering active drilling adds a credible second mover behind Fervo, which is positive for supply-chain scale and negative for Fervo's pricing power. Watch Invenergy's first EGS drilling results and how much of the $765 million actually lands in geothermal versus gas.",
+  "firms": [
+   "Invenergy"
+  ],
+  "companies": [
+   "Invenergy"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-17-invenergy-takes-a-765m-federal-payout-to-surrend-46a1e5",
+  "story_id": "story-invenergy-takes-a-765m-federal-payout-to",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "Lightpath deploys Oracle cloud billing and assurance stack to monetise dark fibre and private network services",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/lightpath-monetizes-digital-services-and-powers-ai-driven-innovation-with-oracle-302803038.html"
+   }
+  ],
+  "players": "Lightpath is implementing Oracle Cloud Scale Billing, Oracle Fusion Cloud Applications across finance, supply chain, ERP and EPM, and Oracle Unified Assurance for machine-learning-driven network observability. CIO Jason Tibbs said the platform will accelerate time-to-market for new services as Lightpath expands into dark fibre, private networks and security services for hyperscalers and enterprise customers in healthcare, finance and government. No financial terms disclosed.",
+  "why_it_matters": "Billing and assurance systems are an unglamorous but real value-creation lever in sponsor-owned fibre: legacy telco stacks cap the pace at which new product constructs like dark fibre IRUs and private networks can be quoted, provisioned and invoiced. Automating that is how a network operator converts a growing route-mile base into higher revenue per mile without proportional headcount. It also signals Lightpath is preparing for product mix shift away from lit enterprise services toward infrastructure-style contracts, which carry longer terms and better multiples. Watch for evidence in subsequent releases that the new stack shortens quote-to-cash and supports the AI-driven bookings run rate.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Lightpath",
+   "Oracle"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-06-17-lightpath-deploys-oracle-cloud-billing-and-assur-4f204b",
+  "story_id": "story-lightpath-deploys-oracle-cloud-billing-a",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "US freight rail traffic up 7.2% in week ending June 13 with intermodal up 10.9%",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Association of American Railroads",
+    "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-june-13-2026/"
+   }
+  ],
+  "players": "AAR reported total US weekly rail traffic of 520,406 carloads and intermodal units for the week ending June 13, 2026, up 7.2% year on year. Carloads rose 2.8% to 230,959 and intermodal rose 10.9% to 289,447. Six of ten carload commodity groups increased, led by grain up 4,283 carloads to 23,988 and metallic ores and metals up 3,964 to 24,604, while coal fell 4,893 carloads to 53,955. Year-to-date US traffic through 23 weeks was 11.62 million units, up 2.9%. North American weekly traffic totalled 717,236 units, up 5.6%.",
+  "why_it_matters": "Double-digit intermodal growth against low-single-digit carload growth confirms the mix shift that has been reshaping Class I economics — intermodal is lower-margin per unit than merchandise carloads, so revenue growth understates margin pressure. Coal's continued decline of nearly 5,000 carloads a week is the structural headwind for any asset tied to coal handling, from river terminals to short lines and railcar fleets. Grain strength is a favourable read for agricultural transload and elevator infrastructure. Watch whether the intermodal surge is import pull-forward feeding through from West Coast ports, in which case it reverses in the second half.",
+  "firms": [],
+  "companies": [
+   "Association of American Railroads"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-17-us-freight-rail-traffic-up-7-2-in-week-ending-ju-8a2e52",
+  "story_id": "story-us-freight-rail-traffic-up-7-2-in-week-e",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "Stonepeak exits KAPS, selling remaining 50% NGL pipeline interest to Keyera for C$1.215bn",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Stonepeak",
+    "url": "https://stonepeak.com/news/keyera-announces-acquisition-of-remaining-50-interest-in-kaps"
+   }
+  ],
+  "players": "Keyera Corp. acquired Stonepeak's remaining 50% non-operating interest in the KAPS NGL pipeline system for $1.215bn, taking Keyera to 100% ownership. The transaction closed on announcement. KAPS moves NGL volumes from Montney and Duvernay production to downstream markets, with Zone 4 currently under construction. Keyera guided the deal as accretive to distributable cash flow per share and raised its fee-based adjusted EBITDA per share CAGR outlook for 2025-2027 from 15%-17% to 16%-18%.",
+  "why_it_matters": "This is a clean, full monetisation of a greenfield midstream development that Stonepeak co-sponsored into commercial operation, and the immediate close removes financing and regulatory risk from the exit. The buyer is the operating partner, which is the highest-certainty exit route available for a non-operating midstream stake and typically clears at a premium to what a financial sponsor would underwrite for a passive interest. Keyera adding 120,000+ bbl/d of contracted volume commitments since 2025 is the evidence that the contracting ramp de-risked ahead of exit, which is exactly the value-creation thesis for a build-and-contract pipeline. For the broader market, a strategic paying over $1.2bn for a minority NGL interest while keeping net debt to adjusted EBITDA at 2.5x-3.0x sets a useful reference point for Western Canadian midstream marks.",
+  "firms": [
+   "Stonepeak",
+   "Keyera"
+  ],
+  "companies": [
+   "KAPS"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-06-17-stonepeak-exits-kaps-selling-remaining-50-ngl-pi-5c32e2",
+  "story_id": "story-stonepeak-exits-kaps-selling-remaining-5",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-17",
+  "headline": "KPS Capital Partners completes majority investment in Jennmar; Dave Webster succeeds Tony Calandra as CEO",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Jennmar",
+    "url": "https://www.jennmar.com/news/jennmar-announces-ceo-transition"
+   }
+  ],
+  "players": "Jennmar announced completion of KPS Capital Partners' majority equity investment, with FalconPoint Partners retaining a significant minority stake and terms undisclosed. Dave Webster, previously CEO of CPM Holdings and earlier a two-decade leader at Electrical Components International where he grew the business past $1bn of revenue across 14 countries and more than 20,000 employees, was appointed chief executive. Tony Calandra, who led Jennmar for 22 years and tripled its size since 2018, remains a board member and shareholder. Jennmar, founded in 1922 by the Calandra family and headquartered in Pittsburgh, supplies infrastructure products and specialised services to civil, solar, mining and construction end markets.",
+  "why_it_matters": "Closing on schedule against the Q2 2026 guidance given in March means regulatory clearance was uneventful, and the deal is now done rather than pending. FalconPoint rolling a significant minority alongside KPS is the structure that matters: the prior sponsor is staying exposed, which usually signals confidence in a second value-creation phase rather than a clean exit. Bringing in an outside CEO with industrial roll-up experience, after a 22-year founder-family tenure, points to an acquisition-led plan consistent with the Weber Mining & Tunnelling and Rohrig deals already executed. For competitors and sellers in ground control and mining consumables, Jennmar now has KPS balance sheet capacity behind it and should be treated as an active buyer.",
+  "firms": [
+   "KPS Capital Partners",
+   "FalconPoint Partners"
+  ],
+  "companies": [
+   "Jennmar",
+   "Weber Mining & Tunnelling",
+   "CPM Holdings"
+  ],
+  "sectors": [
+   "Mining Services"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "jennmar_weber"
+  ],
+  "flags": [],
+  "id": "2026-06-17-kps-capital-partners-completes-majority-investme-f2714c",
+  "story_id": "story-kps-capital-partners-agrees-majority-inv",
+  "story_size": 2
+ },
+ {
+  "date": "2026-06-16",
+  "headline": "Grain Management combines Ritter and Great Plains Communications into 20-state, 28,000-mile fiber platform Rightfiber",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Grain Management",
+    "url": "https://graingp.com/ritter-communications-and-great-plains-communications-combine-to-form-rightfiber/"
+   },
+   {
+    "name": "Broadband Breakfast",
+    "url": "https://broadbandbreakfast.com/grain-management-to-combine-ritter-great-plains-into-20-state-fiber-platform/"
+   }
+  ],
+  "players": "Grain Management combined portfolio companies Ritter Communications (Jonesboro, Arkansas) and Great Plains Communications (Blair, Nebraska) under a new unified brand, Rightfiber. Terms undisclosed. The combined business operates a 28,000-mile regional fiber network across 20 states, serving over 400 communities and 300,000 connected homes and businesses. Heath Simpson, Ritter CEO, leads Rightfiber; Todd Foje, Great Plains CEO, becomes executive chairman. The company will pursue growth through both network expansion and M&A.",
+  "why_it_matters": "Combining two regional fiber operators into a 20-state platform is about crossing the scale threshold where hyperscaler and enterprise wholesale demand becomes addressable, since a 28,000-mile contiguous route footprint can bid on long-haul and middle-mile transport that neither company could win alone. The cash flow mix shifts favourably too: residential FTTH is capital-hungry with long payback, while enterprise and carrier transport on already-built route is high-margin incremental revenue on sunk fiber. Consolidating brand and management also positions the asset for a single, cleaner exit rather than two subscale regional sales, and improves the entity's standing for BEAD and other broadband grant allocations. Watch whether Rightfiber wins hyperscaler transport contracts, the pace of stated M&A, and how much of the 300,000 connected locations converts to higher-ARPU tiers.",
+  "firms": [
+   "Grain Management"
+  ],
+  "companies": [
+   "Rightfiber",
+   "Ritter Communications",
+   "Great Plains Communications"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-16-grain-management-combines-ritter-and-great-plain-6b7f87",
+  "story_id": "story-grain-management-combines-ritter-and-gre",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-16",
+  "headline": "Energy Dome and Salt River Project to build a 19-MW, 10-hour CO2 battery under a 20-year tolling agreement, with Google funding",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/energy-dome-srp-salt-river-project-build-19-mw-co2-battery-system/823015/"
+   }
+  ],
+  "players": "Energy Dome and Salt River Project announced on June 16, 2026 a 19 MW, 10-hour CO2 Battery at the Coronado Generating Station in St. Johns, Arizona, expected online in 2029. Energy Dome will own and operate the facility under a 20-year tolling agreement while SRP handles dispatch. Google is providing partial funding through a cost-sharing agreement with SRP, following its earlier strategic investment in Energy Dome. The project was selected through SRP's 2024 RFP and sits at a coal plant converting to natural gas by 2029.",
+  "why_it_matters": "A 20-year tolling agreement is the structure that makes non-lithium long-duration storage financeable — it isolates the offtaker from technology performance risk while giving the developer a contracted revenue stream an infra fund can lever. Google funding a utility's LDES procurement is also a template: hyperscalers subsidizing utility-side firm capacity to unlock their own load growth, without owning the asset. At 19 MW this is demonstration scale, so treat it as a bankability milestone rather than a capacity datapoint. Watch whether a repeat order follows at commercial scale and whether the tolling structure gets replicated by other utilities.",
+  "firms": [],
+  "companies": [
+   "Energy Dome",
+   "Salt River Project",
+   "Google"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-16-energy-dome-and-salt-river-project-to-build-a-19-0873e5",
+  "story_id": "story-energy-dome-and-salt-river-project-to-bu",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-16",
+  "headline": "Brightline commuter bondholders grant two-week grace to July 1 and waive default on $22m of senior debt taken in May",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/brightline-florida-commuter-bondholders-agree-to-short-term-extension"
+   }
+  ],
+  "players": "Majority holders of the roughly $985m commuter bonds, backed by Miami-Dade, Broward and Palm Beach counties, agreed to an eleventh supplemental indenture extending the debt payment deadline to July 1 on an obligation originally due February 17. The same agreement waived an event of default relating to $22m of senior debt the company took on in May. CreditSights described the move as the can-kicking path it had flagged as the most likely near-term outcome.",
+  "why_it_matters": "The waiver on $22m of new senior debt is more consequential than the calendar extension: it confirms creditors are permitting incremental priming debt ahead of themselves, which is how a company preserves optionality on a DIP or rescue facility. An obligation originally due February 17 still unpaid in mid-June shows how far the commuter tranche has already been subordinated in practice. The three-county backing is nominal rather than contractual at this stage, which is precisely the collateral weakness Debtwire subsequently highlighted. Holders should read each supplemental indenture for new baskets and lien capacity, not just the new dates.",
+  "firms": [
+   "CreditSights",
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Trains Florida"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-06-16-brightline-commuter-bondholders-grant-two-week-g-4d1597",
+  "story_id": "story-brightline-commuter-bondholders-grant-tw",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-15",
+  "headline": "Enstructure to acquire LOGISTEC's marine terminal division spanning 62 ports and 84 terminals in North America",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Enstructure",
+    "url": "https://enstructure.com/enstructure-to-acquire-logistec-marine-terminal-division-creating-a-leading-network-of-marine-terminals-across-north-america/"
+   },
+   {
+    "name": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/enstructure-acquires-logistec-s-marine-terminal-operations"
+   }
+  ],
+  "players": "Enstructure agreed to acquire LOGISTEC Corporation's marine terminal division, which operates across 62 ports and 84 terminals in North America. Terms were not disclosed. Enstructure is backed by Blue Wolf Capital Partners, which retains majority ownership post-transaction, with Blackstone Credit & Insurance invested since 2022 and equity from Viking Global Investors.",
+  "why_it_matters": "This creates the largest independent multi-purpose marine terminal network in North America and materially changes the competitive set for anyone bidding US and Canadian breakbulk, bulk and project-cargo terminal concessions. Scale of this kind converts a fragmented, port-authority-lease business into a platform with real negotiating leverage on stevedoring rates and equipment procurement — the classic roll-up thesis, now consolidated in one owner. Undisclosed terms limit the valuation read, but the sponsor structure matters: Blue Wolf keeping control with Blackstone credit and Viking equity signals a hold rather than a near-term exit. Watch for antitrust or port-authority consent issues at overlapping facilities and for follow-on tuck-ins now that the platform has this footprint.",
+  "firms": [
+   "Blue Wolf Capital Partners",
+   "Blackstone",
+   "Viking Global Investors"
+  ],
+  "companies": [
+   "Enstructure",
+   "LOGISTEC"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States",
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [
+   "logistec_termont"
+  ],
+  "flags": [],
+  "id": "2026-06-15-enstructure-to-acquire-logistec-s-marine-termina-d41951",
+  "story_id": "story-enstructure-to-acquire-logistec-s-marine",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-15",
+  "headline": "Miami-Dade draft deal with Brightline carries $33.9m annual O&M, up to $330m milestones and a $250m minimum exit penalty",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "WLRN",
+    "url": "https://www.wlrn.org/government-politics/2026-06-15/miami-dade-may-be-close-to-penning-a-taxpayer-funded-deal-with-financially-strapped-brightline"
+   }
+  ],
+  "players": "A draft agreement dated May 31, 2026 between Miami-Dade County and Brightline covers commuter service on the Miami-to-Aventura corridor with five proposed stations at Wynwood, Design District, Little Haiti, North Miami and North Miami Beach. Terms include roughly $33.9m in annual operating and maintenance cost in 2026 dollars, a 10% county operations fee on top of expenses, up to $330m of milestone payments during construction, a $125,000 monthly management fee during construction, and a minimum $250m termination penalty if the county exits. The agreement is not yet scheduled for a Board of County Commissioners vote.",
+  "why_it_matters": "This is the contractual county revenue stream that the $985m commuter bonds are supposed to be secured by, and it is still a draft with no vote scheduled, which validates the collateral concern flagged by Debtwire. The $250m minimum termination penalty and Brightline's sole discretion over new stations are unusually sponsor-favourable terms for a public counterparty, and they are the provisions most likely to attract commissioner pushback. Ongoing arbitration with Florida East Coast Railway over track capacity rights is a separate condition precedent that could stall the project regardless of the county vote. The next decision point is when the item is placed on the Board agenda; until then, commuter bond recovery assumptions rest on an unexecuted document.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Trains Florida",
+   "Miami-Dade County",
+   "Florida East Coast Railway"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-06-15-miami-dade-draft-deal-with-brightline-carries-33-8add4f",
+  "story_id": "story-miami-dade-draft-deal-with-brightline-ca",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-12",
+  "headline": "Fitch shifts North American utility and power sector outlook to deteriorating as record $240B capex meets affordability backlash",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "MarketScale",
+    "url": "https://www.marketscale.com/industries/energy/fitch-downgrades-utility-sector-outlook-as-240b-capex-wave-collides-with-affordability-backlash"
+   }
+  ],
+  "players": "On June 12, 2026 Fitch Ratings moved its North American utility and power sector outlook from neutral to deteriorating, citing a record $240 billion of capital spending in the year against rising political and regulatory risk that utilities will not recover costs from ratepayers. Fitch's concern centres on regulatory lag: utilities carry capex on balance sheet until rate cases conclude, and affordability pressure threatens the pace and completeness of recovery.",
+  "why_it_matters": "A sector outlook change is the leading indicator for individual downgrades and it directly raises the cost of capital for the regulated utilities funding grid, transmission and interconnection buildout. Higher utility financing costs slow the network upgrades that large loads and renewables both depend on, which lengthens time-to-power and extends interconnection queues. It also strengthens the relative case for privately financed alternatives — merchant transmission, co-located generation, behind-the-meter supply — where infrastructure funds can deploy without rate-case risk. Watch state rate case outcomes through H2 2026 and whether any large IOU is placed on negative watch.",
+  "firms": [
+   "Fitch Ratings"
+  ],
+  "companies": [],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States",
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-12-fitch-shifts-north-american-utility-and-power-se-19bb2f",
+  "story_id": "story-fitch-shifts-north-american-utility-and",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-11",
+  "headline": "Stonepeak and Energy Equation Partners to acquire Anwim, Poland's largest independent fuel marketer",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Stonepeak",
+    "url": "https://stonepeak.com/news/stonepeak-and-energy-equation-partners-to-acquire-anwim"
+   },
+   {
+    "name": "BusinessWire",
+    "url": "https://www.businesswire.com/news/home/20260531941535/en/Stonepeak-and-Energy-Equation-Partners-to-Acquire-Anwim"
+   }
+  ],
+  "players": "Stonepeak and Energy Equation Partners agreed to acquire a majority interest in Anwim S.A., Poland's largest independent fuel marketer and operator of the MOYA station network. Terms undisclosed. Anwim handles roughly 3 billion litres annually across import, wholesale and retail, and runs over 540 MOYA fuel stations. Close expected H2 2026 subject to regulatory approvals. The deal extends the Stonepeak/EEP European fuel retail joint venture formed with the JET acquisition in December 2025.",
+  "why_it_matters": "Fuel retail is not classic contracted infrastructure; the cash flow is throughput and fuel-margin driven, so the underwriting rests on network density, site freehold value and non-fuel convenience margin rather than availability payments. The value-creation lever is consolidating a second national platform into the JET JV to extract joint procurement, shared back-office and cross-border pricing discipline, then layering EV charging and convenience retail onto 540 existing forecourts. Poland is the right market for that play given resilient fuel demand and a still-fragmented independent segment dominated by Orlen. Watch UOKiK clearance given the combined European footprint, and whether the JV can convert e-mobility capex into incremental EBITDA rather than defensive spend.",
+  "firms": [
+   "Stonepeak",
+   "Energy Equation Partners"
+  ],
+  "companies": [
+   "Anwim",
+   "MOYA",
+   "JET"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Poland"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-06-11-stonepeak-and-energy-equation-partners-to-acquir-0bcc93",
+  "story_id": "story-stonepeak-and-energy-equation-partners-t",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-10",
+  "headline": "Ridgewood Infrastructure acquires Dauntless Air, operator of North America's largest Fire Boss scooper fleet",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Ridgewood Infrastructure",
+    "url": "https://ridgewoodinfrastructure.com/ridgewood-infrastructure-acquires-dauntless-air-premier-provider-of-emergency-management-infrastructure/"
+   }
+  ],
+  "players": "Ridgewood Infrastructure LLC acquired Dauntless Air, an aerial firefighting company providing wildfire suppression under long-term government contracts. Terms undisclosed and the seller was not disclosed. Dauntless operates North America's largest Fire Boss fleet of Single Engine Scoopers, working with federal and state agencies on availability-based contracts that include pre-positioning and re-positioning during fire seasons. Ridgewood cited essential services, mission-critical operations, strong barriers to entry and operational growth potential, with plans to expand fleet and adjacent services.",
+  "why_it_matters": "Availability-based government contracting is the key economic feature: Dauntless is paid standby rates whether or not aircraft fly, with flight-hour revenue on top, which produces contracted infrastructure-like cash flow rather than the volatile fee-for-service profile the sector superficially suggests. Barriers to entry are genuine and hard to replicate quickly, since specialised amphibious aircraft, agency certifications and trained crews all have long lead times, and the federal and state agency approved-vendor lists are narrow. The demand driver is structural rather than cyclical, with wildfire severity and suppression budgets rising across the western US and Canada. Watch fleet expansion economics given Fire Boss aircraft availability constraints, contract renewal and rate escalation with federal agencies, and whether Ridgewood bolts on adjacent emergency-response services to build a broader platform.",
+  "firms": [
+   "Ridgewood Infrastructure"
+  ],
+  "companies": [
+   "Dauntless Air"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-10-ridgewood-infrastructure-acquires-dauntless-air-b1e75c",
+  "story_id": "story-ridgewood-infrastructure-acquires-dauntl",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-10",
+  "headline": "Commonwealth LNG assembles 20-bank syndicate to finance 9.5 mtpa Louisiana export terminal",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/commonwealth-lng-final-investment-decision-attracts-global-syndicate-of-leading-banks-302795906.html"
+   },
+   {
+    "name": "Pipeline & Gas Journal",
+    "url": "https://pgjonline.com/news/2026/june/commonwealth-lng-secures-20-bank-financing-for-louisiana-export-terminal"
+   }
+  ],
+  "players": "Caturus, LLC announced on June 10, 2026 that 20 global financial institutions — including Bank of America, Citibank, HSBC and MUFG — signed on as Initial Coordinating Lead Arrangers for the Commonwealth LNG project financing in Cameron Parish, Louisiana. The 9.5 mtpa facility's package comprises term loans plus additional capital for reserves and working capital. Caturus operates an integrated platform combining upstream gas production with downstream liquefaction.",
+  "why_it_matters": "A 20-bank syndicate for a single greenfield liquefaction project shows the LNG project-finance market is wide open again after a period of tighter ESG-driven credit screening. That matters for cost of capital across the whole US Gulf export build-out, not just this asset. The integrated upstream-to-liquefaction structure is worth noting: it shifts feedgas price risk onto the sponsor's balance sheet rather than a third-party supply contract, which changes how you underwrite the offtake margin. Watch pricing and tenor on the term loans as they are disclosed, and whether other pre-FID Gulf projects can replicate the syndicate depth.",
+  "firms": [],
+  "companies": [
+   "Commonwealth LNG",
+   "Caturus",
+   "Bank of America",
+   "Citibank",
+   "HSBC",
+   "MUFG"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-10-commonwealth-lng-assembles-20-bank-syndicate-to-8356a3",
+  "story_id": "story-commonwealth-lng-assembles-20-bank-syndi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-10",
+  "headline": "Odfjell Terminals Houston receives Union Pacific 2025 Pinnacle Safety Award for hazmat handling",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "TankTerminals.com",
+    "url": "https://tankterminals.com/news/odfjell-terminals-houston-receives-union-pacific-2025-pinnacle-safety-award/"
+   }
+  ],
+  "players": "Odfjell Terminals Houston received Union Pacific's 2025 Pinnacle Safety Award, which recognises organisations demonstrating commitment to safety, compliance and secure transportation of regulated hazardous materials. The award is based on proactive prevention measures, regulatory adherence and safe hazmat movement through supply chains. No capacity, ownership or investment details were disclosed in the announcement.",
+  "why_it_matters": "Rail safety certification is a practical commercial asset for a chemical tank terminal, because Class I railroads and chemical shippers increasingly screen counterparties on hazmat incident records before committing volume. For a terminal that has been repeatedly named in speculation about portfolio activity, a clean rail safety record supports asset quality in any diligence process. This is an operational data point rather than a transaction and should be weighted accordingly. The Odfjell terminals situation produced no confirmed M&A or financing activity in the May-July 2026 window on the sources checked.",
+  "firms": [],
+  "companies": [
+   "Odfjell Terminals Houston",
+   "Odfjell SE",
+   "Union Pacific"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "odfjell_terminals"
+  ],
+  "flags": [],
+  "id": "2026-06-10-odfjell-terminals-houston-receives-union-pacific-203503",
+  "story_id": "story-odfjell-terminals-houston-receives-union",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-10",
+  "headline": "Pennsylvania House unanimously passes HB 2469 extending transportation P3 authority to all 67 counties plus Philadelphia and Pittsburgh",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/pennsylvania-bill-expands-transportation-p3-authority-to-counties-top-two-cities"
+   }
+  ],
+  "players": "The Pennsylvania House unanimously passed House Bill 2469 on June 8, 2026, reported June 10, expanding public-private partnership authority to finance, build, operate and maintain transportation facilities from PennDOT and certain transportation agencies to all 67 counties plus Philadelphia and Pittsburgh. The bill awaits Senate consideration with no scheduled date. Separately, Cintra submitted an unsolicited proposal for four tolled managed lanes across a 17-mile stretch of I-76, including a $200 million payment to PennDOT and 50 years of maintenance; PennDOT expects to finish its review next year. Transportation Secretary Michael Carroll said the department fully supports the legislation.",
+  "why_it_matters": "Expanding P3 authority to counties and major cities multiplies the number of procuring entities in a large state, which is how a genuine deal pipeline gets built rather than one-off megaprojects. Combined with the Cintra I-76 unsolicited proposal, it signals that managed-lane concessions are returning as a deployable asset class for infrastructure funds seeking traffic-linked, inflation-hedged revenue. The unsolicited proposal route with an upfront payment to the state is the model that produced Georgia's SR-400 deal and is being replicated. Watch Senate passage and PennDOT's decision on the I-76 proposal.",
+  "firms": [
+   "Cintra"
+  ],
+  "companies": [
+   "PennDOT"
+  ],
+  "sectors": [
+   "Transport & Logistics",
+   "Social Infrastructure",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-10-pennsylvania-house-unanimously-passes-hb-2469-ex-865260",
+  "story_id": "story-pennsylvania-house-unanimously-passes-hb",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-10",
+  "headline": "KKR launches Helix Digital Infrastructure with $10bn-plus commitments, NVIDIA and Vistra as partners, Selipsky as CEO",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "BusinessWire",
+    "url": "https://www.businesswire.com/news/home/20260610500794/en/KKR-Launches-Helix-Digital-Infrastructure-a-New-Company-to-Finance-and-Deliver-the-Next-Generation-of-AI-Infrastructure"
+   },
+   {
+    "name": "Data Center Dynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/kkr-launches-helix-digital-infrastructure-to-deliver-hyperscale-data-centers-with-secured-power/"
+   }
+  ],
+  "players": "KKR launched Helix Digital Infrastructure with over $10bn in long-duration capital commitments, anchored by KKR and the Kuwait Investment Authority, with NVIDIA as cornerstone strategic partner and Vistra as preferred power provider across 18 states. Adam Selipsky, former AWS CEO, is co-founder and CEO; Waldemar Szlezak, KKR's global head of digital infrastructure, is CIO. Helix will invest across hyperscale data centres, baseload and flexible generation, transmission and distribution, and fibre.",
+  "why_it_matters": "Helix is an attempt to sell hyperscalers a single integrated product, power plus shell plus connectivity, rather than the fragmented stack they buy today, which is where the pricing power sits when interconnection is the bottleneck. Locking Vistra in as preferred power supplier is the substantive de-risking lever: it converts an interconnection queue problem into a commercial contract. The $10bn is permanent-style capital rather than a closed-end fund, which matters because these assets need 10-year build cycles and repeated equity injections. Watch the first announced campus and whether NVIDIA's involvement translates into allocation priority for GPUs, which would be a genuine competitive moat.",
+  "firms": [
+   "KKR"
+  ],
+  "companies": [
+   "Helix Digital Infrastructure",
+   "NVIDIA",
+   "Vistra",
+   "Kuwait Investment Authority"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-10-kkr-launches-helix-digital-infrastructure-with-1-89d17a",
+  "story_id": "story-kkr-launches-helix-digital-infrastructur",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-09",
+  "headline": "Federal judge vacates Treasury guidance and restores the 5% safe harbor for wind and solar begin-construction",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/judge-restores-5-safe-harbor-rule-for-wind-and-solar/822313/"
+   }
+  ],
+  "players": "Judge Colleen Kollar-Kotelly of the U.S. District Court for the District of Columbia vacated August 2025 Treasury guidance that had eliminated the 5% cost threshold for proving begin-construction, finding the administration 'acted unreasonably' and failed to meet Administrative Procedure Act requirements for reasoned decisionmaking. The ruling restores the ability of wind and solar projects to demonstrate construction commencement by spending 5% or more of total project cost, an alternative pathway to meet the July 4, 2026 deadline for 45Y production tax credit and 48E investment tax credit eligibility. The guidance had never applied to solar facilities under 1.5 MW. Legal experts cautioned against immediate reliance given potential appeals and remand to the IRS.",
+  "why_it_matters": "The 5% safe harbor is the cheapest way to preserve tax credit eligibility across a large pipeline, so its restoration weeks before the July 4 deadline directly determined how much US wind and solar capacity carries credits into the 2030s. That is a first-order input to project NPVs, transferability supply and the terminal value of development platforms. The catch is procedural fragility: an appeal or new IRS guidance could unwind it, so diligence should test whether a given project's safe harbor rests on 5% spend or physical work. Watch for appeal filings and replacement IRS guidance, and price safe-harbor documentation risk explicitly in acquisitions.",
+  "firms": [],
+  "companies": [
+   "U.S. Department of the Treasury",
+   "Internal Revenue Service"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-09-federal-judge-vacates-treasury-guidance-and-rest-0267bb",
+  "story_id": "story-federal-court-vacates-irs-notice-2025-42",
+  "story_size": 2
+ },
+ {
+  "date": "2026-06-08",
+  "headline": "Rev Renewables' 125-MW Tumbleweed becomes the first major US battery able to discharge at full capacity for eight hours",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Canary Media",
+    "url": "https://www.canarymedia.com/articles/long-duration-energy-storage/pioneering-grid-battery-california"
+   }
+  ],
+  "players": "Rev Renewables' Tumbleweed project in Kern County, California became operational on June 1, 2026 as the first major US battery installation capable of discharging at maximum capacity for eight hours, at 125 MW / 8 hours using BYD lithium iron phosphate cells. Offtake is split between California Community Power (75 MW / 8 hours) and Ava Community Energy (50 MW / 8 hours). The facility was built in two phases: an initial 125 MW / 4-hour system completed in summer 2024, then doubled in battery content to reach eight-hour duration using the same construction approach.",
+  "why_it_matters": "Eight-hour duration achieved by simply adding lithium modules to an existing four-hour site undercuts much of the investment case for exotic long-duration technologies — the incumbent chemistry scaled duration with no new technology risk and a brownfield interconnection. That is a direct challenge to CAES, flow, thermal and iron-air developers seeking a duration premium. It also demonstrates a capital-efficient expansion path for existing four-hour assets: duration upgrades on already-interconnected sites may be the highest-return storage investment available. Watch whether California and other CCA procurements keep paying an explicit premium for eight-hour capacity once lithium can supply it.",
+  "firms": [
+   "Rev Renewables"
+  ],
+  "companies": [
+   "Rev Renewables",
+   "California Community Power",
+   "Ava Community Energy",
+   "BYD"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-08-rev-renewables-125-mw-tumbleweed-becomes-the-fir-1fdea1",
+  "story_id": "story-rev-renewables-125-mw-tumbleweed-becomes",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-08",
+  "headline": "Analysts warn 100 GW of planned onsite data center gas capacity — 18% of the existing US gas fleet — will lift power prices for everyone",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/data-centers-raise-energy-bills-not-for-reason-you-think/822205/"
+   }
+  ],
+  "players": "In a June 8, 2026 Utility Dive opinion piece, Jeffrey Rissman and Eric Gimon of Energy Innovation cited BloombergNEF analysis finding 100 GW of on-site natural gas capacity is planned for US data centers, equivalent to 18% of existing US natural gas power plant capacity. Examples include a 2.2 GW Louisiana data center and a Wyoming facility at 1.8 GW scaling toward 10 GW. Gas supplies 43% of US electricity, and the authors argue that because gas is a traded commodity, incremental data center demand raises delivered gas prices and therefore wholesale power prices even for load that never touches those plants.",
+  "why_it_matters": "If 100 GW of behind-the-meter gas is built, the marginal fuel cost of the entire US power system moves, which is a direct input to merchant power curves, PPA pricing and the value of anything with a gas hedge. Owners of existing gas generation and upstream gas supply benefit; buyers of merchant renewables with fixed-price offtake benefit from higher capture prices; ratepayer-exposed utilities face affordability backlash. The 18%-of-fleet figure also sets up the political case for taxing or restricting behind-the-meter gas, which is a real regulatory risk to that build-out. Watch Henry Hub basis in data center corridors and any state moves to permit-gate onsite gas.",
+  "firms": [
+   "Energy Innovation"
+  ],
+  "companies": [
+   "BloombergNEF"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-08-analysts-warn-100-gw-of-planned-onsite-data-cent-0a36b7",
+  "story_id": "story-analysts-warn-100-gw-of-planned-onsite-d",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-08",
+  "headline": "Jones Act waiver extended through August 16, the longest since 1950, testing the domestic shipbuilding agenda",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Vision Times",
+    "url": "https://www.visiontimes.com/2026/06/08/jones-act-waiver-extension-tests-trumps-effort-to-rebuild-american-shipping.html"
+   },
+   {
+    "name": "Center for Maritime Strategy",
+    "url": "https://centerformaritimestrategy.org/publications/the-jones-act-waivers-arent-achieving-stated-purpose-but-hinder-long-term-maritime-goals/"
+   }
+  ],
+  "players": "The Department of Homeland Security issued a Jones Act waiver on March 17, 2026 at the request of the Department of War and extended it by 90 days on April 24, 2026, running through August 16, 2026 — the longest such waiver since 1950. The Maritime Administration certified that insufficient qualified American vessels exist to meet national defense needs. The waiver followed conflict involving the US, Israel and Iran that disrupted energy markets and raised fuel prices. Federal data cited 45 completed voyages under the waiver.",
+  "why_it_matters": "Jones Act protection is the entire economic basis for US-flag coastwise tankers, articulated tug-barges and the domestic shipbuilding order book, and an extended waiver directly compresses charter rates and utilisation for those assets. Infrastructure funds holding US-flag marine transport, terminals and coastal logistics face near-term revenue pressure and a longer-term question about whether waivers become routine. The countervailing point is that repeated waivers strengthen the political case for shipbuilding subsidies and cargo preference rules. Watch whether the waiver lapses on August 16 or is extended again, and any legislative response.",
+  "firms": [],
+  "companies": [
+   "US Department of Homeland Security",
+   "Maritime Administration"
+  ],
+  "sectors": [
+   "Transport & Logistics",
+   "Ports & Terminals",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-08-jones-act-waiver-extended-through-august-16-the-51040e",
+  "story_id": "story-jones-act-waiver-extended-through-august",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-06",
+  "headline": "Federal court vacates IRS Notice 2025-42, restoring the 5% safe harbor for wind and solar beginning of construction",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "McGuireWoods",
+    "url": "https://www.mcguirewoods.com/client-resources/alerts/2026/6/federal-court-vacates-irs-notice-2025-42-restores-5-safe-harbor-for-wind-and-solar-projects/"
+   }
+  ],
+  "players": "On June 6, 2026 the US District Court for the District of Columbia vacated IRS Notice 2025-42 in Oregon Environmental Council v. Internal Revenue Service, Case No. 25-4400 (CKK). The notice had eliminated the 5% cost safe harbor as a method of establishing beginning of construction for wind and large-scale solar seeking Sections 45Y and 48E credits, leaving only physical work. The ruling restores the 5% method, though the government was expected to appeal on a timeline extending past the July 4, 2026 construction commencement deadline.",
+  "why_it_matters": "The 5% safe harbor is the cheapest and most certain way to lock tax credit eligibility, and its restoration days before the July 4 statutory cutoff preserved credit value on a large tranche of late-stage wind and solar that would otherwise have been repriced or shelved. For funds holding development pipelines, this is a direct mark-up on projects whose credit qualification was in doubt, and it keeps transferability volumes flowing to tax credit buyers. The catch is that an appellate reversal could operate retroactively, so diligence on safe-harbor method is now a live risk item in every renewables acquisition. Watch the DC Circuit appeal and any IRS guidance reconciling the vacatur with the July 4 deadline.",
+  "firms": [],
+  "companies": [
+   "Internal Revenue Service"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-06-federal-court-vacates-irs-notice-2025-42-restori-d7b0fc",
+  "story_id": "story-federal-court-vacates-irs-notice-2025-42",
+  "story_size": 2
+ },
+ {
+  "date": "2026-06-05",
+  "headline": "CAISO files Interconnection Process Enhancements 5.0 tariff amendment at FERC in Docket ER26-2747",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "CAISO",
+    "url": "https://www.caiso.com/documents/jun-5-2026-tariff-amendment-interconnection-process-enhancements-5-er26-2747.pdf"
+   },
+   {
+    "name": "Stoel Rives",
+    "url": "https://www.stoel.com/insights/publications/caiso-interconnection-process-enhancements-proposal-faces-protest-at-ferc"
+   }
+  ],
+  "players": "CAISO submitted its Interconnection Process Enhancements 5.0 tariff amendment to FERC on June 5, 2026 in Docket ER26-2747, refining California's grid access framework ahead of Cluster 16. The proposal drew protests at FERC.",
+  "why_it_matters": "IPE 5.0 sets the rules for which projects get studied and in what order in the largest US renewables and storage interconnection queue, so it directly determines the option value of every California development position. Tighter scoring and deliverability criteria favour developers with site control, offtake and capital already in place and devalue speculative queue positions, which is where most of the queue attrition risk sits. For funds buying California development platforms, the scoring criteria in this filing are the key diligence document. Watch FERC's order on the protests and the Cluster 16 application window.",
+  "firms": [],
+  "companies": [
+   "CAISO"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-05-caiso-files-interconnection-process-enhancements-668148",
+  "story_id": "story-caiso-files-interconnection-process-enha",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-05",
+  "headline": "FERC approves SPP's CHILLS non-firm large-load transmission service, allowing curtailable connections for up to seven years",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/ferc-spp-chills-large-load-transmission-service/822211/"
+   }
+  ],
+  "players": "FERC on June 5, 2026 approved SPP's Conditional High Impact Large Load Service (CHILLS), which lets data centers and other large loads take non-firm transmission service on available capacity for up to seven years while pursuing permanent firm service. SPP may curtail CHILLS customers when the transmission system is constrained or during emergencies. FERC found the service just and reasonable and not unduly discriminatory. SPP is separately developing a Price Adaptive Load Service for loads willing to be curtailed on market conditions.",
+  "why_it_matters": "CHILLS is the first FERC-blessed template for connecting large loads years ahead of the network upgrades they require, and it will be copied — MISO and PJM are already designing analogues. It de-risks time-to-power for data center developers in SPP, which is the binding constraint on digital infrastructure value creation right now, but it does so by making the load interruptible, which shifts value to on-site backup and firming generation. For power investors it creates a new counterparty class: large loads that need firming contracts to convert non-firm service into a bankable operating profile. Watch how many MW subscribe and whether FERC imports the model into the EL26-67 through EL26-72 remedies.",
+  "firms": [],
+  "companies": [
+   "Southwest Power Pool"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-05-ferc-approves-spp-s-chills-non-firm-large-load-t-988b7c",
+  "story_id": "story-ferc-approves-spp-s-chills-non-firm-larg",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-04",
+  "headline": "Flexential appoints Sam Rudek, ex-CBRE Data Center Solutions COO, as chief operating officer",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/flexential-appoints-sam-rudek-as-chief-operating-officer-302790962.html"
+   }
+  ],
+  "players": "Flexential named Sam Rudek chief operating officer, reporting to CEO Ryan Mallory. Rudek was most recently COO within CBRE's Data Center Solutions group, where he led a 3,000-person engineering and operations organisation managing 350 data centres and a $1.2bn capital modernisation programme, and previously held roles at World Wide Technology, BGIS/Schneider Electric and IES Communications. He oversees development, engineering, product strategy and infrastructure management across more than 40 data centres in 18 markets.",
+  "why_it_matters": "Hiring an operations leader out of a large third-party data centre services organisation is the classic move when a sponsor-backed platform pivots from acquiring capacity to building and running it at scale. Flexential is simultaneously buying real estate in Hillsboro, adding capacity in Atlanta and land-banking in Dallas, and execution risk on that pipeline is now the main threat to the equity story. His track record on reducing human-caused downtime matters commercially because uptime SLAs are the pricing lever in wholesale and multi-tenant colocation. Watch whether development timelines announced in 2026 hold and whether MSIP and the other investors follow with further capital.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Flexential"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-06-04-flexential-appoints-sam-rudek-ex-cbre-data-cente-43d16a",
+  "story_id": "story-flexential-appoints-sam-rudek-ex-cbre-da",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-04",
+  "headline": "Oklahoma Turnpike Authority plans $1.5bn bond issue to fund an $8.2bn, 15-year road expansion programme",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/oklahoma-turnpike-authority-eyes-1-5-billion-of-bonds"
+   }
+  ],
+  "players": "Bond Buyer reported on June 4, 2026 that the Oklahoma Turnpike Authority is planning roughly $1.5 billion of bonds to support an $8.2 billion, 15-year capital road expansion programme.",
+  "why_it_matters": "Large toll-road capital programmes funded in the municipal market set the pricing benchmark against which private concession bids are evaluated, and heavy public issuance can crowd out P3 procurement in the same corridors. It also indicates that toll revenue credit remains well received by investors, which supports valuation of traffic-linked assets generally. For funds pursuing US managed-lane and toll concessions, states with strong self-funding capacity like Oklahoma are lower-probability P3 markets than states that lack it. Watch pricing on the issue as a read on demand for toll-backed paper.",
+  "firms": [],
+  "companies": [
+   "Oklahoma Turnpike Authority"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-04-oklahoma-turnpike-authority-plans-1-5bn-bond-iss-4a6b95",
+  "story_id": "story-oklahoma-turnpike-authority-plans-1-5bn",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-03",
+  "headline": "Aramco selects McDermott as one of 11 contractors on a multi-year project management consultancy long-term agreement",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "McDermott International",
+    "url": "https://www.mcdermott.com/press-release-detail/123071/aramco-selects-mcdermott-project-management-consultancy-long-term-agreement"
+   }
+  ],
+  "players": "Aramco selected McDermott as one of 11 contractors under a project management consultancy long-term agreement supporting delivery of large-scale energy, downstream, petrochemical and low-carbon projects across Saudi Arabia. The agreement covers engineering, pre-FEED and FEED front-end development and project management consultancy services, and is described as multi-year with no value disclosed. McDermott will work with Saudi engineering firm Solutions Leaders Fayez Engineering using an integrated out-of-kingdom and in-kingdom delivery model. The release does not indicate whether the award has been booked into backlog.",
+  "why_it_matters": "Framework agreements of this type do not carry committed volume, so this should be read as pre-qualification for future call-offs rather than as backlog, and the release's silence on booking supports that. Being one of 11 selected contractors means the competitive set for individual work orders remains wide, which caps margin expectations. The strategic value is positional: PMC and FEED work sits upstream of EPC awards, so it improves McDermott's line of sight on the Saudi project pipeline it would otherwise bid blind. The in-kingdom partnership with SLFE addresses local content requirements that are increasingly determinative in Aramco awards.",
+  "firms": [],
+  "companies": [
+   "McDermott International",
+   "Saudi Aramco",
+   "Solutions Leaders Fayez Engineering"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Saudi Arabia"
+  ],
+  "priority": "normal",
+  "situations": [
+   "mcdermott_nmdc"
+  ],
+  "flags": [],
+  "id": "2026-06-03-aramco-selects-mcdermott-as-one-of-11-contractor-57ca5f",
+  "story_id": "story-aramco-selects-mcdermott-as-one-of-11-co",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-03",
+  "headline": "DTE Energy contracts LG Energy Solution for 1.5 GW / 6 GWh of Michigan-made battery storage at $1.6B",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/dte-energy-lg-battery-storage/821856/"
+   }
+  ],
+  "players": "DTE Energy announced a partnership with LG Energy Solution to deploy 1.5 GW / 6 GWh of battery storage across eight projects at a cost of $1.6 billion, with deployment over the next two years. Cells will be manufactured at LG Energy Solution's Holland, Michigan facility, supporting about 1,800 jobs there plus over 350 construction and operations positions. DTE projects reaching 2.9 GW of total storage capacity by 2042 and is pursuing the expansion partly to serve growing data center demand in southeast Michigan.",
+  "why_it_matters": "At $1.6 billion for 6 GWh, this implies roughly $267/kWh installed for a four-hour utility-owned system — a usable benchmark for anyone underwriting US storage capex in a domestic-content structure. Domestic cell sourcing also derisks tariff and FEOC exposure that has been the main threat to storage project economics. A regulated utility taking 6 GWh in one order signals that utility-owned storage, not merchant, is becoming the dominant procurement channel, which changes where independent developers can compete. Watch whether other utilities lock multi-GWh domestic supply and what that does to merchant developers' access to cells.",
+  "firms": [],
+  "companies": [
+   "DTE Energy",
+   "LG Energy Solution"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-03-dte-energy-contracts-lg-energy-solution-for-1-5-b5066f",
+  "story_id": "story-dte-energy-contracts-lg-energy-solution",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-03",
+  "headline": "Delfin Midstream takes $5bn FID on first US floating LNG vessel, 4.4 mtpa, with GIP leading equity",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/06/03/3306350/0/en/delfin-midstream-announces-5-billion-final-investment-decision-for-first-flng-vessel.html"
+   },
+   {
+    "name": "S&P Global",
+    "url": "https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/060326-delfin-reaches-final-investment-decision-on-us-first-floating-lng-export-project"
+   }
+  ],
+  "players": "Delfin Midstream announced a $5 billion final investment decision for FLNG 1, a 4.4 mtpa floating liquefaction vessel offshore Louisiana, on June 3, 2026 — the first floating liquefaction facility in the United States and the largest FLNG project globally. Equity came from Global Infrastructure Partners as lead, alongside Mitsui O.S.K. Lines, Vitol and Diameter Capital Partners. Long-term offtake is contracted with Vitol, Expand Energy, Centrica and Gunvor, with first LNG targeted for 2030 and full project capacity of up to 13.2 mtpa.",
+  "why_it_matters": "Offshore FLNG bypasses the onshore siting, permitting and construction-labour bottlenecks that have inflated US Gulf Coast liquefaction capex, and a successful build would establish a lower-cost, faster-cycle route to export capacity. The capital structure is the tell: an infra fund lead alongside a shipowner, a trader and a credit fund, financed against long-term offtake with investment-grade-adjacent counterparties — a template other floating projects will copy. For midstream investors, incremental Gulf export capacity of this size tightens Henry Hub basis and supports feedgas pipeline utilisation into Louisiana. Watch construction milestones and whether the follow-on vessels reach FID on the same terms, which is what validates the cost advantage.",
+  "firms": [
+   "Global Infrastructure Partners",
+   "Diameter Capital Partners"
+  ],
+  "companies": [
+   "Delfin Midstream",
+   "Mitsui O.S.K. Lines",
+   "Vitol",
+   "Centrica",
+   "Gunvor",
+   "Expand Energy"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-03-delfin-midstream-takes-5bn-fid-on-first-us-float-f845fc",
+  "story_id": "story-delfin-midstream-takes-5bn-fid-on-first",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-03",
+  "headline": "S&P sees Brightline Florida liquidity falling to $16m after July debt service even as April ridership rises 20%",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/brightline-floridas-race-to-remain-on-track"
+   }
+  ],
+  "players": "S&P Global forecast Brightline Florida's liquidity would decline to $16m after debt service by July. Operationally, March 2026 was a record ridership and revenue month and April ridership rose 20% year over year with revenue up 32% versus April 2025. Total debt is approximately $5.5bn across tranches with coupons from 5.25% to 15%, with subordinate bonds quoted in the low 30s; a bondholder said the equity raise process had ramped up markedly, and the company was reported to be exploring debtor-in-possession loans.",
+  "why_it_matters": "The divergence between improving traffic and collapsing liquidity is the core of this credit: the asset works, the capital structure does not. A $16m post-service liquidity forecast against $5.5bn of debt means there is no scenario in which operations bridge to the next payment date without new money. Reported DIP exploration in early June is the strongest single signal that management was already contingency-planning for a court process while running the extension track in parallel. Subordinate paper in the low 30s implies the market had already marked those tranches to a restructuring outcome. Ridership growth matters mainly for the reorganised entity's equity value, not for near-term recoveries.",
+  "firms": [
+   "S&P Global Ratings",
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Trains Florida"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-06-03-s-p-sees-brightline-florida-liquidity-falling-to-d4faf5",
+  "story_id": "story-s-p-sees-brightline-florida-liquidity-fa",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-02",
+  "headline": "AD Ports buys Brazilian agri-bulk terminal operator CLI for $835m enterprise value from Macquarie and IG4",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "AD Ports Group",
+    "url": "https://www.adportsgroup.com/en/news-and-media/2026/06/02/ad-ports-group-acquires-cli"
+   },
+   {
+    "name": "Port Technology International",
+    "url": "https://www.porttechnology.org/ad-ports-acquires-brazilian-agri-bulk-terminal-operator/"
+   }
+  ],
+  "players": "AD Ports Group agreed to acquire CLI for AED 3.1 billion (USD 835 million) enterprise value from Macquarie Asset Management and IG4 Capital, taking 80% of CLI Sul — Brazil's leading sugar export terminal at the Port of Santos — and 100% of CLI Norte, a grains gateway at the Port of Itaqui. The assets handled 17 million tonnes of agri-bulk in 2025 on revenue of USD 178 million and EBITDA of USD 98 million. It is AD Ports' largest acquisition to date, surpassing the 2023 Noatum purchase.",
+  "why_it_matters": "This is a clean, disclosed valuation mark for Latin American agri-bulk terminals at roughly 8.5x trailing EBITDA — a useful anchor for anyone marking bulk terminal books where comparables are scarce. It is also a completed sponsor exit: Macquarie and IG4 monetised a Brazilian port platform to a sovereign-backed strategic, confirming that Gulf state buyers will clear infra assets in emerging markets at institutional prices. Sugar and grain export terminals carry commodity-cycle throughput risk that container terminals do not, so the multiple should be read as bulk-appropriate rather than transferable to gateway container assets. Watch whether Santos and Itaqui concession renewals and Brazil's export volumes support the underwriting.",
+  "firms": [
+   "Macquarie Asset Management",
+   "IG4 Capital"
+  ],
+  "companies": [
+   "AD Ports Group",
+   "CLI"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "Brazil",
+   "United Arab Emirates"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-02-ad-ports-buys-brazilian-agri-bulk-terminal-opera-d2d3d4",
+  "story_id": "story-ad-ports-buys-brazilian-agri-bulk-termin",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-02",
+  "headline": "S&P upgrades Alabama Port Authority to A from A- with a positive outlook on improved coverage and Gulf Coast position",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/alabama-port-authority-upgraded-to-a-by-s-p"
+   }
+  ],
+  "players": "S&P Global Ratings on June 2, 2026 upgraded the Alabama Port Authority to A from A- and revised the outlook to positive from stable, citing improving financial metrics and strategic regional importance. Debt service coverage improved above 3x in fiscal 2025 and debt-to-EBITDA has stayed below 5x for four consecutive years, with year-to-date net revenues through April 2026 running $25 million over budget. The authority had $295 million of revenue bonds outstanding as of April 30, 2026 and a five-year, $735 million capital improvement plan. Fitch rates it BBB+ with a positive outlook following an August 2025 upgrade.",
+  "why_it_matters": "Rating upgrades at a mid-sized Gulf Coast port lower the cost of the $735 million capital plan and are a useful read on US port credit generally at a moment when tariff policy and trade volumes are volatile. S&P's emphasis on long-term contracts and minimum annual guarantees underlines what buyers should pay for in terminal assets: contracted throughput, not spot volume. For infrastructure funds looking at US terminal concessions and adjacent logistics, this supports valuation on contracted-revenue ports while confirming that volume-exposed assets still carry activity volatility. Watch whether the positive outlook converts to a further upgrade and how tariff-driven trade shifts affect Gulf Coast volumes.",
+  "firms": [
+   "S&P Global Ratings",
+   "Fitch Ratings"
+  ],
+  "companies": [
+   "Alabama Port Authority"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-02-s-p-upgrades-alabama-port-authority-to-a-from-a-46df51",
+  "story_id": "story-s-p-upgrades-alabama-port-authority-to-a",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-02",
+  "headline": "LNG Canada issues limited notice to proceed to JGC Fluor for Phase 2 engineering ahead of FID",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Pipeline & Gas Journal",
+    "url": "https://pgjonline.com/news/2026/june/lng-canada-moves-closer-to-doubling-capacity-ahead-of-phase-2-fid"
+   }
+  ],
+  "players": "The LNG Canada joint venture — Shell, PETRONAS, PetroChina, Mitsubishi Corporation and KOGAS — advanced its Kitimat, British Columbia Phase 2 expansion when the JGC Fluor BC LNG II joint venture received a limited notice to proceed for early engineering and procurement activities. Phase 2 would double the facility's current capacity of approximately 14 mtpa. No FID had been announced and no capex figure was disclosed.",
+  "why_it_matters": "Limited notice to proceed is real money committed before FID and is the strongest pre-sanction signal available, typically shortening the schedule between FID and first LNG by locking long-lead equipment slots. Doubling a 14 mtpa facility would be one of the largest single capacity additions in the global LNG order book and materially raises Western Canadian gas demand. For midstream holders, this is the volume assumption underpinning Coastal GasLink expansion and Montney gathering economics. Watch the FID decision and whether the partners contract Phase 2 volumes on oil-linked or Henry Hub-linked terms.",
+  "firms": [],
+  "companies": [
+   "LNG Canada",
+   "Shell",
+   "PETRONAS",
+   "PetroChina",
+   "Mitsubishi Corporation",
+   "KOGAS",
+   "JGC",
+   "Fluor"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-02-lng-canada-issues-limited-notice-to-proceed-to-j-2a85ca",
+  "story_id": "story-lng-canada-issues-limited-notice-to-proc",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-02",
+  "headline": "Greenbriar-backed Applied Aerospace & Defense prices $650m NYSE IPO at $20 per share",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Greenbriar Equity Group",
+    "url": "https://www.greenbriar.com/applied-aerospace-defense-inc-prices-initial-public-offering/"
+   },
+   {
+    "name": "IPOScoop",
+    "url": "https://www.iposcoop.com/the-ipo-buzz-applied-aerospace-defense-aadx-proposed-sets-terms-for-634-mln-ipo/"
+   }
+  ],
+  "players": "Applied Aerospace & Defense, Inc. priced its IPO at $20.00 per share, offering 32,500,000 shares for approximately $650m gross, with a 30-day underwriter option for a further 4,875,000 shares. Shares began trading on the NYSE under 'AADX' on June 3, 2026. Morgan Stanley and Jefferies were lead book-running managers. Greenbriar affiliates retain roughly 81% post-IPO, leaving AADX a controlled company. The business reported $522.09m revenue and a $24.84m net loss for the twelve months to March 31, 2026, with proceeds earmarked to repay debt.",
+  "why_it_matters": "This is a partial monetisation, not an exit: Greenbriar keeps roughly 81% and control, so the IPO functions primarily as a deleveraging and price-discovery event ahead of staged secondary sell-downs. Applied Aerospace is a vertically integrated manufacturer of mission-critical hardware for space/launch, defence aviation and C5ISR/precision strike, so the revenue is programme-driven and backlog-backed rather than infrastructure-contracted, with margin currently suppressed by a net loss on $522m of revenue. Taking a 2022-vintage buyout public at roughly $3.3bn implied value in under four years is a strong marker for Greenbriar's Fund VI and useful supporting evidence for the $5.4bn Fund VII it closed in February 2026. Watch the lock-up expiry and follow-on cadence, and whether defence budget momentum converts the backlog into positive net income.",
+  "firms": [
+   "Greenbriar Equity Group"
+  ],
+  "companies": [
+   "Applied Aerospace & Defense",
+   "AADX"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-06-02-greenbriar-backed-applied-aerospace-defense-pric-d1a7e2",
+  "story_id": "story-greenbriar-backed-applied-aerospace-defe",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-02",
+  "headline": "23 states have now approved large-load tariffs, with Virginia requiring 14-year minimum contracts and $1.5M/MW collateral",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Columbia Climate Law Blog",
+    "url": "https://blogs.law.columbia.edu/climatechange/2026/06/02/data-center-regulation-what-local-governments-should-know-about-large-load-tariffs-and-clean-transition-tariffs/"
+   }
+  ],
+  "players": "A Columbia Climate Law Blog analysis published June 2, 2026 found that as of May 2026, 23 states had approved at least one large-load tariff and seven more had tariffs pending, with Ohio and Virginia adopting theirs in 2025 and Minnesota enacting HF 16 in June 2025. Typical protections include minimum contract terms of 14 years in Virginia and 12 years in Ohio, take-or-pay provisions requiring payment for contracted capacity regardless of use, exit fees, collateral of $1.5 million per MW in Virginia, and long-term fixed pricing. Clean transition tariffs, a related structure, allocate new-resource procurement across the data center developer, utility and an independent generator.",
+  "why_it_matters": "Take-or-pay tariffs with 12-14 year terms convert data center load into something close to a contracted utility revenue stream, which is exactly what makes regulated grid capex and adjacent generation financeable at investment-grade cost of capital. For digital infrastructure sponsors it is the opposite: it lengthens fixed obligations, raises collateral posting, and makes speculative land-banking of powered shells materially more expensive. Expect the spread between sites with executed large-load tariff agreements and merely 'permitted' sites to widen sharply in M&A pricing. Watch the seven pending states and whether the collateral standard converges toward Virginia's $1.5m/MW.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Regulatory & Policy",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-02-23-states-have-now-approved-large-load-tariffs-w-8aac8a",
+  "story_id": "story-23-states-have-now-approved-large-load-t",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-01",
+  "headline": "Goldman Sachs Alternatives raises over $3bn at first close for fourth-generation mid-market infrastructure fund",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Goldman Sachs Asset Management",
+    "url": "https://am.gs.com/en-us/advisors/news/press-release/2026/WSIP-V-First-Close"
+   },
+   {
+    "name": "IPE Real Assets",
+    "url": "https://realassets.ipe.com/news/goldman-sachs-raises-initial-3bn-for-mid-market-infrastructure-fund/10137040.article"
+   }
+  ],
+  "players": "Goldman Sachs Alternatives announced on June 1, 2026 an aggregated first close of over $3 billion for West Street Infrastructure Partners V against a $4 billion target, reaching 75% of target. The fund targets mid-market infrastructure operating businesses across four themes: energy transition, digital infrastructure, transportation and logistics, and circular economy. Eighty percent of initial commitments came from investors in prior vintages. The fund has already closed one investment, QScale, a Canadian data centre platform, on May 13, 2026.",
+  "why_it_matters": "Hitting 75% of target at first close with 80% re-ups is a strong fundraising signal in a market where many infrastructure managers have extended timelines, and it confirms LP capital is still flowing to mid-market operating-business strategies rather than core yield. The inclusion of transportation and logistics alongside digital and energy transition means more dry powder chasing logistics platforms, terminals and transport services businesses in the sub-$500m enterprise value range — expect entry multiples in that band to stay firm. That the first deal is a data centre rather than a transport asset is a reminder of where capital is actually being deployed within these mandates. Watch the final close size and the pace of transport deployment.",
+  "firms": [
+   "Goldman Sachs Alternatives"
+  ],
+  "companies": [
+   "QScale"
+  ],
+  "sectors": [
+   "Funds & Fundraising",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States",
+   "Global"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-01-goldman-sachs-alternatives-raises-over-3bn-at-fi-4f1064",
+  "story_id": "story-goldman-sachs-alternatives-raises-over-3",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-01",
+  "headline": "US public pension commitments to infrastructure funds fell to $17.4B across 165 commitments in 2025, down from $21.3B",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/georgia-dominates-p3-space-last-year-while-pension-funds-continue-to-invest-in-infrastructure-funds"
+   }
+  ],
+  "players": "The Reason Foundation's Annual Transportation Finance Report, covered by Bond Buyer on June 1, 2026, found US public pension commitments to infrastructure funds fell to 165 commitments totalling $17.4 billion in 2025, from 254 commitments totalling $21.3 billion in 2024 and 238 totalling $23.8 billion in 2023. Twenty-six states committed $13.3 billion, led by CalPERS at $1.8 billion, New Mexico at $1.4 billion, Washington at $1.3 billion and Connecticut at $1.2 billion. Report author Robert Poole said he was surprised by the decline and could not identify the driver.",
+  "why_it_matters": "This is a hard data point cutting against the AI-infrastructure fundraising narrative: the largest single US LP cohort wrote 35% fewer cheques by count and 18% less by value year on year. It implies the mega-closes being announced are concentrating capital in a handful of brand-name managers while mid-market and first-time infrastructure funds face a genuinely tighter market. Expect continued barbelling — GPs with $10bn+ franchises and separate-account capability will keep raising, while everyone else extends timelines or accepts smaller final closes. Watch whether 2026 commitment counts recover and whether the gap is being filled by insurance, wealth and sovereign capital rather than US public plans.",
+  "firms": [
+   "CalPERS",
+   "Meridiam"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-01-us-public-pension-commitments-to-infrastructure-52c420",
+  "story_id": "story-us-public-pension-commitments-to-infrast",
+  "story_size": 1
+ },
+ {
+  "date": "2026-06-01",
+  "headline": "LBNL 'Queued Up' 2026: gas in interconnection queues jumps 86% to 253 GW as solar and storage volumes fall",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Lawrence Berkeley National Laboratory",
+    "url": "https://emp.lbl.gov/queues"
+   }
+  ],
+  "players": "Lawrence Berkeley National Laboratory's Queued Up 2026 edition, published in June 2026 with data through end-2025, counts roughly 8,200 projects actively seeking interconnection representing 1,312 GW of generation and about 749 GW of storage. Natural gas capacity in the queues rose 86% to 253 GW while solar fell 19% to 773 GW, storage fell 16% to 749 GW and wind fell 19% to 220 GW; total active queue volume dropped about 10% year over year on high withdrawals. Only 13% of capacity that entered queues between 2000 and 2020 had reached commercial operation by end-2025, with 75% withdrawn; median time from interconnection request to COD exceeded five years for projects built in 2025. Some 549 GW has a draft or executed interconnection agreement but is not yet operating.",
+  "why_it_matters": "An 86% jump in queued gas alongside falling renewables volumes is the clearest structural evidence that developer capital has rotated toward dispatchable capacity, and it front-runs the turbine and EPC bottleneck. The 13% historical completion rate and 549 GW sitting with signed interconnection agreements but no operation are the two numbers to apply as haircuts when valuing pipelines — a signed IA is necessary but far from sufficient. A five-year-plus median IR-to-COD also means anything not already in an advanced queue position cannot serve load before 2031. Watch whether the gas surge converts or withdraws once turbine delivery dates and tariff terms become firm.",
+  "firms": [],
+  "companies": [
+   "Lawrence Berkeley National Laboratory"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-06-01-lbnl-queued-up-2026-gas-in-interconnection-queue-356b99",
+  "story_id": "story-lbnl-queued-up-2026-gas-in-interconnecti",
+  "story_size": 1
+ }
+]

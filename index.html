@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Infra Radar</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232a78d6'/%3E%3Cpath d='M8 21V13M14 21V9M20 21V16M26 21V11' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<style>
+:root{
+  color-scheme: light;
+  --surface-0:#f6f6f4;
+  --surface-1:#fcfcfb;
+  --surface-2:#f0efec;
+  --border:#dedcd6;
+  --border-soft:#e9e7e2;
+  --text-primary:#0b0b0b;
+  --text-secondary:#52514e;
+  --text-muted:#83817a;
+  --series-1:#2a78d6;
+  --accent:#2a78d6;
+  --flag:#c9761a;
+  --flag-bg:#fdf3e6;
+  --high:#8a2f2c;
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --surface-0:#111110;
+  --surface-1:#1a1a19;
+  --surface-2:#232322;
+  --border:#33332f;
+  --border-soft:#2a2a28;
+  --text-primary:#ffffff;
+  --text-secondary:#c3c2b7;
+  --text-muted:#8f8e85;
+  --series-1:#3987e5;
+  --accent:#3987e5;
+  --flag:#e0a75f;
+  --flag-bg:#2c2418;
+  --high:#e08e8b;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--surface-0);
+  color:var(--text-primary);
+  font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit}
+button{font:inherit;cursor:pointer}
+
+/* ---------------- header ---------------- */
+header{
+  position:sticky;top:0;z-index:50;
+  background:var(--surface-1);
+  border-bottom:1px solid var(--border);
+}
+.hwrap{max-width:1360px;margin:0 auto;padding:12px 22px}
+.htop{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.brand{font-size:19px;font-weight:680;letter-spacing:-.02em;cursor:pointer;white-space:nowrap}
+.tagline{color:var(--text-muted);font-size:12.5px;flex:1;min-width:120px}
+.stamp{color:var(--text-muted);font-size:11.5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.hbot{display:flex;align-items:center;gap:10px;margin-top:11px;flex-wrap:wrap}
+#q{
+  flex:1;min-width:190px;padding:7px 11px;
+  background:var(--surface-0);color:var(--text-primary);
+  border:1px solid var(--border);border-radius:7px;font-size:13.5px;
+}
+#q:focus{outline:none;border-color:var(--accent)}
+.pills{display:flex;gap:0;border:1px solid var(--border);border-radius:7px;overflow:hidden}
+.pill{
+  padding:6px 12px;background:var(--surface-0);border:0;
+  border-right:1px solid var(--border);
+  color:var(--text-secondary);font-size:12.5px;white-space:nowrap;
+}
+.pill:last-child{border-right:0}
+.pill[aria-pressed="true"]{background:var(--accent);color:#fff;font-weight:600}
+.iconbtn{
+  padding:6px 10px;background:var(--surface-0);border:1px solid var(--border);
+  border-radius:7px;color:var(--text-secondary);font-size:12.5px;
+}
+#menubtn{display:none}
+
+/* ---------------- layout ---------------- */
+.shell{max-width:1360px;margin:0 auto;padding:20px 22px 80px;display:grid;grid-template-columns:236px 1fr;gap:30px}
+nav{position:sticky;top:112px;align-self:start;max-height:calc(100vh - 132px);overflow-y:auto;padding-bottom:20px}
+nav::-webkit-scrollbar{width:7px}
+nav::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
+.navgroup{margin-bottom:20px}
+.navtitle{
+  font-size:10.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--text-muted);margin:0 0 6px 8px;
+}
+.navitem{
+  display:flex;align-items:center;gap:7px;width:100%;text-align:left;
+  padding:5px 8px;border:0;background:none;border-radius:6px;
+  color:var(--text-secondary);font-size:13px;line-height:1.35;
+}
+.navitem:hover{background:var(--surface-2);color:var(--text-primary)}
+.navitem[aria-current="true"]{background:var(--surface-2);color:var(--text-primary);font-weight:620}
+.navitem .lbl{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.navitem .n{
+  font-size:11px;color:var(--text-muted);font-variant-numeric:tabular-nums;
+  background:var(--surface-2);border-radius:9px;padding:1px 6px;
+}
+.navitem[aria-current="true"] .n{background:var(--surface-0)}
+.dot{width:5px;height:5px;border-radius:50%;background:var(--flag);flex:none}
+.morebtn{margin-left:8px;background:none;border:0;color:var(--accent);font-size:12px;padding:4px 0}
+
+/* ---------------- entity header ---------------- */
+.ehead{
+  background:var(--surface-1);border:1px solid var(--border);border-radius:11px;
+  padding:17px 19px;margin-bottom:22px;
+}
+.ehead h1{margin:0;font-size:22px;letter-spacing:-.02em;font-weight:680}
+.ehead .note{color:var(--text-secondary);font-size:13.5px;margin:5px 0 0}
+.emeta{display:flex;gap:22px;flex-wrap:wrap;margin-top:13px;padding-top:13px;border-top:1px solid var(--border-soft)}
+.emeta div{font-size:12px;color:var(--text-muted)}
+.emeta b{display:block;font-size:16px;color:var(--text-primary);font-weight:640;font-variant-numeric:tabular-nums;margin-bottom:1px}
+.spark{margin-top:14px}
+.sparklabel{font-size:10.5px;color:var(--text-muted);margin-bottom:5px}
+
+/* ---------------- cards ---------------- */
+.daygroup{margin-bottom:26px}
+.dayhead{
+  display:flex;align-items:center;gap:11px;margin:0 0 10px;
+  position:sticky;top:104px;z-index:10;
+  background:var(--surface-0);padding:5px 0;
+}
+.daydate{font-size:12.5px;font-weight:680;letter-spacing:.02em}
+.dayrule{flex:1;height:1px;background:var(--border)}
+.daycount{font-size:11px;color:var(--text-muted)}
+
+.card{
+  background:var(--surface-1);border:1px solid var(--border);border-radius:11px;
+  padding:16px 18px;margin-bottom:9px;
+}
+.card.flagged{border-left:3px solid var(--flag)}
+.ctop{display:flex;align-items:center;gap:8px;margin-bottom:7px;flex-wrap:wrap}
+.chip{
+  font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;font-weight:660;
+  padding:2px 7px;border-radius:5px;background:var(--surface-2);color:var(--text-muted);
+}
+.chip.flag{background:var(--flag-bg);color:var(--flag)}
+.chip.high{color:var(--high)}
+.h2{font-size:16px;font-weight:660;line-height:1.35;letter-spacing:-.011em;margin:0 0 9px}
+.field{margin:0 0 9px;font-size:13.7px;line-height:1.62;color:var(--text-secondary)}
+.field .k{
+  font-size:10.5px;letter-spacing:.07em;text-transform:uppercase;font-weight:700;
+  color:var(--text-muted);display:block;margin-bottom:2px;
+}
+.field.why{color:var(--text-primary)}
+.srcs{font-size:12.5px;color:var(--text-muted);margin:0 0 10px}
+.srcs a{color:var(--accent);text-decoration:none}
+.srcs a:hover{text-decoration:underline}
+.tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:11px;padding-top:11px;border-top:1px solid var(--border-soft)}
+.tag{
+  font-size:11.5px;padding:2px 8px;border-radius:11px;border:1px solid var(--border);
+  background:var(--surface-0);color:var(--text-secondary);
+}
+button.tag:hover{border-color:var(--accent);color:var(--accent)}
+.tag.sit{border-color:var(--flag);color:var(--flag)}
+.tag.plain{color:var(--text-muted)}
+.thread{
+  margin-top:9px;background:none;border:0;padding:0;
+  color:var(--accent);font-size:12.5px;
+}
+.thread:hover{text-decoration:underline}
+
+.empty{color:var(--text-muted);padding:44px 0;text-align:center;font-size:14px}
+.loadmore{
+  display:block;width:100%;padding:11px;margin-top:8px;
+  background:var(--surface-1);border:1px solid var(--border);border-radius:9px;
+  color:var(--text-secondary);font-size:13.5px;
+}
+.loadmore:hover{border-color:var(--accent);color:var(--accent)}
+.crumb{font-size:12.5px;color:var(--text-muted);margin-bottom:11px}
+.crumb button{background:none;border:0;color:var(--accent);padding:0;font-size:12.5px}
+
+@media (max-width:940px){
+  .shell{grid-template-columns:1fr;gap:0;padding:16px 15px 60px}
+  nav{
+    position:fixed;inset:0 auto 0 0;width:270px;z-index:100;max-height:none;
+    background:var(--surface-1);border-right:1px solid var(--border);
+    padding:16px 12px;transform:translateX(-100%);transition:transform .18s ease;
+  }
+  nav.open{transform:none}
+  #menubtn{display:block}
+  .dayhead{top:0}
+  .backdrop{position:fixed;inset:0;background:#0007;z-index:99}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hwrap">
+    <div class="htop">
+      <div class="brand" onclick="go('#/')">Infra Radar</div>
+      <div class="tagline" id="tagline"></div>
+      <div class="stamp" id="stamp"></div>
+    </div>
+    <div class="hbot">
+      <button class="iconbtn" id="menubtn" onclick="toggleNav()">☰</button>
+      <input id="q" type="search" placeholder="Search headlines, deals, firms, commentary…" autocomplete="off">
+      <div class="pills" id="pills"></div>
+      <button class="iconbtn" onclick="toggleTheme()" title="Toggle theme">◐</button>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <nav id="nav"></nav>
+  <main id="main"><div class="empty">Loading archive…</div></main>
+</div>
+
+<script>
+/* ======================================================================
+   Infra Radar — static client. Reads data/index.json plus monthly shards.
+   No build step, no dependencies.
+   ====================================================================== */
+
+const RANGES = [
+  {k:'7d',   label:'7d',  days:7},
+  {k:'30d',  label:'30d', days:30},
+  {k:'90d',  label:'90d', days:90},
+  {k:'1y',   label:'1y',  days:365},
+  {k:'all',  label:'All', days:null},
+];
+
+let IDX = null;                 // data/index.json
+const MONTHS = new Map();       // '2026-07' -> [full items]
+let route = {view:'timeline', key:null};
+let range = 'all';
+let query = '';
+let shown = 40;
+let showAllFirms = false;
+
+const esc = s => String(s??'').replace(/[&<>"']/g, c =>
+  ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+const fmtDate = iso => {
+  const [y,m,d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y,m-1,d)).toLocaleDateString('en-US',
+    {weekday:'short', month:'short', day:'numeric', year:'numeric', timeZone:'UTC'});
+};
+
+function cutoff(){
+  const r = RANGES.find(r=>r.k===range);
+  if(!r || !r.days) return '0000-01-01';
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() - r.days);
+  return d.toISOString().slice(0,10);
+}
+
+/* ---------------------------------------------------------------- data */
+
+async function loadMonth(m){
+  if(MONTHS.has(m)) return MONTHS.get(m);
+  if(window.__DATA__){                       // single-file offline build
+    const j = window.__DATA__.months[m] || [];
+    MONTHS.set(m, j);
+    return j;
+  }
+  try{
+    const r = await fetch(`data/items/${m}.json`, {cache:'no-cache'});
+    if(!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    MONTHS.set(m, j);
+    return j;
+  }catch(e){
+    MONTHS.set(m, []);
+    return [];
+  }
+}
+
+const loadMonths = ms => Promise.all([...new Set(ms)].map(loadMonth));
+
+function fullItem(id, month){
+  const arr = MONTHS.get(month) || [];
+  return arr.find(x => x.id === id) || null;
+}
+
+/* ------------------------------------------------------------ selection */
+
+function matchesRoute(it){
+  switch(route.view){
+    case 'timeline':  return true;
+    case 'section':   return it.s === route.key;
+    case 'firm':      return it.f.includes(route.key);
+    case 'situation': return it.u.includes(route.key);
+    case 'sector':    return it.c.includes(route.key);
+    case 'story':     return it.t === route.key;
+    case 'day':       return it.d === route.key;
+    default:          return true;
+  }
+}
+
+/** Lite pre-filter: route + range. Search is applied after bodies load. */
+function preselect(){
+  const cut = cutoff();
+  return IDX.items.filter(it => it.d >= cut && matchesRoute(it));
+}
+
+function searchHit(full, q){
+  if(!q) return true;
+  const hay = [
+    full.headline, full.players, full.why_it_matters,
+    full.firms.join(' '), full.companies.join(' '),
+    full.sectors.join(' '), full.geo.join(' '),
+    full.sources.map(s=>s.name).join(' ')
+  ].join(' ').toLowerCase();
+  return q.toLowerCase().split(/\s+/).filter(Boolean).every(t => hay.includes(t));
+}
+
+/* --------------------------------------------------------------- render */
+
+function sparkline(counts){
+  // Single series, magnitude over time. One hue, thin bars, 4px rounded
+  // data-end anchored to the baseline, 2px surface gap, per-bar hover.
+  const max = Math.max(1, ...counts.map(c=>c.n));
+  const BW = 13, GAP = 2, H = 34;
+  const w = counts.length * BW;
+  const bars = counts.map((c,i)=>{
+    const h = Math.max(2, Math.round((c.n/max)*H));
+    const x = i*BW;
+    return `<g><title>${esc(c.m)}: ${c.n} item${c.n===1?'':'s'}</title>`+
+      `<rect x="${x}" y="${H-h}" width="${BW-GAP}" height="${h}" rx="3" `+
+      `fill="var(--series-1)" opacity="${c.n?1:.25}"></rect>`+
+      `<rect x="${x}" y="0" width="${BW-GAP}" height="${H}" fill="transparent"></rect></g>`;
+  }).join('');
+  const first = counts[0], last = counts[counts.length-1];
+  return `<div class="spark">
+    <div class="sparklabel">Mentions per month</div>
+    <svg width="${w}" height="${H+15}" role="img" aria-label="Monthly mention volume">
+      ${bars}
+      <line x1="0" y1="${H+.5}" x2="${w}" y2="${H+.5}" stroke="var(--border)" stroke-width="1"></line>
+      <text x="0" y="${H+13}" font-size="9.5" fill="var(--text-muted)">${esc(first?first.m:'')}</text>
+      <text x="${w}" y="${H+13}" font-size="9.5" fill="var(--text-muted)" text-anchor="end">${esc(last?last.m:'')}</text>
+    </svg></div>`;
+}
+
+function entityHeader(){
+  const months = [...IDX.months].sort();
+  const inScope = IDX.items.filter(matchesRoute);
+  if(!inScope.length && route.view==='timeline') return '';
+
+  let title='', note='';
+  if(route.view==='firm'){
+    title = route.key;
+    const f = IDX.firms.find(x=>x.name===route.key);
+    note = f && f.priority ? 'Priority watchlist firm'
+         : f && f.watchlist ? 'Watchlist firm' : 'Mentioned in the archive';
+  } else if(route.view==='situation'){
+    const s = IDX.situations.find(x=>x.key===route.key);
+    title = s ? s.label : route.key; note = s ? s.note : '';
+  } else if(route.view==='sector'){
+    title = route.key; note = 'Sector view';
+  } else if(route.view==='section'){
+    const s = IDX.sections.find(x=>x.key===route.key);
+    title = s ? s.label : route.key; note='';
+  } else if(route.view==='story'){
+    title = 'Storyline'; note = 'Every item the archive has linked to this developing situation';
+  } else if(route.view==='day'){
+    title = fmtDate(route.key); note = 'Everything filed on this date';
+  } else {
+    return '';
+  }
+
+  const counts = months.map(m => ({m:m.slice(2), n: inScope.filter(i=>i.m===m).length}));
+  const dates = inScope.map(i=>i.d).sort();
+  const showSpark = ['firm','situation','sector','section'].includes(route.view) && months.length>1;
+
+  return `<div class="ehead">
+    <h1>${esc(title)}</h1>
+    ${note?`<p class="note">${esc(note)}</p>`:''}
+    <div class="emeta">
+      <div><b>${inScope.length}</b>items in archive</div>
+      ${dates.length?`<div><b>${esc(fmtDate(dates[dates.length-1]).replace(/^\w+, /,''))}</b>most recent</div>`:''}
+      ${dates.length?`<div><b>${esc(fmtDate(dates[0]).replace(/^\w+, /,''))}</b>first seen</div>`:''}
+    </div>
+    ${showSpark?sparkline(counts):''}
+  </div>`;
+}
+
+function card(it){
+  const sec = IDX.sections.find(s=>s.key===it.section);
+  const flagged = (it.flags||[]).includes('priority_firm');
+  const srcs = it.sources.map(s=>
+    `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(' · ');
+
+  const tags = []
+    .concat(it.situations.map(k=>{
+      const s = IDX.situations.find(x=>x.key===k);
+      return `<button class="tag sit" onclick="go('#/situation/${encodeURIComponent(k)}')">${esc(s?s.label:k)}</button>`;
+    }))
+    .concat(it.firms.map(f=>
+      `<button class="tag" onclick="go('#/firm/${encodeURIComponent(f)}')">${esc(f)}</button>`))
+    .concat(it.sectors.map(c=>
+      `<button class="tag" onclick="go('#/sector/${encodeURIComponent(c)}')">${esc(c)}</button>`))
+    .concat((it.geo||[]).map(g=>`<span class="tag plain">${esc(g)}</span>`));
+
+  return `<article class="card${flagged?' flagged':''}">
+    <div class="ctop">
+      ${flagged?'<span class="chip flag">◆ Watchlist</span>':''}
+      <span class="chip${it.priority==='high'?' high':''}">${esc(sec?sec.label:it.section)}</span>
+      <button class="chip" style="border:0" onclick="go('#/day/${it.date}')">${esc(it.date)}</button>
+    </div>
+    <h2 class="h2">${esc(it.headline)}</h2>
+    <p class="srcs">${srcs}</p>
+    ${it.players?`<p class="field"><span class="k">Deal / players</span>${esc(it.players)}</p>`:''}
+    ${it.why_it_matters?`<p class="field why"><span class="k">Why it matters</span>${esc(it.why_it_matters)}</p>`:''}
+    ${it.story_size>1 && route.view!=='story'
+      ? `<button class="thread" onclick="go('#/story/${encodeURIComponent(it.story_id)}')">↳ ${it.story_size} items in this storyline</button>` : ''}
+    ${tags.length?`<div class="tags">${tags.join('')}</div>`:''}
+  </article>`;
+}
+
+async function renderMain(){
+  const main = document.getElementById('main');
+  let lite = preselect();
+
+  // Search needs bodies, so pull every month in scope; otherwise only what we show.
+  const monthsNeeded = query
+    ? [...new Set(lite.map(i=>i.m))]
+    : [...new Set(lite.slice(0, shown).map(i=>i.m))];
+  await loadMonths(monthsNeeded);
+
+  let items = lite.map(i => fullItem(i.id, i.m)).filter(Boolean);
+  if(query) items = items.filter(it => searchHit(it, query));
+
+  const total = items.length;
+  const page = items.slice(0, shown);
+
+  const byDay = new Map();
+  for(const it of page){
+    if(!byDay.has(it.date)) byDay.set(it.date, []);
+    byDay.get(it.date).push(it);
+  }
+
+  let html = '';
+  if(route.view!=='timeline'){
+    html += `<div class="crumb"><button onclick="go('#/')">← All items</button></div>`;
+  }
+  html += entityHeader();
+
+  if(!total){
+    html += `<div class="empty">Nothing in the archive matches${query?` “${esc(query)}”`:''} in this window.
+      ${range!=='all'?'<br>Try widening the time filter.':''}</div>`;
+  }else{
+    for(const [day, group] of byDay){
+      html += `<section class="daygroup">
+        <div class="dayhead">
+          <span class="daydate">${esc(fmtDate(day))}</span>
+          <span class="dayrule"></span>
+          <span class="daycount">${group.length}</span>
+        </div>
+        ${group.map(card).join('')}
+      </section>`;
+    }
+    if(total > shown){
+      html += `<button class="loadmore" onclick="shown+=40;renderMain()">
+        Load more — showing ${shown} of ${total}</button>`;
+    }
+  }
+  main.innerHTML = html;
+}
+
+function navBtn(label, count, active, onclick, flagged){
+  return `<button class="navitem" ${active?'aria-current="true"':''} onclick="${onclick}">
+    ${flagged?'<span class="dot"></span>':''}
+    <span class="lbl">${esc(label)}</span>
+    ${count!=null?`<span class="n">${count}</span>`:''}</button>`;
+}
+
+function renderNav(){
+  const cut = cutoff();
+  const scope = IDX.items.filter(i=>i.d>=cut);
+  const n = pred => scope.filter(pred).length;
+
+  let h = `<div class="navgroup">
+    <p class="navtitle">Views</p>
+    ${navBtn('All items', scope.length, route.view==='timeline', "go('#/')")}
+    ${IDX.sections.map(s=>navBtn(s.label, n(i=>i.s===s.key),
+        route.view==='section'&&route.key===s.key, `go('#/section/${s.key}')`)).join('')}
+  </div>`;
+
+  h += `<div class="navgroup"><p class="navtitle">Tracked situations</p>
+    ${IDX.situations.map(s=>navBtn(s.label, n(i=>i.u.includes(s.key)),
+        route.view==='situation'&&route.key===s.key,
+        `go('#/situation/${encodeURIComponent(s.key)}')`)).join('')}
+  </div>`;
+
+  const prio = IDX.firms.filter(f=>f.priority);
+  const rest = IDX.firms.filter(f=>!f.priority && n(i=>i.f.includes(f.name))>0);
+  const restShown = showAllFirms ? rest : rest.slice(0,14);
+  h += `<div class="navgroup"><p class="navtitle">Firms</p>
+    ${prio.map(f=>navBtn(f.name, n(i=>i.f.includes(f.name)),
+        route.view==='firm'&&route.key===f.name,
+        `go('#/firm/${encodeURIComponent(f.name)}')`, true)).join('')}
+    ${restShown.map(f=>navBtn(f.name, n(i=>i.f.includes(f.name)),
+        route.view==='firm'&&route.key===f.name,
+        `go('#/firm/${encodeURIComponent(f.name)}')`)).join('')}
+    ${rest.length>14?`<button class="morebtn" onclick="showAllFirms=!showAllFirms;renderNav()">
+        ${showAllFirms?'Show fewer':`Show all ${rest.length}`}</button>`:''}
+  </div>`;
+
+  h += `<div class="navgroup"><p class="navtitle">Sectors</p>
+    ${IDX.sectors.filter(s=>n(i=>i.c.includes(s.name))>0).map(s=>navBtn(s.name, n(i=>i.c.includes(s.name)),
+        route.view==='sector'&&route.key===s.name,
+        `go('#/sector/${encodeURIComponent(s.name)}')`)).join('')}
+  </div>`;
+
+  document.getElementById('nav').innerHTML = h;
+}
+
+function renderPills(){
+  document.getElementById('pills').innerHTML = RANGES.map(r=>
+    `<button class="pill" aria-pressed="${range===r.k}" onclick="setRange('${r.k}')">${r.label}</button>`
+  ).join('');
+}
+
+/* ---------------------------------------------------------------- routing */
+
+function parseHash(){
+  const h = (location.hash||'#/').replace(/^#\/?/,'');
+  const [view, ...rest] = h.split('/');
+  const key = rest.length ? decodeURIComponent(rest.join('/')) : null;
+  const known = ['section','firm','situation','sector','story','day'];
+  route = known.includes(view) && key ? {view, key} : {view:'timeline', key:null};
+}
+
+function go(hash){
+  if(location.hash === hash) { onRoute(); return; }
+  location.hash = hash;
+  document.getElementById('nav').classList.remove('open');
+  document.querySelector('.backdrop')?.remove();
+}
+
+function onRoute(){
+  parseHash();
+  shown = 40;
+  window.scrollTo({top:0});
+  renderNav();
+  renderMain();
+}
+
+function setRange(k){ range = k; shown = 40; renderPills(); renderNav(); renderMain(); }
+
+function toggleTheme(){
+  const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  document.documentElement.dataset.theme = next;
+}
+
+function toggleNav(){
+  const nav = document.getElementById('nav');
+  nav.classList.toggle('open');
+  if(nav.classList.contains('open')){
+    const b = document.createElement('div');
+    b.className = 'backdrop';
+    b.onclick = () => { nav.classList.remove('open'); b.remove(); };
+    document.body.appendChild(b);
+  } else document.querySelector('.backdrop')?.remove();
+}
+
+/* ------------------------------------------------------------------ boot */
+
+(async function(){
+  if(matchMedia('(prefers-color-scheme: dark)').matches)
+    document.documentElement.dataset.theme = 'dark';
+
+  try{
+    if(window.__DATA__) IDX = window.__DATA__.index;
+    else IDX = await (await fetch('data/index.json', {cache:'no-cache'})).json();
+  }catch(e){
+    document.getElementById('main').innerHTML =
+      '<div class="empty">Could not load the archive index.<br>' +
+      'If you are opening this file directly, serve the folder instead: <code>python3 -m http.server</code></div>';
+    return;
+  }
+
+  document.title = IDX.site_title;
+  document.querySelector('.brand').textContent = IDX.site_title;
+  document.getElementById('tagline').textContent = IDX.site_tagline;
+  const gen = new Date(IDX.generated_at);
+  document.getElementById('stamp').textContent =
+    `${IDX.total_items} items · ${IDX.date_range[0]} → ${IDX.date_range[1]} · updated ` +
+    gen.toLocaleDateString('en-US',{month:'short',day:'numeric'}) + ' ' +
+    gen.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit'});
+
+  let t;
+  document.getElementById('q').addEventListener('input', e => {
+    clearTimeout(t);
+    t = setTimeout(()=>{ query = e.target.value.trim(); shown = 40; renderMain(); }, 180);
+  });
+
+  renderPills();
+  window.addEventListener('hashchange', onRoute);
+  onRoute();
+})();
+</script>
+</body>
+</html>

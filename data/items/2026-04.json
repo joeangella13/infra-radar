@@ -1,0 +1,109 @@
+[
+ {
+  "date": "2026-04-30",
+  "headline": "FTAI Infrastructure agrees to sell Long Ridge Energy and Power to MARA Holdings for about $1.52bn, targeting Q3 2026 close",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/04/30/3284709/0/en/ftai-infrastructure-inc-announces-agreement-to-sell-long-ridge-energy-and-power-to-mara-holdings-inc.html"
+   }
+  ],
+  "players": "FTAI Infrastructure agreed to sell Long Ridge Energy & Power LLC and related assets to a subsidiary of MARA Holdings for approximately $1.52bn before closing adjustments. The assets include a 485 MW combined cycle gas power plant, working interests in natural gas production wells and roughly 1,600 acres along the Ohio River in southeastern Ohio. Closing is expected in the third quarter of 2026 subject to regulatory approvals and customary conditions; FIP said it will eliminate $1.16bn of Long Ridge debt and use net proceeds to repay approximately $300m of corporate debt and reinvest in freight rail and terminals. Jefferies and Lazard advised, with Skadden Arps as legal counsel.",
+  "why_it_matters": "This is the defining event for the FIP credit: it converts a levered merchant power and gas position into deleveraging at the parent, and it is being bought by a bitcoin miner pivoting to AI and data centre power, which is why the price clears at a premium to conventional gas-fired comparables. Announced and signed but not closed, with regulatory approval the operative condition, so Q3 execution risk sits with FERC and antitrust clearance rather than financing. For FIP equity and debt holders the trade is 37% of Q1 segment EBITDA out, $1.46bn of gross debt reduction in. The next hard date is the Q3 closing and the August 5 earnings update on approval progress.",
+  "firms": [
+   "Jefferies",
+   "Lazard",
+   "Skadden Arps Slate Meagher & Flom",
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "FTAI Infrastructure",
+   "Long Ridge Energy",
+   "MARA Holdings"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Midstream & Gas",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-04-30-ftai-infrastructure-agrees-to-sell-long-ridge-en-d8e126",
+  "story_id": "story-ftai-infrastructure-agrees-to-sell-long",
+  "story_size": 1
+ },
+ {
+  "date": "2026-04-15",
+  "headline": "Lightpath and CableFinder strike platform partnership to widen channel-partner distribution",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/04/15/3274448/0/en/cablefinder-and-lightpath-announce-platform-partnership-expanding-fiber-connectivity-options-for-channel-partners.html"
+   }
+  ],
+  "players": "CableFinder and Lightpath announced a platform partnership making Lightpath's fibre connectivity available to channel partners through the CableFinder quoting platform. Financial terms were not disclosed.",
+  "why_it_matters": "Channel distribution is a low-capital way to fill spare capacity on fibre that is already built and lit, improving utilisation without further trenching. It matters less for the infrastructure thesis than the hyperscale and carrier contracts but it supports the smaller-ticket enterprise revenue layer that carries higher pricing. For MSIP it is incremental rather than strategic. Watch whether channel-sourced bookings become a disclosed contributor to Lightpath's total contract value.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Lightpath",
+   "CableFinder"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-04-15-lightpath-and-cablefinder-strike-platform-partne-e0a8b4",
+  "story_id": "story-lightpath-and-cablefinder-strike-platfor",
+  "story_size": 1
+ },
+ {
+  "date": "2026-04-14",
+  "headline": "Flexential adds fifth Atlanta-area data centre, taking metro footprint to about 800,000 sq ft and 73MW",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/flexential-adding-fifth-atlanta-area-data-center-as-demand-accelerates-across-the-southeast-302741527.html"
+   }
+  ],
+  "players": "Flexential is adding a fifth Atlanta-area data centre of 48,000 sq ft and 4.5MW, expected online in the first half of 2028, lifting its Atlanta footprint to roughly 800,000 sq ft and 73MW. Nationally the platform spans more than 40 data centres and 360MW online or under development across 18 markets. The company has raised approximately $1bn over the preceding 18 months, including an $800m asset-backed securities offering in November. Investors include GI Partners, GI Data Infrastructure, Hamilton Lane and MSIP.",
+  "why_it_matters": "The ABS market is now the primary funding channel for scaled colocation platforms, and a $800m issue tells you the contracted lease book is stable and granular enough to be securitised at attractive spreads. That funding structure is what lets Flexential expand across Atlanta, Hillsboro and Dallas simultaneously without a large sponsor equity call. A 4.5MW addition is small relative to hyperscale builds, which is a reminder Flexential remains an enterprise and multi-tenant operator rather than a pure hyperscale developer, a segment with better pricing but slower absorption. Watch the pace of ABS issuance against the development pipeline and whether the 2028 delivery dates compress as southeastern power constraints bite.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Flexential"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-04-14-flexential-adds-fifth-atlanta-area-data-centre-t-647d5d",
+  "story_id": "story-flexential-adds-fifth-atlanta-area-data",
+  "story_size": 1
+ }
+]

@@ -1,0 +1,170 @@
+{
+  "site_title": "Infra Radar",
+  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
+  "timezone": "America/New_York",
+  "email_to": "joeangella13@gmail.com",
+
+  "priority_firms": ["MSIP", "Stonepeak", "Greenbriar Equity Group"],
+
+  "watchlist_firms": [
+    "MSIP", "Stonepeak", "Greenbriar Equity Group", "Brookfield", "KKR", "Blackstone",
+    "Global Infrastructure Partners", "EQT Infrastructure", "Antin", "Macquarie Asset Management",
+    "IFM Investors", "I Squared Capital", "DigitalBridge", "Energy Capital Partners",
+    "Partners Group", "Copenhagen Infrastructure Partners", "ArcLight", "Quinbrook",
+    "Ridgewood Infrastructure", "Apollo", "Ares", "Carlyle", "Actis", "InfraVia", "Meridiam",
+    "Basalt Infrastructure", "Tiger Infrastructure", "Argo Infrastructure", "Northleaf",
+    "Grain Management", "Palistar", "SDC Capital Partners", "CDPQ", "CPP Investments",
+    "OMERS", "PSP Investments", "GIC", "ADIA", "MGX", "QIC", "Mubadala", "Fortress Investment Group"
+  ],
+
+  "firm_aliases": {
+    "Morgan Stanley Infrastructure Partners": "MSIP",
+    "Morgan Stanley Infrastructure": "MSIP",
+    "MSIP (Morgan Stanley Infrastructure Partners)": "MSIP",
+    "Morgan Stanley Investment Management": "MSIP",
+    "Stonepeak Infrastructure Partners": "Stonepeak",
+    "Stonepeak Partners": "Stonepeak",
+    "Greenbriar": "Greenbriar Equity Group",
+    "Brookfield Asset Management": "Brookfield",
+    "Brookfield Infrastructure": "Brookfield",
+    "Brookfield Infrastructure Partners": "Brookfield",
+    "Brookfield Renewable": "Brookfield",
+    "Brookfield Asset Management (BAM)": "Brookfield",
+    "KKR & Co.": "KKR",
+    "KKR Infrastructure": "KKR",
+    "Blackstone Infrastructure": "Blackstone",
+    "Blackstone Infrastructure Partners": "Blackstone",
+    "Blackstone Energy Transition Partners": "Blackstone",
+    "BlackRock": "Global Infrastructure Partners",
+    "BlackRock's GIP": "Global Infrastructure Partners",
+    "GIP": "Global Infrastructure Partners",
+    "Global Infrastructure Partners (GIP)": "Global Infrastructure Partners",
+    "BlackRock / GIP": "Global Infrastructure Partners",
+    "EQT": "EQT Infrastructure",
+    "EQT AB": "EQT Infrastructure",
+    "Antin Infrastructure Partners": "Antin",
+    "Macquarie": "Macquarie Asset Management",
+    "Macquarie Group": "Macquarie Asset Management",
+    "MAM": "Macquarie Asset Management",
+    "IFM": "IFM Investors",
+    "I Squared": "I Squared Capital",
+    "ISQ": "I Squared Capital",
+    "ECP": "Energy Capital Partners",
+    "CIP": "Copenhagen Infrastructure Partners",
+    "ArcLight Capital Partners": "ArcLight",
+    "ArcLight Capital": "ArcLight",
+    "Quinbrook Infrastructure Partners": "Quinbrook",
+    "Ridgewood": "Ridgewood Infrastructure",
+    "Apollo Global Management": "Apollo",
+    "Ares Management": "Ares",
+    "The Carlyle Group": "Carlyle",
+    "Carlyle Group": "Carlyle",
+    "Actis LLP": "Actis",
+    "InfraVia Capital Partners": "InfraVia",
+    "Meridiam SAS": "Meridiam",
+    "Basalt Infrastructure Partners": "Basalt Infrastructure",
+    "Tiger Infrastructure Partners": "Tiger Infrastructure",
+    "Argo Infrastructure Partners": "Argo Infrastructure",
+    "Northleaf Capital Partners": "Northleaf",
+    "SDC Capital": "SDC Capital Partners",
+    "Caisse de depot et placement du Quebec": "CDPQ",
+    "CPPIB": "CPP Investments",
+    "Canada Pension Plan Investment Board": "CPP Investments",
+    "PSP": "PSP Investments",
+    "GIC Private Limited": "GIC",
+    "Abu Dhabi Investment Authority": "ADIA",
+    "Queensland Investment Corporation": "QIC",
+    "Mubadala Investment Company": "Mubadala",
+    "Fortress": "Fortress Investment Group",
+    "Partners Group AG": "Partners Group"
+  },
+
+  "tracked_situations": [
+    {
+      "key": "brightline",
+      "label": "Brightline Florida",
+      "note": "Passenger rail; bond restructuring, ridership, commuter rail",
+      "sector": "Rail",
+      "aliases": ["Brightline", "Brightline Trains", "Brightline Florida", "Brightline West", "Florida East Coast Railway", "FECR", "AAFOH"]
+    },
+    {
+      "key": "hydrostor",
+      "label": "Hydrostor",
+      "note": "Long-duration compressed air energy storage",
+      "sector": "Energy Transition & Storage",
+      "aliases": ["Hydrostor", "Willow Rock", "Silver City", "Broken Hill"]
+    },
+    {
+      "key": "avangrid_arclight",
+      "label": "Avangrid / ArcLight Renewables",
+      "note": "North American wind and solar portfolio transactions",
+      "sector": "Power & Renewables",
+      "aliases": ["Avangrid", "Iberdrola", "ArcLight", "SkyVest"]
+    },
+    {
+      "key": "ftai_infrastructure",
+      "label": "FTAI Infrastructure",
+      "note": "Transtar, Long Ridge, Jefferson, Repauno",
+      "sector": "Transport & Logistics",
+      "aliases": ["FTAI Infrastructure", "Transtar", "Long Ridge", "Jefferson Terminal", "Repauno", "OmniTRAX"]
+    },
+    {
+      "key": "mcdermott_nmdc",
+      "label": "McDermott / NMDC",
+      "note": "Energy engineering and marine construction",
+      "sector": "Social Infrastructure",
+      "aliases": ["McDermott", "McDermott International", "NMDC", "NMDC Group", "National Marine Dredging"]
+    },
+    {
+      "key": "jennmar_weber",
+      "label": "Jennmar / Weber Mining",
+      "note": "Ground control and mining consumables",
+      "sector": "Mining Services",
+      "aliases": ["Jennmar", "Weber Mining", "Weber Mining & Tunnelling", "FalconPoint", "FalconPoint Partners"]
+    },
+    {
+      "key": "odfjell_terminals",
+      "label": "Odfjell Terminals",
+      "note": "Liquids tank terminals, Houston and Charleston",
+      "sector": "Ports & Terminals",
+      "aliases": ["Odfjell", "Odfjell Terminals", "Odfjell SE", "OTUS"]
+    },
+    {
+      "key": "sisu_miratech",
+      "label": "Sisu / Miratech",
+      "note": "Distributed generation services, gas-to-AI power",
+      "sector": "Power & Renewables",
+      "aliases": ["Sisu Energy", "Sisu Energy & Environmental", "Miratech"]
+    },
+    {
+      "key": "logistec_termont",
+      "label": "LOGISTEC / Termont",
+      "note": "Canadian port terminal operations",
+      "sector": "Ports & Terminals",
+      "aliases": ["LOGISTEC", "Logistec", "Termont", "Termont Montreal", "Blue Wolf Capital"]
+    }
+  ],
+
+  "sections": [
+    {"key": "sponsor_moves", "label": "Sponsor moves"},
+    {"key": "sector_themes", "label": "Sector themes"},
+    {"key": "market_regulatory", "label": "Broader market / regulatory"},
+    {"key": "tracked_situations", "label": "Tracked situations"}
+  ],
+
+  "sectors": [
+    "Power & Renewables",
+    "Energy Transition & Storage",
+    "Digital Infrastructure",
+    "Midstream & Gas",
+    "Transport & Logistics",
+    "Ports & Terminals",
+    "Rail",
+    "Water & Environmental",
+    "Nuclear & SMR",
+    "Mining Services",
+    "Funds & Fundraising",
+    "Regulatory & Policy",
+    "Social Infrastructure"
+  ]
+}

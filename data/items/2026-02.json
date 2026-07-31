@@ -1,0 +1,150 @@
+[
+ {
+  "date": "2026-02-25",
+  "headline": "Hatch takes equity stake in Hydrostor and will lead design and execution of the 500 MW Willow Rock project",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Hydrostor",
+    "url": "https://hydrostor.ca/hatch-and-hydrostor-announce-strategic-execution-partnership-and-equity-agreement-to-deliver-advanced-compressed-air-energy-storage/"
+   }
+  ],
+  "players": "Hydrostor and Hatch announced a strategic execution partnership under which Hatch will lead design and execution for the Willow Rock Energy Storage Center, a 500 MW / 4,000 MWh eight-hour A-CAES facility in California, alongside an equity investment by Hatch in Hydrostor. The investment amount was not disclosed. At announcement Willow Rock was in late-stage development having received final California Energy Commission permitting approvals, with groundbreaking targeted for 2026.",
+  "why_it_matters": "An engineering contractor taking equity alongside an execution mandate is a meaningful alignment signal for a first-of-a-kind utility-scale technology, because it puts Hatch's capital behind its own schedule and cost estimates. For lenders underwriting Willow Rock, contractor equity partially substitutes for the wrap that a first-of-a-kind project cannot obtain on conventional EPC terms. The undisclosed size limits how much comfort this provides, so the diligence question is whether Hatch's stake is material relative to its execution exposure. This is one of three strategic equity relationships Hydrostor announced in early 2026 alongside Baker Hughes, which together form the platform's industrial backing.",
+  "firms": [
+   "Hatch"
+  ],
+  "companies": [
+   "Hydrostor",
+   "Willow Rock Energy Storage Center"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "Canada",
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-02-25-hatch-takes-equity-stake-in-hydrostor-and-will-l-000046",
+  "story_id": "story-hatch-takes-equity-stake-in-hydrostor-an",
+  "story_size": 1
+ },
+ {
+  "date": "2026-02-24",
+  "headline": "MIRATECH completes acquisition of Australia's Exhaust Control Industries, establishing an APAC operating platform",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/miratech-completes-acquisition-of-exhaust-control-industries-establishing-a-strong-apac-operating-platform-302696097.html"
+   }
+  ],
+  "players": "MIRATECH completed its acquisition of Exhaust Control Industries, a Melbourne-headquartered manufacturer founded in 1982 that designs and produces exhaust systems, catalytic converters, silencers and turnkey solutions for power generation, industrial, marine and critical infrastructure customers across Australia, New Zealand and Southeast Asia. Financial terms were not disclosed. CEO David Zenthoefer said ECI brings regional expertise, customer relationships and technical capability, and the release cited infrastructure growth, data centers and energy transition pressures as accelerating drivers in Asia Pacific. The transaction was first announced in October 2025.",
+  "why_it_matters": "Closing converts MIRATECH from an exporter into an in-region manufacturer in APAC, which matters because emissions aftertreatment is a service-intensive business where local fabrication and field capability determine win rates. The stated data centre driver is the same demand thesis running through Sisu, confirming that distributed generation aftermarket services is consolidating around AI power buildout rather than traditional oil and gas compression. Sequencing matters: MIRATECH closed ECI in February and the ACS catalyst deal in January, so it executed two acquisitions in six weeks and is clearly running a programmatic buy-and-build. Terms undisclosed on both limits multiple read-across, but the pace indicates committed sponsor capital behind the platform.",
+  "firms": [],
+  "companies": [
+   "MIRATECH",
+   "Exhaust Control Industries"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "Australia",
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "sisu_miratech"
+  ],
+  "flags": [],
+  "id": "2026-02-24-miratech-completes-acquisition-of-australia-s-ex-04de37",
+  "story_id": "story-miratech-completes-acquisition-of-austra",
+  "story_size": 1
+ },
+ {
+  "date": "2026-02-17",
+  "headline": "LOGISTEC signs definitive agreement to acquire IPA breakbulk and steel terminal at Port of Altamira, Mexico",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/logistec-expands-international-reach-through-acquisition-agreement-of-ipa-terminal-in-altamira-mexico-302689698.html"
+   }
+  ],
+  "players": "LOGISTEC entered a definitive agreement to acquire the IPA Terminal at the Port of Altamira, Mexico, a specialised breakbulk and steel handling facility operating under the IPA, ATEMSA, SMA and STEEL entities with deepwater access. Price was not disclosed. Completion remains subject to customary closing conditions and regulatory approvals from Mexico's Comisión Nacional Antimonopolio and the Mexican Port Authorities and Navy, with no timeline provided. Berenson & Company advised on financial matters and Holland & Knight on legal. CEO Sean Pierce framed the deal as accelerated international growth extending LOGISTEC's network to Latin America.",
+  "why_it_matters": "This is LOGISTEC's first move into Latin America and it targets steel and breakbulk at Altamira, the natural Gulf counterpart to its Houston position, creating a two-country steel corridor rather than two standalone terminals. Status is signed but not closed, with Mexican antitrust and Navy or port authority clearance outstanding and no stated timetable, so execution risk is real and the approval path is less predictable than a US or Canadian filing. Combined with Dubuque and the Houston crane program, Blue Wolf is building a Gulf-plus-inland network with a Mexican anchor. Confirmation of closing is the next item to watch; it had not been announced as of end-July 2026 on the wires reviewed.",
+  "firms": [
+   "Blue Wolf Capital Partners",
+   "Berenson & Company",
+   "Holland & Knight"
+  ],
+  "companies": [
+   "LOGISTEC",
+   "IPA Terminal",
+   "Port of Altamira"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Mexico",
+   "Canada",
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "logistec_termont"
+  ],
+  "flags": [],
+  "id": "2026-02-17-logistec-signs-definitive-agreement-to-acquire-i-11fc8b",
+  "story_id": "story-logistec-signs-definitive-agreement-to-a",
+  "story_size": 1
+ },
+ {
+  "date": "2026-02-12",
+  "headline": "Hydrostor signs 50 MW Willow Rock offtake with California Community Power on behalf of six CCAs",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Hydrostor",
+    "url": "https://hydrostor.ca/hydrostor-signs-offtake-agreement-with-california-community-power/"
+   }
+  ],
+  "players": "Hydrostor signed a 50 MW offtake agreement for the Willow Rock Energy Storage Center with California Community Power acting for six member community choice aggregators: CleanPowerSF, Peninsula Clean Energy, Redwood Coast Energy Authority, San Jose Clean Energy, Silicon Valley Clean Energy Authority and Valley Clean Energy Authority. Term length was not disclosed. The project received its California Energy Commission permit in December 2025 and a franchise agreement from the Kern County Board of Supervisors, and is expected online in 2030.",
+  "why_it_matters": "Contracted capacity is the precondition for debt sizing, so this is the commercial milestone that makes the DOE conditional commitment financeable. At 50 MW against 500 MW of nameplate, however, only a tenth of the project is contracted, meaning Hydrostor still needs substantially more offtake or must accept merchant exposure in the CAISO capacity market. The CCA counterparty group is investment-grade-adjacent but fragmented, which affects how lenders view counterparty concentration and credit support. Watch for follow-on offtake announcements ahead of financial close; the 2030 in-service date implies a long construction period against which contract tenor will be scrutinised.",
+  "firms": [
+   "California Community Power"
+  ],
+  "companies": [
+   "Hydrostor",
+   "Willow Rock Energy Storage Center",
+   "CleanPowerSF",
+   "Peninsula Clean Energy",
+   "San Jose Clean Energy",
+   "Silicon Valley Clean Energy Authority"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-02-12-hydrostor-signs-50-mw-willow-rock-offtake-with-c-7ac7b4",
+  "story_id": "story-hydrostor-signs-50-mw-willow-rock-offtak",
+  "story_size": 1
+ }
+]
