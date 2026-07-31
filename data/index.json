@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T19:20:36+00:00",
+ "generated_at": "2026-07-31T19:46:19+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 236,
+ "total_items": 243,
  "months": [
   "2026-07",
   "2026-06",
@@ -39,7 +39,7 @@
    "name": "MSIP",
    "watchlist": true,
    "priority": true,
-   "count": 23,
+   "count": 24,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -63,15 +63,15 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-07-30"
   },
   {
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
-   "count": 8,
+   "count": 7,
    "first_seen": "2026-05-15",
    "last_seen": "2026-07-27"
   },
@@ -82,14 +82,6 @@
    "count": 6,
    "first_seen": "2026-05-11",
    "last_seen": "2026-07-23"
-  },
-  {
-   "name": "Stonepeak",
-   "watchlist": true,
-   "priority": true,
-   "count": 6,
-   "first_seen": "2026-05-11",
-   "last_seen": "2026-07-28"
   },
   {
    "name": "EQT Infrastructure",
@@ -105,6 +97,14 @@
    "priority": false,
    "count": 5,
    "first_seen": "2026-06-10",
+   "last_seen": "2026-07-28"
+  },
+  {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": true,
+   "count": 5,
+   "first_seen": "2026-05-11",
    "last_seen": "2026-07-28"
   },
   {
@@ -796,6 +796,14 @@
    "last_seen": "2026-06-17"
   },
   {
+   "name": "Kineticor Asset Management",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30"
+  },
+  {
    "name": "King & Spalding",
    "watchlist": false,
    "priority": false,
@@ -866,14 +874,6 @@
    "count": 1,
    "first_seen": "2026-07-08",
    "last_seen": "2026-07-08"
-  },
-  {
-   "name": "Mubadala",
-   "watchlist": true,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-07-07"
   },
   {
    "name": "NextEra Energy",
@@ -1129,13 +1129,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 93,
+   "count": 94,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 76,
+   "count": 77,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -1153,7 +1153,7 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 36,
+   "count": 39,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
@@ -1164,22 +1164,22 @@
    "last_seen": "2026-07-29"
   },
   {
+   "name": "Funds & Fundraising",
+   "count": 27,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-07-30"
+  },
+  {
    "name": "Ports & Terminals",
    "count": 26,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-07-30"
   },
   {
    "name": "Transport & Logistics",
    "count": 26,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Funds & Fundraising",
-   "count": 26,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-07-30"
   },
   {
    "name": "Social Infrastructure",
@@ -1343,6 +1343,42 @@
    "x": 0
   },
   {
+   "id": "2026-07-30-pembina-takes-10-of-proposed-1-million-bpd-west-50504d",
+   "d": "2026-07-30",
+   "h": "Pembina takes 10% of proposed 1 million bpd West Coast oil pipeline and marine terminal, sanctions 55,000 bpd fractionator",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-pembina-takes-10-of-proposed-1-million-b",
+   "x": 0
+  },
+  {
+   "id": "2026-07-30-brookfield-infrastructure-posts-10-ffo-per-unit-d7ea14",
+   "d": "2026-07-30",
+   "h": "Brookfield Infrastructure posts 10% FFO per unit growth and says Clarus gas utility purchase closes in coming weeks",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Midstream & Gas",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-brookfield-infrastructure-posts-10-ffo-p",
+   "x": 0
+  },
+  {
    "id": "2026-07-30-aalo-and-crusoe-plan-a-2027-nuclear-powered-ai-d-0917d6",
    "d": "2026-07-30",
    "h": "Aalo and Crusoe plan a 2027 nuclear-powered AI data center demo at INL, scaling to 50-MWe reactor plants by 2029",
@@ -1356,6 +1392,41 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-aalo-and-crusoe-plan-a-2027-nuclear-powe",
+   "x": 0
+  },
+  {
+   "id": "2026-07-30-aecon-consortium-wins-multi-billion-dollar-contr-efa52d",
+   "d": "2026-07-30",
+   "h": "Aecon consortium wins multi-billion-dollar contract for the MSIP-backed 932-MW Greenlight gas plant in Alberta",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP",
+    "Kineticor Asset Management"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-aecon-led-consortium-wins-epc-for-msip-b",
+   "x": 1
+  },
+  {
+   "id": "2026-07-30-kayne-anderson-energy-infrastructure-closes-50m-bb426c",
+   "d": "2026-07-30",
+   "h": "Kayne Anderson Energy Infrastructure closes $50m private note placement, with $15m of 5.70% preferred to fund in October",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-kayne-anderson-energy-infrastructure-clo",
    "x": 0
   },
   {
@@ -1651,6 +1722,22 @@
    "m": "2026-07",
    "t": "story-flexential-buys-110-acres-in-kaufman-cou",
    "x": 1
+  },
+  {
+   "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
+   "d": "2026-07-27",
+   "h": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-up-and-ns-file-stb-supplemental-informat",
+   "x": 0
   },
   {
    "id": "2026-07-27-morgan-stanley-infrastructure-partners-to-acquir-455e7a",
@@ -2051,6 +2138,22 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-brookfield-to-buy-battery-storage-platfo",
+   "x": 0
+  },
+  {
+   "id": "2026-07-21-eqt-closes-77m-purchase-of-blackline-midstream-s-ee93b3",
+   "d": "2026-07-21",
+   "h": "EQT closes $77m purchase of Blackline Midstream's Northeast LPG storage and marine terminal assets",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-eqt-closes-77m-purchase-of-blackline-mid",
    "x": 0
   },
   {
@@ -2564,6 +2667,23 @@
    "x": 0
   },
   {
+   "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
+   "d": "2026-07-14",
+   "h": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Water & Environmental"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-msip-to-acquire-majority-stake-in-french",
+   "x": 1
+  },
+  {
    "id": "2026-07-14-gip-to-acquire-majority-control-of-us-community-533e23",
    "d": "2026-07-14",
    "h": "GIP to acquire majority control of US community solar developer Summit Ridge Energy",
@@ -2580,23 +2700,6 @@
    "m": "2026-07",
    "t": "story-gip-to-acquire-majority-control-of-us-co",
    "x": 0
-  },
-  {
-   "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
-   "d": "2026-07-14",
-   "h": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
-   "s": "sponsor_moves",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Water & Environmental"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-msip-to-acquire-majority-stake-in-french",
-   "x": 1
   },
   {
    "id": "2026-07-14-bond-buyer-brightline-florida-distress-raises-co-bacb4b",
@@ -2948,26 +3051,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-07-binding-bids-due-end-july-on-5bn-porto-sudeste-s-319a56",
-   "d": "2026-07-07",
-   "h": "Binding bids due end-July on $5bn Porto Sudeste; Stonepeak paired with M Resources, GIP with Vale and Gerdau",
-   "s": "sponsor_moves",
-   "f": [
-    "Stonepeak",
-    "Global Infrastructure Partners",
-    "Mubadala"
-   ],
-   "u": [],
-   "c": [
-    "Ports & Terminals",
-    "Transport & Logistics"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-binding-bids-due-end-july-on-5bn-porto-s",
-   "x": 1
-  },
-  {
    "id": "2026-07-07-up-and-ns-file-first-round-of-stb-supplemental-r-7c5a7c",
    "d": "2026-07-07",
    "h": "UP and NS file first round of STB supplemental responses, offering to relinquish control of jointly owned terminal railroads",
@@ -3055,6 +3138,23 @@
    "x": 0
   },
   {
+   "id": "2026-07-02-pjm-stakeholders-advance-registry-based-backstop-5e9ca1",
+   "d": "2026-07-02",
+   "h": "PJM stakeholders advance registry-based backstop procurement but fail to agree on data center connect-and-manage",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-pjm-stakeholders-advance-registry-based",
+   "x": 0
+  },
+  {
    "id": "2026-07-02-brightline-florida-taps-reserves-to-make-july-1-1a0d62",
    "d": "2026-07-02",
    "h": "Brightline Florida taps reserves to make July 1 payments on senior munis and corporate notes, buys two weeks on commuter bonds",
@@ -3071,23 +3171,6 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-brightline-florida-taps-reserves-to-make",
-   "x": 0
-  },
-  {
-   "id": "2026-07-02-pjm-stakeholders-advance-registry-based-backstop-5e9ca1",
-   "d": "2026-07-02",
-   "h": "PJM stakeholders advance registry-based backstop procurement but fail to agree on data center connect-and-manage",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Digital Infrastructure",
-    "Regulatory & Policy"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-pjm-stakeholders-advance-registry-based",
    "x": 0
   },
   {
