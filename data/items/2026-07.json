@@ -1,6 +1,38 @@
 [
  {
   "date": "2026-07-30",
+  "headline": "Aecon Q2 revenue up 25% with adjusted EBITDA doubled and $10.5bn backlog as power and data centre work builds",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Aecon Q2 2026 results",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336460/0/en/Aecon-reports-second-quarter-2026-results.html"
+   }
+  ],
+  "players": "Aecon Group reported Q2 2026 revenue up 25% year on year with adjusted EBITDA doubling versus the prior-year quarter, and backlog of $10.5bn. Management cited pursuits across power generation, critical resource development, mass transit, water, digital infrastructure and defence, and an increasing share of work delivered under collaborative contracting models. Separately, on 28 July an Aecon partnership executed an agreement for the 150 MW / 1,200 MWh Simcoe battery storage project in Ontario, taking Aecon to roughly 1 GW of BESS built or under delivery in the province.",
+  "why_it_matters": "Contractor margins are the cleanest read on whether the North American power and digital build-out is actually converting from announcement to shovels, and a doubling of EBITDA on 25% revenue growth says pricing power has shifted decisively to the EPC side. For sponsors, that is a cost-inflation warning on any greenfield gas, transmission or storage underwriting priced off 2024 EPC assumptions. The shift toward collaborative and progressive delivery models also matters: it moves construction risk back toward the owner, which changes how much contingency an infra fund should hold in a development-stage equity case. The Simcoe award confirms Ontario's IESO storage procurement is translating into a repeatable 4-hour BESS pipeline, with Aecon alone at roughly 1 GW delivered or in delivery. Watch Aecon's book-to-bill and gross margin in Q3 as the marker for whether EPC capacity, not capital, is the real constraint on 2027 to 2028 commercial operation dates.",
+  "firms": [],
+  "companies": [
+   "Aecon Group"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "Canada",
+   "Ontario"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-30-aecon-q2-revenue-up-25-with-adjusted-ebitda-doub-efa52d",
+  "story_id": "story-aecon-q2-revenue-up-25-with-adjusted-ebi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
   "headline": "Lightpath says IP backbone traffic is growing 32% annualised as AI workloads scale across its 12,100-mile network",
   "section": "sector_themes",
   "sources": [
@@ -288,6 +320,36 @@
   "flags": [],
   "id": "2026-07-30-texas-regulators-approve-crusoe-s-260-mw-data-ce-f33baf",
   "story_id": "story-texas-regulators-approve-crusoe-s-260-mw",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-29",
+  "headline": "Antero Midstream gathers record 4.1 Bcf/d, up 19%, and starts construction on first intrastate pipeline in West Virginia",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Antero Midstream 8-K, Q2 2026 results",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001623925/000110465926088210/tm2621395d1_ex99-1.htm"
+   }
+  ],
+  "players": "Antero Midstream reported Q2 2026 net income of $114m, or $0.24 per diluted share, an 8% per-share decline year on year, with gathering volumes up 19% and compression volumes up 17%. The company gathered over 4.1 Bcf/d, a company record. It commenced initial construction of East Side Express, its first intrastate regional pipeline, an east-west bi-directional line in West Virginia, and said water integration projects remain on track to drive high-single-digit EBITDA growth in 2027.",
+  "why_it_matters": "Volume growth of 19% against falling per-share earnings shows Appalachian gatherers are re-levering into growth capex rather than harvesting, which changes the free-cash-flow profile investors have underwritten in this basin for the past three years. East Side Express is the more important disclosure: a gatherer building bi-directional intrastate takeaway is positioning for in-basin power and industrial demand, not just export takeaway, which is exactly the thesis behind gas-to-data-centre midstream underwriting. Bi-directional design preserves optionality on where demand actually lands, which is worth paying for when load siting is this uncertain. Read across to DT Midstream, Equitrans-type assets and private Appalachian gathering systems whose exit value increasingly rests on demand-pull contracts rather than producer dedications. Watch for contracted volumes and rate structure on East Side Express before assuming the growth capex earns a midstream multiple.",
+  "firms": [],
+  "companies": [
+   "Antero Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States",
+   "Appalachia"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-29-antero-midstream-gathers-record-4-1-bcf-d-up-19-e0d40e",
+  "story_id": "story-antero-midstream-gathers-record-4-1-bcf",
   "story_size": 1
  },
  {

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T02:39:23+00:00",
+ "generated_at": "2026-07-31T12:27:28+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 239,
+ "total_items": 241,
  "months": [
   "2026-07",
   "2026-06",
@@ -1129,13 +1129,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 92,
+   "count": 93,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 75,
+   "count": 76,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -1147,13 +1147,13 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Midstream & Gas",
-   "count": 35,
+   "count": 36,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
@@ -1207,6 +1207,23 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-07-30-aecon-q2-revenue-up-25-with-adjusted-ebitda-doub-efa52d",
+   "d": "2026-07-30",
+   "h": "Aecon Q2 revenue up 25% with adjusted EBITDA doubled and $10.5bn backlog as power and data centre work builds",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Energy Transition & Storage",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-aecon-q2-revenue-up-25-with-adjusted-ebi",
+   "x": 0
+  },
   {
    "id": "2026-07-30-lightpath-says-ip-backbone-traffic-is-growing-32-38e1d3",
    "d": "2026-07-30",
@@ -1356,6 +1373,21 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-firstenergy-s-contracted-data-center-loa",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-antero-midstream-gathers-record-4-1-bcf-d-up-19-e0d40e",
+   "d": "2026-07-29",
+   "h": "Antero Midstream gathers record 4.1 Bcf/d, up 19%, and starts construction on first intrastate pipeline in West Virginia",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-antero-midstream-gathers-record-4-1-bcf",
    "x": 0
   },
   {
