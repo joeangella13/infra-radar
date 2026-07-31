@@ -79,6 +79,7 @@ jobs:
           {
             echo 'body<<INFRA_RADAR_EOF'
             cat out/email.html
+            echo ''
             echo 'INFRA_RADAR_EOF'
           } >> "$GITHUB_OUTPUT"
 
