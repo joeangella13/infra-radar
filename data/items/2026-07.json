@@ -656,6 +656,39 @@
   "story_size": 1
  },
  {
+  "date": "2026-07-29",
+  "headline": "Baker Hughes to supply 76 NovaLT16 turbines for Dynamis Power Solutions' 1.3-GW mobile power fleet",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "World Oil",
+    "url": "https://worldoil.com/news/2026/7/29/baker-hughes-wins-major-gas-turbine-order-for-data-center-oil-and-gas-power/"
+   }
+  ],
+  "players": "Baker Hughes won an order to supply 76 NovaLT16 industrial gas turbines to Dynamis Power Solutions for a 1.3-GW mobile power generation fleet. The fleet targets electricity demand from data centres and oil and gas operations. Order value and delivery schedule were not disclosed.",
+  "why_it_matters": "Mobile turbine fleets are being underwritten as rental assets, not project assets: short lead times, redeployable equipment, and pricing set by scarcity of grid capacity rather than a long-term PPA. That gives an owner utilisation and rate upside plus resale value, but the cash flows are shorter-dated than a plant. Watch whether Dynamis contracts this fleet or runs it merchant.",
+  "why_you_care": "Closest live comp to Sisu/Miratech's distributed generation and gas-to-AI power thesis, and useful evidence when arguing bridge power economics in a PE case.",
+  "firms": [],
+  "companies": [
+   "Baker Hughes",
+   "Dynamis Power Solutions"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-29-baker-hughes-to-supply-76-novalt16-turbines-for-7ecd73",
+  "story_id": "story-baker-hughes-to-supply-76-novalt16-turbi",
+  "story_size": 1
+ },
+ {
   "date": "2026-07-28",
   "headline": "Western state lawmakers prepare a 2027 legislative wave targeting AI data centers and their power infrastructure",
   "section": "market_regulatory",
