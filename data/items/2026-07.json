@@ -234,6 +234,42 @@
  },
  {
   "date": "2026-07-30",
+  "headline": "Pembina takes 10% of proposed 1 million bpd West Coast oil pipeline and marine terminal, sanctions 55,000 bpd fractionator",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Pembina Q2 2026 results",
+    "url": "https://www.pembina.com/media-centre/news/details/fa13b9e4-bbc0-44d0-9ab6-88c72cbd54e5"
+   },
+   {
+    "name": "Pembina Q2 2026 (BOE Report)",
+    "url": "https://boereport.com/2026/07/30/pembina-pipeline-reports-results-for-the-second-quarter-of-2026/"
+   }
+  ],
+  "players": "Pembina Pipeline's Q2 release disclosed a non-binding agreement to participate in a proposed West Coast Oil Pipeline connecting Western Canadian crude to tidewater via an approximately one million barrel per day export pipeline and marine terminal. Pembina's economic interest through construction is 10%, with the chance to add up to another 10% once the project reaches commercial operation; Trans Mountain Corporation is lead proponent. Pembina also sanctioned RFS IV, adding 55,000 bpd of propane-plus fractionation at Redwater, and declared a Q3 dividend of $0.735 per share.",
+  "why_it_matters": "This is a rare template for how a private operator takes a small, staged interest in a state-led megaproject: minimal construction exposure, optional upside at commercial operation, and no responsibility for permitting. If a Canadian crude export terminal is actually financeable, West Coast liquids handling capacity gets repriced. Watch for a binding agreement and the regulatory filing schedule.",
+  "why_you_care": "Marine export terminal economics and staged interests are directly comparable to the Odfjell Terminals work, and Pembina is MSIP's partner in Greenlight.",
+  "firms": [],
+  "companies": [
+   "Pembina Pipeline",
+   "Trans Mountain Corporation"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-30-pembina-takes-10-of-proposed-1-million-bpd-west-50504d",
+  "story_id": "story-pembina-takes-10-of-proposed-1-million-b",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
   "headline": "Aalo and Crusoe plan a 2027 nuclear-powered AI data center demo at INL, scaling to 50-MWe reactor plants by 2029",
   "section": "sector_themes",
   "sources": [
@@ -263,6 +299,37 @@
   "flags": [],
   "id": "2026-07-30-aalo-and-crusoe-plan-a-2027-nuclear-powered-ai-d-0917d6",
   "story_id": "story-aalo-and-crusoe-plan-a-2027-nuclear-powe",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
+  "headline": "Kayne Anderson Energy Infrastructure closes $50m private note placement, with $15m of 5.70% preferred to fund in October",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Kayne Anderson notes placement completed (GlobeNewswire)",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336459/0/en/Kayne-Anderson-Energy-Infrastructure-Fund-Completes-Private-Placement-of-50-Million-of-Notes.html"
+   }
+  ],
+  "players": "Kayne Anderson Energy Infrastructure Fund (NYSE: KYN) completed its previously announced private placement of $50m of senior unsecured notes, saying net proceeds will refinance existing leverage and fund general corporate purposes. The fund also has an agreement to issue $15m of Series Y mandatory redeemable preferred shares at a fixed 5.70% dividend rate, redeemable in December 2031, expected to fund on 30 October 2026 subject to customary closing conditions.",
+  "why_it_matters": "Small, but it is a dated print on what institutional lenders charge for leverage against a listed midstream portfolio: 5.70% fixed on five-year-plus preferred. That is a usable reference point when arguing where structured capital sits versus infrastructure debt spreads, and it shows refinancing windows remain open for energy-infrastructure issuers.",
+  "why_you_care": "General market context only, but a clean, current cost-of-capital data point for energy infrastructure financing pages.",
+  "firms": [],
+  "companies": [
+   "Kayne Anderson Energy Infrastructure Fund"
+  ],
+  "sectors": [
+   "Funds & Fundraising",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-30-kayne-anderson-energy-infrastructure-closes-50m-bb426c",
+  "story_id": "story-kayne-anderson-energy-infrastructure-clo",
   "story_size": 1
  },
  {
@@ -298,6 +365,92 @@
   "id": "2026-07-30-texas-regulators-approve-crusoe-s-260-mw-data-ce-f33baf",
   "story_id": "story-texas-regulators-approve-crusoe-s-260-mw",
   "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
+  "headline": "Brookfield Infrastructure posts 10% FFO per unit growth and says Clarus gas utility purchase closes in coming weeks",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Brookfield Infrastructure Q2 2026 results (GlobeNewswire via Manila Times)",
+    "url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/brookfield-infrastructure-reports-strong-second-quarter-2026-results/2394860"
+   },
+   {
+    "name": "Brookfield Q2 summary",
+    "url": "https://www.quiverquant.com/news/Brookfield+Infrastructure+Partners+Reports+Strong+Second-Quarter+2026+Results,+Raises+Quarterly+Distribution+"
+   }
+  ],
+  "players": "Brookfield Infrastructure Partners reported Q2 FFO of $0.89 per unit, up 10% year on year. Management said it has secured or deployed over $800m into new investments in the first half, increased its equity commitment to the Bloom Energy framework for an additional capex project, and expects to close the acquisition of Clarus, New Zealand's gas infrastructure utility, in the coming weeks. Utilities FFO was $196m (up 5%) and transport FFO $311m (up 7% after normalising for capital recycling).",
+  "why_it_matters": "The mix tells you where core infra cash flow is coming from: inflation indexation plus over $500m of capital commissioned into rate base, offset by earnings sold away in Brazil and Mexico. Brookfield is funding growth out of disposals rather than equity, and pushing into AI power through its Kentucky DOE campus with NextEra and 200 MW in Korea. Watch the Clarus close and the next disposal.",
+  "why_you_care": "The clearest read this week on how the largest sponsor you track is funding AI-power deployment out of asset sales, useful for a self-funding-model answer in interviews.",
+  "firms": [
+   "Brookfield"
+  ],
+  "companies": [
+   "Brookfield Infrastructure Partners",
+   "Clarus",
+   "Bloom Energy",
+   "NextEra Energy"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure",
+   "Midstream & Gas",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "North America",
+   "New Zealand",
+   "South Korea"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-30-brookfield-infrastructure-posts-10-ffo-per-unit-d7ea14",
+  "story_id": "story-brookfield-infrastructure-posts-10-ffo-p",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
+  "headline": "Aecon consortium wins multi-billion-dollar contract for the MSIP-backed 932-MW Greenlight gas plant in Alberta",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Aecon Q2 2026 results (GlobeNewswire)",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336460/0/en/aecon-reports-second-quarter-2026-results.html"
+   },
+   {
+    "name": "MSIP investment in Greenlight Electricity Centre",
+    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-infrastructure-partners-announces-130200035.html"
+   }
+  ],
+  "players": "In its Q2 release, Aecon disclosed that after quarter end an Aecon consortium was awarded a multi-billion-dollar contract by Greenlight Electricity Centre Limited Partnership, whose owners are Pembina Pipeline, Morgan Stanley Infrastructure Partners and Kineticor Asset Management. MSIP announced its investment in the 932-MW combined-cycle project in Sturgeon County, Alberta on 6 July, with MSIP and Pembina each holding 47.5% and Kineticor 5%. Aecon reported Q2 revenue up 25% year on year, adjusted EBITDA roughly doubled, and backlog of $10.5bn.",
+  "why_it_matters": "The EPC award is the moment a greenfield power investment stops being a development story and starts consuming capital, so MSIP's return now hinges on construction cost and schedule rather than sourcing. Watch whether the co-located data centre offtake is firmed up, how the contract allocates completion risk, and what the price tag implies for per-kW build costs on Alberta gas.",
+  "why_you_care": "MSIP is a target fund and this is its freshest power deal, so knowing who is building Greenlight and on what terms is exactly the detail an interviewer will probe.",
+  "firms": [
+   "MSIP",
+   "Kineticor Asset Management"
+  ],
+  "companies": [
+   "Aecon Group",
+   "Pembina Pipeline",
+   "Greenlight Electricity Centre"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-07-30-aecon-consortium-wins-multi-billion-dollar-contr-efa52d",
+  "story_id": "story-aecon-led-consortium-wins-epc-for-msip-b",
+  "story_size": 2
  },
  {
   "date": "2026-07-29",
@@ -976,6 +1129,41 @@
  },
  {
   "date": "2026-07-27",
+  "headline": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "UP-NS transaction hub",
+    "url": "https://www.up-nstranscontinental.com/"
+   },
+   {
+    "name": "STB UP-NS merger resources",
+    "url": "https://www.stb.gov/resources/major-railroad-mergers/"
+   }
+  ],
+  "players": "On 27 July 2026 Union Pacific and Norfolk Southern filed the supplemental information ordered by the STB's 28 May decision, which had accepted the revised merger application as complete but held the proceeding, including environmental review, in abeyance pending that submission. The applicants say the filing enhances the application with customer protections beyond those provided in any prior rail merger; a separate 22 July Board decision required certain employee data previously marked highly confidential to be redesignated public by the same 27 July date. Union Pacific continues to guide to completion in 2027.",
+  "why_it_matters": "The abeyance is the binding constraint on timing, so the substantive question now is how quickly the Board issues a procedural schedule and restarts environmental review. Voluntary customer protections are the standard currency for buying STB approval, but they are also permanent conditions that cap post-merger pricing power, which is exactly what the synergy case is built on. For anyone underwriting intermodal terminals, short lines, transload or port-adjacent assets, the shape of those commitments matters more than the closing date: interchange and gateway protections determine whose volumes are contestable. BNSF, CPKC and shipper coalitions have consistently used each procedural step to press for more, so expect the conditions package to widen. Watch for the Board's procedural schedule decision and the second tranche of supplemental responses.",
+  "firms": [],
+  "companies": [
+   "Union Pacific",
+   "Norfolk Southern"
+  ],
+  "sectors": [
+   "Rail",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
+  "story_id": "story-up-and-ns-file-stb-supplemental-informat",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-27",
   "headline": "MSIP to acquire Epic Energy, owner of the Moomba to Adelaide Pipeline System in South Australia",
   "section": "sponsor_moves",
   "sources": [
@@ -1050,41 +1238,6 @@
   "flags": [],
   "id": "2026-07-27-levelten-q2-2026-solar-ppas-fall-4-8-to-61-40-mw-077ecb",
   "story_id": "story-levelten-q2-2026-solar-ppas-fall-4-8-to",
-  "story_size": 1
- },
- {
-  "date": "2026-07-27",
-  "headline": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
-  "section": "market_regulatory",
-  "sources": [
-   {
-    "name": "UP-NS transaction hub",
-    "url": "https://www.up-nstranscontinental.com/"
-   },
-   {
-    "name": "STB UP-NS merger resources",
-    "url": "https://www.stb.gov/resources/major-railroad-mergers/"
-   }
-  ],
-  "players": "On 27 July 2026 Union Pacific and Norfolk Southern filed the supplemental information ordered by the STB's 28 May decision, which had accepted the revised merger application as complete but held the proceeding, including environmental review, in abeyance pending that submission. The applicants say the filing enhances the application with customer protections beyond those provided in any prior rail merger; a separate 22 July Board decision required certain employee data previously marked highly confidential to be redesignated public by the same 27 July date. Union Pacific continues to guide to completion in 2027.",
-  "why_it_matters": "The abeyance is the binding constraint on timing, so the substantive question now is how quickly the Board issues a procedural schedule and restarts environmental review. Voluntary customer protections are the standard currency for buying STB approval, but they are also permanent conditions that cap post-merger pricing power, which is exactly what the synergy case is built on. For anyone underwriting intermodal terminals, short lines, transload or port-adjacent assets, the shape of those commitments matters more than the closing date: interchange and gateway protections determine whose volumes are contestable. BNSF, CPKC and shipper coalitions have consistently used each procedural step to press for more, so expect the conditions package to widen. Watch for the Board's procedural schedule decision and the second tranche of supplemental responses.",
-  "firms": [],
-  "companies": [
-   "Union Pacific",
-   "Norfolk Southern"
-  ],
-  "sectors": [
-   "Rail",
-   "Regulatory & Policy"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "high",
-  "situations": [],
-  "flags": [],
-  "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
-  "story_id": "story-up-and-ns-file-stb-supplemental-informat",
   "story_size": 1
  },
  {
@@ -3869,7 +4022,7 @@
   ],
   "id": "2026-07-02-aecon-led-consortium-wins-epc-for-msip-backed-gr-aad68b",
   "story_id": "story-aecon-led-consortium-wins-epc-for-msip-b",
-  "story_size": 1
+  "story_size": 2
  },
  {
   "date": "2026-07-02",
