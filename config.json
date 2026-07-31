@@ -4,6 +4,21 @@
   "timezone": "America/New_York",
   "email_to": "joeangella13@gmail.com",
 
+  "reader_profile": {
+    "who": "Joe Angella, an investment banking analyst at Rothschild & Co in New York, in the Infrastructure, Power & Renewables group. He is moving from infrastructure banking into infrastructure private equity.",
+    "uses": [
+      "source investment ideas",
+      "prepare for PE interviews (walk me through a deal, is this a good investment, why this fund)",
+      "build market context and comps for client pitches",
+      "track what competing sponsors are doing"
+    ],
+    "own_deals": [
+      "Brightline Florida", "Hydrostor", "ArcLight/Avangrid renewables",
+      "FTAI Infrastructure", "McDermott/NMDC", "Jennmar/Weber Mining",
+      "Odfjell Terminals", "Sisu/Miratech", "LOGISTEC/Termont"
+    ]
+  },
+
   "priority_firms": ["MSIP", "Stonepeak", "Greenbriar Equity Group"],
 
   "watchlist_firms": [

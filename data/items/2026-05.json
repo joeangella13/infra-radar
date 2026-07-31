@@ -14,7 +14,8 @@
    }
   ],
   "players": "Approximately 300 workers represented by IBEW Canadian Signals and Communications System Council No. 11 began striking CPKC at 08:00 MDT on Sunday, May 31, 2026. CPKC implemented contingency plans and said safe and efficient rail service continued across Canada. The company said it had presented a proposal with wage and benefit increases consistent with agreements held by its other Canadian unions and urged the IBEW to end the strike and accept binding arbitration. The strike ran into a second week by June 11 with a federal hearing scheduled.",
-  "why_it_matters": "A 300-person craft strike that does not stop trains demonstrates how much operational resilience Class I railroads retain against narrow-craft actions — relevant when sizing labour disruption risk in Canadian rail-dependent supply chains and port hinterlands. The context matters more than the size: this came weeks after BLET and SMART-TD members rejected a tentative CPKC agreement in late May, indicating broad-based bargaining friction across CPKC's Canadian workforce. Canada's anti-scab legislation constrains the contingency measures available, which raises the cost of a strike involving operating crafts. Watch whether operating-craft bargaining escalates, since that is the scenario that would actually interrupt grain, potash and intermodal flows.",
+  "why_it_matters": "About 300 IBEW signals and communications workers struck CPKC from May 31; the railway ran contingency plans, said service continued nationwide, and by June 11 the strike was in a second week with a federal hearing scheduled. CPKC had offered wages and benefits matching its other Canadian unions and pushed for binding arbitration. The bigger risk is operating crafts, where BLET and SMART-TD members had just rejected a tentative deal.",
+  "why_you_care": "A labour-disruption datapoint for Canadian rail-dependent supply chains and port hinterlands, which is the backdrop to work like LOGISTEC/Termont.",
   "firms": [],
   "companies": [
    "CPKC",
@@ -48,7 +49,8 @@
    }
   ],
   "players": "Morgan Lewis published its Annual Continuation Vehicles Report in May 2026, analysing 169 transactions. It found 97% of CVs charge management fees of 1% or less, 49% include fee stepdowns on term extension, 79% use tiered carry, 60% employ both IRR and MoIC hurdles, 74% have five-year initial terms, 92% allow up to two years of extensions and 64% include key person provisions. The report noted CVs represent at least a fifth of private market distributions in 2026.",
-  "why_it_matters": "Standardised CV economics — sub-1% fees, tiered carry, dual IRR/MoIC hurdles — mean the structure has moved from bespoke workaround to an institutional product LPs can benchmark, which lowers the friction cost of using it for long-hold infrastructure assets. For infrastructure GPs sitting on core assets with 10-year-plus natural lives, this is now a repeatable liquidity route rather than a signal of distress. The five-year initial term with two-year extensions is short relative to infrastructure asset lives, which will create a recurring re-financing event that buyers should price. Watch whether infrastructure-specific CV terms diverge toward longer initial terms.",
+  "why_it_matters": "Continuation vehicle economics have standardised across 169 deals: fees at or below 1% in 97% of cases, tiered carry in 79%, dual IRR and MoIC hurdles in 60%. That makes CVs a benchmarkable product rather than a bespoke workaround, and a normal liquidity route for long-hold infrastructure. The catch is that 74% run five-year initial terms, short against infrastructure asset lives.",
+  "why_you_care": "Interview-ready detail on how sponsors get liquidity without selling, handy if a fund asks how you would hold a core asset past fund life.",
   "firms": [
    "Morgan Lewis"
   ],
@@ -77,7 +79,8 @@
    }
   ],
   "players": "Dakota's May 2026 report on private fund launches and closes recorded Actis holding a $2.5 billion first close on Actis Energy 6 against a $6 billion target, investing in renewables, power grids and energy transition in emerging markets. The same report recorded I Squared Capital's ISQ Global Infrastructure Fund IV at a $10 billion initial close with LPs including the NYC Police Pension Fund, NYC Fire Department Pension Fund and Fairfax County Educational Employees' Supplementary Retirement System, and ECP VI at $4.8 billion.",
-  "why_it_matters": "Emerging-markets power at a $6bn target tests whether LP appetite extends beyond OECD digital and grid assets at a moment when US-focused strategies are absorbing most allocation. A strong Actis raise would reopen a capital channel for grid and renewables assets in markets where returns are higher but currency and offtake risk are real. The named US public pension LPs in I Squared's fund are also a reminder that the largest plans are still writing $10bn-scale support even as aggregate commitment counts fall. Watch the Actis final close and whether the $6bn target holds.",
+  "why_it_matters": "Actis held a $2.5bn first close on Energy 6 against a $6bn target for emerging-markets renewables, grids and energy transition, testing whether LP appetite runs beyond OECD digital and grid assets. The same report had I Squared's Fund IV at a $10bn initial close with NYC Police and Fire pension money among the LPs, and ECP VI at $4.8bn.",
+  "why_you_care": "Fundraising scoreboard. Handy background if an interviewer asks who is raising and where LP allocation is actually landing this cycle.",
   "firms": [
    "Actis",
    "I Squared Capital",
@@ -114,7 +117,8 @@
    }
   ],
   "players": "EQT set the target size for EQT Infrastructure VII at €21bn (about $24.5bn). The fund succeeds Infrastructure VI, which is the vehicle behind EQT's participation in the GIP-led AES take-private. Infrastructure VII has already been named as the acquiring fund for the Copia Power platform bought from Carlyle in July.",
-  "why_it_matters": "A €21bn target puts EQT into the very small club able to write control cheques of $2bn-plus without syndication, which is now table stakes for the power-and-AI deals defining the asset class. Scale of this order changes the deal set, it pushes the manager toward corporate carve-outs, listed take-privates and platform build-outs rather than single-asset infra. For LPs, the question is whether returns hold as fund size roughly doubles the addressable cheque, or whether the fund becomes a core-plus proxy. Watch the pace of first-close commitments and how much of Fund VI's DPI EQT can show before the hard cap is set.",
+  "why_it_matters": "A EUR21bn target, about $24.5bn, puts EQT among the handful of managers able to write $2bn-plus control cheques unsyndicated, which is now table stakes in power and AI deals. Fund VII is already the named buyer of Copia Power from Carlyle, while Fund VI sits behind the GIP-led AES take-private. The LP question is whether returns hold as cheque size roughly doubles.",
+  "why_you_care": "Useful scale benchmark when explaining why the largest infra funds now hunt carve-outs and take-privates, the same shift MSIP and Stonepeak are riding.",
   "firms": [
    "EQT Infrastructure"
   ],
@@ -144,7 +148,8 @@
    }
   ],
   "players": "Bond Buyer reported on May 29, 2026 that US P3 activity is accelerating in densely populated, fast-growing states including Virginia, Georgia, Florida, North Carolina and Colorado, driven by aging Interstate highways nearing end of life. Over 35 years the US has closed 40 highway P3s and three transit P3s; globally 50 P3 projects worth roughly $30 billion closed in 2025, with Asia accounting for 30. The largest US projects cited are Georgia's SR 400 express lanes at $8.7 billion and the Indiana Toll Road at $5.7 billion. The Trump administration announced an $8 billion renovation of New York's Penn Station earlier in May 2026, while private activity bond caps remain a financing constraint.",
-  "why_it_matters": "The US remains structurally underpenetrated in transport P3s relative to Asia and Europe, and highway replacement need plus federal enthusiasm is the combination that has historically unlocked deal flow. For funds with transport concession mandates this points to a widening pipeline in a handful of states with enabling legislation and toll acceptance. The binding constraint is the private activity bond cap, so watch the surface transportation reauthorization due October 2026 for a PAB cap increase or elimination, which would be the single largest unlock for US P3 volume. Penn Station is the marquee test of whether federal support translates into a bankable structure.",
+  "why_it_matters": "Forty highway P3s and three transit P3s in 35 years leaves the US structurally underpenetrated next to Asia, which took 30 of the 50 global P3s worth roughly $30bn that closed in 2025. Aging Interstates plus federal enthusiasm, marked by the $8bn Penn Station rebuild, is what historically unlocks deal flow. The binding constraint is the private activity bond cap, so the October 2026 surface transportation reauthorization is the real unlock.",
+  "why_you_care": "Market context rather than an idea: it frames where a US transport concession pipeline could come from if the PAB cap moves.",
   "firms": [],
   "companies": [],
   "sectors": [
@@ -174,7 +179,8 @@
    }
   ],
   "players": "Flexential closed the purchase of the Hillsboro 4 and Hillsboro 5 data centres in Hillsboro, Oregon, totalling 496,000 sq ft across 20 acres. Hillsboro 4 is 138,000 sq ft and 18MW and is fully leased; Hillsboro 5 is a 358,000 sq ft, 36MW two-storey facility. Seller and price were not disclosed. CEO Ryan Mallory framed it as the largest real estate transaction in the company's history and part of a shift from leasing to owning.",
-  "why_it_matters": "Converting leasehold colo into freehold ownership removes landlord recapture and rent-reset risk on facilities the operator has already filled, and it is the single clearest way to move a colocation business from an operating-company multiple toward a real-asset multiple. It also unlocks the balance sheet: owned data centres can be financed with ABS or mortgage debt, which is exactly the funding channel Flexential has been using. Hillsboro is the seventh-largest US data centre market and a key west-coast interconnection point, so control of the physical asset there has strategic value beyond the rent saving. Watch for the financing that follows this purchase and whether MSIP's investor group continues to support an owner-operator capital structure rather than a lease-light one.",
+  "why_it_matters": "Flexential closed its purchase of the Hillsboro 4 and 5 data centres in Oregon, 496,000 sq ft and 54MW combined, with Hillsboro 4 fully leased; seller and price undisclosed. Owning instead of leasing removes landlord recapture and rent-reset risk and shifts the business from an opco multiple toward a real-asset multiple. It also unlocks ABS and mortgage debt, the funding channel Flexential already uses.",
+  "why_you_care": "An MSIP-linked asset making the opco-to-propco move, which is exactly the value-creation story to have ready if they ask how you would underwrite colocation.",
   "firms": [
    "MSIP"
   ],
@@ -198,7 +204,7 @@
  },
  {
   "date": "2026-05-28",
-  "headline": "STB accepts Union Pacific-Norfolk Southern merger application but holds proceedings in abeyance pending supplemental data",
+  "headline": "STB accepts Union Pacific-Norfolk Southern merger application but holds proceedings in abeyance pending supplemental filings",
   "section": "sector_themes",
   "sources": [
    {
@@ -211,7 +217,8 @@
    }
   ],
   "players": "The Surface Transportation Board on May 28, 2026 (Press Release 26-13, Docket FD 36873) unanimously accepted the revised Union Pacific-Norfolk Southern merger application for consideration but placed the proceeding in abeyance pending supplemental information. Applicants were required to file by July 27, 2026 an enhanced competition analysis, access provisions for 2-to-1 and 3-to-2 shippers, public benefits and diversion analysis, a service assurance plan, gateway and car supply detail covering TRRA, KCT and TTX, market share projections, downstream merger impacts and passenger rail considerations. Environmental review remains in abeyance; the Board will hold at least 12 in-person plus virtual public meetings for the EIS.",
-  "why_it_matters": "The abeyance resets the clock on the largest North American rail combination in three decades and pushes real regulatory risk into 2027. For anyone underwriting Class I equity, short lines that interchange with UP or NS, or intermodal terminal assets, the base case is now a longer period of strategic paralysis rather than a clean approval. The specific data the Board demanded — 2-to-1 shipper remedies, gateway protection, service assurances — signals the STB is prepared to impose conditions that transfer value from the merged carrier to shippers and connecting roads. Watch the July 27 filings and the subsequent procedural schedule: the breadth of conditions will determine whether short-line owners get gateway protection windfalls or lose interchange optionality.",
+  "why_it_matters": "The STB unanimously accepted the revised Union Pacific-Norfolk Southern application on May 28 but held the proceeding in abeyance, requiring filings by July 27 on competition analysis, access for 2-to-1 and 3-to-2 shippers, service assurance, gateway and car supply covering TRRA, KCT and TTX, downstream merger effects and passenger rail. Environmental review stays paused, with at least 12 in-person EIS meetings to come. Real regulatory risk now sits in 2027.",
+  "why_you_care": "Rail sits in your coverage and passenger rail is explicitly in scope. The conditions the Board is fishing for decide who gains and loses at interchanges.",
   "firms": [],
   "companies": [
    "Union Pacific",
@@ -245,7 +252,8 @@
    }
   ],
   "players": "The Oregon Public Utility Commission approved Portland General Electric's Schedule 96 large-load tariff for customers above 20 MW on May 28, 2026, the first major implementation of Oregon's 2025 POWER Act. Minimum contract terms escalate with size from 10 years to 30 years for projects of 220 MW or more; minimum generation and transmission demand charges are set at 90% of contracted capacity regardless of usage; customers must cover 100% of distribution network upgrades; and projects above 100 MW pay an additional 1 cent/kWh surcharge funding residential assistance. Early termination penalties apply based on remaining demand obligations and unspent distribution investment.",
-  "why_it_matters": "A 30-year, 90% take-or-pay obligation transforms a data center's power contract from an opex line into a long-dated, quasi-debt liability that must be modeled in credit and residual-value analysis for the asset. For utility investors, it converts large-load capex into contracted rate base with contractual protection against stranding — a materially better risk profile than speculative generation build. Expect this structure to be replicated: Pennsylvania and other states are moving on model tariffs. Watch how take-or-pay levels and term lengths land in Virginia, Ohio and Georgia, because those terms will determine which markets remain economic for merchant colocation.",
+  "why_it_matters": "Oregon approved PGE's Schedule 96 for loads above 20 MW: terms escalating to 30 years at 220 MW and above, generation and transmission demand charges at 90% of contracted capacity regardless of usage, 100% of distribution upgrades on the customer, and a 1 cent/kWh surcharge above 100 MW. That makes a data center's power contract a long-dated, quasi-debt liability, and makes large-load capex contracted rate base protected against stranding.",
+  "why_you_care": "Concrete terms to model whenever a data center power contract lands in diligence, and a marker for where large-load tariffs are heading in other states.",
   "firms": [],
   "companies": [
    "Portland General Electric"
@@ -276,7 +284,8 @@
    }
   ],
   "players": "Antora Energy is installing a 5 GWh thermal battery system — more than 200 individual units — at Poet's ethanol facility in Big Stone City, South Dakota, using solid carbon blocks heated to approximately 2,400°C to produce industrial steam. Australian investment fund Grok Ventures financed the installation and jointly owns the system with Antora. The project pioneered a 'thermal market energy pricing rider' with utility Otter Tail Power, designed to pair consumption with periods of surplus renewable generation; the tariff has been approved in Minnesota, North Dakota and South Dakota. Antora declined to disclose costs; the system is roughly 1,000 times larger than its 2023 Fresno pilot.",
-  "why_it_matters": "Industrial heat is the largest untapped flexible load on the US grid, and a bespoke utility tariff approved in three states is the missing commercial ingredient — it converts curtailed renewables into a contracted industrial input. For investors, third-party-owned thermal storage under a special tariff is an infrastructure-like asset with an industrial credit counterparty rather than merchant exposure. A 5 GWh single deployment also shows thermal storage can reach scale faster than electrochemical LDES because it avoids interconnection as a generator. Watch whether the pricing rider spreads to other utilities and whether Grok-style third-party ownership becomes a repeatable financing model.",
+  "why_it_matters": "Industrial heat is the biggest untapped flexible load on the US grid, and the missing piece was commercial. A bespoke thermal market energy pricing rider with Otter Tail Power, now approved in Minnesota, North Dakota and South Dakota, turns surplus renewable generation into a contracted industrial input. Third-party ownership by Grok Ventures makes it an infrastructure-like asset with an industrial credit counterparty rather than merchant exposure.",
+  "why_you_care": "A storage comp outside the lithium frame, worth having when you argue Hydrostor's long-duration case against the alternatives.",
   "firms": [
    "Grok Ventures"
   ],
@@ -314,7 +323,8 @@
    }
   ],
   "players": "DigitalBridge agreed to acquire ArcLight Capital Partners, the private power investment manager, for approximately $1.05bn, creating a combined manager spanning power, AI and digital infrastructure. ArcLight brought roughly 20.8GW of owned generation capacity (as of June 2025), about 7GW of which sits in PJM, plus a circa 15GW development pipeline. ArcLight will run as a separately managed business; the deal is contingent on SoftBank Group completing its separate $4bn acquisition of DigitalBridge.",
-  "why_it_matters": "This is the clearest GP-level expression of the thesis that data centre returns are now gated by electrons, not racks: DigitalBridge is buying dispatchable PJM generation and a development pipeline rather than more colocation. Owning both sides lets the platform sell power-plus-shell to hyperscalers and capture the scarcity premium in constrained interconnection markets. At roughly $1.05bn for a manager with 20.8GW under ownership, the price is a management-company multiple, so the read-through is that GP consolidation is now being driven by capability gaps rather than AUM. The SoftBank contingency is the key execution risk to watch.",
+  "why_it_matters": "The clearest GP-level bet that data centre returns are gated by electrons, not racks: DigitalBridge is buying dispatchable generation, 20.8GW owned with about 7GW in PJM plus a 15GW pipeline, instead of more colocation, so it can sell power-plus-shell to hyperscalers. At roughly $1.05bn this is a management-company price, meaning GP consolidation is now driven by capability gaps. Contingent on SoftBank's separate $4bn DigitalBridge deal.",
+  "why_you_care": "You have worked opposite ArcLight. This changes who that counterparty becomes and gives you a sharp answer on why power is the AI bottleneck.",
   "firms": [
    "DigitalBridge",
    "ArcLight"
@@ -349,7 +359,8 @@
    }
   ],
   "players": "A Stonepeak-led consortium agreed to acquire Estia Health from Bain Capital, with Stonepeak taking the majority stake through its Volarae Living platform and Axight Capital Limited taking a minority. Terms undisclosed. Estia operates 90+ residential aged care homes across NSW, Queensland, South Australia and Victoria serving approximately 9,000 residents. Close expected late 2026 subject to regulatory approvals. This is Volarae Living's second ANZ social infrastructure investment after acquiring Aura Holdings in February 2026.",
-  "why_it_matters": "Australian residential aged care carries government-funded per-resident revenue plus refundable accommodation deposits, so the cash-flow profile blends regulated subsidy income with a large working-capital float that behaves like cheap financing if occupancy holds. The de-risking lever is the post-Royal Commission funding reform environment, which has lifted per-bed subsidies and made the sector investable again after years of operator distress, and Bain selling to a sponsor rather than listing signals the recovery is priced but not fully harvested. Building Volarae Living into a two-asset ANZ living platform in four months indicates Stonepeak intends scale-driven procurement, clinical staffing and development gains rather than a single-asset turnaround. Watch occupancy and staffing-ratio compliance costs, RAD balances, and whether Volarae adds retirement living to complete the continuum-of-care model.",
+  "why_it_matters": "Australian aged care earns government per-resident subsidy plus refundable accommodation deposits, so cash flow blends regulated income with a big working-capital float that behaves like cheap financing. Post-Royal Commission reform lifted per-bed subsidies and made the sector investable again; Bain agreeing a sponsor sale rather than a listing says the recovery is priced but not fully harvested. Two ANZ assets in four months means Stonepeak is building a platform.",
+  "why_you_care": "Stonepeak is on your target list. A live example of their platform-building playbook, Volarae after Aura, to cite in a why-this-fund answer.",
   "firms": [
    "Stonepeak",
    "Axight Capital",
@@ -386,7 +397,8 @@
    }
   ],
   "players": "Infrastructure Investor reported that I Squared Capital intends to deploy $1bn into Indian power transmission. The same briefing noted Copenhagen Infrastructure Partners seeking €1.5bn for a new biogas fund and an Allianz vehicle reaching a €1bn third close. Counterparty, asset detail and structure were not disclosed in the public summary.",
-  "why_it_matters": "Indian transmission is one of the few genuinely core, availability-based cash-flow streams in emerging Asia, with 35-year TBCB concessions paid on availability rather than volume. A $1bn commitment is large relative to the typical Indian transmission platform and implies a build-and-hold aggregation strategy rather than single-asset bidding. The entry basis matters because tariff-based competitive bidding has compressed equity IRRs as domestic and sovereign capital has crowded in. Watch whether I Squared buys an existing InvIT-ready portfolio or builds greenfield, since the two have very different risk and exit profiles.",
+  "why_it_matters": "Infrastructure Investor reported that I Squared intends to deploy $1bn into Indian power transmission, with no counterparty, asset or structure disclosed. Indian transmission is genuinely core: 35-year TBCB concessions paid on availability, not volume. But tariff-based competitive bidding has compressed equity IRRs as domestic and sovereign capital crowded in, and buying an InvIT-ready portfolio versus building greenfield gives very different risk and exit profiles.",
+  "why_you_care": "Useful for how a large fund frames an emerging-market core mandate, and a ready reference if an interviewer asks where you would put $1bn of power capital today.",
   "firms": [
    "I Squared Capital"
   ],
@@ -419,7 +431,8 @@
    }
   ],
   "players": "I Squared Capital committed up to $1bn to launch a US colocation and AI inference data centre platform, seeded by a $225m acquisition of ten facilities from Cogent Fiber. The seed portfolio spans nine markets (Chicago, Atlanta, Phoenix, Los Angeles, Kansas City, Baltimore, Houston, Nashville and Stockton) with roughly 53MW of installed power and 259,000 sq ft of colocation space. The Cogent transaction was expected to close in Q3 2026.",
-  "why_it_matters": "This is a deliberate bet that the next leg of data centre demand is inference at the edge, not training at hyperscale, which means smaller footprints in dense metros where power and fibre already exist. Entry via a carrier's non-core estate at $225m for 53MW is roughly $4.2m per MW, a fraction of greenfield hyperscale build cost, so the value creation is re-tenanting and densification rather than construction. The cash-flow profile is shorter-tenor and more churn-exposed than hyperscale leases, so underwriting rests on metro scarcity and power headroom. Watch lease-up pace and whether I Squared can add power at these sites without long interconnection queues.",
+  "why_it_matters": "I Squared is betting the next leg of data centre demand is edge inference rather than hyperscale training, meaning smaller footprints in dense metros where power and fibre already exist. Buying a carrier's non-core estate at $225m for 53MW is roughly $4.2m per MW, a fraction of greenfield cost, so value creation is re-tenanting and densification rather than construction. The trade-off is shorter tenor and more churn than hyperscale leases.",
+  "why_you_care": "Gives you a concrete dollars-per-MW entry benchmark for edge colocation, plus a competing-sponsor datapoint on playing AI power without hyperscale build risk.",
   "firms": [
    "I Squared Capital"
   ],
@@ -441,7 +454,7 @@
  },
  {
   "date": "2026-05-22",
-  "headline": "Tiger-backed EMED Group completes transfer of Bristol Ambulance EMS, adding 120 vehicles and 315 staff",
+  "headline": "Tiger Infrastructure portfolio company Unison Energy names Al Dahya chief financial officer",
   "section": "sponsor_moves",
   "sources": [
    {
@@ -462,7 +475,8 @@
    }
   ],
   "players": "Unison Energy, the Tiger Infrastructure-backed energy-as-a-service platform headquartered in Greenwich, Connecticut, appointed Al Dahya as chief financial officer, effective immediately. Dahya was most recently Director of Operations at Breakthrough Energy and previously CFO and Chief Corporate Development Officer at SOURCE Global from 2018 to 2025, with earlier roles at SunEdison and TerraForm Global. Unison designs, builds, owns and operates on-site microgrids for critical infrastructure facilities including hospitals, data centres and industrial operations under long-term fixed-price contracts. Tiger COO and Senior Managing Director Marc H. Blair endorsed the appointment.",
-  "why_it_matters": "Public charging cash flow is utilisation-driven and merchant, so the underwriting depends on kerbside site rights and local EV density rather than contracted offtake, but the acquired sites come with established locations and grid connections that are the genuinely scarce input. The value-creation lever is operator consolidation: municipal utilities across the Nordics are exiting charging as a non-core activity, which creates a steady flow of small, cheaply priced asset portfolios for a specialist platform that can spread software, payments and maintenance costs across a national footprint. This is a template transaction rather than a material one on its own, and the read-through is that Qwello has an origination channel into Swedish municipal divestments. Watch whether Qwello repeats this structure with other kommun-owned utilities and whether utilisation on the acquired sites justifies the retained rapid-charger split.",
+  "why_it_matters": "Unison Energy, Tiger Infrastructure's energy-as-a-service platform in Greenwich, Connecticut, appointed Al Dahya chief financial officer, effective immediately. He was Director of Operations at Breakthrough Energy and CFO and Chief Corporate Development Officer at SOURCE Global from 2018 to 2025, after SunEdison and TerraForm Global. Unison owns and operates on-site microgrids for hospitals, data centres and industry on long-term fixed-price contracts. (Source record is inconsistent: headline and commentary describe unrelated items.)",
+  "why_you_care": "A personnel item, not a deal. Worth knowing the name in on-site microgrids for data centres, which sits right next to your gas-to-power work.",
   "firms": [
    "Tiger Infrastructure"
   ],
@@ -486,7 +500,7 @@
   "situations": [],
   "flags": [],
   "id": "2026-05-22-tiger-backed-emed-group-completes-transfer-of-br-3c787f",
-  "story_id": "story-tiger-backed-emed-group-completes-transf",
+  "story_id": "story-tiger-infrastructure-portfolio-company-u",
   "story_size": 1
  },
  {
@@ -504,7 +518,8 @@
    }
   ],
   "players": "Chris Ortega, head of the Americas at MSIP, set out the firm's strategy on Infralogic's Crossroads podcast: a focus on middle-market infrastructure combining stable cash flows with active value creation, on the view that traditional core assets now clear at single-digit yields and returns must come from operational improvement rather than passive ownership. He said MSIP prioritises development opportunities, carve-outs and platform building over buying mature assets, and that mid-market deals offer more scope to negotiate bilaterally. MSIP has approximately $17bn of capital commitments since its 2006 founding, within a Morgan Stanley Investment Management platform of $1.9trn AUM as at 31 March 2026.",
-  "why_it_matters": "This is the clearest public statement of where MSIP is deploying, and the 2026 deal record matches it almost exactly: a greenfield gas plant in Alberta, a family-owned French waste carve-out, and a bilaterally sourced Australian pipeline. The strategy is a deliberate move up the risk curve at a point when large-cap core funds are competing away returns, which means MSIP's realised performance will hinge on construction and integration execution rather than multiple arbitrage. It also explains the absence of MSIP from headline megadeal auctions in the first half of 2026. Watch whether this positioning translates into a successor North Haven Infrastructure vehicle and how LPs price development risk in a mid-market wrapper.",
+  "why_it_matters": "Ortega says traditional core assets now clear at single-digit yields, so MSIP targets development, carve-outs and platform building in the mid-market, where deals can be negotiated bilaterally rather than won at auction. The 2026 record matches almost exactly: an Alberta greenfield gas plant, a French family waste carve-out, a bilateral Australian pipeline. It is a deliberate move up the risk curve, so returns hinge on construction and integration, not multiple arbitrage.",
+  "why_you_care": "This is the why-MSIP answer in their own words. Learn the three-pillar framing and have a deal of your own ready against each pillar.",
   "firms": [
    "MSIP"
   ],
@@ -535,7 +550,8 @@
    }
   ],
   "players": "123NET, the Grain Management-backed Michigan telecommunications provider, named Ken Fitzpatrick president and CEO, succeeding founder Dan Irvin who transitions to the board of directors. Fitzpatrick has over 30 years in telecom, most recently president and CEO at Everstream, previously Chief Strategy Officer for communications at Wipro and nearly two decades at Charter Communications and Spectrum Enterprise as SVP. 123NET operates Michigan's largest fiber network at nearly 5,000 route miles, four data centres in the Detroit and Grand Rapids metros, and Michigan's largest carrier hotel, the Detroit Internet Exchange. Grain Managing Director Steven Smith endorsed the appointment.",
-  "why_it_matters": "Founder-to-professional-CEO transitions at sponsor-backed fiber companies almost always precede an institutionalisation phase: standardised commercial processes, more aggressive enterprise sales motion, and preparation for either a large financing or an exit. Fitzpatrick's specific background is the signal, since Everstream is a directly comparable regional enterprise fiber platform and Spectrum Enterprise is the enterprise-sales playbook 123NET needs to monetise its 5,000 route miles beyond wholesale. The asset mix matters here: four data centres plus the Detroit Internet Exchange carrier hotel give 123NET interconnection revenue with utility-like margins and very low churn, which is the highest-multiple component of the business and arguably under-exploited. Watch whether the new management pushes data centre expansion to capture Michigan AI and cloud demand, and how Grain positions the asset for realisation.",
+  "why_it_matters": "Grain Management-backed 123NET named Ken Fitzpatrick CEO, with founder Dan Irvin moving to the board. Fitzpatrick ran Everstream, a comparable regional enterprise fibre platform, and spent nearly two decades at Charter and Spectrum Enterprise. These transitions usually precede institutionalisation and a big financing or exit. The real prize is four data centres plus the Detroit Internet Exchange carrier hotel, interconnection revenue with utility-like margins and low churn.",
+  "why_you_care": "Management change as an exit signal is a pattern worth naming in interviews, and it is useful sponsor intel if you track who is preparing digital infra for sale.",
   "firms": [
    "Grain Management"
   ],
@@ -571,7 +587,8 @@
    }
   ],
   "players": "Amtrak and US Transportation Secretary Sean P. Duffy announced on May 20, 2026 the selection of Penn Transformation Partners, led by Halmar, as master developer team for the transformation of New York Penn Station. USDOT and Amtrak subsequently unveiled a new Penn Station design on June 10, 2026. Separately, USDOT designated $466 million for Washington Union Station upgrades on May 29, 2026.",
-  "why_it_matters": "Master developer selection is the milestone that converts Penn Station from a political concept into a procurable programme, and it opens a multi-year pipeline of design-build and concession subcontracts for infrastructure contractors and investors in station retail, parking and adjacent real estate. Major US station redevelopments have historically been funded through a mix of federal grants, air-rights monetisation and value capture rather than user fees, so the revenue model is the key diligence question for anyone considering participation. The parallel $466 million commitment to Washington Union Station indicates federal willingness to fund Northeast Corridor station assets specifically. Watch the funding structure and whether any element is offered as a concession with private revenue risk.",
+  "why_it_matters": "Naming a master developer turns Penn Station from a political concept into a procurable programme, opening years of design-build and concession subcontracts plus station retail, parking and adjacent real estate. US station redevelopments have been funded by federal grants, air-rights monetisation and value capture rather than user fees, so the revenue model is the diligence question. The $466m for Washington Union Station shows federal appetite for Northeast Corridor stations.",
+  "why_you_care": "Transport-infra pipeline in your own backyard, and a useful counterpoint to Brightline on how US passenger rail assets actually get paid for.",
   "firms": [],
   "companies": [
    "Amtrak",
@@ -603,7 +620,8 @@
    }
   ],
   "players": "Great Plains Communications (GPC), a Grain Management portfolio company, agreed to acquire the Nebraska broadband business of American Broadband Holding Company dba Fastwyre Broadband. Terms undisclosed. The acquisition covers residential and business customers in 26+ Nebraska communities including Bellevue, Blair, Fremont, Wayne, Tekamah and Winnebago, and brings over two dozen Nebraska-based Fastwyre employees to GPC. Close is subject to customary conditions and regulatory approvals. GPC operates a MEF-certified 20,000+ mile fiber network. CEO Todd Foje called it a strategic milestone in expanding the Midwest fiber network.",
-  "why_it_matters": "This is in-footprint consolidation, which is the highest-return form of fiber M&A because acquired subscribers can be migrated onto existing GPC network and back-office with minimal incremental capex, converting a competitor's cost base directly into margin. Nebraska residential broadband cash flow is subscription-based with low churn where fiber faces only cable or DSL competition, and the acquired communities sit adjacent to GPC's existing 20,000-mile route. The timing is notable: this closed weeks before GPC was folded into Rightfiber alongside Ritter, so Grain was buying density immediately ahead of the platform combination, which suggests deliberate sequencing to maximise the combined entity's scale narrative. Watch state regulatory approval, subscriber retention through the transition, and whether the acquired communities qualify for grant-funded upgrades.",
+  "why_it_matters": "Grain-backed Great Plains Communications agreed to acquire Fastwyre's Nebraska broadband business, covering 26+ communities and over two dozen staff, terms undisclosed and subject to regulatory approval. In-footprint consolidation is the cheapest form of fibre M&A because subscribers migrate onto GPC's existing 20,000-mile network with minimal new capex. It landed weeks before GPC was folded into Rightfiber alongside Ritter, so Grain was buying density ahead of the platform combination.",
+  "why_you_care": "Outside your coverage, but a tidy example of buying density immediately before a platform merger, which is the kind of sequencing logic that works in a walk-me-through-a-deal answer.",
   "firms": [
    "Grain Management"
   ],
@@ -628,6 +646,40 @@
  },
  {
   "date": "2026-05-19",
+  "headline": "Lightpath adds 265 route miles in greater New York to serve more than 2,400 macro cell sites",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297621/0/en/lightpath-expands-its-dense-nyc-metropolitan-fiber-infrastructure-network-to-support-major-national-wireless-service-providers-across-more-than-2-400-macro-cell-tower-locations.html"
+   }
+  ],
+  "players": "Lightpath is adding 265 new route miles across the greater New York metropolitan area to support leading national wireless carriers at more than 2,400 macro cell tower locations spanning Connecticut, Massachusetts, New York and New Jersey. The network provides 100G and 400G aggregation links with optical transport up to 800G. Contract terms and values were not disclosed; the company said more than 50% of endpoints are served as second, third or fourth tenants on existing fibre.",
+  "why_it_matters": "Mobile backhaul is the most infrastructure-like revenue metro fibre carries: multi-year contracts with investment-grade carriers, low churn, predictable escalators. Lightpath is adding 265 route miles to serve more than 2,400 macro sites, and the return driver is that over half of endpoints are second, third or fourth tenants on existing fibre, so marginal cost is minimal. For MSIP it protects legacy cash flow while AI long-haul builds mature.",
+  "why_you_care": "An MSIP asset. Know it before the interview, since it shows how they defend an existing cash flow base rather than chase new builds.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Lightpath"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-05-19-lightpath-adds-265-route-miles-in-greater-new-yo-367f42",
+  "story_id": "story-lightpath-adds-265-route-miles-in-greate",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-19",
   "headline": "Basalt Infrastructure completes sale of Manx Telecom to CVC DIF and Jersey Telecom consortium",
   "section": "sponsor_moves",
   "sources": [
@@ -637,7 +689,8 @@
    }
   ],
   "players": "Basalt Infrastructure Partners LLP completed the sale of Manx Telecom to a consortium of CVC DIF and Jersey Telecom. Terms undisclosed. Manx Telecom is the incumbent telecommunications provider on the Isle of Man, offering fixed line, mobile, broadband and data storage services plus IoT solutions through its OV subsidiary. Basalt acquired the business in 2019. Managing Partner John Hanna said it had been a great experience supporting the company's growth since acquisition.",
-  "why_it_matters": "An incumbent island telco is about as defensive as digital infrastructure gets: a captive addressable market, no realistic overbuilder, and regulated-adjacent pricing produce utility-like cash flows with low churn. The buyer combination is the tell on strategy: Jersey Telecom brings operating capability and a directly analogous Crown Dependency playbook, while CVC DIF supplies the core infrastructure capital, so the consortium can underwrite synergies a pure financial buyer could not. Basalt's seven-year hold matches the standard core-plus duration and the exit to a strategic-plus-fund consortium is the highest-value route for a single-market incumbent. For Basalt this is a Fund realisation landing eight days after the R.E.L.A.M. commitment, showing active portfolio rotation on both sides.",
+  "why_it_matters": "An incumbent island telco is about as defensive as digital infrastructure gets: captive market, no realistic overbuilder, utility-like cash flows. The buyer mix is the tell, with Jersey Telecom bringing an operating playbook from an analogous Crown Dependency and CVC DIF bringing the capital, so the consortium can underwrite synergies a pure financial buyer could not. Seven-year hold, terms undisclosed.",
+  "why_you_care": "Outside your sectors, but a good template for exit routing: pairing a strategic with a fund is how you maximise value on a single-market asset.",
   "firms": [
    "Basalt Infrastructure",
    "CVC DIF",
@@ -662,39 +715,6 @@
   "story_size": 1
  },
  {
-  "date": "2026-05-19",
-  "headline": "Lightpath adds 265 route miles in greater New York to serve more than 2,400 macro cell sites",
-  "section": "sector_themes",
-  "sources": [
-   {
-    "name": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/19/3297621/0/en/lightpath-expands-its-dense-nyc-metropolitan-fiber-infrastructure-network-to-support-major-national-wireless-service-providers-across-more-than-2-400-macro-cell-tower-locations.html"
-   }
-  ],
-  "players": "Lightpath is adding 265 new route miles across the greater New York metropolitan area to support leading national wireless carriers at more than 2,400 macro cell tower locations spanning Connecticut, Massachusetts, New York and New Jersey. The network provides 100G and 400G aggregation links with optical transport up to 800G. Contract terms and values were not disclosed; the company said more than 50% of endpoints are served as second, third or fourth tenants on existing fibre.",
-  "why_it_matters": "Mobile backhaul is the most infrastructure-like revenue a metro fibre operator can carry: multi-year contracts with a handful of investment-grade carriers, low churn and predictable escalators. The disclosure that over half of endpoints are multi-tenant is the number that matters for returns, because incremental tenants on owned fibre carry minimal marginal cost, which is exactly the point CEO Chris Morley made about economics being difficult to replicate. For MSIP this densification protects the legacy cash flow base while the AI-driven long-haul builds mature. Watch carrier capex cycles and whether densification for fixed wireless and small cells extends the contract book further.",
-  "firms": [
-   "MSIP"
-  ],
-  "companies": [
-   "Lightpath"
-  ],
-  "sectors": [
-   "Digital Infrastructure"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [
-   "priority_firm"
-  ],
-  "id": "2026-05-19-lightpath-adds-265-route-miles-in-greater-new-yo-367f42",
-  "story_id": "story-lightpath-adds-265-route-miles-in-greate",
-  "story_size": 1
- },
- {
   "date": "2026-05-18",
   "headline": "McDermott reports Q1 2026 revenue of $2.4bn, adjusted EBITDA of $117m and backlog of $17.6bn",
   "section": "tracked_situations",
@@ -705,7 +725,8 @@
    }
   ],
   "players": "McDermott reported first quarter 2026 revenue of $2.4bn, adjusted EBITDA of $117m with $489m on a trailing twelve month basis, backlog of $17.6bn and $126m of cash used in operations. CEO Michael McKelvy said results exceeded expectations on strong project execution, improving backlog quality and continued operating discipline, and noted operations in the Middle East continue while the company monitors regional developments. A conference call was held on May 20, 2026.",
-  "why_it_matters": "The $489m trailing EBITDA and $17.6bn backlog are the figures Robotti cites against a $51m implied pre-money equity value, so this print is the evidentiary base for the rights offering dispute. Negative $126m of operating cash flow in the quarter is the counterweight and explains why the company needed to cash collateralise LC facilities: the business converts earnings to cash unevenly, which is standard for lump-sum EPC but punitive when bonding capacity is constrained. Middle East concentration is a live risk given the company's own reference to monitoring regional developments and the Strait of Hormuz disruption affecting the broader sector. The next disclosure that matters is post-refinancing leverage once the bond and rights offering settle in Q3.",
+  "why_it_matters": "McDermott reported Q1 2026 revenue of $2.4bn, adjusted EBITDA of $117m ($489m trailing twelve months), backlog of $17.6bn and $126m of cash used in operations. The trailing EBITDA and backlog are what Robotti cites against a $51m implied pre-money equity value in the rights offering dispute; negative operating cash flow is the counterweight and explains the cash-collateralised LC facilities. Middle East concentration stays live.",
+  "why_you_care": "You worked McDermott/NMDC, so these are the figures behind the rights-offering fight. Know which side each number supports before the situation comes up.",
   "firms": [],
   "companies": [
    "McDermott International"
@@ -741,7 +762,8 @@
    }
   ],
   "players": "NextEra Energy agreed on May 18, 2026 to combine with Dominion Energy in a $67 billion all-stock transaction at an exchange ratio of 0.8138 NextEra shares per Dominion share, plus a $360 million one-time cash payment to Dominion holders. The combined company would serve roughly 10 million utility customer accounts across Florida, Virginia, the Carolinas, with ~110 GW of generation and a $138 billion combined rate base. NextEra committed $2.25 billion in bill credits over two years post-close; management expects closing in 12 to 18 months, with Latitude Media reporting a 130-GW large-load pipeline and ~$59 billion of annual capex over five years.",
-  "why_it_matters": "This puts Virginia's Data Center Alley interconnection queue inside the largest regulated rate base in the country, and it re-prices what strategic control of load-growth territory is worth. For infra investors it signals that regulated utility platforms with large-load queues now trade at a scarcity premium versus merchant or contracted renewables. NextEra's stated motive — diversifying away from an 'existential cliff' when federal renewable tax credits lapse after 2030 — is a warning that tax-credit-dependent development platforms face terminal-value compression. Watch FERC Section 203, NRC and Virginia/Florida state approvals, and whether other utilities with data center queues become targets at similar premiums.",
+  "why_it_matters": "NextEra agreed on May 18 to combine with Dominion in a $67bn all-stock deal at 0.8138 shares per Dominion share, creating roughly 110 GW and a $138bn rate base. That puts Virginia's Data Center Alley queue inside the largest regulated rate base in the country, so large-load queues now carry a scarcity premium over merchant renewables. NextEra's stated motive, the cliff when federal renewable credits lapse after 2030, warns that tax-credit-dependent developers face terminal-value compression.",
+  "why_you_care": "Biggest power comp of the year and an easy answer to what is happening in your sector, plus a frame for why tax-credit-reliant developers get marked down.",
   "firms": [
    "NextEra Energy"
   ],
@@ -775,7 +797,8 @@
    }
   ],
   "players": "The Nuclear Regulatory Commission issued an environmental assessment with a finding of no significant impact on May 18, 2026 for X-energy's project at Dow's UCC Seadrift Operations on the Texas Gulf Coast — four 80-MW Xe-100 reactors totaling 320 MW. Canary Media reported it is the first time in the NRC's 52-year history that a commercial nuclear project's environmental review was completed via assessment rather than a full environmental impact statement. Safety review recommendations are expected in November 2026 with a final commission verdict to follow; X-energy is pursuing an 18-month permitting timeline, roughly half the historical duration. Amazon has taken an equity stake and committed to financing construction alongside a DOE cost-sharing agreement.",
-  "why_it_matters": "Permitting duration is the dominant variable in advanced nuclear NPVs, and replacing an EIS with an EA halves the pre-construction timeline and the associated development capital at risk. If the 18-month template holds, it materially improves SMR project IRRs and makes 2030-2032 in-service dates credible rather than aspirational. An industrial host with an investment-grade offtake need — Dow's process heat and power — is also a better anchor credit than a merchant grid position. Watch the November 2026 safety review, which is the gating item; slippage there would reset the entire accelerated-permitting thesis.",
+  "why_it_matters": "Swapping a full environmental impact statement for an environmental assessment, a first in the NRC's 52 years, halves the pre-construction timeline and the development capital at risk, which is the dominant variable in advanced nuclear returns. If X-energy's 18-month template holds, SMR IRRs improve and 2030-2032 in-service dates become credible. Dow's process heat and power need is a better anchor credit than a merchant grid position; the November 2026 safety review is the gate.",
+  "why_you_care": "Nuclear and SMRs sit in your coverage and come up in every power interview. This is the permitting-timeline argument, with Amazon equity and DOE cost-sharing behind it.",
   "firms": [],
   "companies": [
    "X-energy",
@@ -799,38 +822,6 @@
  },
  {
   "date": "2026-05-15",
-  "headline": "Tiger Infrastructure sells International Aerospace Coatings from Fund III after scaling hangars from 17 to 25",
-  "section": "sponsor_moves",
-  "sources": [
-   {
-    "name": "PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/tiger-infrastructure-partners-announces-fund-iii-sale-of-iac-a-global-leader-in-critical-aviation-services-following-successful-implementation-of-value-creation-playbook-302773078.html"
-   }
-  ],
-  "players": "Tiger Infrastructure Partners announced the Fund III sale of International Aerospace Coatings (IAC) to a large infrastructure investment fund. Terms undisclosed and the buyer was not named. IAC operates 25 on-airport hangars under long-term concessions across North America and Europe, providing aircraft painting services to manufacturers, airlines, leasing companies and governments. Under Tiger's ownership the hangar count grew from 17 to 25 and IAC secured its inaugural investment-grade debt rating in 2025.",
-  "why_it_matters": "IAC is an infrastructure-adjacent services business where the infrastructure characteristics come from long-term on-airport concessions and scarce hangar capacity rather than from contracted revenue, so the multiple depends on how much the buyer credits the concession moat versus the cyclicality of aircraft repainting. The value-creation lever was straightforward and executed: nearly 50% hangar expansion plus an investment-grade rating in 2025 that materially lowered cost of capital and made the asset financeable for a core-plus buyer. Selling to another infrastructure fund rather than a strategic confirms the asset has migrated up the risk spectrum from growth equity to core-plus, which is exactly the arbitrage Tiger's build-to-scale model targets. Tiger states it hit the five-year plan ahead of schedule, which supports Fund III DPI and positions the firm for its next raise.",
-  "firms": [
-   "Tiger Infrastructure"
-  ],
-  "companies": [
-   "International Aerospace Coatings"
-  ],
-  "sectors": [
-   "Transport & Logistics"
-  ],
-  "geo": [
-   "United States",
-   "Europe"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-15-tiger-infrastructure-sells-international-aerospa-d6440c",
-  "story_id": "story-tiger-infrastructure-sells-international",
-  "story_size": 1
- },
- {
-  "date": "2026-05-15",
   "headline": "GIP targets $10bn for new Gulf and Central Asia infrastructure fund backed by ADNOC, L'imad and Temasek",
   "section": "sponsor_moves",
   "sources": [
@@ -840,7 +831,8 @@
    }
   ],
   "players": "Global Infrastructure Partners, part of BlackRock, is targeting $10bn for a new vehicle focused on the Gulf Cooperation Council region and Central Asia. Reported backers include UAE sovereign investor L'imad, Abu Dhabi National Oil Company and Singapore's Temasek. Fund terms, strategy detail and timing were not disclosed.",
-  "why_it_matters": "A dedicated $10bn GCC/Central Asia pool is BlackRock institutionalising the sovereign relationships it inherited with GIP, and turning them from LP cheques into anchor capital for a regional platform. The asset set is likely to skew to gas, power, water desalination and logistics with government or quasi-sovereign offtake, which is long-duration and hard-currency but carries concentrated counterparty and political risk. Anchoring with ADNOC and a state investor also front-loads deal origination in a market where proprietary access matters more than price discipline. Watch whether this fund becomes the vehicle for the sort of leaseback structures now being written in Kuwait.",
+  "why_it_matters": "GIP is targeting $10bn for a Gulf and Central Asia vehicle, with ADNOC, L'imad and Temasek reported as backers, which is BlackRock converting inherited sovereign relationships into anchor capital for a regional platform. The likely asset set is gas, power, desalination and logistics on government offtake: long-duration and hard-currency, with concentrated counterparty and political risk. Anchoring with sovereigns front-loads origination in a market where access beats price discipline.",
+  "why_you_care": "Competitor mapping. Shows where BlackRock and GIP are steering capital next; market context rather than anything directly actionable for you.",
   "firms": [
    "Global Infrastructure Partners"
   ],
@@ -864,6 +856,39 @@
  },
  {
   "date": "2026-05-15",
+  "headline": "Tiger Infrastructure sells International Aerospace Coatings from Fund III after scaling hangars from 17 to 25",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/tiger-infrastructure-partners-announces-fund-iii-sale-of-iac-a-global-leader-in-critical-aviation-services-following-successful-implementation-of-value-creation-playbook-302773078.html"
+   }
+  ],
+  "players": "Tiger Infrastructure Partners announced the Fund III sale of International Aerospace Coatings (IAC) to a large infrastructure investment fund. Terms undisclosed and the buyer was not named. IAC operates 25 on-airport hangars under long-term concessions across North America and Europe, providing aircraft painting services to manufacturers, airlines, leasing companies and governments. Under Tiger's ownership the hangar count grew from 17 to 25 and IAC secured its inaugural investment-grade debt rating in 2025.",
+  "why_it_matters": "IAC's infrastructure quality comes from long-term on-airport concessions and scarce hangar capacity, not contracted revenue, so the multiple hinges on how much the buyer credits that moat against repainting cyclicality. Tiger grew hangars from 17 to 25 and secured an inaugural investment-grade rating in 2025, lowering cost of capital. Selling to another infrastructure fund rather than a strategic confirms the asset moved from growth equity to core-plus.",
+  "why_you_care": "A clean build-to-core exit story. Useful as a template when an interviewer asks you to lay out a value creation plan.",
+  "firms": [
+   "Tiger Infrastructure"
+  ],
+  "companies": [
+   "International Aerospace Coatings"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States",
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-15-tiger-infrastructure-sells-international-aerospa-d6440c",
+  "story_id": "story-tiger-infrastructure-sells-international",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-15",
   "headline": "Texas anti-bullet-train group ReRoute the Route lobbies against Brightline West's $6bn RRIF loan",
   "section": "tracked_situations",
   "sources": [
@@ -873,7 +898,8 @@
    }
   ],
   "players": "ReRoute the Route, a Texas group of farmers, ranchers and businesses opposing Texas Central, represented by lobbyist John Sitilides of Trilogy Advisors LLC, wrote opposing the $6bn RRIF loan to Brightline West. The group argues no prior RRIF loan has exceeded $1bn, that the project fails creditworthiness standards, and that costs have risen 35% from about $16bn to $21.5bn. Brightline West declined to comment; the RRIF application remains pending and FRA leadership had made positive public remarks in late April 2026.",
-  "why_it_matters": "Organised opposition adds political process risk to a loan that is already stuck in a creditworthiness review, and the precedent argument is designed to make approval costly for the administration beyond this single transaction. The $1bn historical RRIF ceiling is a real underwriting reference point that federal credit staff will have to address explicitly in any approval memo. Because the bank consortium's $4bn is conditioned on RRIF execution, any delay driven by this lobbying propagates directly into the senior debt timetable. Watch whether the Build America Bureau closes out its information requests; that, rather than the lobbying itself, is the gating item.",
+  "why_it_matters": "ReRoute the Route, a Texas group of farmers, ranchers and businesses, is lobbying against Brightline West's $6bn RRIF loan, arguing no prior RRIF loan has exceeded $1bn, that the project fails creditworthiness standards, and that costs have risen 35% from about $16bn to $21.5bn. The application remains pending. Because the bank consortium's $4bn is conditioned on RRIF execution, delay flows straight into the senior debt timetable.",
+  "why_you_care": "Read-through to your Brightline work: the $1bn RRIF precedent is the specific objection federal credit staff would have to answer in any approval memo.",
   "firms": [
    "Trilogy Advisors",
    "ReRoute the Route"
@@ -914,7 +940,8 @@
    }
   ],
   "players": "Infrastructure Investor identified Temasek, GIC and CalPERS as co-investors in the Macquarie Asset Management-led consortium bidding for Australian ports and logistics operator Qube Holdings. The scheme was agreed in February 2026 at about A$11.7bn (roughly US$8.3bn) enterprise value, A$5.20 per share in cash, via MAM's MAIF 4 vehicle. The New South Wales Supreme Court subsequently approved the scheme in July 2026.",
-  "why_it_matters": "This is the largest Australian infrastructure take-private of the cycle and confirms that listed logistics platforms with landside port concessions still clear at a premium when sovereign and pension capital syndicates behind a manager. The cash-flow profile blends contracted terminal and rail-linked throughput with more cyclical logistics services, so the underwriting hinges on the regulated-like Patrick terminals stake and bulk contract renewals. Sovereign co-investment at this scale is what allows an A$11.7bn cheque without a club of GPs, and it compresses the fee load for the manager. Watch how the consortium handles the Patrick joint venture and whether asset-level recycling follows.",
+  "why_it_matters": "The largest Australian infrastructure take-private of the cycle, at roughly A$11.7bn enterprise value and A$5.20 a share in cash, shows listed logistics platforms with landside port concessions still clear at a premium when sovereign and pension money syndicates behind a manager. That co-investment is what allows a cheque this size without a GP club. The NSW court approved the scheme in July.",
+  "why_you_care": "Benchmark for how a large ports-and-logistics platform gets funded, and a concrete example of co-invest structure if fund strategy comes up.",
   "firms": [
    "Macquarie Asset Management",
    "GIC"
@@ -949,7 +976,8 @@
    }
   ],
   "players": "Hydrostor announced development of the Quinte Energy Storage Centre, an advanced compressed air energy storage project in Greater Napanee, Ontario, after receiving a Municipal Support Resolution and entering the permitting phase. The Mohawks of the Bay of Quinte are named as Indigenous equity partner and Hatch as strategic execution partner. The project is positioned for Ontario IESO's Long-Lead-Time Procurement targeting up to 800 MW of long-duration storage, and Hydrostor cited a US$50m convertible development expenditure loan facility from Canada Growth Fund for its Canadian projects, with roughly CA$1.4bn of GDP contribution and about 40 permanent positions.",
-  "why_it_matters": "This is Hydrostor converting its Canadian sponsor relationships into a bid-ready asset ahead of a defined IESO procurement, which is the cleanest route to a contracted revenue stream in Ontario. The Canada Growth Fund convertible development facility is the structure to watch, because conversion terms will determine dilution at the platform level if Canadian projects scale. Indigenous equity participation is increasingly a practical permitting prerequisite in Ontario, so locking in the Mohawks of the Bay of Quinte early de-risks the approvals path. The next decision point is IESO's LLT procurement outcome; until an award, this remains a development-stage position with no contracted offtake.",
+  "why_it_matters": "Hydrostor is developing the Quinte A-CAES project in Greater Napanee, Ontario, now in permitting after a Municipal Support Resolution, with the Mohawks of the Bay of Quinte as Indigenous equity partner and Hatch executing. It is aimed at IESO's Long-Lead-Time procurement for up to 800MW of long-duration storage, with a US$50m convertible development loan from Canada Growth Fund behind the Canadian projects. Until an award there is no contracted offtake.",
+  "why_you_care": "Feeds your Hydrostor file directly. The Canada Growth Fund convertible is the term to watch, since conversion drives platform-level dilution if the Canadian projects scale.",
   "firms": [
    "Canada Growth Fund",
    "Hatch"
@@ -978,39 +1006,6 @@
  },
  {
   "date": "2026-05-12",
-  "headline": "Grain Management reinvests as Spectrotel combines with AireSpring; Charlesbank invests in managed network services platform",
-  "section": "sponsor_moves",
-  "sources": [
-   {
-    "name": "Grain Management",
-    "url": "https://graingp.com/grain-management-announces-spectrotel-combination-with-airespring/"
-   }
-  ],
-  "players": "Spectrotel Holding, LLC combined with AireSpring to create a managed network services platform, with Charlesbank Capital Partners making a new strategic investment and Grain Management reinvesting to support growth. Financial terms were not disclosed. Close was expected later in 2026. Moelis & Company advised Spectrotel, Charlesbank and Grain; Bank Street Group advised AireSpring. Legal advisers were Gibson Dunn (Spectrotel/Grain), Latham & Watkins and Wilkinson Barker Knauer (Charlesbank), and Alston & Bird (AireSpring).",
-  "why_it_matters": "Managed network services is an asset-light, contracted-recurring-revenue business rather than owned infrastructure, so it trades on retention and gross margin rather than on route miles, and combining two aggregators mainly buys carrier purchasing leverage and a broader supplier footprint. Grain reinvesting rather than exiting is the structurally interesting point: it is a partial liquidity event that resets the hold clock and brings in Charlesbank's capital for the next phase, which is the standard route when a sponsor believes the consolidation runway is longer than the fund life. The Moelis-run process producing a combination plus new sponsor investment rather than a clean sale suggests the market priced a standalone exit below what the partners thought the combined platform could achieve. Watch integration of the two customer bases, churn through the transition, and whether the enlarged platform pushes into higher-margin managed security and SD-WAN.",
-  "firms": [
-   "Grain Management",
-   "Charlesbank Capital Partners"
-  ],
-  "companies": [
-   "Spectrotel",
-   "AireSpring"
-  ],
-  "sectors": [
-   "Digital Infrastructure"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-12-grain-management-reinvests-as-spectrotel-combine-ce8dbb",
-  "story_id": "story-grain-management-reinvests-as-spectrotel",
-  "story_size": 1
- },
- {
-  "date": "2026-05-12",
   "headline": "Snowhawk closes debut digital infrastructure fund at approximately $1.3bn of commitments",
   "section": "market_regulatory",
   "sources": [
@@ -1020,7 +1015,8 @@
    }
   ],
   "players": "Snowhawk announced on May 12, 2026 the final close of Snowhawk Capital Digital Opportunities Fund I LP with approximately $1.3 billion of total commitments plus deal-level co-investment. The fund makes control-oriented investments in lower-middle-market North American digital infrastructure supporting cloud, AI infrastructure, connectivity and technology-enabled services. Led by Brian McMullen, Robert D. Reid and Sara Baack, the 2022-founded firm manages $1.8 billion, has made four platform investments including Prime Data Centers and CleanArc Data Centers, and exited ProsperOps to Flexera. LPs include public and private pensions, sovereign wealth funds and insurers.",
-  "why_it_matters": "A first-time manager clearing $1.3bn from pensions, sovereigns and insurers shows LPs will still fund emerging managers when the strategy sits in a scarcity theme, which is a useful counterpoint to the overall decline in pension commitment counts. Lower-middle-market digital infrastructure is where entry multiples remain meaningfully below the mega-cap data centre platforms being bid by AI-dedicated funds, so this is where risk-adjusted return is more defensible. It also adds another buyer to a crowded field chasing sub-scale data centre and connectivity assets, which supports exit pricing for existing owners. Watch whether other emerging digital infrastructure managers replicate this close size.",
+  "why_it_matters": "Snowhawk announced the final close of its debut digital infrastructure fund at roughly $1.3bn from pensions, sovereigns and insurers, evidence LPs will still back first-time managers inside a scarcity theme. The strategy is control deals in lower-middle-market North American digital infra, where entry multiples sit below the mega-cap platforms AI-dedicated funds are bidding. It also adds another buyer chasing sub-scale data centre and connectivity assets.",
+  "why_you_care": "Emerging-manager fundraising comp, and a reminder that the lower-middle-market digital infra buyer set is deep when you are building exit comps for pitches.",
   "firms": [
    "Snowhawk"
   ],
@@ -1044,6 +1040,71 @@
  },
  {
   "date": "2026-05-12",
+  "headline": "Fluence signs master supply agreements with two major hyperscalers as backlog hits a record $5.6B / 10.1 GW",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/fluence-energy-signs-master-supply-agreements-with-two-major-hyperscalers/820016/"
+   }
+  ],
+  "players": "Fluence Energy disclosed on May 12, 2026 that it signed master supply agreements with two unnamed major hyperscalers, qualifying it as an approved supplier though individual orders still require competitive bids. Contracted backlog reached 10.1 GW, up 11% quarter over quarter, with total order backlog at a record $5.6 billion; first-half 2026 bookings were 1.6 GW / 6.2 GWh and the data center pipeline grew about 30% in the quarter. CEO Julian Nebreda said the agreements arrived earlier than expected; analyst Julien Dumoulin-Smith suggested the MSAs represent a significant portion of Fluence's roughly 12 GWh data center pipeline. Fluence reported a net loss of about $29 million in Q1 2026.",
+  "why_it_matters": "Hyperscalers signing master supply agreements directly with a storage integrator means batteries are being bought as data center infrastructure, outside utility IRPs and interconnection queues. Backlog hit 10.1 GW and a record $5.6bn, though individual orders still go to competitive bid and Fluence lost about $29m in Q1. The new channel lifts volumes but invites hyperscalers to integrate or squeeze margin; value accrues only on conversion to firm orders.",
+  "why_you_care": "Storage demand read-through for Hydrostor: a whole new buyer class for capacity that sits outside the utility procurement path you normally underwrite.",
+  "firms": [],
+  "companies": [
+   "Fluence Energy"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-12-fluence-signs-master-supply-agreements-with-two-a361d3",
+  "story_id": "story-fluence-signs-master-supply-agreements-w",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-12",
+  "headline": "Grain Management reinvests as Spectrotel combines with AireSpring; Charlesbank invests in managed network services platform",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Grain Management",
+    "url": "https://graingp.com/grain-management-announces-spectrotel-combination-with-airespring/"
+   }
+  ],
+  "players": "Spectrotel Holding, LLC combined with AireSpring to create a managed network services platform, with Charlesbank Capital Partners making a new strategic investment and Grain Management reinvesting to support growth. Financial terms were not disclosed. Close was expected later in 2026. Moelis & Company advised Spectrotel, Charlesbank and Grain; Bank Street Group advised AireSpring. Legal advisers were Gibson Dunn (Spectrotel/Grain), Latham & Watkins and Wilkinson Barker Knauer (Charlesbank), and Alston & Bird (AireSpring).",
+  "why_it_matters": "Managed network services is asset-light contracted recurring revenue, so it trades on retention and gross margin rather than route miles, and merging two aggregators mainly buys carrier purchasing leverage. The interesting part is Grain reinvesting rather than exiting: partial liquidity, a reset hold clock and Charlesbank's capital for the next phase, which is what sponsors do when the consolidation runway outlasts the fund.",
+  "why_you_care": "A clean example of a sponsor reinvesting alongside new capital instead of selling, useful framing for PE interview questions about hold periods and exit timing.",
+  "firms": [
+   "Grain Management",
+   "Charlesbank Capital Partners"
+  ],
+  "companies": [
+   "Spectrotel",
+   "AireSpring"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-12-grain-management-reinvests-as-spectrotel-combine-ce8dbb",
+  "story_id": "story-grain-management-reinvests-as-spectrotel",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-12",
   "headline": "Lightpath launches 392-mile Columbus-Chicago long-haul route, its second owned intercity system",
   "section": "sector_themes",
   "sources": [
@@ -1053,7 +1114,8 @@
    }
   ],
   "players": "Lightpath announced a roughly 392 route-mile long-haul system connecting Columbus and Chicago, including 327 miles of new 100% underground multi-conduit fibre across three states and eight LightCube data centres, seven of them new. The build is supported by an anchor award, with the customer not identified. The southern Columbus-to-South Bend segment comes online first and full completion is targeted for Q4 2028; roughly 17% of Lightpath's existing and recently announced Columbus infrastructure supports the build. It is Lightpath's second owned long-haul route after the 2024 acquisition of a 323-mile New York-to-Ashburn system.",
-  "why_it_matters": "Owning intercity conduit between two of the fastest-growing data centre markets is a structurally scarce asset, and Columbus moved to sixth globally in 2025 from unranked the year before. Multi-conduit construction means the incremental cost of adding capacity later is trivial relative to the trench, so the economics improve materially with each additional tenant on a route already funded by an anchor. Building rather than buying long-haul is a higher-return, longer-duration use of capital and fits MSIP's stated preference for development over stabilised assets. Watch anchor disclosure, additional tenants on the route, and whether the Q4 2028 schedule holds given permitting across three states.",
+  "why_it_matters": "Lightpath announced a roughly 392 route-mile Columbus-Chicago system, 327 miles of it new all-underground multi-conduit fibre across three states, plus eight LightCube data centres. An undisclosed anchor supports it; the Columbus-to-South Bend leg comes online first, with full completion targeted for Q4 2028. It is Lightpath's second owned long-haul route after the 2024 New York-to-Ashburn acquisition.",
+  "why_you_care": "Build rather than buy, with permitting risk across three states. A concrete example of the development-stage profile MSIP says it prefers, useful for a why-this-fund answer.",
   "firms": [
    "MSIP"
   ],
@@ -1077,37 +1139,7 @@
  },
  {
   "date": "2026-05-12",
-  "headline": "Fluence signs master supply agreements with two major hyperscalers as backlog hits a record $5.6B / 10.1 GW",
-  "section": "sector_themes",
-  "sources": [
-   {
-    "name": "Utility Dive",
-    "url": "https://www.utilitydive.com/news/fluence-energy-signs-master-supply-agreements-with-two-major-hyperscalers/820016/"
-   }
-  ],
-  "players": "Fluence Energy disclosed on May 12, 2026 that it signed master supply agreements with two unnamed major hyperscalers, qualifying it as an approved supplier though individual orders still require competitive bids. Contracted backlog reached 10.1 GW, up 11% quarter over quarter, with total order backlog at a record $5.6 billion; first-half 2026 bookings were 1.6 GW / 6.2 GWh and the data center pipeline grew about 30% in the quarter. CEO Julian Nebreda said the agreements arrived earlier than expected; analyst Julien Dumoulin-Smith suggested the MSAs represent a significant portion of Fluence's roughly 12 GWh data center pipeline. Fluence reported a net loss of about $29 million in Q1 2026.",
-  "why_it_matters": "Hyperscalers signing direct master supply agreements with a storage integrator means batteries are being procured as data center infrastructure, not just grid assets — a new demand channel that sits outside utility IRPs and interconnection queues. That structurally lifts storage volumes and gives integrators visibility that supports capacity expansion. For investors in storage platforms it improves revenue quality but also invites hyperscalers to vertically integrate or squeeze margin. Watch conversion from MSA to firm orders, which is where the value actually accrues.",
-  "firms": [],
-  "companies": [
-   "Fluence Energy"
-  ],
-  "sectors": [
-   "Energy Transition & Storage",
-   "Digital Infrastructure"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-12-fluence-signs-master-supply-agreements-with-two-a361d3",
-  "story_id": "story-fluence-signs-master-supply-agreements-w",
-  "story_size": 1
- },
- {
-  "date": "2026-05-12",
-  "headline": "Fervo Energy prices upsized IPO at $27/share, raising ~$1.9B and putting next-gen geothermal on public markets",
+  "headline": "Fervo posts 658 MW contracted PPAs and a Google framework for up to 3 GW of geothermal through 2033",
   "section": "sector_themes",
   "sources": [
    {
@@ -1120,7 +1152,8 @@
    }
   ],
   "players": "In its first results as a public company (June 22, 2026), Fervo reported 658 MW of contracted PPAs, $421.4 million of non-recourse project financing for Cape Station Phase I, and a Geothermal Framework Agreement with Google covering up to 3 GW of capacity through 2033, with 1 GW targeted in the first two years. Cape Phase I (~100 MW) targets first power in Q4 2026 and Phase II (400 MW) is under construction for COD in 2028. Q1 capex was $172.8 million against a net loss of $31.8 million, with roughly $1.2 billion of capex expected through Q1 2027.",
-  "why_it_matters": "A multi-gigawatt hyperscaler framework plus closed non-recourse project debt is the bankability proof point geothermal has lacked — lenders are now underwriting EGS resource risk at project level. That opens a new clean-firm asset class for infra funds that previously had only gas, nuclear uprates or hydro to buy. The 658 MW contracted book against a ~$1.2 billion near-term capex program also shows the equity intensity: this is a build-to-contract model, not a yield asset, until Phase II stabilizes. Watch whether Cape Phase I achieves first power on schedule in Q4 2026 — slippage would reset the whole sector's cost-of-capital.",
+  "why_it_matters": "Fervo's Google framework covers up to 3 GW through 2033, 1 GW of it in the first two years, and Cape Station Phase I has $421.4m of closed non-recourse debt, so lenders are now underwriting EGS resource risk at project level. But a 658 MW contracted book against roughly $1.2bn of capex through Q1 2027 makes this build-to-contract, not a yield asset. Watch Phase I first power in Q4 2026.",
+  "why_you_care": "A new clean-firm asset class to have a view on, useful for data centre power pitches and as an answer when a fund asks what you would buy outside gas and nuclear.",
   "firms": [
    "J.P. Morgan",
    "BofA Securities",
@@ -1143,7 +1176,7 @@
   "situations": [],
   "flags": [],
   "id": "2026-05-12-fervo-energy-prices-upsized-ipo-at-27-share-rais-686e48",
-  "story_id": "story-fervo-energy-prices-upsized-ipo-at-27-sh",
+  "story_id": "story-fervo-posts-658-mw-contracted-ppas-and-a",
   "story_size": 1
  },
  {
@@ -1157,7 +1190,8 @@
    }
   ],
   "players": "Meridiam launched the Siruai Wind and Storage project in Kajiado County, south of Nairobi, alongside Craftskills Energy and with Government of Kenya support. The project comprises 100MW of wind capacity plus 50MWh of battery storage, representing over EUR 200 million of investment, and sits adjacent to the existing Kipeto wind farm. It was launched at the Africa Forward summit on 11 May 2026 and is described as a first in East Africa for combining wind with battery storage. The project will double Meridiam's wind generation capacity in Kenya.",
-  "why_it_matters": "Kenyan IPP wind runs on long-term US dollar-denominated PPAs with KPLC, so the cash-flow profile is contracted and hard-currency but carries offtaker credit risk that has historically been the binding constraint on East African renewables financing. Co-locating 50MWh of storage is the differentiating lever: it converts intermittent wind into firmer dispatchable capacity, which supports a higher tariff and addresses the curtailment risk that has hurt returns at existing Kenyan wind sites. Siting adjacent to Kipeto means shared grid connection, land and O&M infrastructure, which materially cuts development cost and timeline versus a true greenfield. Watch PPA terms and any partial risk guarantee or DFI credit support, plus grid absorption capacity in the Kajiado corridor, since transmission constraints rather than generation are Kenya's real bottleneck.",
+  "why_it_matters": "Meridiam launched Siruai, 100MW of wind plus 50MWh of storage in Kajiado County, over EUR200m of investment, with Craftskills Energy and Kenyan government support. Kenyan wind sells under long-term dollar PPAs with KPLC, so cash flow is contracted hard currency but carries offtaker credit risk. The storage firms up output and addresses curtailment, and siting next to Kipeto shares grid connection, land and O&M.",
+  "why_you_care": "General market colour rather than something actionable, though the wind-plus-storage firming argument is transferable if you need to defend storage value in a client pitch.",
   "firms": [
    "Meridiam",
    "Craftskills Energy"
@@ -1194,7 +1228,8 @@
    }
   ],
   "players": "Basalt Infrastructure Partners LLP agreed to acquire R.E.L.A.M., a leading North American lessor of maintenance-of-way and hi-rail equipment, with a fleet of approximately 1,500 specialised rail maintenance assets across the US and Canada. Terms undisclosed and the seller was not named. Close was expected by end of May 2026 subject to customary conditions. William Blair advised on the sale, Holland & Knight acted as legal adviser, and Wells Fargo led debt syndication. Partner Wil Jones cited resilient demand characteristics and strong growth potential.",
-  "why_it_matters": "Maintenance-of-way leasing is a rental model tied to non-discretionary track renewal spend by Class I railroads, short lines and contractors, so utilisation holds up through freight volume cycles in a way that wagon leasing does not. The value-creation lever is fleet expansion funded on cheaper infrastructure-style leverage, which is exactly what the Wells Fargo-led debt syndication is set up to support, plus consolidation of a fragmented regional lessor base. A William Blair-run process points to a competitive mid-market auction rather than a bilateral deal, so entry pricing is likely full and the return will need to come from fleet growth and residual value rather than multiple arbitrage. Watch Class I capex budgets, which drive rental day rates, and whether Basalt bolts on regional lessors to build national coverage.",
+  "why_it_matters": "Maintenance-of-way leasing rides non-discretionary track renewal spend by Class I railroads, short lines and contractors, so utilisation holds through freight cycles in a way wagon leasing does not. The plan is fleet growth on cheap infrastructure-style leverage, hence the Wells Fargo debt syndication, plus rolling up a fragmented lessor base. A William Blair auction means entry pricing is probably full.",
+  "why_you_care": "Same shape as Jennmar/Weber Mining, an industrial services business sold into a capex cycle, and a clean mid-market rail comp.",
   "firms": [
    "Basalt Infrastructure"
   ],
@@ -1226,7 +1261,8 @@
    }
   ],
   "players": "Stonepeak agreed to acquire BMO Transportation and Vendor Finance from BMO Financial Group. Terms undisclosed. The Irving, Texas-based platform is one of North America's largest commercial truck and trailer lenders, financing transportation assets and agriculture/construction equipment, with 700+ employees across US and Canadian operations. BMO retains a 19.9% minority interest and the existing leadership team continues. Close expected Q4 2026 subject to regulatory approvals. Stonepeak manages approximately $88bn AUM.",
-  "why_it_matters": "This is asset-backed leasing rather than hard infrastructure, but the cash-flow profile is contracted lease and loan income secured against remarketable hard collateral, which Stonepeak has underwritten nine times before across roughly $28bn of enterprise value including Textainer, ATSG and TRAC Intermodal. The value-creation lever is funding cost: carved out of a bank balance sheet, the platform can move to securitisation and private credit funding structures that a regulated parent could not optimise, while BMO's retained 19.9% and continued referral relationship preserve origination flow. Bank non-core carve-outs of specialty finance books are the dominant source of scaled leasing platforms right now, and entry basis on these tends to reflect book value rather than a competitive infrastructure multiple. Watch used truck and trailer residual values, which drive both remarketing gains and credit losses, and the Q4 regulatory path.",
+  "why_it_matters": "Asset-backed leasing rather than hard infrastructure, but the cash flows are contracted lease and loan income against remarketable collateral, a profile Stonepeak has underwritten nine times before across roughly $28bn of EV including Textainer, ATSG and TRAC Intermodal. The lever is funding cost: off a bank balance sheet the platform can use securitisation and private credit, while BMO's retained 19.9% preserves origination flow. Close expected Q4 2026.",
+  "why_you_care": "Straight interview material for Stonepeak, showing how they stretch the definition of transport infrastructure and repeat one playbook nine times.",
   "firms": [
    "Stonepeak",
    "BMO Financial Group"
@@ -1254,6 +1290,42 @@
  },
  {
   "date": "2026-05-07",
+  "headline": "EQT takes 70% of $1.3bn North American cold storage JV seeded with 12 Americold facilities",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "EQT",
+    "url": "https://eqtgroup.com/news/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture-2026-05-07"
+   },
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/07/3289761/0/en/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture.html"
+   }
+  ],
+  "players": "EQT's Active Core Infrastructure fund is acquiring a 70% interest in a joint venture with Americold Realty Trust holding 12 US cold storage facilities valued at over $1.3bn in aggregate, with Americold retaining 30% and acting as day-to-day manager. The seed portfolio comprises roughly 124 million cubic feet of temperature-controlled capacity and over 400,000 pallet positions. Americold expects about $1.1bn in net cash proceeds, earmarked for debt repayment; close is expected in Q3 2026.",
+  "why_it_matters": "EQT's Active Core Infrastructure fund is acquiring 70% of a JV with Americold holding 12 US cold storage facilities valued at over $1.3bn, Americold keeping 30% and managing; close expected Q3 2026. That is classic core risk transfer, EQT buying stability while Americold keeps operating alpha and takes ~$1.1bn to delever. Entry at asset value rather than a corporate multiple points to yield-plus-development underwriting.",
+  "why_you_care": "The 70/30 operator-retained structure is a template you can lift straight into a pitch, and a tidy example of core-infra risk transfer for interviews.",
+  "firms": [
+   "EQT Infrastructure"
+  ],
+  "companies": [
+   "Americold Realty Trust"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-07-eqt-takes-70-of-1-3bn-north-american-cold-storag-da3047",
+  "story_id": "story-eqt-takes-70-of-1-3bn-north-american-col",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-07",
   "headline": "Northleaf and Inovia launch Discovery platform to back Canadian emerging venture managers",
   "section": "sponsor_moves",
   "sources": [
@@ -1263,7 +1335,8 @@
    }
   ],
   "players": "Northleaf Capital Partners and Inovia Capital launched 'Discovery by Inovia x Northleaf', a platform providing capital, firm-building guidance, portfolio expertise and global network access to Canadian emerging venture managers and founders at pre-seed and seed stage. Northleaf manages over US$31 billion across private equity, venture capital, private credit and infrastructure; Inovia manages over US$2.5 billion. The two have collaborated since 2016, deploying approximately C$177 million across 13 investments, and together employ 350+ professionals.",
-  "why_it_matters": "This is a fund-platform move rather than an infrastructure deal, and it sits outside Northleaf's infrastructure book, but it matters for understanding where the firm is allocating franchise-building effort as it competes for Canadian institutional mandates. Emerging-manager seeding programmes generate fee streams and GP-stake-like economics with modest capital commitment, and they build proprietary deal flow that feeds later-stage strategies, which is the same logic Northleaf applies in private credit. The prior C$177 million across 13 investments since 2016 means this formalises an existing working relationship rather than starting from scratch, which lowers execution risk. For infrastructure LPs the read-through is capacity and attention: watch whether Northleaf's infrastructure team sees any resourcing impact and how the firm sequences its next infrastructure fund raise against this venture push.",
+  "why_it_matters": "Northleaf and Inovia launched 'Discovery by Inovia x Northleaf', giving Canadian pre-seed and seed managers and founders capital, firm-building guidance and network access. Northleaf manages over US$31bn, Inovia over US$2.5bn, and the two have already deployed roughly C$177m across 13 investments since 2016, so this formalises an existing relationship. It is a fund-platform move, not an infrastructure deal.",
+  "why_you_care": "Nothing actionable here. Only worth a line as a signal of where a mid-size manager is putting franchise effort relative to its next infrastructure raise.",
   "firms": [
    "Northleaf",
    "Inovia Capital"
@@ -1286,41 +1359,6 @@
  },
  {
   "date": "2026-05-07",
-  "headline": "EQT takes 70% of $1.3bn North American cold storage JV seeded with 12 Americold facilities",
-  "section": "sponsor_moves",
-  "sources": [
-   {
-    "name": "EQT",
-    "url": "https://eqtgroup.com/news/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture-2026-05-07"
-   },
-   {
-    "name": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2026/05/07/3289761/0/en/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture.html"
-   }
-  ],
-  "players": "EQT's Active Core Infrastructure fund is acquiring a 70% interest in a joint venture with Americold Realty Trust holding 12 US cold storage facilities valued at over $1.3bn in aggregate, with Americold retaining 30% and acting as day-to-day manager. The seed portfolio comprises roughly 124 million cubic feet of temperature-controlled capacity and over 400,000 pallet positions. Americold expects about $1.1bn in net cash proceeds, earmarked for debt repayment; close is expected in Q3 2026.",
-  "why_it_matters": "Cold storage is being repriced as core infrastructure rather than industrial real estate: contracted, inflation-linked storage and handling revenue with high switching costs for food customers. The 70/30 structure with the operator retained as manager is the classic core-infra risk transfer, EQT takes the asset risk and pays for stability, Americold keeps operating alpha and deleverages. Entry at asset value rather than a corporate multiple suggests EQT is underwriting yield plus development, not multiple expansion. Watch the announced development pipeline, since scaling through build-to-suit is where the incremental return has to come from.",
-  "firms": [
-   "EQT Infrastructure"
-  ],
-  "companies": [
-   "Americold Realty Trust"
-  ],
-  "sectors": [
-   "Transport & Logistics"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-07-eqt-takes-70-of-1-3bn-north-american-cold-storag-da3047",
-  "story_id": "story-eqt-takes-70-of-1-3bn-north-american-col",
-  "story_size": 1
- },
- {
-  "date": "2026-05-07",
   "headline": "FTAI Infrastructure posts Q1 Adjusted EBITDA of $70.6m and a $150.2m net loss; Repauno Phase 2 still on plan for early 2027",
   "section": "tracked_situations",
   "sources": [
@@ -1330,7 +1368,8 @@
    }
   ],
   "players": "FTAI Infrastructure reported Q1 2026 Adjusted EBITDA of $70.6m, comprising Railroad $40.2m, Jefferson Terminal $14.4m, Repauno negative $2.3m and Power & Gas $26.4m, with a net loss attributable to stockholders of $150.2m and a declared dividend of $0.03 per share payable June 12, 2026. Long Ridge results reflected a 25-day planned power plant maintenance outage; excluding it, management said Adjusted EBITDA would have exceeded $80m, a quarterly record. The company reiterated the April 30 agreement to sell Long Ridge to MARA Holdings for $1.52bn and said Repauno Phase 2 remains on plan for operational commencement in early 2027.",
-  "why_it_matters": "Power & Gas contributed $26.4m of the $70.6m quarterly Adjusted EBITDA, so the MARA sale removes roughly 37% of current run-rate earnings in exchange for $1.16bn of debt elimination and about $300m of corporate deleveraging. That trade only works if Railroad and Jefferson can carry the residual structure, which makes the $40.2m rail contribution the number to track. Repauno at negative $2.3m remains a cash consumer until Phase 2 comes online in early 2027, so there is roughly a year of drag before that asset inflects. The $150.2m net loss is not the operative metric here; leverage and segment cash generation post-divestiture are.",
+  "why_it_matters": "Power & Gas was $26.4m of the $70.6m quarter, so selling Long Ridge to MARA for $1.52bn strips roughly 37% of run-rate EBITDA in exchange for $1.16bn of debt elimination and about $300m of corporate deleveraging. That only works if Railroad's $40.2m and Jefferson's $14.4m carry the residual structure. Repauno burns cash at negative $2.3m until Phase 2 starts up in early 2027. The $150.2m net loss is not the operative metric.",
+  "why_you_care": "You covered FTAI, and this is the post-Long Ridge leverage story in numbers: a ready 'is this a good investment' case built on trading EBITDA for deleveraging.",
   "firms": [],
   "companies": [
    "FTAI Infrastructure",
@@ -1359,6 +1398,79 @@
  },
  {
   "date": "2026-05-06",
+  "headline": "Carlyle and Diversified Energy agree to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "World Oil",
+    "url": "https://worldoil.com/news/2026/5/6/diversified-carlyle-strike-1-2-billion-deal-for-camino-anadarko-assets/"
+   },
+   {
+    "name": "Carlyle",
+    "url": "https://www.carlyle.com/media-room/news-release-archive/diversified-energy-and-carlyle-agree-acquire-camino-natural"
+   }
+  ],
+  "players": "Diversified Energy and Carlyle agreed to acquire Camino Natural Resources' Anadarko Basin portfolio for approximately $1.2bn (reported by some outlets at $1.175bn). Carlyle provides capital alongside Diversified, which operates the assets. Coverage flagged an ABS financing component; the split of economics between Diversified and Carlyle was not disclosed.",
+  "why_it_matters": "Diversified Energy and Carlyle agreed to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn (reported at $1.175bn by some outlets), with Carlyle providing capital and Diversified operating; coverage flagged an ABS component. It is Carlyle's template: long-life, low-decline PDP gas with hedgeable volumes, where securitisation beats reserve-based lending on cost of capital. Whether ABS spreads hold is the constraint on repeat deals.",
+  "why_you_care": "Sharp example of returns engineered through financing rather than growth capex, and a good answer if a fund asks you where upstream stops being infrastructure.",
+  "firms": [
+   "Carlyle"
+  ],
+  "companies": [
+   "Diversified Energy",
+   "Camino Natural Resources"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-06-carlyle-and-diversified-energy-agree-to-buy-cami-75487c",
+  "story_id": "story-carlyle-and-diversified-energy-agree-to",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-06",
+  "headline": "Western Midstream to acquire Brazos Delaware II for $1.6bn, lifting Delaware processing capacity 20%",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Pipeline & Gas Journal",
+    "url": "https://pgjonline.com/news/2026/may/western-midstream-buys-brazos-delaware-in-16-billion-permian-deal"
+   },
+   {
+    "name": "Pipeline Technology Journal",
+    "url": "https://www.pipeline-journal.net/news/western-midstream-bolsters-permian-pipeline-network-16-billion-brazos-acquisition"
+   }
+  ],
+  "players": "Western Midstream agreed on May 6, 2026 to acquire Brazos Delaware II for $1.6 billion, split $800 million cash and $800 million in common units. The assets include roughly 900 miles of pipeline, 460 MMcf/d of processing capacity at the Comanche complex and about 470,000 dedicated acres across six Texas counties. The deal lifts Western Midstream's Delaware Basin acreage roughly 49% to over 1.4 million acres and processing capacity about 20% to approximately 2.75 Bcf/d. Close was expected late in Q2 2026.",
+  "why_it_matters": "Half the $1.6bn consideration is units, not cash, which usually signals a valuation gap and gives the buyer cheaper currency when midstream units trade around 10.8x forward. The real asset is the 470,000 dedicated acres, which convert into long-dated volume commitments underpinning gathering fees regardless of who drills. In Permian midstream the scarcity value sits in dedications and processing capacity, not pipe miles.",
+  "why_you_care": "Midstream comp with a rare disclosed structure, half stock and half cash. Handy for pitch comps and for arguing why dedications rather than pipe drive value.",
+  "firms": [],
+  "companies": [
+   "Western Midstream",
+   "Brazos Delaware II",
+   "Occidental Petroleum"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-06-western-midstream-to-acquire-brazos-delaware-ii-45c183",
+  "story_id": "story-western-midstream-to-acquire-brazos-dela",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-06",
   "headline": "Odfjell SE reports 1Q26 net result of $32m; terminals segment contributes $2.3m, up from $1.8m",
   "section": "tracked_situations",
   "sources": [
@@ -1368,7 +1480,8 @@
    }
   ],
   "players": "Odfjell SE reported a first quarter 2026 net result of USD 32m, an adjusted net result of USD 26m excluding one-off items, EBIT of USD 46m and time charter earnings of USD 167m. The terminals division contributed a net result of USD 2.3m in 1Q26 against USD 1.8m in the prior quarter. CEO Harald Fotland said increased tonne-miles caused by disruption of the Strait of Hormuz had driven a surge in rates in most markets, and guided that the underlying net result in 2Q26 would be higher than in 1Q26. Odfjell hosted its Capital Markets Day on May 26, 2026.",
-  "why_it_matters": "Terminals remain a small contributor at USD 2.3m against a USD 32m group net result, which keeps the division a candidate for portfolio action but also means it is not currently moving the equity story. The sequential improvement from USD 1.8m is directional rather than material, and no facility-level detail on Houston, Charleston or the Antwerp joint venture was provided in the release. Guidance for a stronger 2Q26 rests on Hormuz-driven tonne-mile expansion, which is a shipping tailwind rather than a terminals one. No Odfjell tank terminal transaction, and no Northleaf activity beyond its 2019 stake in Odfjell Holdings US, surfaced in the review period; the Q2 report due after this window is the next disclosure point.",
+  "why_it_matters": "Terminals contributed $2.3m of a $32m group net result, up from $1.8m. That is directional rather than material and keeps the division a candidate for portfolio action without moving the equity story. No facility-level detail on Houston, Charleston or the Antwerp JV. Guidance for a stronger 2Q26 rests on Hormuz-driven tonne-miles, a shipping tailwind rather than a terminals one.",
+  "why_you_care": "Odfjell Terminals is one of yours. This is the current earnings baseline to work from if a terminals carve-out ever comes to market.",
   "firms": [
    "Northleaf"
   ],
@@ -1393,77 +1506,6 @@
   "story_size": 1
  },
  {
-  "date": "2026-05-06",
-  "headline": "Western Midstream to acquire Brazos Delaware II for $1.6bn, lifting Delaware processing capacity 20%",
-  "section": "sector_themes",
-  "sources": [
-   {
-    "name": "Pipeline & Gas Journal",
-    "url": "https://pgjonline.com/news/2026/may/western-midstream-buys-brazos-delaware-in-16-billion-permian-deal"
-   },
-   {
-    "name": "Pipeline Technology Journal",
-    "url": "https://www.pipeline-journal.net/news/western-midstream-bolsters-permian-pipeline-network-16-billion-brazos-acquisition"
-   }
-  ],
-  "players": "Western Midstream agreed on May 6, 2026 to acquire Brazos Delaware II for $1.6 billion, split $800 million cash and $800 million in common units. The assets include roughly 900 miles of pipeline, 460 MMcf/d of processing capacity at the Comanche complex and about 470,000 dedicated acres across six Texas counties. The deal lifts Western Midstream's Delaware Basin acreage roughly 49% to over 1.4 million acres and processing capacity about 20% to approximately 2.75 Bcf/d. Close was expected late in Q2 2026.",
-  "why_it_matters": "Half-equity consideration is the notable term — the seller took paper rather than all cash, which usually signals a valuation gap and gives the buyer a cheaper effective cost of capital in a market where midstream units trade around 10.8x forward. Acreage dedications of 470,000 acres are the real asset here: they convert to long-dated volume commitments that underpin gathering fee streams regardless of the buyer's own drilling. For Permian midstream underwriting, the scarcity value is in dedicated acreage and processing capacity, not pipe miles. Watch Delaware Basin rig counts and whether Occidental's production trajectory supports the throughput assumptions behind the price.",
-  "firms": [],
-  "companies": [
-   "Western Midstream",
-   "Brazos Delaware II",
-   "Occidental Petroleum"
-  ],
-  "sectors": [
-   "Midstream & Gas"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-06-western-midstream-to-acquire-brazos-delaware-ii-45c183",
-  "story_id": "story-western-midstream-to-acquire-brazos-dela",
-  "story_size": 1
- },
- {
-  "date": "2026-05-06",
-  "headline": "Carlyle and Diversified Energy agree to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn",
-  "section": "sponsor_moves",
-  "sources": [
-   {
-    "name": "World Oil",
-    "url": "https://worldoil.com/news/2026/5/6/diversified-carlyle-strike-1-2-billion-deal-for-camino-anadarko-assets/"
-   },
-   {
-    "name": "Carlyle",
-    "url": "https://www.carlyle.com/media-room/news-release-archive/diversified-energy-and-carlyle-agree-acquire-camino-natural"
-   }
-  ],
-  "players": "Diversified Energy and Carlyle agreed to acquire Camino Natural Resources' Anadarko Basin portfolio for approximately $1.2bn (reported by some outlets at $1.175bn). Carlyle provides capital alongside Diversified, which operates the assets. Coverage flagged an ABS financing component; the split of economics between Diversified and Carlyle was not disclosed.",
-  "why_it_matters": "This extends Carlyle's template of pairing an operating partner with structured, securitisation-friendly capital against long-life, low-decline producing gas assets. The cash-flow profile is PDP-weighted with hedgeable volumes, which is what makes ABS execution possible and lowers the blended cost of capital versus conventional reserve-based lending. For infrastructure allocators, this is the continuing blur between upstream and infrastructure risk: the return is engineered through financing structure and hedging rather than growth capex. Watch whether the ABS market keeps absorbing Anadarko paper at these spreads, because that is the binding constraint on repeat deals.",
-  "firms": [
-   "Carlyle"
-  ],
-  "companies": [
-   "Diversified Energy",
-   "Camino Natural Resources"
-  ],
-  "sectors": [
-   "Midstream & Gas"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-06-carlyle-and-diversified-energy-agree-to-buy-cami-75487c",
-  "story_id": "story-carlyle-and-diversified-energy-agree-to",
-  "story_size": 1
- },
- {
   "date": "2026-05-05",
   "headline": "Tradepoint Atlantic and Terminal Investment break ground on $1.2bn Sparrows Point container terminal near Baltimore",
   "section": "sector_themes",
@@ -1474,7 +1516,8 @@
    }
   ],
   "players": "Construction began May 5, 2026 on a new container terminal at Sparrows Point developed by Tradepoint Atlantic and Terminal Investment Ltd., financed with approximately $1.2 billion of private capital. The 168-acre facility is designed for roughly 1 million containers annually and is expected to complete in 2030. It will increase Port of Baltimore container capacity by 70% and move the port from sixth to third-largest on the Eastern Seaboard, served by Tradepoint Rail's 70 miles of track interchanging with CSX and Norfolk Southern.",
-  "why_it_matters": "A fully privately financed, greenfield US container terminal is rare and gives a hard capex benchmark of roughly $1,200 per annual TEU of capacity — useful for testing whether brownfield terminal acquisitions are cheap or expensive relative to build cost. TIL's involvement means MSC volumes are the implicit anchor, which shifts throughput risk from merchant to captive but concentrates counterparty exposure. A 70% capacity increase at Baltimore is a direct competitive threat to New York-New Jersey, Virginia and Philadelphia volumes on Midwest-bound discretionary cargo, and should be factored into any East Coast terminal underwriting through 2030. Watch dual-rail interchange performance, since CSX and NS access is what makes the inland reach credible.",
+  "why_it_matters": "A fully privately financed greenfield US container terminal is rare and gives a hard build-cost benchmark of roughly $1,200 per annual TEU, useful for testing whether brownfield terminal deals are cheap. TIL's involvement makes MSC volumes the implicit anchor, swapping merchant throughput risk for counterparty concentration. A 70% capacity lift at Baltimore threatens New York-New Jersey, Virginia and Philadelphia discretionary cargo.",
+  "why_you_care": "Direct capex comp for your ports work, and the competitive read you would need if an East Coast terminal shows up in a pitch.",
   "firms": [],
   "companies": [
    "Tradepoint Atlantic",
@@ -1499,38 +1542,6 @@
  },
  {
   "date": "2026-05-04",
-  "headline": "Cando Rail completes Savage Rail acquisition, creating 80-operation North American short line and terminal platform",
-  "section": "sector_themes",
-  "sources": [
-   {
-    "name": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/m_a/news/Cando-Rail-caps-off-Savage-Rail-acquisition--76863"
-   }
-  ],
-  "players": "Cando Rail completed its acquisition of Savage Rail from Savage Enterprises LLC on May 4, 2026, having announced the transaction in February. The combined business operates 36 rail-car storage, staging and transload terminals, three short lines and 80 first- and last-mile rail service operations across the United States and Canada, with access to all six Class I railroads. Terms were not disclosed. Savage Rail's Mike Miller became Cando's chief commercial officer, and Cando retains its Manitoba global headquarters while establishing a US headquarters in Salt Lake City.",
-  "why_it_matters": "First- and last-mile industrial switching is one of the most defensible niches in rail — contracts are sticky, capital intensity is low relative to owning track, and the customer relationship sits between the shipper and the Class I. Consolidating to 80 operations with access to all six Class Is creates genuine network value and a scarce acquisition target for infrastructure capital that wants rail exposure without Class I regulatory risk. Undisclosed terms mean no valuation read, but the strategic logic sets the template for further consolidation of the fragmented industrial switching market. Watch whether contract terms survive the ownership change and whether Class I consolidation increases or reduces demand for independent last-mile operators.",
-  "firms": [],
-  "companies": [
-   "Cando Rail",
-   "Savage Enterprises"
-  ],
-  "sectors": [
-   "Rail",
-   "Transport & Logistics"
-  ],
-  "geo": [
-   "Canada",
-   "United States"
-  ],
-  "priority": "normal",
-  "situations": [],
-  "flags": [],
-  "id": "2026-05-04-cando-rail-completes-savage-rail-acquisition-cre-94ce72",
-  "story_id": "story-cando-rail-completes-savage-rail-acquisi",
-  "story_size": 1
- },
- {
-  "date": "2026-05-04",
   "headline": "Crux Q1 2026: utility-scale ITC transfers price up to $0.926 while 2026-vintage ITCs slip 0.6% to $0.895",
   "section": "sector_themes",
   "sources": [
@@ -1540,7 +1551,8 @@
    }
   ],
   "players": "Crux's Q1 2026 market update, published May 4, 2026, reported 2025-vintage investment tax credits averaging $0.909, with utility-scale ITCs rising from $0.914 to $0.926 and residential falling from $0.920 to $0.900. 2025 PTCs were largely flat quarter over quarter while clean fuel and manufacturing PTCs moved up. For 2026 vintages, ITCs declined 0.6% to $0.895 and PTCs rose about 2% from $0.900 to $0.917. Crux noted 85% of surveyed buyers expected to know their 2025 tax liability by end of Q1, that Treasury's February 2026 interim FEOC rules clarified material assistance cost ratios, and flagged the July 4, 2026 construction-start deadline.",
-  "why_it_matters": "Transfer pricing is the clearest live measure of how the market values tax-credit risk, and utility-scale ITCs at $0.926 versus residential at $0.900 quantifies the recapture and counterparty-quality discount investors should apply by segment. Rising PTC pricing alongside softening ITC pricing tells you buyers prefer the lower-recapture, pay-as-generated structure — relevant to how sponsors should structure monetization. FEOC clarity removing a diligence overhang should tighten spreads further for compliant supply chains. Watch pricing for 2027 vintages, which will reveal how the market discounts post-deadline eligibility uncertainty.",
+  "why_it_matters": "Transfer pricing is the live market read on tax-credit risk: utility-scale ITCs at $0.926 against residential at $0.900 quantifies the recapture and counterparty-quality discount by segment. PTCs firming while ITCs soften (2026 vintages: ITC down 0.6% to $0.895, PTC up about 2% to $0.917) says buyers prefer pay-as-generated structures with less recapture exposure. Treasury's February FEOC rules removed a diligence overhang, which should tighten spreads further.",
+  "why_you_care": "Hard pricing inputs for renewables models. Use these cents-on-the-dollar marks when you size tax credit monetisation on Avangrid/ArcLight-type work.",
   "firms": [
    "Crux"
   ],
@@ -1571,7 +1583,8 @@
    }
   ],
   "players": "Blackstone filed on May 4, 2026 for a $1.75 billion IPO of Blackstone Digital Infrastructure Trust (NYSE: BXDC), offering 87,500,000 shares at $20 per share, with IPO investors receiving bonus shares equal to 1% of their purchase. The vehicle will acquire newly constructed data centers valued between $250 million and $1.5 billion leased to major hyperscalers, with Blackstone projecting returns between 5.75% and 7% or higher. Nick Pell, formerly president and CIO of Blackstone's industrial business, is CEO; underwriters include Goldman Sachs, Citigroup, Morgan Stanley, Barclays, BofA, Deutsche Bank, JPMorgan, RBC and Wells Fargo.",
-  "why_it_matters": "A sponsor-managed listed vehicle explicitly underwriting 5.75%-7%+ returns on stabilized hyperscale assets sets the public-market return floor for the whole asset class and creates a permanent bid for completed, leased data centers. That compresses exit risk for developers but also caps what private buyers can pay without leverage or development margin. It signals the market is bifurcating: development/powered-shell risk earns the spread, and stabilized paper migrates to low-cost listed capital. Watch pricing versus the filed $20 and whether other sponsors follow with similar permanent-capital structures.",
+  "why_it_matters": "Blackstone filed for a $1.75bn IPO of Blackstone Digital Infrastructure Trust (NYSE: BXDC), 87,500,000 shares at $20 with a 1% bonus share kicker, to buy newly built data centers valued $250m to $1.5bn leased to hyperscalers, projecting 5.75% to 7%+ returns. That underwriting sets a public-market return floor and a permanent bid for stabilized assets, capping what private buyers can pay without leverage or development margin.",
+  "why_you_care": "A hard return floor to quote in data center pitches: stabilized hyperscale paper clears at 5.75%-7%, so the excess return has to come from development or powered-shell risk.",
   "firms": [
    "Blackstone",
    "Goldman Sachs",
@@ -1594,6 +1607,39 @@
   "flags": [],
   "id": "2026-05-04-blackstone-files-for-1-75b-ipo-of-a-listed-data-572579",
   "story_id": "story-blackstone-files-for-1-75b-ipo-of-a-list",
+  "story_size": 1
+ },
+ {
+  "date": "2026-05-04",
+  "headline": "Cando Rail completes Savage Rail acquisition, creating 80-operation North American short line and terminal platform",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/m_a/news/Cando-Rail-caps-off-Savage-Rail-acquisition--76863"
+   }
+  ],
+  "players": "Cando Rail completed its acquisition of Savage Rail from Savage Enterprises LLC on May 4, 2026, having announced the transaction in February. The combined business operates 36 rail-car storage, staging and transload terminals, three short lines and 80 first- and last-mile rail service operations across the United States and Canada, with access to all six Class I railroads. Terms were not disclosed. Savage Rail's Mike Miller became Cando's chief commercial officer, and Cando retains its Manitoba global headquarters while establishing a US headquarters in Salt Lake City.",
+  "why_it_matters": "First- and last-mile industrial switching is a defensible rail niche: sticky contracts, low capital intensity versus owning track, and the relationship sits between the shipper and the Class I. Consolidating to 80 operations with access to all six Class Is creates real network value and a scarce target for infra capital wanting rail exposure without Class I regulatory risk. Terms undisclosed, so no valuation read.",
+  "why_you_care": "Rail comp worth filing: a scarce, buyable platform in a fragmented niche, and a credible answer if a fund asks what rail exposure you would underwrite today.",
+  "firms": [],
+  "companies": [
+   "Cando Rail",
+   "Savage Enterprises"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Canada",
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-05-04-cando-rail-completes-savage-rail-acquisition-cre-94ce72",
+  "story_id": "story-cando-rail-completes-savage-rail-acquisi",
   "story_size": 1
  }
 ]

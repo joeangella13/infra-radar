@@ -152,15 +152,39 @@ Aliases are matched on word boundaries against headline, deal facts, companies a
 ## Layout
 
 ```
+CONTEXT.md                    who this is for and the accuracy rules — read this first
 index.html                    the whole site — one file, no build step, no dependencies
-config.json                   watchlists, aliases, taxonomy
+config.json                   watchlists, aliases, taxonomy, reader profile
 data/index.json               entity rollups + a lightweight item index for filtering
 data/items/YYYY-MM.json       full items, one shard per month (lazy-loaded)
+archive/README.md             plain-text index of everything
+archive/YYYY-MM.md            every item that month, readable and greppable
+archive/situations/KEY.md     the full run of one tracked situation
+archive/firms/NAME.md         everything on one firm
 scripts/lib.py                normalisation, dedupe, storyline threading, archive writing
-scripts/generate.py           the daily research pass
+scripts/generate.py           the daily research pass (run with --selftest to check wiring)
+scripts/export_markdown.py    regenerates archive/ from data/
 scripts/email_summary.py      builds the morning digest
 .github/workflows/daily.yml   the cron
 ```
+
+## The markdown archive
+
+`data/` is what the website reads. `archive/` is the same content as plain markdown,
+rewritten on every run and committed to git. It exists so the history is readable
+without the site, greppable from anywhere, diffable in git, and usable as context by
+a future AI session. Point one at `CONTEXT.md` and then `archive/README.md` and it
+has everything it needs.
+
+## Debugging a failed run
+
+```bash
+python scripts/generate.py --selftest     # checks config, archive and env, no API call
+gh run view --log-failed --repo <you>/<repo>
+```
+
+The workflow runs `--selftest` before anything else, so a config mistake fails fast
+and loudly instead of halfway through.
 
 ## Running locally
 

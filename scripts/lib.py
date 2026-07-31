@@ -156,6 +156,7 @@ def normalise(raw: dict, cfg: dict) -> dict | None:
         "sources": sources,
         "players": (raw.get("players") or "").strip(),
         "why_it_matters": (raw.get("why_it_matters") or "").strip(),
+        "why_you_care": (raw.get("why_you_care") or "").strip(),
         "firms": firms,
         "companies": companies[:8],
         "sectors": sectors,
@@ -175,15 +176,25 @@ def normalise(raw: dict, cfg: dict) -> dict | None:
 
 # ---------------------------------------------------------------- dedupe
 
+def _bulk(x: dict) -> int:
+    return len(x.get("players", "")) + len(x.get("why_it_matters", ""))
+
+
 def merge(a: dict, b: dict) -> dict:
-    """Merge b into a, keeping the richer content."""
+    """Merge b into a.
+
+    The prose fields are taken as a UNIT from whichever record is richer, never
+    cherry-picked field by field. Picking the longest headline from one record
+    and the longest commentary from another means a single false-positive match
+    stitches two unrelated stories into one incoherent item.
+    """
+    rich = b if _bulk(b) > _bulk(a) else a
     out = dict(a)
-    if len(b.get("why_it_matters", "")) > len(a.get("why_it_matters", "")):
-        out["why_it_matters"] = b["why_it_matters"]
-    if len(b.get("players", "")) > len(a.get("players", "")):
-        out["players"] = b["players"]
-    if len(b.get("headline", "")) > len(a.get("headline", "")) * 1.4:
-        out["headline"] = b["headline"]
+    out["headline"] = rich["headline"]
+    out["players"] = rich["players"]
+    out["why_it_matters"] = rich["why_it_matters"]
+    out["why_you_care"] = (rich.get("why_you_care") or a.get("why_you_care")
+                           or b.get("why_you_care") or "")
 
     seen = {canon_url(s["url"]) for s in out["sources"]}
     for s in b.get("sources", []):
@@ -227,7 +238,12 @@ def dedupe(items: list[dict]) -> list[dict]:
                 if abs((datetime.strptime(item["date"], "%Y-%m-%d")
                         - datetime.strptime(existing["date"], "%Y-%m-%d")).days) > 5:
                     continue
-                if jaccard(it_tok, tokens(existing["headline"])) >= 0.55:
+                # a similar headline alone is not enough: two records must also
+                # name a company, situation or firm in common before they merge
+                shared = (set(item["companies"]) & set(existing["companies"])) \
+                    or (set(item["situations"]) & set(existing["situations"])) \
+                    or (set(item["firms"]) & set(existing["firms"]))
+                if shared and jaccard(it_tok, tokens(existing["headline"])) >= 0.6:
                     hit = idx
                     break
 

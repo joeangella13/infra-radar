@@ -10,7 +10,8 @@
    }
   ],
   "players": "LOGISTEC deployed two 120-tonne harbor cranes at Care Terminal at the Port of Houston, operated by Gulf Stream Marine within the LOGISTEC network, describing it as the first phase of a broader multi-stage investment program covering berthing, rail, yard upgrades, expanded storage and improved access. The terminal handles breakbulk and project cargo. CEO Sean Pierce said the cranes strengthen LOGISTEC's long-term Gulf Coast strategy. LOGISTEC Direct connects terminal operations with trucking, rail, warehousing and distribution across 64 North American ports and 87 terminals. No investment amount was disclosed.",
-  "why_it_matters": "Heavy-lift capability at 120 tonnes is the capex that lets a breakbulk terminal compete for wind components, modular process equipment and oversized project cargo, which are the highest-rate categories on the Gulf Coast. Committing to a multi-stage program signals Blue Wolf is funding organic capacity alongside the M&A programme rather than choosing between them. Undisclosed capex limits return analysis, but the phased structure suggests staged approval against volume commitments rather than a single sanctioned budget. No LOGISTEC, Termont or Blue Wolf announcements surfaced between April and July 2026 on the wires checked; this and the Dubuque and Altamira deals are the most recent confirmed activity.",
+  "why_it_matters": "Two 120-tonne cranes give the Houston breakbulk terminal the heavy-lift capability that wins wind components, modular process equipment and oversized project cargo, the highest-rate Gulf categories. Calling it phase one of a multi-stage program shows Blue Wolf funding organic capacity alongside M&A. Capex is undisclosed, so returns can't be run; the phasing suggests staged approval against volumes.",
+  "why_you_care": "Adds the organic-growth leg to your LOGISTEC story, useful if you are asked how Blue Wolf creates value beyond bolt-on acquisitions.",
   "firms": [
    "Blue Wolf Capital Partners"
   ],
@@ -47,7 +48,8 @@
    }
   ],
   "players": "MSIP agreed to sell the Bayonne Energy Center to Jupiter Energy Investor, LLC. Terms undisclosed; close expected in Q3 2026 subject to customary conditions and regulatory approvals. Bayonne is a 660MW dual-fuel facility in Bayonne, New Jersey comprising 10 simple-cycle aeroderivative gas turbines commissioned in 2012, delivering energy, capacity and ancillary services exclusively into NYISO Zone J via a dedicated subsea cable. MSIP acquired the asset in 2018 and managed it through its TigerGenCo platform; Jefferies was lead financial adviser to MSIP.",
-  "why_it_matters": "This is MSIP's first disclosed 2026 exit and it monetises a peaker at what is arguably the top of the New York capacity cycle, with Zone J scarcity pricing supported by data centre load growth and the retirement of older in-city generation. The dedicated subsea cable is the whole thesis: it gives an out-of-city plant in-city deliverability rights that cannot be replicated, which is why the asset commands a premium to generic aeroderivative peakers. Chris Ortega's framing around enhancing asset quality through active operational and commercial management points to a value-creation story built on recontracting and capacity revenues rather than growth capex. Watch for a disclosed price, the Q3 close, and whether MSIP recycles the proceeds into the gas-for-AI development pipeline it is now building in Alberta.",
+  "why_it_matters": "MSIP's first disclosed 2026 exit sells a peaker into what looks like the top of the New York capacity cycle, with Zone J tight on data centre load growth and in-city retirements. The dedicated subsea cable is the whole thesis: in-city deliverability from an out-of-city plant, which cannot be replicated. Terms undisclosed, close expected Q3 2026.",
+  "why_you_care": "Core MSIP interview material: an eight-year hold, a clear exit rationale, and an open question on where proceeds get recycled. Know this one cold.",
   "firms": [
    "MSIP"
   ],
@@ -82,7 +84,8 @@
    }
   ],
   "players": "Backcast Partners announced a debt investment, amount undisclosed, to support growth and expansion at Sisu Energy & Environmental, LLC, a Tulsa, Oklahoma company providing design, engineering, installation and maintenance services for gas turbine exhaust system casings, emissions reduction systems, noise silencers and waste heat mitigation and recovery. Founders John Hare and Phil Childers, who established the business in 2015, retain their ownership stakes and continue leading operations. The company cited a record backlog driven by AI datacenter operators seeking reliable off-grid power infrastructure.",
-  "why_it_matters": "A founder-retained debt financing rather than a control sale tells you the owners believe the AI power cycle has more value to capture before an equity exit, which is the right read on where gas-to-AI aftermarket assets sit in the cycle. Sisu is an exhaust and emissions services provider to gas turbines, structurally the same demand pool Miratech serves for reciprocating engines and gas compression, so the two are adjacent rather than combined; no transaction between them surfaced. Backcast's mid-market debt capital is growth funding, meaning capacity expansion rather than balance-sheet repair. The signal for buyers is that the founders are financeable without selling, which raises the price of any future control process.",
+  "why_it_matters": "Backcast announced an undisclosed debt investment in Sisu, the Tulsa maker of gas turbine exhaust casings, emissions systems and waste heat recovery. Founders John Hare and Phil Childers keep their stakes and stay in charge, and record backlog is coming from AI data center operators buying off-grid power. Taking growth debt rather than selling says they see more value ahead, and being financeable without a sale lifts the price of any future control process.",
+  "why_you_care": "Straight into your Sisu/Miratech work: adjacent demand pool rather than a combination, no transaction between them, and founders visibly pricing themselves up ahead of a control process.",
   "firms": [
    "Backcast Partners"
   ],
@@ -107,6 +110,47 @@
  },
  {
   "date": "2026-03-11",
+  "headline": "KPS Capital Partners agrees majority investment in Jennmar with FalconPoint and CEO retaining significant minority stakes",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Jennmar",
+    "url": "https://www.jennmar.com/news/jennmar-announces-majority-investment-by-kps-capital-partners"
+   }
+  ],
+  "players": "KPS Capital Partners agreed to make a majority equity investment in Jennmar, with FalconPoint Partners and CEO Tony Calandra each retaining a significant minority ownership position; financial terms were not disclosed. Closing was expected in the second quarter of 2026 subject to customary conditions and regulatory approvals. Evercore and Rothschild & Co advised Jennmar and FalconPoint, with Jefferies advising KPS; Lowenstein Sandler and Paul, Weiss acted for Jennmar and FalconPoint and Paul, Weiss for KPS. Weber Mining & Tunnelling operates as a Jennmar affiliate.",
+  "why_it_matters": "Two sell-side banks, Evercore and Rothschild, signal a broad competitive process rather than a bilateral deal, which is the best read on value given undisclosed terms. FalconPoint rolling a significant minority rather than exiting at the top of the mining-consumables cycle says it sees value left, especially after the July 2025 Weber deal internationalised the platform. KPS buys operational transformation, so expect footprint rationalisation and bolt-ons. Closed June 16-17, 2026, on the guided timetable.",
+  "why_you_care": "Your own deal, and the one you will be asked to walk through. The sell-side dynamics and FalconPoint's roll are the value story you would have to defend.",
+  "firms": [
+   "KPS Capital Partners",
+   "FalconPoint Partners",
+   "Evercore",
+   "Rothschild & Co",
+   "Jefferies",
+   "Lowenstein Sandler",
+   "Paul Weiss Rifkind Wharton & Garrison"
+  ],
+  "companies": [
+   "Jennmar",
+   "Weber Mining & Tunnelling"
+  ],
+  "sectors": [
+   "Mining Services"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [
+   "jennmar_weber"
+  ],
+  "flags": [],
+  "id": "2026-03-11-kps-capital-partners-agrees-majority-investment-c28a8a",
+  "story_id": "story-kps-capital-partners-agrees-majority-inv",
+  "story_size": 2
+ },
+ {
+  "date": "2026-03-11",
   "headline": "LOGISTEC acquires Logistics Park Dubuque from Alliant Energy's Travero, adding a 100-acre Mississippi River terminal",
   "section": "tracked_situations",
   "sources": [
@@ -120,7 +164,8 @@
    }
   ],
   "players": "LOGISTEC announced the acquisition of Logistics Park Dubuque, a 100-acre multimodal terminal in East Dubuque, Illinois on the Upper Mississippi River handling bulk and breakbulk commodities via barge, CN rail and truck, from Travero, a subsidiary of Alliant Energy Corporation. Price was not disclosed. Berenson & Company advised LOGISTEC financially with King & Spalding as legal counsel; RJM & Company advised Travero with Chapman & Cutler as counsel. The announcement followed LOGISTEC's separate agreement to acquire the IPA Terminal in Altamira, Mexico.",
-  "why_it_matters": "Inland waterway terminals are the connective tissue between LOGISTEC's Gulf Coast and Great Lakes positions, and East Dubuque gives it CN rail plus Upper Mississippi barge access into Midwest agriculture, steel and energy flows. Buying from a regulated utility parent that is rationalising non-core logistics assets is a repeatable sourcing channel, and Alliant's willingness to sell suggests more utility-owned terminal assets may come to market. Two acquisitions announced within a month, following the February Altamira agreement, shows Blue Wolf is deploying aggressively behind the take-private thesis. Undisclosed pricing across both deals means the market has no multiple reference for this platform's roll-up economics.",
+  "why_it_matters": "East Dubuque gives LOGISTEC CN rail plus Upper Mississippi barge access into Midwest agriculture, steel and energy flows, tying its Gulf Coast and Great Lakes positions together. Buying from a utility parent shedding non-core logistics is a repeatable sourcing channel, and Alliant's willingness to sell suggests more utility-owned terminals could come to market. Undisclosed pricing here and on Altamira means no multiple reference for the roll-up.",
+  "why_you_care": "Your own LOGISTEC/Termont deal, with the thesis playing out. The utility-carve-out sourcing angle is a clean line for a deal walkthrough.",
   "firms": [
    "Blue Wolf Capital Partners",
    "Berenson & Company",
@@ -152,46 +197,6 @@
   "story_size": 1
  },
  {
-  "date": "2026-03-11",
-  "headline": "KPS Capital Partners agrees majority investment in Jennmar with FalconPoint and CEO retaining significant minority stakes",
-  "section": "tracked_situations",
-  "sources": [
-   {
-    "name": "Jennmar",
-    "url": "https://www.jennmar.com/news/jennmar-announces-majority-investment-by-kps-capital-partners"
-   }
-  ],
-  "players": "KPS Capital Partners agreed to make a majority equity investment in Jennmar, with FalconPoint Partners and CEO Tony Calandra each retaining a significant minority ownership position; financial terms were not disclosed. Closing was expected in the second quarter of 2026 subject to customary conditions and regulatory approvals. Evercore and Rothschild & Co advised Jennmar and FalconPoint, with Jefferies advising KPS; Lowenstein Sandler and Paul, Weiss acted for Jennmar and FalconPoint and Paul, Weiss for KPS. Weber Mining & Tunnelling operates as a Jennmar affiliate.",
-  "why_it_matters": "A dual-bank sell-side with Evercore and Rothschild indicates a broad, competitive process rather than a bilateral deal, which is the best available read on valuation given undisclosed terms. FalconPoint's decision to roll rather than exit at the top of a mining-consumables cycle is a meaningful signal about where the sponsor sees remaining value, particularly after the July 2025 Weber acquisition internationalised the platform. KPS typically underwrites operational transformation in industrials, so expect footprint rationalisation and bolt-ons rather than financial engineering. This closed on June 16-17, 2026, on the guided timetable.",
-  "firms": [
-   "KPS Capital Partners",
-   "FalconPoint Partners",
-   "Evercore",
-   "Rothschild & Co",
-   "Jefferies",
-   "Lowenstein Sandler",
-   "Paul Weiss Rifkind Wharton & Garrison"
-  ],
-  "companies": [
-   "Jennmar",
-   "Weber Mining & Tunnelling"
-  ],
-  "sectors": [
-   "Mining Services"
-  ],
-  "geo": [
-   "United States"
-  ],
-  "priority": "high",
-  "situations": [
-   "jennmar_weber"
-  ],
-  "flags": [],
-  "id": "2026-03-11-kps-capital-partners-agrees-majority-investment-c28a8a",
-  "story_id": "story-kps-capital-partners-agrees-majority-inv",
-  "story_size": 2
- },
- {
   "date": "2026-03-10",
   "headline": "Lightpath wins GSA Multiple Award Schedule contract, opening federal and 50-state public sector procurement",
   "section": "sector_themes",
@@ -202,7 +207,8 @@
    }
   ],
   "players": "Lightpath was awarded GSA Multiple Award Schedule contract number 47QTCA26D0021, letting federal agencies buy its fibre and connectivity services through GSA eBuy and allowing state, local and education buyers in all 50 states to procure via Cooperative Purchasing. The company cited a network of more than 12,100 route miles connecting 185-plus data centres and 17,500-plus lit locations with bandwidth up to 800 Gbps, serving over 1,000 existing customers. No contract value was disclosed.",
-  "why_it_matters": "A GSA schedule is a procurement vehicle rather than a booked contract, but it removes the single biggest friction in selling to government buyers and opens a customer segment with long terms, low churn and minimal credit risk. Public sector connectivity is a natural fit for an incumbent metro network with dense lit-building coverage, and it diversifies away from carrier and hyperscale concentration. For MSIP it broadens the revenue base ahead of any eventual sale process. Watch for the first disclosed federal or SLED task orders and whether public sector becomes a named revenue category in Lightpath's reporting.",
+  "why_it_matters": "Lightpath won GSA schedule 47QTCA26D0021, letting federal agencies buy through GSA eBuy and state, local and education buyers in all 50 states procure via Cooperative Purchasing. No contract value disclosed, so it is a procurement vehicle rather than booked revenue. It opens long-term, low-churn, low-credit-risk customers for a network of 12,100-plus route miles and dilutes carrier and hyperscale concentration.",
+  "why_you_care": "Modest by itself, but it is revenue diversification ahead of any eventual MSIP process, the kind of detail that lands well in a portfolio question.",
   "firms": [
    "MSIP"
   ],

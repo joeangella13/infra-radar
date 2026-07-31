@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T01:54:00+00:00",
+ "generated_at": "2026-07-31T19:20:36+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 235,
+ "total_items": 236,
  "months": [
   "2026-07",
   "2026-06",
@@ -60,20 +60,20 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "Brookfield",
+   "watchlist": true,
+   "priority": false,
+   "count": 7,
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-07-29"
+  },
+  {
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
    "count": 7,
    "first_seen": "2026-05-15",
    "last_seen": "2026-07-27"
-  },
-  {
-   "name": "Brookfield",
-   "watchlist": true,
-   "priority": false,
-   "count": 6,
-   "first_seen": "2026-06-30",
-   "last_seen": "2026-07-29"
   },
   {
    "name": "Meridiam",
@@ -1127,7 +1127,7 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 75,
+   "count": 76,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -1139,7 +1139,7 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
@@ -1200,23 +1200,6 @@
  ],
  "items": [
   {
-   "id": "2026-07-30-lightpath-says-ip-backbone-traffic-is-growing-32-38e1d3",
-   "d": "2026-07-30",
-   "h": "Lightpath says IP backbone traffic is growing 32% annualised as AI workloads scale across its 12,100-mile network",
-   "s": "sector_themes",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-lightpath-says-ip-backbone-traffic-is-gr",
-   "x": 1
-  },
-  {
    "id": "2026-07-30-blackstone-energy-transition-partners-to-acquire-a8e483",
    "d": "2026-07-30",
    "h": "Blackstone Energy Transition Partners to acquire industrial imaging firm DarkVision from Koch",
@@ -1251,20 +1234,37 @@
    "x": 0
   },
   {
-   "id": "2026-07-30-aalo-and-crusoe-plan-a-2027-nuclear-powered-ai-d-0917d6",
+   "id": "2026-07-30-commonwealth-fusion-raises-1b-taking-total-to-4b-5b04bc",
    "d": "2026-07-30",
-   "h": "Aalo and Crusoe plan a 2027 nuclear-powered AI data center demo at INL, scaling to 50-MWe reactor plants by 2029",
+   "h": "Commonwealth Fusion raises $1B, taking total to $4B, with a 400-MW ARC plant in Virginia and a 200-MW Google PPA",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Nuclear & SMR",
+    "Power & Renewables",
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-commonwealth-fusion-raises-1b-taking-tot",
+   "x": 0
+  },
+  {
+   "id": "2026-07-30-lightpath-says-ip-backbone-traffic-is-growing-32-38e1d3",
+   "d": "2026-07-30",
+   "h": "Lightpath says IP backbone traffic is growing 32% annualised as AI workloads scale across its 12,100-mile network",
+   "s": "sector_themes",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
     "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-aalo-and-crusoe-plan-a-2027-nuclear-powe",
-   "x": 0
+   "t": "story-lightpath-says-ip-backbone-traffic-is-gr",
+   "x": 1
   },
   {
    "id": "2026-07-30-texas-regulators-approve-crusoe-s-260-mw-data-ce-f33baf",
@@ -1281,6 +1281,23 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-texas-regulators-approve-crusoe-s-260-mw",
+   "x": 0
+  },
+  {
+   "id": "2026-07-30-firstenergy-s-contracted-data-center-load-jumps-a26be4",
+   "d": "2026-07-30",
+   "h": "FirstEnergy's contracted data center load jumps 50% in one quarter to 6.4 GW; total pipeline reaches 24.8 GW",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Midstream & Gas",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-firstenergy-s-contracted-data-center-loa",
    "x": 0
   },
   {
@@ -1303,22 +1320,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-30-commonwealth-fusion-raises-1b-taking-total-to-4b-5b04bc",
-   "d": "2026-07-30",
-   "h": "Commonwealth Fusion raises $1B, taking total to $4B, with a 400-MW ARC plant in Virginia and a 200-MW Google PPA",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-commonwealth-fusion-raises-1b-taking-tot",
-   "x": 0
-  },
-  {
    "id": "2026-07-30-shell-ceo-says-lng-canada-phase-2-final-investme-783444",
    "d": "2026-07-30",
    "h": "Shell CEO says LNG Canada Phase 2 final investment decision is likely by the end of 2026",
@@ -1334,106 +1335,36 @@
    "x": 0
   },
   {
-   "id": "2026-07-30-firstenergy-s-contracted-data-center-load-jumps-a26be4",
+   "id": "2026-07-30-aalo-and-crusoe-plan-a-2027-nuclear-powered-ai-d-0917d6",
    "d": "2026-07-30",
-   "h": "FirstEnergy's contracted data center load jumps 50% in one quarter to 6.4 GW; total pipeline reaches 24.8 GW",
+   "h": "Aalo and Crusoe plan a 2027 nuclear-powered AI data center demo at INL, scaling to 50-MWe reactor plants by 2029",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Power & Renewables",
-    "Midstream & Gas",
+    "Nuclear & SMR",
     "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-firstenergy-s-contracted-data-center-loa",
+   "t": "story-aalo-and-crusoe-plan-a-2027-nuclear-powe",
    "x": 0
   },
   {
-   "id": "2026-07-29-brookfield-and-nextera-to-build-100bn-ai-data-ce-f79228",
+   "id": "2026-07-29-doe-reconsiders-the-2024-distribution-transforme-3cbf97",
    "d": "2026-07-29",
-   "h": "Brookfield and NextEra to build $100bn AI data centre campus at DOE's Paducah site with 4.6GW of dedicated generation",
-   "s": "sponsor_moves",
-   "f": [
-    "Brookfield"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure",
-    "Power & Renewables",
-    "Energy Transition & Storage"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-brookfield-and-nextera-to-build-100bn-ai",
-   "x": 0
-  },
-  {
-   "id": "2026-07-29-july-4-safe-harbour-deadline-passes-for-us-renew-bf436b",
-   "d": "2026-07-29",
-   "h": "July 4 safe-harbour deadline passes for US renewable tax credits without derailing the solar and wind outlook",
+   "h": "DOE reconsiders the 2024 distribution transformer efficiency rule, splitting utilities and Cleveland-Cliffs",
    "s": "market_regulatory",
    "f": [],
    "u": [],
    "c": [
     "Power & Renewables",
-    "Energy Transition & Storage",
-    "Regulatory & Policy"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-july-4-safe-harbour-deadline-passes-for",
-   "x": 0
-  },
-  {
-   "id": "2026-07-29-georgia-ports-june-container-volume-up-18-to-483-432e06",
-   "d": "2026-07-29",
-   "h": "Georgia Ports June container volume up 18% to 483,684 TEU; FY26 closes at 5.67 million TEU",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Ports & Terminals",
-    "Rail"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-georgia-ports-june-container-volume-up-1",
-   "x": 0
-  },
-  {
-   "id": "2026-07-29-antin-sells-30-of-norwegian-wellboat-operator-sl-630f3d",
-   "d": "2026-07-29",
-   "h": "Antin sells 30% of Norwegian wellboat operator Sølvtrans to GLIL Infrastructure",
-   "s": "sponsor_moves",
-   "f": [
-    "Antin"
-   ],
-   "u": [],
-   "c": [
-    "Transport & Logistics"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-antin-sells-30-of-norwegian-wellboat-ope",
-   "x": 0
-  },
-  {
-   "id": "2026-07-29-ratepayer-protection-pledge-reaches-281-entities-f9efad",
-   "d": "2026-07-29",
-   "h": "Ratepayer Protection Pledge reaches 281 entities and 23 states covering about 80% of US power delivery",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
     "Regulatory & Policy",
-    "Power & Renewables",
     "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-ratepayer-protection-pledge-reaches-281",
+   "t": "story-doe-reconsiders-the-2024-distribution-tr",
    "x": 0
   },
   {
@@ -1455,34 +1386,54 @@
    "x": 0
   },
   {
-   "id": "2026-07-29-cpkc-q2-revenue-up-13-to-4-2bn-but-operating-rat-0ae8fa",
+   "id": "2026-07-29-ratepayer-protection-pledge-reaches-281-entities-f9efad",
    "d": "2026-07-29",
-   "h": "CPKC Q2 revenue up 13% to $4.2bn but operating ratio deteriorates 90 basis points to 64.6%",
+   "h": "Ratepayer Protection Pledge reaches 281 entities and 23 states covering about 80% of US power delivery",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Rail"
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-cpkc-q2-revenue-up-13-to-4-2bn-but-opera",
+   "t": "story-ratepayer-protection-pledge-reaches-281",
    "x": 0
   },
   {
-   "id": "2026-07-29-cms-energy-to-sell-1-8-gw-of-non-utility-renewab-45fdc5",
+   "id": "2026-07-29-july-4-safe-harbour-deadline-passes-for-us-renew-bf436b",
    "d": "2026-07-29",
-   "h": "CMS Energy to sell ~1.8 GW of non-utility renewables for about $500M net to concentrate on regulated returns",
-   "s": "sector_themes",
+   "h": "July 4 safe-harbour deadline passes for US renewable tax credits without derailing the solar and wind outlook",
+   "s": "market_regulatory",
    "f": [],
    "u": [],
    "c": [
     "Power & Renewables",
-    "Funds & Fundraising"
+    "Energy Transition & Storage",
+    "Regulatory & Policy"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-cms-energy-to-sell-1-8-gw-of-non-utility",
+   "t": "story-july-4-safe-harbour-deadline-passes-for",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-antin-sells-30-of-norwegian-wellboat-operator-sl-630f3d",
+   "d": "2026-07-29",
+   "h": "Antin sells 30% of Norwegian wellboat operator Sølvtrans to GLIL Infrastructure",
+   "s": "sponsor_moves",
+   "f": [
+    "Antin"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-antin-sells-30-of-norwegian-wellboat-ope",
    "x": 0
   },
   {
@@ -1506,108 +1457,85 @@
    "x": 0
   },
   {
-   "id": "2026-07-29-doe-reconsiders-the-2024-distribution-transforme-3cbf97",
+   "id": "2026-07-29-cms-energy-to-sell-1-8-gw-of-non-utility-renewab-45fdc5",
    "d": "2026-07-29",
-   "h": "DOE reconsiders the 2024 distribution transformer efficiency rule, splitting utilities and Cleveland-Cliffs",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Regulatory & Policy",
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-doe-reconsiders-the-2024-distribution-tr",
-   "x": 0
-  },
-  {
-   "id": "2026-07-28-cma-cgm-and-stonepeak-complete-formation-of-unit-44aa70",
-   "d": "2026-07-28",
-   "h": "CMA CGM and Stonepeak complete formation of UNITED PORTS LLC; Stonepeak takes 25% for $2.4bn",
-   "s": "sponsor_moves",
-   "f": [
-    "Stonepeak",
-    "CMA CGM"
-   ],
-   "u": [],
-   "c": [
-    "Ports & Terminals"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-cma-cgm-and-stonepeak-complete-formation",
-   "x": 1
-  },
-  {
-   "id": "2026-07-28-blackstone-brookfield-and-kkr-sign-16bn-kuwait-c-e06869",
-   "d": "2026-07-28",
-   "h": "Blackstone, Brookfield and KKR sign $16bn Kuwait crude pipeline partnership, the country's largest ever FDI",
-   "s": "sponsor_moves",
-   "f": [
-    "Blackstone",
-    "Brookfield",
-    "KKR"
-   ],
-   "u": [],
-   "c": [
-    "Midstream & Gas"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-blackstone-brookfield-and-kkr-sign-16bn",
-   "x": 0
-  },
-  {
-   "id": "2026-07-28-flexential-buys-110-acres-in-kaufman-county-texa-6446c9",
-   "d": "2026-07-28",
-   "h": "Flexential buys 110 acres in Kaufman County, Texas for a Dallas-area campus scaling to 108MW",
-   "s": "sponsor_moves",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-flexential-buys-110-acres-in-kaufman-cou",
-   "x": 1
-  },
-  {
-   "id": "2026-07-28-centerpoint-says-14-gw-qualifies-under-texas-new-fb4da9",
-   "d": "2026-07-28",
-   "h": "CenterPoint says 14 GW qualifies under Texas' new SB6 large-load interconnection rules, backed by ~$900M of customer deposits",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Digital Infrastructure",
-    "Power & Renewables",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-centerpoint-says-14-gw-qualifies-under-t",
-   "x": 0
-  },
-  {
-   "id": "2026-07-28-a-3-gw-data-center-load-loss-in-northern-virgini-622070",
-   "d": "2026-07-28",
-   "h": "A 3-GW data center load loss in Northern Virginia — the largest yet — accelerates mandatory ride-through rules",
+   "h": "CMS Energy to sell ~1.8 GW of non-utility renewables for about $500M net to concentrate on regulated returns",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
+    "Power & Renewables",
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-cms-energy-to-sell-1-8-gw-of-non-utility",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-brookfield-and-nextera-to-build-100bn-ai-data-ce-f79228",
+   "d": "2026-07-29",
+   "h": "Brookfield and NextEra to build $100bn AI data centre campus at DOE's Paducah site with 4.6GW of dedicated generation",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
     "Digital Infrastructure",
     "Power & Renewables",
-    "Regulatory & Policy"
+    "Energy Transition & Storage"
    ],
    "p": "high",
    "m": "2026-07",
-   "t": "story-a-3-gw-data-center-load-loss-in-northern",
+   "t": "story-brookfield-and-nextera-to-build-100bn-ai",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-cpkc-q2-revenue-up-13-to-4-2bn-but-operating-rat-0ae8fa",
+   "d": "2026-07-29",
+   "h": "CPKC Q2 revenue up 13% to $4.2bn but operating ratio deteriorates 90 basis points to 64.6%",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-cpkc-q2-revenue-up-13-to-4-2bn-but-opera",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-georgia-ports-june-container-volume-up-18-to-483-432e06",
+   "d": "2026-07-29",
+   "h": "Georgia Ports June container volume up 18% to 483,684 TEU; FY26 closes at 5.67 million TEU",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-georgia-ports-june-container-volume-up-1",
+   "x": 0
+  },
+  {
+   "id": "2026-07-28-western-state-lawmakers-prepare-a-2027-legislati-ec151f",
+   "d": "2026-07-28",
+   "h": "Western state lawmakers prepare a 2027 legislative wave targeting AI data centers and their power infrastructure",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-western-state-lawmakers-prepare-a-2027-l",
    "x": 0
   },
   {
@@ -1629,25 +1557,97 @@
    "x": 0
   },
   {
-   "id": "2026-07-28-western-state-lawmakers-prepare-a-2027-legislati-ec151f",
+   "id": "2026-07-28-cma-cgm-and-stonepeak-complete-formation-of-unit-44aa70",
    "d": "2026-07-28",
-   "h": "Western state lawmakers prepare a 2027 legislative wave targeting AI data centers and their power infrastructure",
+   "h": "CMA CGM and Stonepeak complete formation of UNITED PORTS LLC; Stonepeak takes 25% for $2.4bn",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak",
+    "CMA CGM"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-cma-cgm-and-stonepeak-complete-formation",
+   "x": 1
+  },
+  {
+   "id": "2026-07-28-a-3-gw-data-center-load-loss-in-northern-virgini-622070",
+   "d": "2026-07-28",
+   "h": "A 3-GW data center load loss in Northern Virginia — the largest yet — accelerates mandatory ride-through rules",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-a-3-gw-data-center-load-loss-in-northern",
+   "x": 0
+  },
+  {
+   "id": "2026-07-28-blackstone-brookfield-and-kkr-sign-16bn-kuwait-c-e06869",
+   "d": "2026-07-28",
+   "h": "Blackstone, Brookfield and KKR sign $16bn Kuwait crude pipeline partnership, the country's largest ever FDI",
+   "s": "sponsor_moves",
+   "f": [
+    "Blackstone",
+    "Brookfield",
+    "KKR"
+   ],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-blackstone-brookfield-and-kkr-sign-16bn",
+   "x": 0
+  },
+  {
+   "id": "2026-07-28-centerpoint-says-14-gw-qualifies-under-texas-new-fb4da9",
+   "d": "2026-07-28",
+   "h": "CenterPoint says 14 GW qualifies under Texas' new SB6 large-load interconnection rules, backed by ~$900M of customer deposits",
    "s": "market_regulatory",
    "f": [],
    "u": [],
    "c": [
     "Digital Infrastructure",
+    "Power & Renewables",
     "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-centerpoint-says-14-gw-qualifies-under-t",
+   "x": 0
+  },
+  {
+   "id": "2026-07-28-flexential-buys-110-acres-in-kaufman-county-texa-6446c9",
+   "d": "2026-07-28",
+   "h": "Flexential buys 110 acres in Kaufman County, Texas for a Dallas-area campus scaling to 108MW",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-western-state-lawmakers-prepare-a-2027-l",
-   "x": 0
+   "t": "story-flexential-buys-110-acres-in-kaufman-cou",
+   "x": 1
   },
   {
    "id": "2026-07-27-morgan-stanley-infrastructure-partners-to-acquir-455e7a",
    "d": "2026-07-27",
-   "h": "Morgan Stanley Infrastructure Partners to acquire Epic Energy, owner of the Moomba-to-Adelaide gas pipeline",
+   "h": "MSIP to acquire Epic Energy, owner of the Moomba to Adelaide Pipeline System in South Australia",
    "s": "sponsor_moves",
    "f": [
     "MSIP"
@@ -1658,8 +1658,42 @@
    ],
    "p": "high",
    "m": "2026-07",
-   "t": "story-morgan-stanley-infrastructure-partners-t",
+   "t": "story-msip-to-acquire-epic-energy-owner-of-the",
    "x": 1
+  },
+  {
+   "id": "2026-07-27-levelten-q2-2026-solar-ppas-fall-4-8-to-61-40-mw-077ecb",
+   "d": "2026-07-27",
+   "h": "LevelTen Q2 2026: solar PPAs fall 4.8% to $61.40/MWh — first decline in two years — while wind rises to $83.79/MWh",
+   "s": "sector_themes",
+   "f": [
+    "LevelTen Energy"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-levelten-q2-2026-solar-ppas-fall-4-8-to",
+   "x": 0
+  },
+  {
+   "id": "2026-07-27-pjm-states-seek-section-205-filing-rights-at-fer-48d379",
+   "d": "2026-07-27",
+   "h": "PJM states seek Section 205 filing rights at FERC as former chairman Kelliher calls the proposal unlawful",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-pjm-states-seek-section-205-filing-right",
+   "x": 0
   },
   {
    "id": "2026-07-27-brightline-florida-wins-fifth-aafoh-and-14th-com-39bb0c",
@@ -1684,6 +1718,61 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-brightline-florida-wins-fifth-aafoh-and",
+   "x": 0
+  },
+  {
+   "id": "2026-07-27-brookfield-named-preferred-financing-partner-in-344b5d",
+   "d": "2026-07-27",
+   "h": "Brookfield named preferred financing partner in $10bn NAVER-NVIDIA Korean AI factory expansion to 200MW",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-brookfield-named-preferred-financing-par",
+   "x": 0
+  },
+  {
+   "id": "2026-07-27-pjm-board-proposes-15-year-backstop-capacity-auc-8e4f97",
+   "d": "2026-07-27",
+   "h": "PJM board proposes 15-year backstop capacity auction at a $555/MW-day cap plus an interim data center curtailment service",
+   "s": "market_regulatory",
+   "f": [
+    "Charles River Associates"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-pjm-board-proposes-15-year-backstop-capa",
+   "x": 0
+  },
+  {
+   "id": "2026-07-27-japan-s-gpif-added-nearly-2-5bn-to-its-infrastru-12ae43",
+   "d": "2026-07-27",
+   "h": "Japan's GPIF added nearly $2.5bn to its infrastructure portfolio in FY2025 with only 4% invested domestically",
+   "s": "market_regulatory",
+   "f": [
+    "GPIF",
+    "Temasek"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-japan-s-gpif-added-nearly-2-5bn-to-its-i",
    "x": 0
   },
   {
@@ -1722,95 +1811,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-27-brookfield-named-preferred-financing-partner-in-344b5d",
-   "d": "2026-07-27",
-   "h": "Brookfield named preferred financing partner in $10bn NAVER-NVIDIA Korean AI factory expansion to 200MW",
-   "s": "sponsor_moves",
-   "f": [
-    "Brookfield"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-brookfield-named-preferred-financing-par",
-   "x": 0
-  },
-  {
-   "id": "2026-07-27-levelten-q2-2026-solar-ppas-fall-4-8-to-61-40-mw-077ecb",
-   "d": "2026-07-27",
-   "h": "LevelTen Q2 2026: solar PPAs fall 4.8% to $61.40/MWh — first decline in two years — while wind rises to $83.79/MWh",
-   "s": "sector_themes",
-   "f": [
-    "LevelTen Energy"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-levelten-q2-2026-solar-ppas-fall-4-8-to",
-   "x": 0
-  },
-  {
-   "id": "2026-07-27-pjm-board-proposes-15-year-backstop-capacity-auc-8e4f97",
-   "d": "2026-07-27",
-   "h": "PJM board proposes 15-year backstop capacity auction at a $555/MW-day cap plus an interim data center curtailment service",
-   "s": "market_regulatory",
-   "f": [
-    "Charles River Associates"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Digital Infrastructure",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-pjm-board-proposes-15-year-backstop-capa",
-   "x": 0
-  },
-  {
-   "id": "2026-07-27-pjm-states-seek-section-205-filing-rights-at-fer-48d379",
-   "d": "2026-07-27",
-   "h": "PJM states seek Section 205 filing rights at FERC as former chairman Kelliher calls the proposal unlawful",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Regulatory & Policy",
-    "Power & Renewables"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-pjm-states-seek-section-205-filing-right",
-   "x": 0
-  },
-  {
-   "id": "2026-07-27-japan-s-gpif-added-nearly-2-5bn-to-its-infrastru-12ae43",
-   "d": "2026-07-27",
-   "h": "Japan's GPIF added nearly $2.5bn to its infrastructure portfolio in FY2025 with only 4% invested domestically",
-   "s": "market_regulatory",
-   "f": [
-    "GPIF",
-    "Temasek"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising",
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-japan-s-gpif-added-nearly-2-5bn-to-its-i",
-   "x": 0
-  },
-  {
    "id": "2026-07-24-ferc-chairman-swett-tells-pjm-to-adopt-governanc-5b649c",
    "d": "2026-07-24",
    "h": "FERC Chairman Swett tells PJM to adopt governance reforms by end of September or FERC will impose them",
@@ -1840,6 +1840,38 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-pg-e-reports-a-12-7-gw-data-center-pipel",
+   "x": 0
+  },
+  {
+   "id": "2026-07-23-ferc-launches-a-grid-enhancing-technologies-task-6b3fd5",
+   "d": "2026-07-23",
+   "h": "FERC launches a grid-enhancing technologies task force and signals incentive-based support for advanced transmission",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-ferc-launches-a-grid-enhancing-technolog",
+   "x": 0
+  },
+  {
+   "id": "2026-07-23-stb-orders-up-and-ns-to-make-merger-employee-imp-27c3c6",
+   "d": "2026-07-23",
+   "h": "STB orders UP and NS to make merger employee-impact exhibits public after union objections",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-stb-orders-up-and-ns-to-make-merger-empl",
    "x": 0
   },
   {
@@ -1877,55 +1909,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-23-partners-group-wraps-debut-infrastructure-second-8a2f79",
-   "d": "2026-07-23",
-   "h": "Partners Group wraps debut infrastructure secondaries effort at $5.5bn, seven times its original target",
-   "s": "sponsor_moves",
-   "f": [
-    "Partners Group"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-partners-group-wraps-debut-infrastructur",
-   "x": 0
-  },
-  {
-   "id": "2026-07-23-stb-orders-up-and-ns-to-make-merger-employee-imp-27c3c6",
-   "d": "2026-07-23",
-   "h": "STB orders UP and NS to make merger employee-impact exhibits public after union objections",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Rail",
-    "Regulatory & Policy"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-stb-orders-up-and-ns-to-make-merger-empl",
-   "x": 0
-  },
-  {
-   "id": "2026-07-23-ferc-launches-a-grid-enhancing-technologies-task-6b3fd5",
-   "d": "2026-07-23",
-   "h": "FERC launches a grid-enhancing technologies task force and signals incentive-based support for advanced transmission",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Regulatory & Policy"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-ferc-launches-a-grid-enhancing-technolog",
-   "x": 0
-  },
-  {
    "id": "2026-07-23-line-fault-drops-roughly-3-gw-of-data-center-loa-7ca7e6",
    "d": "2026-07-23",
    "h": "Line fault drops roughly 3 GW of data center load in Virginia, sharpening the case for load ride-through standards",
@@ -1940,6 +1923,23 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-line-fault-drops-roughly-3-gw-of-data-ce",
+   "x": 0
+  },
+  {
+   "id": "2026-07-23-partners-group-wraps-debut-infrastructure-second-8a2f79",
+   "d": "2026-07-23",
+   "h": "Partners Group wraps debut infrastructure secondaries effort at $5.5bn, seven times its original target",
+   "s": "sponsor_moves",
+   "f": [
+    "Partners Group"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-partners-group-wraps-debut-infrastructur",
    "x": 0
   },
   {
@@ -1961,21 +1961,20 @@
    "x": 0
   },
   {
-   "id": "2026-07-22-brookfield-to-buy-battery-storage-platform-aypa-a74ae5",
+   "id": "2026-07-22-ge-vernova-gas-turbine-backlog-hits-116-gw-with-b765b6",
    "d": "2026-07-22",
-   "h": "Brookfield to buy battery storage platform Aypa Power from Blackstone at about $7bn enterprise value",
-   "s": "sponsor_moves",
-   "f": [
-    "Brookfield",
-    "Blackstone"
-   ],
+   "h": "GE Vernova gas turbine backlog hits 116 GW with 63 GW of slot reservations; 2031 slots now being sold",
+   "s": "sector_themes",
+   "f": [],
    "u": [],
    "c": [
-    "Energy Transition & Storage"
+    "Power & Renewables",
+    "Midstream & Gas",
+    "Digital Infrastructure"
    ],
    "p": "high",
    "m": "2026-07",
-   "t": "story-brookfield-to-buy-battery-storage-platfo",
+   "t": "story-ge-vernova-gas-turbine-backlog-hits-116",
    "x": 0
   },
   {
@@ -2010,23 +2009,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-22-ge-vernova-gas-turbine-backlog-hits-116-gw-with-b765b6",
-   "d": "2026-07-22",
-   "h": "GE Vernova gas turbine backlog hits 116 GW with 63 GW of slot reservations; 2031 slots now being sold",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Midstream & Gas",
-    "Digital Infrastructure"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-ge-vernova-gas-turbine-backlog-hits-116",
-   "x": 0
-  },
-  {
    "id": "2026-07-22-we-energies-seeks-to-acquire-two-invenergy-gas-p-99b9a4",
    "d": "2026-07-22",
    "h": "We Energies seeks to acquire two Invenergy gas plants totaling 1,510 MW for $2.26B to serve Microsoft and Vantage data centers",
@@ -2046,22 +2028,21 @@
    "x": 0
   },
   {
-   "id": "2026-07-21-macquarie-completes-40bn-exit-of-aligned-data-ce-6fc7f7",
-   "d": "2026-07-21",
-   "h": "Macquarie completes $40bn exit of Aligned Data Centers to AIP, MGX and GIP consortium after eight-year hold",
+   "id": "2026-07-22-brookfield-to-buy-battery-storage-platform-aypa-a74ae5",
+   "d": "2026-07-22",
+   "h": "Brookfield to buy battery storage platform Aypa Power from Blackstone at about $7bn enterprise value",
    "s": "sponsor_moves",
    "f": [
-    "Macquarie Asset Management",
-    "Global Infrastructure Partners",
-    "MGX"
+    "Brookfield",
+    "Blackstone"
    ],
    "u": [],
    "c": [
-    "Digital Infrastructure"
+    "Energy Transition & Storage"
    ],
    "p": "high",
    "m": "2026-07",
-   "t": "story-macquarie-completes-40bn-exit-of-aligned",
+   "t": "story-brookfield-to-buy-battery-storage-platfo",
    "x": 0
   },
   {
@@ -2098,6 +2079,25 @@
    "x": 0
   },
   {
+   "id": "2026-07-21-macquarie-completes-40bn-exit-of-aligned-data-ce-6fc7f7",
+   "d": "2026-07-21",
+   "h": "Macquarie completes $40bn exit of Aligned Data Centers to AIP, MGX and GIP consortium after eight-year hold",
+   "s": "sponsor_moves",
+   "f": [
+    "Macquarie Asset Management",
+    "Global Infrastructure Partners",
+    "MGX"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-macquarie-completes-40bn-exit-of-aligned",
+   "x": 0
+  },
+  {
    "id": "2026-07-21-secondary-market-volume-tops-120bn-in-h1-2026-up-7df71e",
    "d": "2026-07-21",
    "h": "Secondary market volume tops $120bn in H1 2026, up 20%, with single-asset continuation vehicles at $34bn",
@@ -2110,40 +2110,6 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-secondary-market-volume-tops-120bn-in-h1",
-   "x": 0
-  },
-  {
-   "id": "2026-07-20-enbridge-begins-construction-on-c-4bn-sunrise-ex-de7418",
-   "d": "2026-07-20",
-   "h": "Enbridge begins construction on C$4bn Sunrise expansion adding 300 MMcf/d on the Westcoast system",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Midstream & Gas"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-enbridge-begins-construction-on-c-4bn-su",
-   "x": 0
-  },
-  {
-   "id": "2026-07-20-partners-group-closes-fourth-direct-infrastructu-0568e3",
-   "d": "2026-07-20",
-   "h": "Partners Group closes fourth direct infrastructure programme at more than $15bn",
-   "s": "sponsor_moves",
-   "f": [
-    "Partners Group"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising",
-    "Digital Infrastructure",
-    "Power & Renewables"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-partners-group-closes-fourth-direct-infr",
    "x": 0
   },
   {
@@ -2160,41 +2126,6 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-alberta-regulator-approves-atco-s-146-mi",
-   "x": 0
-  },
-  {
-   "id": "2026-07-20-port-houston-lines-up-next-wave-of-terminal-and-3fb6fd",
-   "d": "2026-07-20",
-   "h": "Port Houston lines up next wave of terminal and channel spending including $84.6m Barbours Cut wharf rebuild",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Ports & Terminals"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-port-houston-lines-up-next-wave-of-termi",
-   "x": 0
-  },
-  {
-   "id": "2026-07-20-eqt-secures-9-4bn-for-its-ai-focused-infrastruct-e11c9b",
-   "d": "2026-07-20",
-   "h": "EQT secures $9.4bn in three months for AI infrastructure fund anchored on EdgeConneX",
-   "s": "market_regulatory",
-   "f": [
-    "EQT Infrastructure",
-    "Global Infrastructure Partners",
-    "IFM Investors"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising",
-    "Digital Infrastructure"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-eqt-secures-9-4bn-in-three-months-for-ai",
    "x": 0
   },
   {
@@ -2234,33 +2165,72 @@
    "x": 0
   },
   {
-   "id": "2026-07-17-sandvik-posts-record-q2-with-17-organic-order-gr-4615c3",
-   "d": "2026-07-17",
-   "h": "Sandvik posts record Q2 with 17% organic order growth and adjusted EBITA margin of 22.6%",
-   "s": "sector_themes",
-   "f": [],
+   "id": "2026-07-20-partners-group-closes-fourth-direct-infrastructu-0568e3",
+   "d": "2026-07-20",
+   "h": "Partners Group closes fourth direct infrastructure programme at more than $15bn",
+   "s": "sponsor_moves",
+   "f": [
+    "Partners Group"
+   ],
    "u": [],
    "c": [
-    "Mining Services"
+    "Funds & Fundraising",
+    "Digital Infrastructure",
+    "Power & Renewables"
    ],
-   "p": "normal",
+   "p": "high",
    "m": "2026-07",
-   "t": "story-sandvik-posts-record-q2-with-17-organic",
+   "t": "story-partners-group-closes-fourth-direct-infr",
    "x": 0
   },
   {
-   "id": "2026-07-17-epiroc-q2-orders-up-13-with-equipment-orders-up-b8bfe4",
-   "d": "2026-07-17",
-   "h": "Epiroc Q2 orders up 13% with equipment orders up 30% organically and 20.1% adjusted operating margin",
+   "id": "2026-07-20-enbridge-begins-construction-on-c-4bn-sunrise-ex-de7418",
+   "d": "2026-07-20",
+   "h": "Enbridge begins construction on C$4bn Sunrise expansion adding 300 MMcf/d on the Westcoast system",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Mining Services"
+    "Midstream & Gas"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-epiroc-q2-orders-up-13-with-equipment-or",
+   "t": "story-enbridge-begins-construction-on-c-4bn-su",
+   "x": 0
+  },
+  {
+   "id": "2026-07-20-eqt-secures-9-4bn-for-its-ai-focused-infrastruct-e11c9b",
+   "d": "2026-07-20",
+   "h": "EQT secures $9.4bn for its AI-focused infrastructure fund",
+   "s": "market_regulatory",
+   "f": [
+    "EQT Infrastructure",
+    "Global Infrastructure Partners",
+    "IFM Investors"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-eqt-secures-9-4bn-for-its-ai-focused-inf",
+   "x": 0
+  },
+  {
+   "id": "2026-07-20-port-houston-lines-up-next-wave-of-terminal-and-3fb6fd",
+   "d": "2026-07-20",
+   "h": "Port Houston lines up next wave of terminal and channel spending including $84.6m Barbours Cut wharf rebuild",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-port-houston-lines-up-next-wave-of-termi",
    "x": 0
   },
   {
@@ -2276,41 +2246,6 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-port-of-oakland-june-loaded-container-vo",
-   "x": 0
-  },
-  {
-   "id": "2026-07-17-ecp-vi-heads-for-about-8bn-close-after-lps-appro-1ead81",
-   "d": "2026-07-17",
-   "h": "ECP VI heads for about $8bn close after LPs approve hard-cap increase to $7.8bn",
-   "s": "sponsor_moves",
-   "f": [
-    "Energy Capital Partners"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising",
-    "Power & Renewables",
-    "Energy Transition & Storage"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-ecp-vi-heads-for-about-8bn-close-after-l",
-   "x": 0
-  },
-  {
-   "id": "2026-07-17-ratepayer-advocates-from-five-states-attack-ferc-cdf2fc",
-   "d": "2026-07-17",
-   "h": "Ratepayer advocates from five states attack FERC's show cause order for failing to remedy data center cost shifts",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Regulatory & Policy",
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-ratepayer-advocates-from-five-states-att",
    "x": 0
   },
   {
@@ -2330,6 +2265,107 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-bofa-us-needs-230-gw-of-new-capacity-by",
+   "x": 0
+  },
+  {
+   "id": "2026-07-17-epiroc-q2-orders-up-13-with-equipment-orders-up-b8bfe4",
+   "d": "2026-07-17",
+   "h": "Epiroc Q2 orders up 13% with equipment orders up 30% organically and 20.1% adjusted operating margin",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Mining Services"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-epiroc-q2-orders-up-13-with-equipment-or",
+   "x": 0
+  },
+  {
+   "id": "2026-07-17-ecp-vi-heads-for-about-8bn-close-after-lps-appro-1ead81",
+   "d": "2026-07-17",
+   "h": "ECP VI reaches $7bn and LPs approve raising the hard cap to $7.8bn as the fund targets an $8bn close",
+   "s": "sponsor_moves",
+   "f": [
+    "Energy Capital Partners"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Power & Renewables",
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-ecp-vi-reaches-7bn-and-lps-approve-raisi",
+   "x": 0
+  },
+  {
+   "id": "2026-07-17-ratepayer-advocates-from-five-states-attack-ferc-cdf2fc",
+   "d": "2026-07-17",
+   "h": "Ratepayer advocates from five states attack FERC's show cause order for failing to remedy data center cost shifts",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-ratepayer-advocates-from-five-states-att",
+   "x": 0
+  },
+  {
+   "id": "2026-07-17-sandvik-posts-record-q2-with-17-organic-order-gr-4615c3",
+   "d": "2026-07-17",
+   "h": "Sandvik posts record Q2 with 17% organic order growth and adjusted EBITA margin of 22.6%",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Mining Services"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-sandvik-posts-record-q2-with-17-organic",
+   "x": 0
+  },
+  {
+   "id": "2026-07-16-ferc-directs-nerc-to-develop-reliability-standar-2a6ca8",
+   "d": "2026-07-16",
+   "h": "FERC directs NERC to develop reliability standards for large computational loads by end of 2026",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-ferc-directs-nerc-to-develop-reliability",
+   "x": 0
+  },
+  {
+   "id": "2026-07-16-avangrid-promotes-ryan-shields-to-svp-finance-co-a50af2",
+   "d": "2026-07-16",
+   "h": "Avangrid promotes Ryan Shields to SVP Finance & Corporate Development and Teresa Bradford to SVP & Controller",
+   "s": "tracked_situations",
+   "f": [
+    "Iberdrola"
+   ],
+   "u": [
+    "avangrid_arclight"
+   ],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-avangrid-promotes-ryan-shields-to-svp-fi",
    "x": 0
   },
   {
@@ -2354,42 +2390,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-16-avangrid-promotes-ryan-shields-to-svp-finance-co-a50af2",
-   "d": "2026-07-16",
-   "h": "Avangrid promotes Ryan Shields to SVP Finance & Corporate Development and Teresa Bradford to SVP & Controller",
-   "s": "tracked_situations",
-   "f": [
-    "Iberdrola"
-   ],
-   "u": [
-    "avangrid_arclight"
-   ],
-   "c": [
-    "Power & Renewables"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-avangrid-promotes-ryan-shields-to-svp-fi",
-   "x": 0
-  },
-  {
-   "id": "2026-07-16-ferc-directs-nerc-to-develop-reliability-standar-2a6ca8",
-   "d": "2026-07-16",
-   "h": "FERC directs NERC to develop reliability standards for large computational loads by end of 2026",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Regulatory & Policy",
-    "Digital Infrastructure",
-    "Power & Renewables"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-ferc-directs-nerc-to-develop-reliability",
-   "x": 0
-  },
-  {
    "id": "2026-07-15-blackstone-launches-dedicated-apac-infrastructur-dbc57c",
    "d": "2026-07-15",
    "h": "Blackstone launches dedicated APAC infrastructure platform, hires KKR's Ami Momaya to lead India",
@@ -2406,6 +2406,40 @@
    "m": "2026-07",
    "t": "story-blackstone-launches-dedicated-apac-infra",
    "x": 0
+  },
+  {
+   "id": "2026-07-15-doe-court-filing-concedes-7-6b-of-clean-energy-g-51885a",
+   "d": "2026-07-15",
+   "h": "DOE court filing concedes $7.6B of clean energy grant cancellations were based on recipients' state political identity",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-doe-court-filing-concedes-7-6b-of-clean",
+   "x": 0
+  },
+  {
+   "id": "2026-07-15-lightpath-signs-10-year-second-anchor-tenant-on-f5b232",
+   "d": "2026-07-15",
+   "h": "Lightpath signs 10-year second anchor tenant on eastern Pennsylvania AI-grade fibre build, lifting regional capacity ~30%",
+   "s": "sector_themes",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-lightpath-signs-10-year-second-anchor-te",
+   "x": 1
   },
   {
    "id": "2026-07-15-brightline-west-has-raised-about-5-5bn-of-a-21bn-a60d99",
@@ -2425,49 +2459,21 @@
    "x": 0
   },
   {
-   "id": "2026-07-15-holtec-files-for-a-nasdaq-ipo-on-its-smr-300-pla-581835",
+   "id": "2026-07-15-pjm-s-2028-29-capacity-auction-clears-at-the-325-d9ed15",
    "d": "2026-07-15",
-   "h": "Holtec files for a Nasdaq IPO on its SMR-300 plans as the 800-MW Palisades restart nears completion",
+   "h": "PJM's 2028/29 capacity auction clears at the $325/MW-day cap for a second time, with a 6.8-GW reserve shortfall",
    "s": "sector_themes",
-   "f": [],
+   "f": [
+    "Aurora Energy Research"
+   ],
    "u": [],
    "c": [
-    "Nuclear & SMR",
-    "Power & Renewables"
+    "Power & Renewables",
+    "Regulatory & Policy"
    ],
    "p": "high",
    "m": "2026-07",
-   "t": "story-holtec-files-for-a-nasdaq-ipo-on-its-smr",
-   "x": 0
-  },
-  {
-   "id": "2026-07-15-port-of-long-beach-june-volume-up-10-6-to-779-33-e348ba",
-   "d": "2026-07-15",
-   "h": "Port of Long Beach June volume up 10.6% to 779,331 TEU as retailers front-load ahead of August tariffs",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Ports & Terminals"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-port-of-long-beach-june-volume-up-10-6-t",
-   "x": 0
-  },
-  {
-   "id": "2026-07-15-us-rail-traffic-growth-slows-to-1-5-in-week-endi-399dda",
-   "d": "2026-07-15",
-   "h": "US rail traffic growth slows to 1.5% in week ending July 11 as carloads turn negative",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Rail"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-us-rail-traffic-growth-slows-to-1-5-in-w",
+   "t": "story-pjm-2028-2029-capacity-auction-clears-at",
    "x": 0
   },
   {
@@ -2483,6 +2489,21 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-port-of-los-angeles-posts-busiest-june-o",
+   "x": 0
+  },
+  {
+   "id": "2026-07-15-port-of-long-beach-june-volume-up-10-6-to-779-33-e348ba",
+   "d": "2026-07-15",
+   "h": "Port of Long Beach June volume up 10.6% to 779,331 TEU as retailers front-load ahead of August tariffs",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-port-of-long-beach-june-volume-up-10-6-t",
    "x": 0
   },
   {
@@ -2504,55 +2525,52 @@
    "x": 0
   },
   {
-   "id": "2026-07-15-lightpath-signs-10-year-second-anchor-tenant-on-f5b232",
+   "id": "2026-07-15-holtec-files-for-a-nasdaq-ipo-on-its-smr-300-pla-581835",
    "d": "2026-07-15",
-   "h": "Lightpath signs 10-year second anchor tenant on eastern Pennsylvania AI-grade fibre build, lifting regional capacity ~30%",
+   "h": "Holtec files for a Nasdaq IPO on its SMR-300 plans as the 800-MW Palisades restart nears completion",
    "s": "sector_themes",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-lightpath-signs-10-year-second-anchor-te",
-   "x": 1
-  },
-  {
-   "id": "2026-07-15-doe-court-filing-concedes-7-6b-of-clean-energy-g-51885a",
-   "d": "2026-07-15",
-   "h": "DOE court filing concedes $7.6B of clean energy grant cancellations were based on recipients' state political identity",
-   "s": "market_regulatory",
    "f": [],
    "u": [],
    "c": [
-    "Regulatory & Policy",
+    "Nuclear & SMR",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-holtec-files-for-a-nasdaq-ipo-on-its-smr",
+   "x": 0
+  },
+  {
+   "id": "2026-07-15-us-rail-traffic-growth-slows-to-1-5-in-week-endi-399dda",
+   "d": "2026-07-15",
+   "h": "US rail traffic growth slows to 1.5% in week ending July 11 as carloads turn negative",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-us-rail-traffic-growth-slows-to-1-5-in-w",
+   "x": 0
+  },
+  {
+   "id": "2026-07-14-gip-to-acquire-majority-control-of-us-community-533e23",
+   "d": "2026-07-14",
+   "h": "GIP to acquire majority control of US community solar developer Summit Ridge Energy",
+   "s": "sponsor_moves",
+   "f": [
+    "Global Infrastructure Partners"
+   ],
+   "u": [],
+   "c": [
     "Power & Renewables",
     "Energy Transition & Storage"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-doe-court-filing-concedes-7-6b-of-clean",
-   "x": 0
-  },
-  {
-   "id": "2026-07-15-pjm-s-2028-29-capacity-auction-clears-at-the-325-d9ed15",
-   "d": "2026-07-15",
-   "h": "PJM's 2028/29 capacity auction clears at the $325/MW-day cap for a second time, with a 6.8-GW reserve shortfall",
-   "s": "sector_themes",
-   "f": [
-    "Aurora Energy Research"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-pjm-2028-2029-capacity-auction-clears-at",
+   "t": "story-gip-to-acquire-majority-control-of-us-co",
    "x": 0
   },
   {
@@ -2575,24 +2593,6 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-bond-buyer-brightline-florida-distress-r",
-   "x": 0
-  },
-  {
-   "id": "2026-07-14-gip-to-acquire-majority-control-of-us-community-533e23",
-   "d": "2026-07-14",
-   "h": "GIP to acquire majority control of US community solar developer Summit Ridge Energy",
-   "s": "sponsor_moves",
-   "f": [
-    "Global Infrastructure Partners"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-gip-to-acquire-majority-control-of-us-co",
    "x": 0
   },
   {
@@ -2704,21 +2704,23 @@
    "x": 0
   },
   {
-   "id": "2026-07-09-argo-infrastructure-acquires-eight-site-c-i-sola-e92b5e",
+   "id": "2026-07-09-hydrostor-says-willow-rock-is-nearing-groundbrea-4ee6c9",
    "d": "2026-07-09",
-   "h": "Argo Infrastructure acquires eight-site C&I solar portfolio from NuGen, taking platform to 270MW",
-   "s": "sponsor_moves",
+   "h": "Hydrostor says Willow Rock is nearing groundbreaking later this year with a signed project labor agreement and Hatch as EPC-M",
+   "s": "tracked_situations",
    "f": [
-    "Argo Infrastructure",
-    "NuGen Capital Management"
+    "Hatch"
    ],
-   "u": [],
+   "u": [
+    "hydrostor"
+   ],
    "c": [
+    "Energy Transition & Storage",
     "Power & Renewables"
    ],
-   "p": "normal",
+   "p": "high",
    "m": "2026-07",
-   "t": "story-argo-infrastructure-acquires-eight-site",
+   "t": "story-hydrostor-says-willow-rock-is-nearing-gr",
    "x": 0
   },
   {
@@ -2746,42 +2748,39 @@
    "x": 0
   },
   {
-   "id": "2026-07-09-hydrostor-says-willow-rock-is-nearing-groundbrea-4ee6c9",
+   "id": "2026-07-09-argo-infrastructure-acquires-eight-site-c-i-sola-e92b5e",
    "d": "2026-07-09",
-   "h": "Hydrostor says Willow Rock is nearing groundbreaking later this year with a signed project labor agreement and Hatch as EPC-M",
-   "s": "tracked_situations",
-   "f": [
-    "Hatch"
-   ],
-   "u": [
-    "hydrostor"
-   ],
-   "c": [
-    "Energy Transition & Storage",
-    "Power & Renewables"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-hydrostor-says-willow-rock-is-nearing-gr",
-   "x": 0
-  },
-  {
-   "id": "2026-07-08-meridiam-and-guy-s-and-st-thomas-nhs-trust-launc-36b80f",
-   "d": "2026-07-08",
-   "h": "Meridiam and Guy's and St Thomas' NHS Trust launch energy decarbonisation partnership with no upfront NHS capital",
+   "h": "Argo Infrastructure acquires eight-site C&I solar portfolio from NuGen, taking platform to 270MW",
    "s": "sponsor_moves",
    "f": [
-    "Meridiam",
-    "Dalkia Energy Services"
+    "Argo Infrastructure",
+    "NuGen Capital Management"
    ],
    "u": [],
    "c": [
-    "Social Infrastructure"
+    "Power & Renewables"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-meridiam-and-guy-s-and-st-thomas-nhs-tru",
+   "t": "story-argo-infrastructure-acquires-eight-site",
    "x": 0
+  },
+  {
+   "id": "2026-07-08-lightpath-to-build-ai-grade-fibre-to-two-new-hyp-b5ec56",
+   "d": "2026-07-08",
+   "h": "Lightpath to build AI-grade fibre to two new hyperscale campuses in Michigan and Wisconsin, each above 1GW",
+   "s": "sector_themes",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-lightpath-to-build-ai-grade-fibre-to-two",
+   "x": 1
   },
   {
    "id": "2026-07-08-pembina-confirms-greenlight-will-supply-dedicate-a07b8c",
@@ -2802,21 +2801,21 @@
    "x": 1
   },
   {
-   "id": "2026-07-08-lightpath-to-build-ai-grade-fibre-to-two-new-hyp-b5ec56",
+   "id": "2026-07-08-sumitomo-mitsui-trust-bank-to-take-15-of-morriso-c0a57f",
    "d": "2026-07-08",
-   "h": "Lightpath to build AI-grade fibre to two new hyperscale campuses in Michigan and Wisconsin, each above 1GW",
-   "s": "sector_themes",
+   "h": "Sumitomo Mitsui Trust Bank to take 15% of Morrison with $500m fund investment and $1.5bn raising pact",
+   "s": "sponsor_moves",
    "f": [
-    "MSIP"
+    "Morrison"
    ],
    "u": [],
    "c": [
-    "Digital Infrastructure"
+    "Funds & Fundraising"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-lightpath-to-build-ai-grade-fibre-to-two",
-   "x": 1
+   "t": "story-sumitomo-mitsui-trust-bank-to-take-15-of",
+   "x": 0
   },
   {
    "id": "2026-07-08-avangrid-begins-panel-installation-at-57-mwdc-or-30ec0c",
@@ -2838,37 +2837,37 @@
    "x": 0
   },
   {
-   "id": "2026-07-08-sumitomo-mitsui-trust-bank-to-take-15-of-morriso-c0a57f",
+   "id": "2026-07-08-fervo-says-drilling-rates-are-up-143-since-its-f-87ec3d",
    "d": "2026-07-08",
-   "h": "Sumitomo Mitsui Trust Bank to take 15% of Morrison with $500m fund investment and $1.5bn raising pact",
-   "s": "sponsor_moves",
-   "f": [
-    "Morrison"
-   ],
-   "u": [],
-   "c": [
-    "Funds & Fundraising"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-sumitomo-mitsui-trust-bank-to-take-15-of",
-   "x": 0
-  },
-  {
-   "id": "2026-07-08-usdot-awards-1-73bn-in-build-grants-across-127-p-c2f1e8",
-   "d": "2026-07-08",
-   "h": "USDOT awards $1.73bn in BUILD grants across 127 projects with $136.8m to ports and $87.7m to rail",
+   "h": "Fervo says drilling rates are up 143% since its first Cape Station well, targeting $3,000/kW long term",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Regulatory & Policy",
-    "Transport & Logistics",
-    "Ports & Terminals"
+    "Power & Renewables",
+    "Energy Transition & Storage"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-usdot-awards-1-73bn-in-build-grants-acro",
+   "t": "story-fervo-says-drilling-rates-are-up-143-sin",
+   "x": 0
+  },
+  {
+   "id": "2026-07-08-meridiam-and-guy-s-and-st-thomas-nhs-trust-launc-36b80f",
+   "d": "2026-07-08",
+   "h": "Meridiam and Guy's and St Thomas' NHS Trust launch energy decarbonisation partnership with no upfront NHS capital",
+   "s": "sponsor_moves",
+   "f": [
+    "Meridiam",
+    "Dalkia Energy Services"
+   ],
+   "u": [],
+   "c": [
+    "Social Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-meridiam-and-guy-s-and-st-thomas-nhs-tru",
    "x": 0
   },
   {
@@ -2890,19 +2889,37 @@
    "x": 0
   },
   {
-   "id": "2026-07-08-fervo-says-drilling-rates-are-up-143-since-its-f-87ec3d",
+   "id": "2026-07-08-usdot-awards-1-73bn-in-build-grants-across-127-p-c2f1e8",
    "d": "2026-07-08",
-   "h": "Fervo says drilling rates are up 143% since its first Cape Station well, targeting $3,000/kW long term",
+   "h": "USDOT awards $1.73bn in BUILD grants across 127 projects with $136.8m to ports and $87.7m to rail",
    "s": "sector_themes",
    "f": [],
    "u": [],
    "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage"
+    "Regulatory & Policy",
+    "Transport & Logistics",
+    "Ports & Terminals"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-fervo-says-drilling-rates-are-up-143-sin",
+   "t": "story-usdot-awards-1-73bn-in-build-grants-acro",
+   "x": 0
+  },
+  {
+   "id": "2026-07-07-ifm-completes-atlas-arteria-takeover-reaching-67-aaff48",
+   "d": "2026-07-07",
+   "h": "IFM completes Atlas Arteria takeover, reaching 67.43% voting power in the toll road group",
+   "s": "sponsor_moves",
+   "f": [
+    "IFM Investors"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-ifm-completes-atlas-arteria-takeover-rea",
    "x": 0
   },
   {
@@ -2922,20 +2939,21 @@
    "x": 0
   },
   {
-   "id": "2026-07-07-ifm-completes-atlas-arteria-takeover-reaching-67-aaff48",
-   "d": "2026-07-07",
-   "h": "IFM completes Atlas Arteria takeover, reaching 67.43% voting power in the toll road group",
+   "id": "2026-07-06-blackstone-energy-transition-partners-to-acquire-5738c8",
+   "d": "2026-07-06",
+   "h": "Blackstone Energy Transition Partners to acquire Dresser Utility Solutions from First Reserve",
    "s": "sponsor_moves",
    "f": [
-    "IFM Investors"
+    "Blackstone"
    ],
    "u": [],
    "c": [
-    "Transport & Logistics"
+    "Midstream & Gas",
+    "Water & Environmental"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-ifm-completes-atlas-arteria-takeover-rea",
+   "t": "story-blackstone-energy-transition-partners-to",
    "x": 0
   },
   {
@@ -2975,24 +2993,6 @@
    "x": 1
   },
   {
-   "id": "2026-07-06-blackstone-energy-transition-partners-to-acquire-5738c8",
-   "d": "2026-07-06",
-   "h": "Blackstone Energy Transition Partners to acquire Dresser Utility Solutions from First Reserve",
-   "s": "sponsor_moves",
-   "f": [
-    "Blackstone"
-   ],
-   "u": [],
-   "c": [
-    "Midstream & Gas",
-    "Water & Environmental"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-blackstone-energy-transition-partners-to",
-   "x": 0
-  },
-  {
    "id": "2026-07-06-nerc-s-2026-summer-reliability-assessment-flags-3b4ee4",
    "d": "2026-07-06",
    "h": "NERC's 2026 Summer Reliability Assessment flags New England and the Northwest at elevated risk in extreme scenarios",
@@ -3008,24 +3008,6 @@
    "m": "2026-07",
    "t": "story-nerc-s-2026-summer-reliability-assessmen",
    "x": 0
-  },
-  {
-   "id": "2026-07-02-aecon-led-consortium-wins-epc-for-msip-backed-gr-aad68b",
-   "d": "2026-07-02",
-   "h": "Aecon-led consortium wins EPC for MSIP-backed Greenlight plant, with Aecon's share at C$1.7bn",
-   "s": "sector_themes",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-aecon-led-consortium-wins-epc-for-msip-b",
-   "x": 1
   },
   {
    "id": "2026-07-02-brightline-florida-taps-reserves-to-make-july-1-1a0d62",
@@ -3044,6 +3026,23 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-brightline-florida-taps-reserves-to-make",
+   "x": 0
+  },
+  {
+   "id": "2026-07-02-pjm-stakeholders-advance-registry-based-backstop-5e9ca1",
+   "d": "2026-07-02",
+   "h": "PJM stakeholders advance registry-based backstop procurement but fail to agree on data center connect-and-manage",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-pjm-stakeholders-advance-registry-based",
    "x": 0
   },
   {
@@ -3067,21 +3066,22 @@
    "x": 0
   },
   {
-   "id": "2026-07-02-pjm-stakeholders-advance-registry-based-backstop-5e9ca1",
+   "id": "2026-07-02-aecon-led-consortium-wins-epc-for-msip-backed-gr-aad68b",
    "d": "2026-07-02",
-   "h": "PJM stakeholders advance registry-based backstop procurement but fail to agree on data center connect-and-manage",
-   "s": "market_regulatory",
-   "f": [],
+   "h": "Aecon-led consortium wins EPC for MSIP-backed Greenlight plant, with Aecon's share at C$1.7bn",
+   "s": "sector_themes",
+   "f": [
+    "MSIP"
+   ],
    "u": [],
    "c": [
     "Power & Renewables",
-    "Digital Infrastructure",
-    "Regulatory & Policy"
+    "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-07",
-   "t": "story-pjm-stakeholders-advance-registry-based",
-   "x": 0
+   "t": "story-aecon-led-consortium-wins-epc-for-msip-b",
+   "x": 1
   },
   {
    "id": "2026-07-01-mcdermott-prices-550m-of-10-5-nordic-bonds-due-2-3bc2de",
@@ -3109,6 +3109,25 @@
    "x": 0
   },
   {
+   "id": "2026-06-30-brookfield-and-bloom-energy-expand-their-ai-infr-3930a5",
+   "d": "2026-06-30",
+   "h": "Brookfield and Bloom Energy expand their AI infrastructure partnership fivefold to $25 billion for onsite power",
+   "s": "sector_themes",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Energy Transition & Storage"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-brookfield-and-bloom-energy-expand-their",
+   "x": 0
+  },
+  {
    "id": "2026-06-30-debtwire-brightline-florida-restructuring-likely-a24957",
    "d": "2026-06-30",
    "h": "Debtwire: Brightline Florida restructuring likely to split along creditor lines, with Chapter 11 or Subchapter IV in play",
@@ -3126,25 +3145,6 @@
    "p": "high",
    "m": "2026-06",
    "t": "story-debtwire-brightline-florida-restructurin",
-   "x": 0
-  },
-  {
-   "id": "2026-06-30-brookfield-and-bloom-energy-expand-ai-power-part-48cf0e",
-   "d": "2026-06-30",
-   "h": "Brookfield and Bloom Energy expand their AI infrastructure partnership fivefold to $25 billion for onsite power",
-   "s": "sponsor_moves",
-   "f": [
-    "Brookfield"
-   ],
-   "u": [],
-   "c": [
-    "Energy Transition & Storage",
-    "Digital Infrastructure",
-    "Power & Renewables"
-   ],
-   "p": "high",
-   "m": "2026-06",
-   "t": "story-brookfield-and-bloom-energy-expand-their",
    "x": 0
   },
   {
@@ -3166,6 +3166,24 @@
    "x": 0
   },
   {
+   "id": "2026-06-30-brookfield-and-bloom-energy-expand-ai-power-part-48cf0e",
+   "d": "2026-06-30",
+   "h": "Brookfield and Bloom Energy expand AI power partnership fivefold to $25bn",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-brookfield-and-bloom-energy-expand-their",
+   "x": 0
+  },
+  {
    "id": "2026-06-29-ftai-infrastructure-acquires-tidewater-logistics-24a3ea",
    "d": "2026-06-29",
    "h": "FTAI Infrastructure acquires Tidewater Logistics for about $45m in cash, funded by upsizing its term loan",
@@ -3184,23 +3202,6 @@
    "x": 0
   },
   {
-   "id": "2026-06-29-digital-realty-buys-blackstone-s-stakes-in-three-be1d6e",
-   "d": "2026-06-29",
-   "h": "Digital Realty buys Blackstone's stakes in three Northern Virginia data centers at a $7.8B gross valuation, 6.5%+ cap rate",
-   "s": "sector_themes",
-   "f": [
-    "Blackstone"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "high",
-   "m": "2026-06",
-   "t": "story-digital-realty-buys-blackstone-s-stakes",
-   "x": 0
-  },
-  {
    "id": "2026-06-29-digital-realty-to-buy-blackstone-s-stakes-in-thr-9fd4b0",
    "d": "2026-06-29",
    "h": "Digital Realty to buy Blackstone's stakes in three Northern Virginia data centres in $3.5bn transaction",
@@ -3214,7 +3215,24 @@
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-digital-realty-buys-blackstone-s-stakes",
+   "t": "story-digital-realty-to-buy-blackstone-s-stake",
+   "x": 0
+  },
+  {
+   "id": "2026-06-29-digital-realty-buys-blackstone-s-stakes-in-three-be1d6e",
+   "d": "2026-06-29",
+   "h": "Digital Realty buys Blackstone's stakes in three Northern Virginia data centers at a $7.8B gross valuation, 6.5%+ cap rate",
+   "s": "sector_themes",
+   "f": [
+    "Blackstone"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-digital-realty-to-buy-blackstone-s-stake",
    "x": 0
   },
   {
@@ -3251,19 +3269,21 @@
    "x": 0
   },
   {
-   "id": "2026-06-26-ferc-issues-final-environmental-statements-for-n-84baf6",
+   "id": "2026-06-26-icf-445-gw-of-nameplate-capacity-by-2030-deliver-647361",
    "d": "2026-06-26",
-   "h": "FERC issues final environmental statements for nearly 500 miles of Kinder Morgan Southeast gas expansions",
+   "h": "ICF: 445 GW of nameplate capacity by 2030 delivers only 191 GW of effective peak capacity; PJM and ERCOT full past 2027",
    "s": "sector_themes",
-   "f": [],
+   "f": [
+    "ICF"
+   ],
    "u": [],
    "c": [
-    "Midstream & Gas",
-    "Regulatory & Policy"
+    "Power & Renewables",
+    "Energy Transition & Storage"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-ferc-issues-final-environmental-statemen",
+   "t": "story-icf-445-gw-of-nameplate-capacity-by-2030",
    "x": 0
   },
   {
@@ -3286,6 +3306,22 @@
    "x": 0
   },
   {
+   "id": "2026-06-26-ferc-issues-final-environmental-statements-for-n-84baf6",
+   "d": "2026-06-26",
+   "h": "FERC issues final environmental statements for nearly 500 miles of Kinder Morgan Southeast gas expansions",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-06",
+   "t": "story-ferc-issues-final-environmental-statemen",
+   "x": 0
+  },
+  {
    "id": "2026-06-26-epri-and-utilities-push-data-center-flexibility-1bc002",
    "d": "2026-06-26",
    "h": "EPRI and utilities push data center flexibility as the speed-to-power fix: 18%-55% of AI load may be curtailable",
@@ -3299,40 +3335,6 @@
    "p": "normal",
    "m": "2026-06",
    "t": "story-epri-and-utilities-push-data-center-flex",
-   "x": 0
-  },
-  {
-   "id": "2026-06-26-icf-445-gw-of-nameplate-capacity-by-2030-deliver-647361",
-   "d": "2026-06-26",
-   "h": "ICF: 445 GW of nameplate capacity by 2030 delivers only 191 GW of effective peak capacity; PJM and ERCOT full past 2027",
-   "s": "sector_themes",
-   "f": [
-    "ICF"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage"
-   ],
-   "p": "normal",
-   "m": "2026-06",
-   "t": "story-icf-445-gw-of-nameplate-capacity-by-2030",
-   "x": 0
-  },
-  {
-   "id": "2026-06-24-sunrun-tesla-and-renew-home-offer-utilities-16-8-29e8fd",
-   "d": "2026-06-24",
-   "h": "Sunrun, Tesla and Renew Home offer utilities 16.8 GW of distributed capacity across 12 million devices in 9 million homes",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Energy Transition & Storage",
-    "Power & Renewables"
-   ],
-   "p": "normal",
-   "m": "2026-06",
-   "t": "story-sunrun-tesla-and-renew-home-offer-utilit",
    "x": 0
   },
   {
@@ -3352,6 +3354,22 @@
    "p": "normal",
    "m": "2026-06",
    "t": "story-advanced-energy-united-rtos-made-signifi",
+   "x": 0
+  },
+  {
+   "id": "2026-06-24-sunrun-tesla-and-renew-home-offer-utilities-16-8-29e8fd",
+   "d": "2026-06-24",
+   "h": "Sunrun, Tesla and Renew Home offer utilities 16.8 GW of distributed capacity across 12 million devices in 9 million homes",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-06",
+   "t": "story-sunrun-tesla-and-renew-home-offer-utilit",
    "x": 0
   },
   {
@@ -3441,20 +3459,20 @@
    "x": 0
   },
   {
-   "id": "2026-06-18-meridiam-invests-eur5m-in-blyyd-to-scale-electri-ea89d8",
+   "id": "2026-06-18-alterra-joins-i-squared-s-600m-continuation-vehi-a2d1c3",
    "d": "2026-06-18",
-   "h": "Meridiam invests EUR5m in Blyyd to scale electric yard tractors for logistics operations",
+   "h": "Altérra joins I Squared's $600m continuation vehicle for Peruvian power platform Inkia",
    "s": "sponsor_moves",
    "f": [
-    "Meridiam"
+    "I Squared Capital"
    ],
    "u": [],
    "c": [
-    "Energy Transition & Storage"
+    "Power & Renewables"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-meridiam-invests-eur5m-in-blyyd-to-scale",
+   "t": "story-alterra-joins-i-squared-s-600m-continuat",
    "x": 0
   },
   {
@@ -3475,20 +3493,20 @@
    "x": 0
   },
   {
-   "id": "2026-06-18-alterra-joins-i-squared-s-600m-continuation-vehi-a2d1c3",
+   "id": "2026-06-18-meridiam-invests-eur5m-in-blyyd-to-scale-electri-ea89d8",
    "d": "2026-06-18",
-   "h": "Altérra joins I Squared's $600m continuation vehicle for Peruvian power platform Inkia",
+   "h": "Meridiam invests EUR5m in Blyyd to scale electric yard tractors for logistics operations",
    "s": "sponsor_moves",
    "f": [
-    "I Squared Capital"
+    "Meridiam"
    ],
    "u": [],
    "c": [
-    "Power & Renewables"
+    "Energy Transition & Storage"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-alterra-joins-i-squared-s-600m-continuat",
+   "t": "story-meridiam-invests-eur5m-in-blyyd-to-scale",
    "x": 0
   },
   {
@@ -3508,21 +3526,39 @@
    "x": 0
   },
   {
-   "id": "2026-06-17-stonepeak-exits-kaps-selling-remaining-50-ngl-pi-5c32e2",
+   "id": "2026-06-17-invenergy-takes-a-765m-federal-payout-to-surrend-46a1e5",
    "d": "2026-06-17",
-   "h": "Stonepeak exits KAPS, selling remaining 50% NGL pipeline interest to Keyera for C$1.215bn",
-   "s": "sponsor_moves",
+   "h": "Invenergy takes a $765M federal payout to surrender four offshore wind leases and redirect capital to geothermal and gas",
+   "s": "sector_themes",
    "f": [
-    "Stonepeak",
-    "Keyera"
+    "Invenergy"
    ],
    "u": [],
    "c": [
+    "Power & Renewables",
+    "Energy Transition & Storage",
     "Midstream & Gas"
    ],
-   "p": "high",
+   "p": "normal",
    "m": "2026-06",
-   "t": "story-stonepeak-exits-kaps-selling-remaining-5",
+   "t": "story-invenergy-takes-a-765m-federal-payout-to",
+   "x": 0
+  },
+  {
+   "id": "2026-06-17-lightpath-deploys-oracle-cloud-billing-and-assur-4f204b",
+   "d": "2026-06-17",
+   "h": "Lightpath deploys Oracle cloud billing and assurance stack to monetise dark fibre and private network services",
+   "s": "sector_themes",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-06",
+   "t": "story-lightpath-deploys-oracle-cloud-billing-a",
    "x": 1
   },
   {
@@ -3563,42 +3599,6 @@
    "x": 0
   },
   {
-   "id": "2026-06-17-invenergy-takes-a-765m-federal-payout-to-surrend-46a1e5",
-   "d": "2026-06-17",
-   "h": "Invenergy takes a $765M federal payout to surrender four offshore wind leases and redirect capital to geothermal and gas",
-   "s": "sector_themes",
-   "f": [
-    "Invenergy"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage",
-    "Midstream & Gas"
-   ],
-   "p": "normal",
-   "m": "2026-06",
-   "t": "story-invenergy-takes-a-765m-federal-payout-to",
-   "x": 0
-  },
-  {
-   "id": "2026-06-17-lightpath-deploys-oracle-cloud-billing-and-assur-4f204b",
-   "d": "2026-06-17",
-   "h": "Lightpath deploys Oracle cloud billing and assurance stack to monetise dark fibre and private network services",
-   "s": "sector_themes",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-06",
-   "t": "story-lightpath-deploys-oracle-cloud-billing-a",
-   "x": 1
-  },
-  {
    "id": "2026-06-17-us-freight-rail-traffic-up-7-2-in-week-ending-ju-8a2e52",
    "d": "2026-06-17",
    "h": "US freight rail traffic up 7.2% in week ending June 13 with intermodal up 10.9%",
@@ -3612,6 +3612,24 @@
    "m": "2026-06",
    "t": "story-us-freight-rail-traffic-up-7-2-in-week-e",
    "x": 0
+  },
+  {
+   "id": "2026-06-17-stonepeak-exits-kaps-selling-remaining-50-ngl-pi-5c32e2",
+   "d": "2026-06-17",
+   "h": "Stonepeak exits KAPS, selling remaining 50% NGL pipeline interest to Keyera for C$1.215bn",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak",
+    "Keyera"
+   ],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-stonepeak-exits-kaps-selling-remaining-5",
+   "x": 1
   },
   {
    "id": "2026-06-16-grain-management-combines-ritter-and-great-plain-6b7f87",
@@ -3744,38 +3762,22 @@
    "x": 1
   },
   {
-   "id": "2026-06-10-ridgewood-infrastructure-acquires-dauntless-air-b1e75c",
+   "id": "2026-06-10-pennsylvania-house-unanimously-passes-hb-2469-ex-865260",
    "d": "2026-06-10",
-   "h": "Ridgewood Infrastructure acquires Dauntless Air, operator of North America's largest Fire Boss scooper fleet",
-   "s": "sponsor_moves",
+   "h": "Pennsylvania House unanimously passes HB 2469 extending transportation P3 authority to all 67 counties plus Philadelphia and Pittsburgh",
+   "s": "market_regulatory",
    "f": [
-    "Ridgewood Infrastructure"
+    "Cintra"
    ],
    "u": [],
    "c": [
-    "Transport & Logistics"
+    "Transport & Logistics",
+    "Social Infrastructure",
+    "Regulatory & Policy"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-ridgewood-infrastructure-acquires-dauntl",
-   "x": 0
-  },
-  {
-   "id": "2026-06-10-kkr-launches-helix-digital-infrastructure-with-1-89d17a",
-   "d": "2026-06-10",
-   "h": "KKR launches Helix Digital Infrastructure with $10bn-plus commitments, NVIDIA and Vistra as partners, Selipsky as CEO",
-   "s": "sponsor_moves",
-   "f": [
-    "KKR"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure",
-    "Power & Renewables"
-   ],
-   "p": "high",
-   "m": "2026-06",
-   "t": "story-kkr-launches-helix-digital-infrastructur",
+   "t": "story-pennsylvania-house-unanimously-passes-hb",
    "x": 0
   },
   {
@@ -3811,22 +3813,38 @@
    "x": 0
   },
   {
-   "id": "2026-06-10-pennsylvania-house-unanimously-passes-hb-2469-ex-865260",
+   "id": "2026-06-10-kkr-launches-helix-digital-infrastructure-with-1-89d17a",
    "d": "2026-06-10",
-   "h": "Pennsylvania House unanimously passes HB 2469 extending transportation P3 authority to all 67 counties plus Philadelphia and Pittsburgh",
-   "s": "market_regulatory",
+   "h": "KKR launches Helix Digital Infrastructure with $10bn-plus commitments, NVIDIA and Vistra as partners, Selipsky as CEO",
+   "s": "sponsor_moves",
    "f": [
-    "Cintra"
+    "KKR"
    ],
    "u": [],
    "c": [
-    "Transport & Logistics",
-    "Social Infrastructure",
-    "Regulatory & Policy"
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-kkr-launches-helix-digital-infrastructur",
+   "x": 0
+  },
+  {
+   "id": "2026-06-10-ridgewood-infrastructure-acquires-dauntless-air-b1e75c",
+   "d": "2026-06-10",
+   "h": "Ridgewood Infrastructure acquires Dauntless Air, operator of North America's largest Fire Boss scooper fleet",
+   "s": "sponsor_moves",
+   "f": [
+    "Ridgewood Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-pennsylvania-house-unanimously-passes-hb",
+   "t": "story-ridgewood-infrastructure-acquires-dauntl",
    "x": 0
   },
   {
@@ -3846,21 +3864,20 @@
    "x": 0
   },
   {
-   "id": "2026-06-08-rev-renewables-125-mw-tumbleweed-becomes-the-fir-1fdea1",
+   "id": "2026-06-08-jones-act-waiver-extended-through-august-16-the-51040e",
    "d": "2026-06-08",
-   "h": "Rev Renewables' 125-MW Tumbleweed becomes the first major US battery able to discharge at full capacity for eight hours",
-   "s": "sector_themes",
-   "f": [
-    "Rev Renewables"
-   ],
+   "h": "Jones Act waiver extended through August 16, the longest since 1950, testing the domestic shipbuilding agenda",
+   "s": "market_regulatory",
+   "f": [],
    "u": [],
    "c": [
-    "Energy Transition & Storage",
-    "Power & Renewables"
+    "Transport & Logistics",
+    "Ports & Terminals",
+    "Regulatory & Policy"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-rev-renewables-125-mw-tumbleweed-becomes",
+   "t": "story-jones-act-waiver-extended-through-august",
    "x": 0
   },
   {
@@ -3883,20 +3900,21 @@
    "x": 0
   },
   {
-   "id": "2026-06-08-jones-act-waiver-extended-through-august-16-the-51040e",
+   "id": "2026-06-08-rev-renewables-125-mw-tumbleweed-becomes-the-fir-1fdea1",
    "d": "2026-06-08",
-   "h": "Jones Act waiver extended through August 16, the longest since 1950, testing the domestic shipbuilding agenda",
-   "s": "market_regulatory",
-   "f": [],
+   "h": "Rev Renewables' 125-MW Tumbleweed becomes the first major US battery able to discharge at full capacity for eight hours",
+   "s": "sector_themes",
+   "f": [
+    "Rev Renewables"
+   ],
    "u": [],
    "c": [
-    "Transport & Logistics",
-    "Ports & Terminals",
-    "Regulatory & Policy"
+    "Energy Transition & Storage",
+    "Power & Renewables"
    ],
    "p": "normal",
    "m": "2026-06",
-   "t": "story-jones-act-waiver-extended-through-august",
+   "t": "story-rev-renewables-125-mw-tumbleweed-becomes",
    "x": 0
   },
   {
@@ -3983,24 +4001,6 @@
    "x": 0
   },
   {
-   "id": "2026-06-03-delfin-midstream-takes-5bn-fid-on-first-us-float-f845fc",
-   "d": "2026-06-03",
-   "h": "Delfin Midstream takes $5bn FID on first US floating LNG vessel, 4.4 mtpa, with GIP leading equity",
-   "s": "sector_themes",
-   "f": [
-    "Global Infrastructure Partners",
-    "Diameter Capital Partners"
-   ],
-   "u": [],
-   "c": [
-    "Midstream & Gas"
-   ],
-   "p": "high",
-   "m": "2026-06",
-   "t": "story-delfin-midstream-takes-5bn-fid-on-first",
-   "x": 0
-  },
-  {
    "id": "2026-06-03-s-p-sees-brightline-florida-liquidity-falling-to-d4faf5",
    "d": "2026-06-03",
    "h": "S&P sees Brightline Florida liquidity falling to $16m after July debt service even as April ridership rises 20%",
@@ -4021,20 +4021,21 @@
    "x": 0
   },
   {
-   "id": "2026-06-03-aramco-selects-mcdermott-as-one-of-11-contractor-57ca5f",
+   "id": "2026-06-03-delfin-midstream-takes-5bn-fid-on-first-us-float-f845fc",
    "d": "2026-06-03",
-   "h": "Aramco selects McDermott as one of 11 contractors on a multi-year project management consultancy long-term agreement",
-   "s": "tracked_situations",
-   "f": [],
-   "u": [
-    "mcdermott_nmdc"
+   "h": "Delfin Midstream takes $5bn FID on first US floating LNG vessel, 4.4 mtpa, with GIP leading equity",
+   "s": "sector_themes",
+   "f": [
+    "Global Infrastructure Partners",
+    "Diameter Capital Partners"
    ],
+   "u": [],
    "c": [
     "Midstream & Gas"
    ],
-   "p": "normal",
+   "p": "high",
    "m": "2026-06",
-   "t": "story-aramco-selects-mcdermott-as-one-of-11-co",
+   "t": "story-delfin-midstream-takes-5bn-fid-on-first",
    "x": 0
   },
   {
@@ -4054,21 +4055,21 @@
    "x": 0
   },
   {
-   "id": "2026-06-02-greenbriar-backed-applied-aerospace-defense-pric-d1a7e2",
-   "d": "2026-06-02",
-   "h": "Greenbriar-backed Applied Aerospace & Defense prices $650m NYSE IPO at $20 per share",
-   "s": "sponsor_moves",
-   "f": [
-    "Greenbriar Equity Group"
+   "id": "2026-06-03-aramco-selects-mcdermott-as-one-of-11-contractor-57ca5f",
+   "d": "2026-06-03",
+   "h": "Aramco selects McDermott as one of 11 contractors on a multi-year project management consultancy long-term agreement",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "mcdermott_nmdc"
    ],
-   "u": [],
    "c": [
-    "Transport & Logistics"
+    "Midstream & Gas"
    ],
-   "p": "high",
+   "p": "normal",
    "m": "2026-06",
-   "t": "story-greenbriar-backed-applied-aerospace-defe",
-   "x": 1
+   "t": "story-aramco-selects-mcdermott-as-one-of-11-co",
+   "x": 0
   },
   {
    "id": "2026-06-02-ad-ports-buys-brazilian-agri-bulk-terminal-opera-d2d3d4",
@@ -4086,6 +4087,23 @@
    "p": "normal",
    "m": "2026-06",
    "t": "story-ad-ports-buys-brazilian-agri-bulk-termin",
+   "x": 0
+  },
+  {
+   "id": "2026-06-02-23-states-have-now-approved-large-load-tariffs-w-8aac8a",
+   "d": "2026-06-02",
+   "h": "23 states have now approved large-load tariffs, with Virginia requiring 14-year minimum contracts and $1.5M/MW collateral",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Regulatory & Policy",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-23-states-have-now-approved-large-load-t",
    "x": 0
   },
   {
@@ -4108,21 +4126,21 @@
    "x": 0
   },
   {
-   "id": "2026-06-02-23-states-have-now-approved-large-load-tariffs-w-8aac8a",
+   "id": "2026-06-02-greenbriar-backed-applied-aerospace-defense-pric-d1a7e2",
    "d": "2026-06-02",
-   "h": "23 states have now approved large-load tariffs, with Virginia requiring 14-year minimum contracts and $1.5M/MW collateral",
-   "s": "market_regulatory",
-   "f": [],
+   "h": "Greenbriar-backed Applied Aerospace & Defense prices $650m NYSE IPO at $20 per share",
+   "s": "sponsor_moves",
+   "f": [
+    "Greenbriar Equity Group"
+   ],
    "u": [],
    "c": [
-    "Digital Infrastructure",
-    "Regulatory & Policy",
-    "Power & Renewables"
+    "Transport & Logistics"
    ],
    "p": "high",
    "m": "2026-06",
-   "t": "story-23-states-have-now-approved-large-load-t",
-   "x": 0
+   "t": "story-greenbriar-backed-applied-aerospace-defe",
+   "x": 1
   },
   {
    "id": "2026-06-02-lng-canada-issues-limited-notice-to-proceed-to-j-2a85ca",
@@ -4158,6 +4176,23 @@
    "x": 0
   },
   {
+   "id": "2026-06-01-lbnl-queued-up-2026-gas-in-interconnection-queue-356b99",
+   "d": "2026-06-01",
+   "h": "LBNL 'Queued Up' 2026: gas in interconnection queues jumps 86% to 253 GW as solar and storage volumes fall",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Energy Transition & Storage",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-06",
+   "t": "story-lbnl-queued-up-2026-gas-in-interconnecti",
+   "x": 0
+  },
+  {
    "id": "2026-06-01-us-public-pension-commitments-to-infrastructure-52c420",
    "d": "2026-06-01",
    "h": "US public pension commitments to infrastructure funds fell to $17.4B across 165 commitments in 2025, down from $21.3B",
@@ -4173,23 +4208,6 @@
    "p": "high",
    "m": "2026-06",
    "t": "story-us-public-pension-commitments-to-infrast",
-   "x": 0
-  },
-  {
-   "id": "2026-06-01-lbnl-queued-up-2026-gas-in-interconnection-queue-356b99",
-   "d": "2026-06-01",
-   "h": "LBNL 'Queued Up' 2026: gas in interconnection queues jumps 86% to 253 GW as solar and storage volumes fall",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Energy Transition & Storage",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-06",
-   "t": "story-lbnl-queued-up-2026-gas-in-interconnecti",
    "x": 0
   },
   {
@@ -4281,26 +4299,9 @@
    "x": 0
   },
   {
-   "id": "2026-05-28-flexential-buys-hillsboro-4-and-5-data-centres-i-dab37a",
-   "d": "2026-05-28",
-   "h": "Flexential buys Hillsboro 4 and 5 data centres in Oregon, 496,000 sq ft and 54MW, its largest ever property deal",
-   "s": "sponsor_moves",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-flexential-buys-hillsboro-4-and-5-data-c",
-   "x": 1
-  },
-  {
    "id": "2026-05-28-stb-accepts-union-pacific-norfolk-southern-merge-8a5f66",
    "d": "2026-05-28",
-   "h": "STB accepts Union Pacific-Norfolk Southern merger application but holds proceedings in abeyance pending supplemental data",
+   "h": "STB accepts Union Pacific-Norfolk Southern merger application but holds proceedings in abeyance pending supplemental filings",
    "s": "sector_themes",
    "f": [],
    "u": [],
@@ -4330,6 +4331,23 @@
    "m": "2026-05",
    "t": "story-oregon-puc-approves-pge-large-load-tarif",
    "x": 0
+  },
+  {
+   "id": "2026-05-28-flexential-buys-hillsboro-4-and-5-data-centres-i-dab37a",
+   "d": "2026-05-28",
+   "h": "Flexential buys Hillsboro 4 and 5 data centres in Oregon, 496,000 sq ft and 54MW, its largest ever property deal",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-flexential-buys-hillsboro-4-and-5-data-c",
+   "x": 1
   },
   {
    "id": "2026-05-27-stonepeak-led-consortium-to-acquire-estia-health-0f6c10",
@@ -4426,7 +4444,7 @@
   {
    "id": "2026-05-22-tiger-backed-emed-group-completes-transfer-of-br-3c787f",
    "d": "2026-05-22",
-   "h": "Tiger-backed EMED Group completes transfer of Bristol Ambulance EMS, adding 120 vehicles and 315 staff",
+   "h": "Tiger Infrastructure portfolio company Unison Energy names Al Dahya chief financial officer",
    "s": "sponsor_moves",
    "f": [
     "Tiger Infrastructure"
@@ -4438,7 +4456,7 @@
    ],
    "p": "normal",
    "m": "2026-05",
-   "t": "story-tiger-backed-emed-group-completes-transf",
+   "t": "story-tiger-infrastructure-portfolio-company-u",
    "x": 0
   },
   {
@@ -4509,25 +4527,6 @@
    "x": 0
   },
   {
-   "id": "2026-05-19-basalt-infrastructure-completes-sale-of-manx-tel-cf25e5",
-   "d": "2026-05-19",
-   "h": "Basalt Infrastructure completes sale of Manx Telecom to CVC DIF and Jersey Telecom consortium",
-   "s": "sponsor_moves",
-   "f": [
-    "Basalt Infrastructure",
-    "CVC DIF",
-    "Jersey Telecom"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-basalt-infrastructure-completes-sale-of",
-   "x": 0
-  },
-  {
    "id": "2026-05-19-lightpath-adds-265-route-miles-in-greater-new-yo-367f42",
    "d": "2026-05-19",
    "h": "Lightpath adds 265 route miles in greater New York to serve more than 2,400 macro cell sites",
@@ -4545,20 +4544,22 @@
    "x": 1
   },
   {
-   "id": "2026-05-18-mcdermott-reports-q1-2026-revenue-of-2-4bn-adjus-8fb180",
-   "d": "2026-05-18",
-   "h": "McDermott reports Q1 2026 revenue of $2.4bn, adjusted EBITDA of $117m and backlog of $17.6bn",
-   "s": "tracked_situations",
-   "f": [],
-   "u": [
-    "mcdermott_nmdc"
+   "id": "2026-05-19-basalt-infrastructure-completes-sale-of-manx-tel-cf25e5",
+   "d": "2026-05-19",
+   "h": "Basalt Infrastructure completes sale of Manx Telecom to CVC DIF and Jersey Telecom consortium",
+   "s": "sponsor_moves",
+   "f": [
+    "Basalt Infrastructure",
+    "CVC DIF",
+    "Jersey Telecom"
    ],
+   "u": [],
    "c": [
-    "Midstream & Gas"
+    "Digital Infrastructure"
    ],
    "p": "normal",
    "m": "2026-05",
-   "t": "story-mcdermott-reports-q1-2026-revenue-of-2-4",
+   "t": "story-basalt-infrastructure-completes-sale-of",
    "x": 0
   },
   {
@@ -4597,20 +4598,20 @@
    "x": 0
   },
   {
-   "id": "2026-05-15-tiger-infrastructure-sells-international-aerospa-d6440c",
-   "d": "2026-05-15",
-   "h": "Tiger Infrastructure sells International Aerospace Coatings from Fund III after scaling hangars from 17 to 25",
-   "s": "sponsor_moves",
-   "f": [
-    "Tiger Infrastructure"
+   "id": "2026-05-18-mcdermott-reports-q1-2026-revenue-of-2-4bn-adjus-8fb180",
+   "d": "2026-05-18",
+   "h": "McDermott reports Q1 2026 revenue of $2.4bn, adjusted EBITDA of $117m and backlog of $17.6bn",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "mcdermott_nmdc"
    ],
-   "u": [],
    "c": [
-    "Transport & Logistics"
+    "Midstream & Gas"
    ],
    "p": "normal",
    "m": "2026-05",
-   "t": "story-tiger-infrastructure-sells-international",
+   "t": "story-mcdermott-reports-q1-2026-revenue-of-2-4",
    "x": 0
   },
   {
@@ -4628,6 +4629,23 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-gip-targets-10bn-for-new-gulf-and-centra",
+   "x": 0
+  },
+  {
+   "id": "2026-05-15-tiger-infrastructure-sells-international-aerospa-d6440c",
+   "d": "2026-05-15",
+   "h": "Tiger Infrastructure sells International Aerospace Coatings from Fund III after scaling hangars from 17 to 25",
+   "s": "sponsor_moves",
+   "f": [
+    "Tiger Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-tiger-infrastructure-sells-international",
    "x": 0
   },
   {
@@ -4692,24 +4710,6 @@
    "x": 0
   },
   {
-   "id": "2026-05-12-grain-management-reinvests-as-spectrotel-combine-ce8dbb",
-   "d": "2026-05-12",
-   "h": "Grain Management reinvests as Spectrotel combines with AireSpring; Charlesbank invests in managed network services platform",
-   "s": "sponsor_moves",
-   "f": [
-    "Grain Management",
-    "Charlesbank Capital Partners"
-   ],
-   "u": [],
-   "c": [
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-grain-management-reinvests-as-spectrotel",
-   "x": 0
-  },
-  {
    "id": "2026-05-12-snowhawk-closes-debut-digital-infrastructure-fun-228270",
    "d": "2026-05-12",
    "h": "Snowhawk closes debut digital infrastructure fund at approximately $1.3bn of commitments",
@@ -4725,6 +4725,40 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-snowhawk-closes-debut-digital-infrastruc",
+   "x": 0
+  },
+  {
+   "id": "2026-05-12-fluence-signs-master-supply-agreements-with-two-a361d3",
+   "d": "2026-05-12",
+   "h": "Fluence signs master supply agreements with two major hyperscalers as backlog hits a record $5.6B / 10.1 GW",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-fluence-signs-master-supply-agreements-w",
+   "x": 0
+  },
+  {
+   "id": "2026-05-12-grain-management-reinvests-as-spectrotel-combine-ce8dbb",
+   "d": "2026-05-12",
+   "h": "Grain Management reinvests as Spectrotel combines with AireSpring; Charlesbank invests in managed network services platform",
+   "s": "sponsor_moves",
+   "f": [
+    "Grain Management",
+    "Charlesbank Capital Partners"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-grain-management-reinvests-as-spectrotel",
    "x": 0
   },
   {
@@ -4747,7 +4781,7 @@
   {
    "id": "2026-05-12-fervo-energy-prices-upsized-ipo-at-27-share-rais-686e48",
    "d": "2026-05-12",
-   "h": "Fervo Energy prices upsized IPO at $27/share, raising ~$1.9B and putting next-gen geothermal on public markets",
+   "h": "Fervo posts 658 MW contracted PPAs and a Google framework for up to 3 GW of geothermal through 2033",
    "s": "sector_themes",
    "f": [
     "J.P. Morgan",
@@ -4763,23 +4797,7 @@
    ],
    "p": "high",
    "m": "2026-05",
-   "t": "story-fervo-energy-prices-upsized-ipo-at-27-sh",
-   "x": 0
-  },
-  {
-   "id": "2026-05-12-fluence-signs-master-supply-agreements-with-two-a361d3",
-   "d": "2026-05-12",
-   "h": "Fluence signs master supply agreements with two major hyperscalers as backlog hits a record $5.6B / 10.1 GW",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Energy Transition & Storage",
-    "Digital Infrastructure"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-fluence-signs-master-supply-agreements-w",
+   "t": "story-fervo-posts-658-mw-contracted-ppas-and-a",
    "x": 0
   },
   {
@@ -4836,21 +4854,22 @@
    "x": 0
   },
   {
-   "id": "2026-05-07-northleaf-and-inovia-launch-discovery-platform-t-f4666f",
+   "id": "2026-05-07-ftai-infrastructure-posts-q1-adjusted-ebitda-of-7e1d3f",
    "d": "2026-05-07",
-   "h": "Northleaf and Inovia launch Discovery platform to back Canadian emerging venture managers",
-   "s": "sponsor_moves",
-   "f": [
-    "Northleaf",
-    "Inovia Capital"
+   "h": "FTAI Infrastructure posts Q1 Adjusted EBITDA of $70.6m and a $150.2m net loss; Repauno Phase 2 still on plan for early 2027",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
    ],
-   "u": [],
    "c": [
-    "Funds & Fundraising"
+    "Rail",
+    "Ports & Terminals",
+    "Midstream & Gas"
    ],
-   "p": "normal",
+   "p": "high",
    "m": "2026-05",
-   "t": "story-northleaf-and-inovia-launch-discovery-pl",
+   "t": "story-ftai-infrastructure-posts-q1-adjusted-eb",
    "x": 0
   },
   {
@@ -4871,22 +4890,53 @@
    "x": 0
   },
   {
-   "id": "2026-05-07-ftai-infrastructure-posts-q1-adjusted-ebitda-of-7e1d3f",
+   "id": "2026-05-07-northleaf-and-inovia-launch-discovery-platform-t-f4666f",
    "d": "2026-05-07",
-   "h": "FTAI Infrastructure posts Q1 Adjusted EBITDA of $70.6m and a $150.2m net loss; Repauno Phase 2 still on plan for early 2027",
-   "s": "tracked_situations",
-   "f": [],
-   "u": [
-    "ftai_infrastructure"
+   "h": "Northleaf and Inovia launch Discovery platform to back Canadian emerging venture managers",
+   "s": "sponsor_moves",
+   "f": [
+    "Northleaf",
+    "Inovia Capital"
    ],
+   "u": [],
    "c": [
-    "Rail",
-    "Ports & Terminals",
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-northleaf-and-inovia-launch-discovery-pl",
+   "x": 0
+  },
+  {
+   "id": "2026-05-06-carlyle-and-diversified-energy-agree-to-buy-cami-75487c",
+   "d": "2026-05-06",
+   "h": "Carlyle and Diversified Energy agree to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn",
+   "s": "sponsor_moves",
+   "f": [
+    "Carlyle"
+   ],
+   "u": [],
+   "c": [
     "Midstream & Gas"
    ],
-   "p": "high",
+   "p": "normal",
    "m": "2026-05",
-   "t": "story-ftai-infrastructure-posts-q1-adjusted-eb",
+   "t": "story-carlyle-and-diversified-energy-agree-to",
+   "x": 0
+  },
+  {
+   "id": "2026-05-06-western-midstream-to-acquire-brazos-delaware-ii-45c183",
+   "d": "2026-05-06",
+   "h": "Western Midstream to acquire Brazos Delaware II for $1.6bn, lifting Delaware processing capacity 20%",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-western-midstream-to-acquire-brazos-dela",
    "x": 0
   },
   {
@@ -4909,38 +4959,6 @@
    "x": 0
   },
   {
-   "id": "2026-05-06-western-midstream-to-acquire-brazos-delaware-ii-45c183",
-   "d": "2026-05-06",
-   "h": "Western Midstream to acquire Brazos Delaware II for $1.6bn, lifting Delaware processing capacity 20%",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Midstream & Gas"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-western-midstream-to-acquire-brazos-dela",
-   "x": 0
-  },
-  {
-   "id": "2026-05-06-carlyle-and-diversified-energy-agree-to-buy-cami-75487c",
-   "d": "2026-05-06",
-   "h": "Carlyle and Diversified Energy agree to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn",
-   "s": "sponsor_moves",
-   "f": [
-    "Carlyle"
-   ],
-   "u": [],
-   "c": [
-    "Midstream & Gas"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-carlyle-and-diversified-energy-agree-to",
-   "x": 0
-  },
-  {
    "id": "2026-05-05-tradepoint-atlantic-and-terminal-investment-brea-324152",
    "d": "2026-05-05",
    "h": "Tradepoint Atlantic and Terminal Investment break ground on $1.2bn Sparrows Point container terminal near Baltimore",
@@ -4954,22 +4972,6 @@
    "p": "high",
    "m": "2026-05",
    "t": "story-tradepoint-atlantic-and-terminal-investm",
-   "x": 0
-  },
-  {
-   "id": "2026-05-04-cando-rail-completes-savage-rail-acquisition-cre-94ce72",
-   "d": "2026-05-04",
-   "h": "Cando Rail completes Savage Rail acquisition, creating 80-operation North American short line and terminal platform",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Rail",
-    "Transport & Logistics"
-   ],
-   "p": "normal",
-   "m": "2026-05",
-   "t": "story-cando-rail-completes-savage-rail-acquisi",
    "x": 0
   },
   {
@@ -5011,6 +5013,22 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-blackstone-files-for-1-75b-ipo-of-a-list",
+   "x": 0
+  },
+  {
+   "id": "2026-05-04-cando-rail-completes-savage-rail-acquisition-cre-94ce72",
+   "d": "2026-05-04",
+   "h": "Cando Rail completes Savage Rail acquisition, creating 80-operation North American short line and terminal platform",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-05",
+   "t": "story-cando-rail-completes-savage-rail-acquisi",
    "x": 0
   },
   {
@@ -5129,30 +5147,6 @@
    "x": 0
   },
   {
-   "id": "2026-03-11-logistec-acquires-logistics-park-dubuque-from-al-6170eb",
-   "d": "2026-03-11",
-   "h": "LOGISTEC acquires Logistics Park Dubuque from Alliant Energy's Travero, adding a 100-acre Mississippi River terminal",
-   "s": "tracked_situations",
-   "f": [
-    "Blue Wolf Capital Partners",
-    "Berenson & Company",
-    "King & Spalding",
-    "RJM & Company",
-    "Chapman & Cutler"
-   ],
-   "u": [
-    "logistec_termont"
-   ],
-   "c": [
-    "Ports & Terminals",
-    "Transport & Logistics"
-   ],
-   "p": "high",
-   "m": "2026-03",
-   "t": "story-logistec-acquires-logistics-park-dubuque",
-   "x": 0
-  },
-  {
    "id": "2026-03-11-kps-capital-partners-agrees-majority-investment-c28a8a",
    "d": "2026-03-11",
    "h": "KPS Capital Partners agrees majority investment in Jennmar with FalconPoint and CEO retaining significant minority stakes",
@@ -5175,6 +5169,30 @@
    "p": "high",
    "m": "2026-03",
    "t": "story-kps-capital-partners-agrees-majority-inv",
+   "x": 0
+  },
+  {
+   "id": "2026-03-11-logistec-acquires-logistics-park-dubuque-from-al-6170eb",
+   "d": "2026-03-11",
+   "h": "LOGISTEC acquires Logistics Park Dubuque from Alliant Energy's Travero, adding a 100-acre Mississippi River terminal",
+   "s": "tracked_situations",
+   "f": [
+    "Blue Wolf Capital Partners",
+    "Berenson & Company",
+    "King & Spalding",
+    "RJM & Company",
+    "Chapman & Cutler"
+   ],
+   "u": [
+    "logistec_termont"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-03",
+   "t": "story-logistec-acquires-logistics-park-dubuque",
    "x": 0
   },
   {

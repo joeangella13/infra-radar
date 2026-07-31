@@ -10,7 +10,8 @@
    }
   ],
   "players": "FTAI Infrastructure agreed to sell Long Ridge Energy & Power LLC and related assets to a subsidiary of MARA Holdings for approximately $1.52bn before closing adjustments. The assets include a 485 MW combined cycle gas power plant, working interests in natural gas production wells and roughly 1,600 acres along the Ohio River in southeastern Ohio. Closing is expected in the third quarter of 2026 subject to regulatory approvals and customary conditions; FIP said it will eliminate $1.16bn of Long Ridge debt and use net proceeds to repay approximately $300m of corporate debt and reinvest in freight rail and terminals. Jefferies and Lazard advised, with Skadden Arps as legal counsel.",
-  "why_it_matters": "This is the defining event for the FIP credit: it converts a levered merchant power and gas position into deleveraging at the parent, and it is being bought by a bitcoin miner pivoting to AI and data centre power, which is why the price clears at a premium to conventional gas-fired comparables. Announced and signed but not closed, with regulatory approval the operative condition, so Q3 execution risk sits with FERC and antitrust clearance rather than financing. For FIP equity and debt holders the trade is 37% of Q1 segment EBITDA out, $1.46bn of gross debt reduction in. The next hard date is the Q3 closing and the August 5 earnings update on approval progress.",
+  "why_it_matters": "FTAI Infrastructure agreed to sell Long Ridge Energy & Power, including a 485 MW combined-cycle gas plant, to a MARA Holdings subsidiary for about $1.52bn, with closing expected in Q3 2026 subject to regulatory approvals. FIP will eliminate $1.16bn of Long Ridge debt, repay roughly $300m of corporate debt and reinvest the rest in freight rail and terminals. The buyer is a bitcoin miner pivoting to AI and data centre power.",
+  "why_you_care": "Your own FTAI Infrastructure coverage: a levered merchant power position converted into parent deleveraging, and the cleanest deal story you have on gas-to-AI-power demand.",
   "firms": [
    "Jefferies",
    "Lazard",
@@ -50,7 +51,8 @@
    }
   ],
   "players": "CableFinder and Lightpath announced a platform partnership making Lightpath's fibre connectivity available to channel partners through the CableFinder quoting platform. Financial terms were not disclosed.",
-  "why_it_matters": "Channel distribution is a low-capital way to fill spare capacity on fibre that is already built and lit, improving utilisation without further trenching. It matters less for the infrastructure thesis than the hyperscale and carrier contracts but it supports the smaller-ticket enterprise revenue layer that carries higher pricing. For MSIP it is incremental rather than strategic. Watch whether channel-sourced bookings become a disclosed contributor to Lightpath's total contract value.",
+  "why_it_matters": "CableFinder and Lightpath announced a platform partnership putting Lightpath's fibre into CableFinder's channel-partner quoting system; terms undisclosed. Channel distribution is a cheap way to fill capacity on fibre already built and lit, lifting utilisation without more trenching. It feeds the higher-priced enterprise revenue layer but matters far less than hyperscale and carrier contracts. Incremental rather than strategic for MSIP.",
+  "why_you_care": "Minor on its own, but it is an MSIP-linked asset, so worth being able to speak to Lightpath's revenue layers if the fund's portfolio comes up.",
   "firms": [
    "MSIP"
   ],
@@ -84,7 +86,8 @@
    }
   ],
   "players": "Flexential is adding a fifth Atlanta-area data centre of 48,000 sq ft and 4.5MW, expected online in the first half of 2028, lifting its Atlanta footprint to roughly 800,000 sq ft and 73MW. Nationally the platform spans more than 40 data centres and 360MW online or under development across 18 markets. The company has raised approximately $1bn over the preceding 18 months, including an $800m asset-backed securities offering in November. Investors include GI Partners, GI Data Infrastructure, Hamilton Lane and MSIP.",
-  "why_it_matters": "The ABS market is now the primary funding channel for scaled colocation platforms, and a $800m issue tells you the contracted lease book is stable and granular enough to be securitised at attractive spreads. That funding structure is what lets Flexential expand across Atlanta, Hillsboro and Dallas simultaneously without a large sponsor equity call. A 4.5MW addition is small relative to hyperscale builds, which is a reminder Flexential remains an enterprise and multi-tenant operator rather than a pure hyperscale developer, a segment with better pricing but slower absorption. Watch the pace of ABS issuance against the development pipeline and whether the 2028 delivery dates compress as southeastern power constraints bite.",
+  "why_it_matters": "ABS is now the main funding channel for scaled colocation: the $800m issue says Flexential's lease book is stable and granular enough to securitise cheaply, which funds Atlanta, Hillsboro and Dallas at once without a big sponsor equity call. At 4.5MW this is enterprise and multi-tenant work, not hyperscale, so watch whether 2028 delivery slips as southeastern power constraints bite.",
+  "why_you_care": "MSIP is on the cap table, so this is a portfolio company you should be able to speak to in an interview, plus a live example of ABS as the colo funding tool.",
   "firms": [
    "MSIP"
   ],
