@@ -39,7 +39,7 @@
    "name": "MSIP",
    "watchlist": true,
    "priority": true,
-   "count": 22,
+   "count": 23,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -71,7 +71,7 @@
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-05-15",
    "last_seen": "2026-07-27"
   },
@@ -82,6 +82,14 @@
    "count": 6,
    "first_seen": "2026-05-11",
    "last_seen": "2026-07-23"
+  },
+  {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": true,
+   "count": 6,
+   "first_seen": "2026-05-11",
+   "last_seen": "2026-07-28"
   },
   {
    "name": "EQT Infrastructure",
@@ -97,14 +105,6 @@
    "priority": false,
    "count": 5,
    "first_seen": "2026-06-10",
-   "last_seen": "2026-07-28"
-  },
-  {
-   "name": "Stonepeak",
-   "watchlist": true,
-   "priority": true,
-   "count": 5,
-   "first_seen": "2026-05-11",
    "last_seen": "2026-07-28"
   },
   {
@@ -868,6 +868,14 @@
    "last_seen": "2026-07-08"
   },
   {
+   "name": "Mubadala",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07"
+  },
+  {
    "name": "NextEra Energy",
    "watchlist": false,
    "priority": false,
@@ -1121,7 +1129,7 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 92,
+   "count": 93,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
@@ -1133,7 +1141,7 @@
   },
   {
    "name": "Regulatory & Policy",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-05-04",
    "last_seen": "2026-07-30"
   },
@@ -1145,32 +1153,32 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 34,
+   "count": 36,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Rail",
-   "count": 27,
+   "count": 28,
    "first_seen": "2026-05-04",
+   "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Ports & Terminals",
+   "count": 26,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Transport & Logistics",
+   "count": 26,
+   "first_seen": "2026-02-17",
    "last_seen": "2026-07-29"
   },
   {
    "name": "Funds & Fundraising",
    "count": 26,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Transport & Logistics",
-   "count": 25,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Ports & Terminals",
-   "count": 24,
-   "first_seen": "2026-02-17",
    "last_seen": "2026-07-29"
   },
   {
@@ -1193,9 +1201,9 @@
   },
   {
    "name": "Water & Environmental",
-   "count": 3,
+   "count": 4,
    "first_seen": "2026-06-22",
-   "last_seen": "2026-07-10"
+   "last_seen": "2026-07-14"
   }
  ],
  "items": [
@@ -2574,6 +2582,23 @@
    "x": 0
   },
   {
+   "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
+   "d": "2026-07-14",
+   "h": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Water & Environmental"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-msip-to-acquire-majority-stake-in-french",
+   "x": 1
+  },
+  {
    "id": "2026-07-14-bond-buyer-brightline-florida-distress-raises-co-bacb4b",
    "d": "2026-07-14",
    "h": "Bond Buyer: Brightline Florida distress raises contagion risk for Brightline West as $6bn RRIF loan stays pending",
@@ -2921,6 +2946,26 @@
    "m": "2026-07",
    "t": "story-ifm-completes-atlas-arteria-takeover-rea",
    "x": 0
+  },
+  {
+   "id": "2026-07-07-binding-bids-due-end-july-on-5bn-porto-sudeste-s-319a56",
+   "d": "2026-07-07",
+   "h": "Binding bids due end-July on $5bn Porto Sudeste; Stonepeak paired with M Resources, GIP with Vale and Gerdau",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak",
+    "Global Infrastructure Partners",
+    "Mubadala"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-binding-bids-due-end-july-on-5bn-porto-s",
+   "x": 1
   },
   {
    "id": "2026-07-07-up-and-ns-file-first-round-of-stb-supplemental-r-7c5a7c",

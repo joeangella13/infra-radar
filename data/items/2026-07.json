@@ -1054,6 +1054,41 @@
  },
  {
   "date": "2026-07-27",
+  "headline": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "UP-NS transaction hub",
+    "url": "https://www.up-nstranscontinental.com/"
+   },
+   {
+    "name": "STB UP-NS merger resources",
+    "url": "https://www.stb.gov/resources/major-railroad-mergers/"
+   }
+  ],
+  "players": "On 27 July 2026 Union Pacific and Norfolk Southern filed the supplemental information ordered by the STB's 28 May decision, which had accepted the revised merger application as complete but held the proceeding, including environmental review, in abeyance pending that submission. The applicants say the filing enhances the application with customer protections beyond those provided in any prior rail merger; a separate 22 July Board decision required certain employee data previously marked highly confidential to be redesignated public by the same 27 July date. Union Pacific continues to guide to completion in 2027.",
+  "why_it_matters": "The abeyance is the binding constraint on timing, so the substantive question now is how quickly the Board issues a procedural schedule and restarts environmental review. Voluntary customer protections are the standard currency for buying STB approval, but they are also permanent conditions that cap post-merger pricing power, which is exactly what the synergy case is built on. For anyone underwriting intermodal terminals, short lines, transload or port-adjacent assets, the shape of those commitments matters more than the closing date: interchange and gateway protections determine whose volumes are contestable. BNSF, CPKC and shipper coalitions have consistently used each procedural step to press for more, so expect the conditions package to widen. Watch for the Board's procedural schedule decision and the second tranche of supplemental responses.",
+  "firms": [],
+  "companies": [
+   "Union Pacific",
+   "Norfolk Southern"
+  ],
+  "sectors": [
+   "Rail",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
+  "story_id": "story-up-and-ns-file-stb-supplemental-informat",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-27",
   "headline": "Brightline Florida wins fifth AAFOH and 14th commuter indenture extension, pushing payments to July 30-31",
   "section": "tracked_situations",
   "sources": [
@@ -1719,6 +1754,37 @@
   "flags": [],
   "id": "2026-07-22-brookfield-to-buy-battery-storage-platform-aypa-a74ae5",
   "story_id": "story-brookfield-to-buy-battery-storage-platfo",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-21",
+  "headline": "EQT closes $77m purchase of Blackline Midstream's Northeast LPG storage and marine terminal assets",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "EQT Corp Form 10-Q, quarter ended 30 June 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000003321326000043/eqt-20260630.htm"
+   }
+  ],
+  "players": "EQT Corporation, the Appalachian gas producer, disclosed in its Q2 10-Q that on 21 July 2026 it completed the acquisition of all operating subsidiaries of Blackline Midstream, LLC, an owner and operator of liquefied propane gas storage, distribution and marine terminal facilities on the Piscataqua River in Newington, New Hampshire and in Providence, Rhode Island. The purchase price was approximately $77m, subject to customary post-closing adjustments, funded with borrowings under EQT's revolving credit facility. This is EQT Corporation, not EQT AB or EQT Infrastructure.",
+  "why_it_matters": "A producer buying import and distribution terminals is a demand-side integration move: it puts EQT closer to the New England burner tip, where pipeline constraints keep winter molecule pricing wide. At roughly $77m for two liquid terminals with storage and marine access, the entry basis is small-ticket and sets a visible reference point for Northeast LPG terminal comps, a subsector that rarely trades publicly. The cash flows are weather-linked and volume-sensitive rather than fully contracted, so the underwriting is closer to a merchant terminal than to a take-or-pay asset. For infrastructure funds holding liquids terminals, the read-through is that strategics with balance-sheet capacity are now competing at the small end of the market. Watch whether other Appalachian producers pursue similar vertical integration into constrained end markets.",
+  "firms": [],
+  "companies": [
+   "EQT Corporation",
+   "Blackline Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-21-eqt-closes-77m-purchase-of-blackline-midstream-s-ee93b3",
+  "story_id": "story-eqt-closes-77m-purchase-of-blackline-mid",
   "story_size": 1
  },
  {
@@ -2760,6 +2826,39 @@
  },
  {
   "date": "2026-07-14",
+  "headline": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Morgan Stanley Investment Management newsroom",
+    "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/articles/engage-spring-2026.html"
+   }
+  ],
+  "players": "Morgan Stanley Investment Management, through funds managed by Morgan Stanley Infrastructure Partners, entered into exclusivity and committed to complete the acquisition of a majority stake in Nicollin Environnement, a family-owned French platform focused on waste collection and sorting, urban street cleaning and water-related solutions. Terms undisclosed. The announcement precedes MSIP's 27 July agreement to acquire Epic Energy, owner of the Moomba to Adelaide gas pipeline.",
+  "why_it_matters": "French environmental services cash flows are municipal-contract backed with indexation, which is why they price as core-plus rather than growth, and family ownership usually means an under-levered balance sheet and unexploited route density. The value-creation levers are contract repricing at renewal, fleet and depot consolidation, and bolt-ons in a highly fragmented market, so the entry basis matters less than the platform's ability to absorb acquisitions. Read alongside Epic Energy and the 47.5% stake in the 932 MW Greenlight combined-cycle project in Alberta, MSIP is concentrating on contracted or regulated cash flows with build-out optionality rather than merchant risk. Exclusivity is not a signed deal, so French works council consultation and closing conditions remain to be cleared. Watch for signing terms and the first bolt-on.",
+  "firms": [
+   "MSIP"
+  ],
+  "companies": [
+   "Nicollin Environnement"
+  ],
+  "sectors": [
+   "Water & Environmental"
+  ],
+  "geo": [
+   "France"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
+  "story_id": "story-msip-to-acquire-majority-stake-in-french",
+  "story_size": 2
+ },
+ {
+  "date": "2026-07-14",
   "headline": "GIP to acquire majority control of US community solar developer Summit Ridge Energy",
   "section": "sponsor_moves",
   "sources": [
@@ -3057,7 +3156,7 @@
   ],
   "id": "2026-07-10-msip-to-acquire-majority-stake-in-french-waste-a-44c9e0",
   "story_id": "story-msip-to-acquire-majority-stake-in-french",
-  "story_size": 1
+  "story_size": 2
  },
  {
   "date": "2026-07-09",
