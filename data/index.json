@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T19:46:19+00:00",
+ "generated_at": "2026-07-31T19:53:54+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 243,
+ "total_items": 245,
  "months": [
   "2026-07",
   "2026-06",
@@ -1129,13 +1129,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 94,
+   "count": 95,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 77,
+   "count": 78,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -1147,13 +1147,13 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 40,
+   "count": 41,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Midstream & Gas",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
@@ -1414,6 +1414,21 @@
    "x": 1
   },
   {
+   "id": "2026-07-30-tc-energy-guides-to-top-of-11-6-11-8bn-ebitda-ra-0692b4",
+   "d": "2026-07-30",
+   "h": "TC Energy guides to top of $11.6-11.8bn EBITDA range and says it has sanctioned about $3bn of growth in six months",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-tc-energy-guides-to-top-of-11-6-11-8bn-e",
+   "x": 0
+  },
+  {
    "id": "2026-07-30-kayne-anderson-energy-infrastructure-closes-50m-bb426c",
    "d": "2026-07-30",
    "h": "Kayne Anderson Energy Infrastructure closes $50m private note placement, with $15m of 5.70% preferred to fund in October",
@@ -1583,6 +1598,23 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-cpkc-q2-revenue-up-13-to-4-2bn-but-opera",
+   "x": 0
+  },
+  {
+   "id": "2026-07-29-baker-hughes-to-supply-76-novalt16-turbines-for-7ecd73",
+   "d": "2026-07-29",
+   "h": "Baker Hughes to supply 76 NovaLT16 turbines for Dynamis Power Solutions' 1.3-GW mobile power fleet",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Energy Transition & Storage",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-baker-hughes-to-supply-76-novalt16-turbi",
    "x": 0
   },
   {

@@ -303,6 +303,37 @@
  },
  {
   "date": "2026-07-30",
+  "headline": "TC Energy guides to top of $11.6-11.8bn EBITDA range and says it has sanctioned about $3bn of growth in six months",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "TC Energy Q2 2026 results (GlobeNewswire)",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3335867/0/en/tc-energy-reports-strong-second-quarter-2026-operating-and-financial-results.html"
+   }
+  ],
+  "players": "TC Energy reported second-quarter results and now expects to land at the upper end of its 2026 comparable EBITDA range of $11.6bn to $11.8bn. CEO Francois Poirier said roughly $3bn of new North American gas growth projects have been sanctioned over the past six months, including three gas pipeline projects announced alongside the results. Bison XPress was placed in service at a total cost of US$0.4bn (TC Energy share US$0.2bn), adding up to about 0.3 Bcf/d.",
+  "why_it_matters": "This is the incumbent bid for gas transport growth: small, bolt-on capacity projects on existing rights of way that convert into rate-based cash flow quickly. Every increment a listed pipeline sanctions is capacity a sponsor-owned platform does not get to build, so it sets the reference return private buyers must beat. Watch the named projects' cost per Bcf/d.",
+  "why_you_care": "Sanctioned-capex and EBITDA guidance from the largest North American gas transporter give you public benchmarks for pipeline underwriting in pitches and in walk-through-a-deal answers.",
+  "firms": [],
+  "companies": [
+   "TC Energy"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Canada",
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-30-tc-energy-guides-to-top-of-11-6-11-8bn-ebitda-ra-0692b4",
+  "story_id": "story-tc-energy-guides-to-top-of-11-6-11-8bn-e",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-30",
   "headline": "Kayne Anderson Energy Infrastructure closes $50m private note placement, with $15m of 5.70% preferred to fund in October",
   "section": "market_regulatory",
   "sources": [
@@ -806,6 +837,39 @@
   "flags": [],
   "id": "2026-07-29-brookfield-and-nextera-to-build-100bn-ai-data-ce-f79228",
   "story_id": "story-brookfield-and-nextera-to-build-100bn-ai",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-29",
+  "headline": "Baker Hughes to supply 76 NovaLT16 turbines for Dynamis Power Solutions' 1.3-GW mobile power fleet",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "World Oil",
+    "url": "https://worldoil.com/news/2026/7/29/baker-hughes-wins-major-gas-turbine-order-for-data-center-oil-and-gas-power/"
+   }
+  ],
+  "players": "Baker Hughes won an order to supply 76 NovaLT16 industrial gas turbines to Dynamis Power Solutions for a 1.3-GW mobile power generation fleet. The fleet targets electricity demand from data centres and oil and gas operations. Order value and delivery schedule were not disclosed.",
+  "why_it_matters": "Mobile turbine fleets are being underwritten as rental assets, not project assets: short lead times, redeployable equipment, and pricing set by scarcity of grid capacity rather than a long-term PPA. That gives an owner utilisation and rate upside plus resale value, but the cash flows are shorter-dated than a plant. Watch whether Dynamis contracts this fleet or runs it merchant.",
+  "why_you_care": "Closest live comp to Sisu/Miratech's distributed generation and gas-to-AI power thesis, and useful evidence when arguing bridge power economics in a PE case.",
+  "firms": [],
+  "companies": [
+   "Baker Hughes",
+   "Dynamis Power Solutions"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Energy Transition & Storage",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-29-baker-hughes-to-supply-76-novalt16-turbines-for-7ecd73",
+  "story_id": "story-baker-hughes-to-supply-76-novalt16-turbi",
   "story_size": 1
  },
  {
