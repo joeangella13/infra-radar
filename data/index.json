@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T01:54:00+00:00",
+ "generated_at": "2026-07-31T02:39:23+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 235,
+ "total_items": 239,
  "months": [
   "2026-07",
   "2026-06",
@@ -39,7 +39,7 @@
    "name": "MSIP",
    "watchlist": true,
    "priority": true,
-   "count": 22,
+   "count": 23,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -63,7 +63,7 @@
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-05-15",
    "last_seen": "2026-07-27"
   },
@@ -84,6 +84,14 @@
    "last_seen": "2026-07-23"
   },
   {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": true,
+   "count": 6,
+   "first_seen": "2026-05-11",
+   "last_seen": "2026-07-28"
+  },
+  {
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
@@ -97,14 +105,6 @@
    "priority": false,
    "count": 5,
    "first_seen": "2026-06-10",
-   "last_seen": "2026-07-28"
-  },
-  {
-   "name": "Stonepeak",
-   "watchlist": true,
-   "priority": true,
-   "count": 5,
-   "first_seen": "2026-05-11",
    "last_seen": "2026-07-28"
   },
   {
@@ -868,6 +868,14 @@
    "last_seen": "2026-07-08"
   },
   {
+   "name": "Mubadala",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07"
+  },
+  {
    "name": "NextEra Energy",
    "watchlist": false,
    "priority": false,
@@ -1133,7 +1141,7 @@
   },
   {
    "name": "Regulatory & Policy",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-05-04",
    "last_seen": "2026-07-30"
   },
@@ -1145,32 +1153,32 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 34,
+   "count": 35,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Rail",
-   "count": 27,
+   "count": 28,
    "first_seen": "2026-05-04",
+   "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Ports & Terminals",
+   "count": 26,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Transport & Logistics",
+   "count": 26,
+   "first_seen": "2026-02-17",
    "last_seen": "2026-07-29"
   },
   {
    "name": "Funds & Fundraising",
    "count": 26,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Transport & Logistics",
-   "count": 25,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Ports & Terminals",
-   "count": 24,
-   "first_seen": "2026-02-17",
    "last_seen": "2026-07-29"
   },
   {
@@ -1193,9 +1201,9 @@
   },
   {
    "name": "Water & Environmental",
-   "count": 3,
+   "count": 4,
    "first_seen": "2026-06-22",
-   "last_seen": "2026-07-10"
+   "last_seen": "2026-07-14"
   }
  ],
  "items": [
@@ -1662,6 +1670,22 @@
    "x": 1
   },
   {
+   "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
+   "d": "2026-07-27",
+   "h": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Rail",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-up-and-ns-file-stb-supplemental-informat",
+   "x": 0
+  },
+  {
    "id": "2026-07-27-brightline-florida-wins-fifth-aafoh-and-14th-com-39bb0c",
    "d": "2026-07-27",
    "h": "Brightline Florida wins fifth AAFOH and 14th commuter indenture extension, pushing payments to July 30-31",
@@ -2043,6 +2067,22 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-we-energies-seeks-to-acquire-two-invener",
+   "x": 0
+  },
+  {
+   "id": "2026-07-21-eqt-closes-77m-purchase-of-blackline-midstream-s-ee93b3",
+   "d": "2026-07-21",
+   "h": "EQT closes $77m purchase of Blackline Midstream's Northeast LPG storage and marine terminal assets",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-eqt-closes-77m-purchase-of-blackline-mid",
    "x": 0
   },
   {
@@ -2556,6 +2596,23 @@
    "x": 0
   },
   {
+   "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
+   "d": "2026-07-14",
+   "h": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
+   "s": "sponsor_moves",
+   "f": [
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Water & Environmental"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-msip-to-acquire-majority-stake-in-french",
+   "x": 1
+  },
+  {
    "id": "2026-07-14-bond-buyer-brightline-florida-distress-raises-co-bacb4b",
    "d": "2026-07-14",
    "h": "Bond Buyer: Brightline Florida distress raises contagion risk for Brightline West as $6bn RRIF loan stays pending",
@@ -2904,6 +2961,26 @@
    "m": "2026-07",
    "t": "story-fervo-says-drilling-rates-are-up-143-sin",
    "x": 0
+  },
+  {
+   "id": "2026-07-07-binding-bids-due-end-july-on-5bn-porto-sudeste-s-319a56",
+   "d": "2026-07-07",
+   "h": "Binding bids due end-July on $5bn Porto Sudeste; Stonepeak paired with M Resources, GIP with Vale and Gerdau",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak",
+    "Global Infrastructure Partners",
+    "Mubadala"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-binding-bids-due-end-july-on-5bn-porto-s",
+   "x": 1
   },
   {
    "id": "2026-07-07-up-and-ns-file-first-round-of-stb-supplemental-r-7c5a7c",
