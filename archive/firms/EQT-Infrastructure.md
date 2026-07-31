@@ -4,7 +4,7 @@
 
 ---
 
-### EQT secures $9.4bn for its AI-focused infrastructure fund
+### **[watchlist]** EQT secures $9.4bn for its AI-focused infrastructure fund
 
 `2026-07-20` · Market / regulatory · [Infrastructure Investor](https://www.infrastructureinvestor.com/the-pipeline-eqt-secures-9-4bn-for-ai-fund-gips-record-busy-year-ifms-2bn-value-add-target/), [Infrastructure Investor](https://www.infrastructureinvestor.com/eqts-ai-fundraising-success-shows-the-pulling-power-of-marquee-platforms/)
 
@@ -18,7 +18,7 @@
 
 ---
 
-### Carlyle sells power and AI infrastructure platform Copia Power to EQT Infrastructure VII after five-year hold
+### **[watchlist]** Carlyle sells power and AI infrastructure platform Copia Power to EQT Infrastructure VII after five-year hold
 
 `2026-07-10` · Sponsor moves · [Copia Power](https://www.copiapower.com/news/carlyle-agrees-to-sell-copia-power-a-leading-power-and-ai-infrastructure-platform-built-from-the-ground-up-to-eqt), [ESG Today](https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### AES stockholders approve $33.4bn take-private by GIP and EQT-led consortium with CalPERS and QIA
+### **[watchlist]** AES stockholders approve $33.4bn take-private by GIP and EQT-led consortium with CalPERS and QIA
 
 `2026-06-26` · Sponsor moves · [PR Newswire](https://www.prnewswire.com/news-releases/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium-302812261.html), [LNG Industry](https://www.lngindustry.com/liquid-natural-gas/29062026/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium/)
 
@@ -46,7 +46,7 @@
 
 ---
 
-### EQT sets €21bn target for Infrastructure VII, one of the largest infrastructure funds ever raised
+### **[watchlist]** EQT sets €21bn target for Infrastructure VII, one of the largest infrastructure funds ever raised
 
 `2026-05-31` · Sponsor moves · [Reuters](https://www.reuters.com/business/swedens-eqt-sets-245-billion-target-infrastructure-fund-2026-05-31/), [Morningstar / Dow Jones](https://www.morningstar.com/news/dow-jones/20260601745/eqt-sets-245-billion-target-for-new-infrastructure-fund)
 
@@ -60,7 +60,7 @@
 
 ---
 
-### EQT takes 70% of $1.3bn North American cold storage JV seeded with 12 Americold facilities
+### **[watchlist]** EQT takes 70% of $1.3bn North American cold storage JV seeded with 12 Americold facilities
 
 `2026-05-07` · Sponsor moves · [EQT](https://eqtgroup.com/news/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture-2026-05-07), [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/07/3289761/0/en/americold-realty-trust-inc-and-eqt-announce-a-13-billion-north-american-cold-storage-joint-venture.html)
 

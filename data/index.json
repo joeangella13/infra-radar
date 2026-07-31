@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T19:46:19+00:00",
+ "generated_at": "2026-07-31T20:05:46+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 243,
+ "total_items": 236,
  "months": [
   "2026-07",
   "2026-06",
@@ -39,7 +39,7 @@
    "name": "MSIP",
    "watchlist": true,
    "priority": true,
-   "count": 24,
+   "count": 22,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
@@ -63,9 +63,9 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 8,
+   "count": 7,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-07-29"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -102,7 +102,7 @@
   {
    "name": "Stonepeak",
    "watchlist": true,
-   "priority": true,
+   "priority": false,
    "count": 5,
    "first_seen": "2026-05-11",
    "last_seen": "2026-07-28"
@@ -718,7 +718,7 @@
   {
    "name": "Greenbriar Equity Group",
    "watchlist": true,
-   "priority": true,
+   "priority": false,
    "count": 1,
    "first_seen": "2026-06-02",
    "last_seen": "2026-06-02"
@@ -794,14 +794,6 @@
    "count": 1,
    "first_seen": "2026-06-17",
    "last_seen": "2026-06-17"
-  },
-  {
-   "name": "Kineticor Asset Management",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-07-30",
-   "last_seen": "2026-07-30"
   },
   {
    "name": "King & Spalding",
@@ -1129,19 +1121,19 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 94,
+   "count": 92,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 77,
+   "count": 76,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 54,
+   "count": 53,
    "first_seen": "2026-05-04",
    "last_seen": "2026-07-30"
   },
@@ -1153,33 +1145,33 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 39,
+   "count": 34,
    "first_seen": "2026-04-30",
    "last_seen": "2026-07-30"
   },
   {
    "name": "Rail",
-   "count": 28,
+   "count": 27,
    "first_seen": "2026-05-04",
    "last_seen": "2026-07-29"
   },
   {
    "name": "Funds & Fundraising",
-   "count": 27,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-07-30"
-  },
-  {
-   "name": "Ports & Terminals",
    "count": 26,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-07-30"
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-07-29"
   },
   {
    "name": "Transport & Logistics",
-   "count": 26,
+   "count": 25,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Ports & Terminals",
+   "count": 24,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-07-29"
   },
   {
    "name": "Social Infrastructure",
@@ -1201,9 +1193,9 @@
   },
   {
    "name": "Water & Environmental",
-   "count": 4,
+   "count": 3,
    "first_seen": "2026-06-22",
-   "last_seen": "2026-07-14"
+   "last_seen": "2026-07-10"
   }
  ],
  "items": [
@@ -1343,42 +1335,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-30-pembina-takes-10-of-proposed-1-million-bpd-west-50504d",
-   "d": "2026-07-30",
-   "h": "Pembina takes 10% of proposed 1 million bpd West Coast oil pipeline and marine terminal, sanctions 55,000 bpd fractionator",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Midstream & Gas",
-    "Ports & Terminals"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-pembina-takes-10-of-proposed-1-million-b",
-   "x": 0
-  },
-  {
-   "id": "2026-07-30-brookfield-infrastructure-posts-10-ffo-per-unit-d7ea14",
-   "d": "2026-07-30",
-   "h": "Brookfield Infrastructure posts 10% FFO per unit growth and says Clarus gas utility purchase closes in coming weeks",
-   "s": "sponsor_moves",
-   "f": [
-    "Brookfield"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Digital Infrastructure",
-    "Midstream & Gas",
-    "Transport & Logistics"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-brookfield-infrastructure-posts-10-ffo-p",
-   "x": 0
-  },
-  {
    "id": "2026-07-30-aalo-and-crusoe-plan-a-2027-nuclear-powered-ai-d-0917d6",
    "d": "2026-07-30",
    "h": "Aalo and Crusoe plan a 2027 nuclear-powered AI data center demo at INL, scaling to 50-MWe reactor plants by 2029",
@@ -1392,41 +1348,6 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-aalo-and-crusoe-plan-a-2027-nuclear-powe",
-   "x": 0
-  },
-  {
-   "id": "2026-07-30-aecon-consortium-wins-multi-billion-dollar-contr-efa52d",
-   "d": "2026-07-30",
-   "h": "Aecon consortium wins multi-billion-dollar contract for the MSIP-backed 932-MW Greenlight gas plant in Alberta",
-   "s": "sponsor_moves",
-   "f": [
-    "MSIP",
-    "Kineticor Asset Management"
-   ],
-   "u": [],
-   "c": [
-    "Power & Renewables",
-    "Midstream & Gas"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-aecon-led-consortium-wins-epc-for-msip-b",
-   "x": 1
-  },
-  {
-   "id": "2026-07-30-kayne-anderson-energy-infrastructure-closes-50m-bb426c",
-   "d": "2026-07-30",
-   "h": "Kayne Anderson Energy Infrastructure closes $50m private note placement, with $15m of 5.70% preferred to fund in October",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Funds & Fundraising",
-    "Midstream & Gas"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-kayne-anderson-energy-infrastructure-clo",
    "x": 0
   },
   {
@@ -1722,22 +1643,6 @@
    "m": "2026-07",
    "t": "story-flexential-buys-110-acres-in-kaufman-cou",
    "x": 1
-  },
-  {
-   "id": "2026-07-27-up-and-ns-file-stb-supplemental-information-offe-ec5bd6",
-   "d": "2026-07-27",
-   "h": "UP and NS file STB supplemental information, offering customer protections they call beyond any prior rail merger",
-   "s": "market_regulatory",
-   "f": [],
-   "u": [],
-   "c": [
-    "Rail",
-    "Regulatory & Policy"
-   ],
-   "p": "high",
-   "m": "2026-07",
-   "t": "story-up-and-ns-file-stb-supplemental-informat",
-   "x": 0
   },
   {
    "id": "2026-07-27-morgan-stanley-infrastructure-partners-to-acquir-455e7a",
@@ -2141,22 +2046,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-21-eqt-closes-77m-purchase-of-blackline-midstream-s-ee93b3",
-   "d": "2026-07-21",
-   "h": "EQT closes $77m purchase of Blackline Midstream's Northeast LPG storage and marine terminal assets",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
-   "c": [
-    "Midstream & Gas",
-    "Ports & Terminals"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-eqt-closes-77m-purchase-of-blackline-mid",
-   "x": 0
-  },
-  {
    "id": "2026-07-21-brookfield-infrastructure-to-collapse-bip-and-bi-483ad9",
    "d": "2026-07-21",
    "h": "Brookfield Infrastructure to collapse BIP and BIPC into a single corporation to widen index eligibility",
@@ -2327,7 +2216,7 @@
    "p": "high",
    "m": "2026-07",
    "t": "story-eqt-secures-9-4bn-for-its-ai-focused-inf",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-07-20-port-houston-lines-up-next-wave-of-terminal-and-3fb6fd",
@@ -2667,23 +2556,6 @@
    "x": 0
   },
   {
-   "id": "2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c",
-   "d": "2026-07-14",
-   "h": "MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin",
-   "s": "sponsor_moves",
-   "f": [
-    "MSIP"
-   ],
-   "u": [],
-   "c": [
-    "Water & Environmental"
-   ],
-   "p": "normal",
-   "m": "2026-07",
-   "t": "story-msip-to-acquire-majority-stake-in-french",
-   "x": 1
-  },
-  {
    "id": "2026-07-14-gip-to-acquire-majority-control-of-us-community-533e23",
    "d": "2026-07-14",
    "h": "GIP to acquire majority control of US community solar developer Summit Ridge Energy",
@@ -2829,7 +2701,7 @@
    "p": "normal",
    "m": "2026-07",
    "t": "story-carlyle-sells-power-and-ai-infrastructur",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-07-09-hydrostor-says-willow-rock-is-nearing-groundbrea-4ee6c9",
@@ -3431,7 +3303,7 @@
    "p": "high",
    "m": "2026-06",
    "t": "story-aes-stockholders-approve-33-4bn-take-pri",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-06-26-ferc-issues-final-environmental-statements-for-n-84baf6",
@@ -3601,7 +3473,7 @@
    "p": "normal",
    "m": "2026-06",
    "t": "story-alterra-joins-i-squared-s-600m-continuat",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-06-18-ferc-issues-section-206-show-cause-orders-to-all-163ac7",
@@ -4268,7 +4140,7 @@
    "p": "high",
    "m": "2026-06",
    "t": "story-greenbriar-backed-applied-aerospace-defe",
-   "x": 1
+   "x": 0
   },
   {
    "id": "2026-06-02-lng-canada-issues-limited-notice-to-proceed-to-j-2a85ca",
@@ -4385,7 +4257,7 @@
    "p": "high",
    "m": "2026-05",
    "t": "story-eqt-sets-21bn-target-for-infrastructure",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-05-31-actis-holds-2-5bn-first-close-on-actis-energy-6-4f345e",
@@ -4406,7 +4278,7 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-actis-holds-2-5bn-first-close-on-actis-e",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-05-29-p3s-gain-traction-in-the-us-as-50-global-project-7fe610",
@@ -4550,7 +4422,7 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-i-squared-plans-1bn-investment-into-indi",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-05-25-i-squared-commits-up-to-1bn-to-new-us-ai-inferen-983aa1",
@@ -4567,7 +4439,7 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-i-squared-commits-up-to-1bn-to-new-us-ai",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-05-22-tiger-backed-emed-group-completes-transfer-of-br-3c787f",
@@ -5015,7 +4887,7 @@
    "p": "normal",
    "m": "2026-05",
    "t": "story-eqt-takes-70-of-1-3bn-north-american-col",
-   "x": 0
+   "x": 1
   },
   {
    "id": "2026-05-07-northleaf-and-inovia-launch-discovery-platform-t-f4666f",

@@ -449,7 +449,9 @@
   ],
   "priority": "high",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-06-26-aes-stockholders-approve-33-4bn-take-private-by-fb28f1",
   "story_id": "story-aes-stockholders-approve-33-4bn-take-pri",
   "story_size": 1
@@ -727,7 +729,9 @@
   ],
   "priority": "normal",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-06-18-alterra-joins-i-squared-s-600m-continuation-vehi-a2d1c3",
   "story_id": "story-alterra-joins-i-squared-s-600m-continuat",
   "story_size": 1
@@ -1038,7 +1042,7 @@
   "priority": "high",
   "situations": [],
   "flags": [
-   "priority_firm"
+   "secondary_firm"
   ],
   "id": "2026-06-17-stonepeak-exits-kaps-selling-remaining-50-ngl-pi-5c32e2",
   "story_id": "story-stonepeak-exits-kaps-selling-remaining-5",
@@ -1296,7 +1300,7 @@
   "priority": "high",
   "situations": [],
   "flags": [
-   "priority_firm"
+   "secondary_firm"
   ],
   "id": "2026-06-11-stonepeak-and-energy-equation-partners-to-acquir-0bcc93",
   "story_id": "story-stonepeak-and-energy-equation-partners-t",
@@ -2099,9 +2103,7 @@
   ],
   "priority": "high",
   "situations": [],
-  "flags": [
-   "priority_firm"
-  ],
+  "flags": [],
   "id": "2026-06-02-greenbriar-backed-applied-aerospace-defense-pric-d1a7e2",
   "story_id": "story-greenbriar-backed-applied-aerospace-defe",
   "story_size": 1

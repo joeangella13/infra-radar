@@ -4,7 +4,7 @@
 
 ---
 
-### EQT secures $9.4bn for its AI-focused infrastructure fund
+### **[watchlist]** EQT secures $9.4bn for its AI-focused infrastructure fund
 
 `2026-07-20` · Market / regulatory · [Infrastructure Investor](https://www.infrastructureinvestor.com/the-pipeline-eqt-secures-9-4bn-for-ai-fund-gips-record-busy-year-ifms-2bn-value-add-target/), [Infrastructure Investor](https://www.infrastructureinvestor.com/eqts-ai-fundraising-success-shows-the-pulling-power-of-marquee-platforms/)
 

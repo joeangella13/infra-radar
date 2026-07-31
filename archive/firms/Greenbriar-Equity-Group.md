@@ -4,7 +4,7 @@
 
 ---
 
-### **[watchlist]** Greenbriar-backed Applied Aerospace & Defense prices $650m NYSE IPO at $20 per share
+### Greenbriar-backed Applied Aerospace & Defense prices $650m NYSE IPO at $20 per share
 
 `2026-06-02` · Sponsor moves · [Greenbriar Equity Group](https://www.greenbriar.com/applied-aerospace-defense-inc-prices-initial-public-offering/), [IPOScoop](https://www.iposcoop.com/the-ipo-buzz-applied-aerospace-defense-aadx-proposed-sets-terms-for-634-mln-ipo/)
 

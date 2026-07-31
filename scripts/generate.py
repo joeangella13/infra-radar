@@ -136,8 +136,11 @@ SECTIONS
                      fundraising, and exit or credit market conditions.
   tracked_situations Anything touching the watchlist below. Always set the key.
 
-PRIORITY FIRMS (flag these, including their portfolio companies)
+TOP-PRIORITY FIRMS (search these every run, including their portfolio companies)
   {", ".join(cfg["priority_firms"])}
+
+SECOND-PRIORITY FIRMS (search these every run too)
+  {", ".join(cfg.get("secondary_firms", []))}
 
 WATCHLIST FIRMS
   {", ".join(cfg["watchlist_firms"])}
@@ -173,7 +176,8 @@ def build_prompt(cfg: dict, recent: list[dict], since: str, today: str) -> str:
     return f"""Today is {today}. Cover roughly {since} through {today}.
 
 Run dedicated searches for, at minimum:
-  - each priority firm ({", ".join(cfg["priority_firms"])}) and its portfolio companies
+  - each top-priority firm ({", ".join(cfg["priority_firms"])}) and its portfolio companies
+  - each second-priority firm ({", ".join(cfg.get("secondary_firms", []))})
   - infrastructure sponsor transactions announced in this window
   - AI and data centre power, gas-to-power, storage, nuclear
   - ports, rail, logistics, midstream deals
@@ -197,7 +201,10 @@ def pick_model(client) -> str:
     except Exception as e:
         print(f"  ! could not list models ({e}); falling back")
         return "claude-sonnet-4-5"
-    for want in ("opus", "sonnet"):
+    # Sonnet first, deliberately. Opus costs roughly 2.5x per token and this is a
+    # summarisation job with tight rules, not an open reasoning problem. Set the
+    # ANTHROPIC_MODEL repo variable to override.
+    for want in ("sonnet", "opus"):
         for mid in models:
             if want in mid.lower():
                 return mid
@@ -298,13 +305,18 @@ def run():
     ]
 
     payload = None
+    usage = {"input": 0, "output": 0, "searches": 0}
     for turn in range(MAX_TURNS):
         resp = call_with_retry(
             client, model=model, max_tokens=16000,
             system=build_system(cfg), tools=tools, messages=messages,
         )
+        usage["input"] += getattr(resp.usage, "input_tokens", 0) or 0
+        usage["output"] += getattr(resp.usage, "output_tokens", 0) or 0
+        st = getattr(resp.usage, "server_tool_use", None)
+        usage["searches"] += getattr(st, "web_search_requests", 0) or 0 if st else 0
         print(f"  turn {turn}: stop_reason={resp.stop_reason} "
-              f"out_tokens={getattr(resp.usage, 'output_tokens', '?')}")
+              f"in={usage['input']} out={usage['output']} searches={usage['searches']}")
 
         for block in resp.content:
             if getattr(block, "type", "") == "tool_use" and block.name == "submit_brief":
@@ -372,14 +384,20 @@ def run():
         "added": len(new),
         "total": index["total_items"],
         "coverage_note": payload.get("coverage_note", ""),
-        "new_items": [{"headline": i["headline"], "section": i["section"],
-                       "date": i["date"], "flags": i.get("flags", []),
-                       "priority": i["priority"], "firms": i["firms"],
-                       "situations": i["situations"],
+        "usage": usage,
+        "new_items": [{"id": i["id"], "headline": i["headline"],
+                       "section": i["section"], "date": i["date"],
+                       "flags": i.get("flags", []), "priority": i["priority"],
+                       "firms": i["firms"], "situations": i["situations"],
+                       "sectors": i.get("sectors", []),
+                       "sources_n": len(i["sources"]),
+                       "story_size": i.get("story_size", 1),
                        "why_you_care": i.get("why_you_care", ""),
                        "url": i["sources"][0]["url"]} for i in new],
     }, indent=2))
     print(f"  archive now {index['total_items']} items")
+    print(f"  usage: {usage['input']:,} in / {usage['output']:,} out / "
+          f"{usage['searches']} searches")
 
 
 if __name__ == "__main__":

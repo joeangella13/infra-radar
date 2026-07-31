@@ -1,20 +1,6 @@
 # Brookfield
 
-8 items, 2026-06-30 to 2026-07-30.
-
----
-
-### Brookfield Infrastructure posts 10% FFO per unit growth and says Clarus gas utility purchase closes in coming weeks
-
-`2026-07-30` · Sponsor moves · [Brookfield Infrastructure Q2 2026 results (GlobeNewswire via Manila Times)](https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/brookfield-infrastructure-reports-strong-second-quarter-2026-results/2394860), [Brookfield Q2 summary](https://www.quiverquant.com/news/Brookfield+Infrastructure+Partners+Reports+Strong+Second-Quarter+2026+Results,+Raises+Quarterly+Distribution+)
-
-**Deal / players.** Brookfield Infrastructure Partners reported Q2 FFO of $0.89 per unit, up 10% year on year. Management said it has secured or deployed over $800m into new investments in the first half, increased its equity commitment to the Bloom Energy framework for an additional capex project, and expects to close the acquisition of Clarus, New Zealand's gas infrastructure utility, in the coming weeks. Utilities FFO was $196m (up 5%) and transport FFO $311m (up 7% after normalising for capital recycling).
-
-**Why it matters.** The mix tells you where core infra cash flow is coming from: inflation indexation plus over $500m of capital commissioned into rate base, offset by earnings sold away in Brazil and Mexico. Brookfield is funding growth out of disposals rather than equity, and pushing into AI power through its Kentucky DOE campus with NextEra and 200 MW in Korea. Watch the Clarus close and the next disposal.
-
-**Why you care.** The clearest read this week on how the largest sponsor you track is funding AI-power deployment out of asset sales, useful for a self-funding-model answer in interviews.
-
-<sub>Firms: Brookfield · Sectors: Power & Renewables, Digital Infrastructure, Midstream & Gas, Transport & Logistics · Geo: North America, New Zealand, South Korea · id: `2026-07-30-brookfield-infrastructure-posts-10-ffo-per-unit-d7ea14`</sub>
+7 items, 2026-06-30 to 2026-07-29.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-### Carlyle sells power and AI infrastructure platform Copia Power to EQT Infrastructure VII after five-year hold
+### **[watchlist]** Carlyle sells power and AI infrastructure platform Copia Power to EQT Infrastructure VII after five-year hold
 
 `2026-07-10` · Sponsor moves · [Copia Power](https://www.copiapower.com/news/carlyle-agrees-to-sell-copia-power-a-leading-power-and-ai-infrastructure-platform-built-from-the-ground-up-to-eqt), [ESG Today](https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/)
 

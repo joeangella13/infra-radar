@@ -167,8 +167,13 @@ def normalise(raw: dict, cfg: dict) -> dict | None:
     if item["situations"]:
         item["section"] = "tracked_situations"
 
-    # the diamond flag from the email brief: anything touching a priority firm
-    item["flags"] = ["priority_firm"] if any(f in cfg["priority_firms"] for f in item["firms"]) else []
+    # two tiers of firm interest, used for the site marker and the email ranking
+    flags = []
+    if any(f in cfg["priority_firms"] for f in item["firms"]):
+        flags.append("priority_firm")
+    if any(f in cfg.get("secondary_firms", []) for f in item["firms"]):
+        flags.append("secondary_firm")
+    item["flags"] = flags
 
     item["id"] = f"{date}-{slug(headline, 48)}-{hashlib.sha1(canon_url(sources[0]['url']).encode()).hexdigest()[:6]}"
     return item

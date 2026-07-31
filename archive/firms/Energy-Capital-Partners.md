@@ -32,7 +32,7 @@
 
 ---
 
-### Actis holds $2.5bn first close on Actis Energy 6 toward a $6bn target for emerging-markets power and grids
+### **[watchlist]** Actis holds $2.5bn first close on Actis Energy 6 toward a $6bn target for emerging-markets power and grids
 
 `2026-05-31` · Market / regulatory · [Dakota](https://www.dakota.com/reports-blog/may-2026-new-private-fund-launches-closes)
 

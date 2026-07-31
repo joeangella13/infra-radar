@@ -137,6 +137,8 @@ nav::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
   padding:16px 18px;margin-bottom:9px;
 }
 .card.flagged{border-left:3px solid var(--flag)}
+.card.flagged2{border-left:3px solid var(--border)}
+.chip.flag2{background:var(--surface-2);color:var(--text-secondary)}
 .ctop{display:flex;align-items:center;gap:8px;margin-bottom:7px;flex-wrap:wrap}
 .chip{
   font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;font-weight:660;
@@ -392,7 +394,9 @@ function entityHeader(){
 
 function card(it){
   const sec = IDX.sections.find(s=>s.key===it.section);
-  const flagged = (it.flags||[]).includes('priority_firm');
+  const fl = it.flags || [];
+  const flagged = fl.includes('priority_firm');
+  const flagged2 = !flagged && fl.includes('secondary_firm');
   const srcs = it.sources.map(s=>
     `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(' · ');
 
@@ -407,9 +411,10 @@ function card(it){
       `<button class="tag" onclick="go('#/sector/${encodeURIComponent(c)}')">${esc(c)}</button>`))
     .concat((it.geo||[]).map(g=>`<span class="tag plain">${esc(g)}</span>`));
 
-  return `<article class="card${flagged?' flagged':''}">
+  return `<article class="card${flagged?' flagged':flagged2?' flagged2':''}">
     <div class="ctop">
-      ${flagged?'<span class="chip flag">◆ Watchlist</span>':''}
+      ${flagged?'<span class="chip flag">◆ Top priority</span>':''}
+      ${flagged2?'<span class="chip flag2">◇ Watchlist</span>':''}
       <span class="chip${it.priority==='high'?' high':''}">${esc(sec?sec.label:it.section)}</span>
       <button class="chip" style="border:0" onclick="go('#/day/${it.date}')">${esc(it.date)}</button>
     </div>

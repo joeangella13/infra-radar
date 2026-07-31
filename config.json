@@ -3,7 +3,6 @@
   "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
   "timezone": "America/New_York",
   "email_to": "joeangella13@gmail.com",
-
   "reader_profile": {
     "who": "Joe Angella, an investment banking analyst at Rothschild & Co in New York, in the Infrastructure, Power & Renewables group. He is moving from infrastructure banking into infrastructure private equity.",
     "uses": [
@@ -13,25 +12,64 @@
       "track what competing sponsors are doing"
     ],
     "own_deals": [
-      "Brightline Florida", "Hydrostor", "ArcLight/Avangrid renewables",
-      "FTAI Infrastructure", "McDermott/NMDC", "Jennmar/Weber Mining",
-      "Odfjell Terminals", "Sisu/Miratech", "LOGISTEC/Termont"
+      "Brightline Florida",
+      "Hydrostor",
+      "ArcLight/Avangrid renewables",
+      "FTAI Infrastructure",
+      "McDermott/NMDC",
+      "Jennmar/Weber Mining",
+      "Odfjell Terminals",
+      "Sisu/Miratech",
+      "LOGISTEC/Termont"
     ]
   },
-
-  "priority_firms": ["MSIP", "Stonepeak", "Greenbriar Equity Group"],
-
-  "watchlist_firms": [
-    "MSIP", "Stonepeak", "Greenbriar Equity Group", "Brookfield", "KKR", "Blackstone",
-    "Global Infrastructure Partners", "EQT Infrastructure", "Antin", "Macquarie Asset Management",
-    "IFM Investors", "I Squared Capital", "DigitalBridge", "Energy Capital Partners",
-    "Partners Group", "Copenhagen Infrastructure Partners", "ArcLight", "Quinbrook",
-    "Ridgewood Infrastructure", "Apollo", "Ares", "Carlyle", "Actis", "InfraVia", "Meridiam",
-    "Basalt Infrastructure", "Tiger Infrastructure", "Argo Infrastructure", "Northleaf",
-    "Grain Management", "Palistar", "SDC Capital Partners", "CDPQ", "CPP Investments",
-    "OMERS", "PSP Investments", "GIC", "ADIA", "MGX", "QIC", "Mubadala", "Fortress Investment Group"
+  "priority_firms": [
+    "MSIP"
   ],
-
+  "watchlist_firms": [
+    "MSIP",
+    "Stonepeak",
+    "Greenbriar Equity Group",
+    "Brookfield",
+    "KKR",
+    "Blackstone",
+    "Global Infrastructure Partners",
+    "EQT Infrastructure",
+    "Antin",
+    "Macquarie Asset Management",
+    "IFM Investors",
+    "I Squared Capital",
+    "DigitalBridge",
+    "Energy Capital Partners",
+    "Partners Group",
+    "Copenhagen Infrastructure Partners",
+    "ArcLight",
+    "Quinbrook",
+    "Ridgewood Infrastructure",
+    "Apollo",
+    "Ares",
+    "Carlyle",
+    "Actis",
+    "InfraVia",
+    "Meridiam",
+    "Basalt Infrastructure",
+    "Tiger Infrastructure",
+    "Argo Infrastructure",
+    "Northleaf",
+    "Grain Management",
+    "Palistar",
+    "SDC Capital Partners",
+    "CDPQ",
+    "CPP Investments",
+    "OMERS",
+    "PSP Investments",
+    "GIC",
+    "ADIA",
+    "MGX",
+    "QIC",
+    "Mubadala",
+    "Fortress Investment Group"
+  ],
   "firm_aliases": {
     "Morgan Stanley Infrastructure Partners": "MSIP",
     "Morgan Stanley Infrastructure": "MSIP",
@@ -93,80 +131,141 @@
     "Fortress": "Fortress Investment Group",
     "Partners Group AG": "Partners Group"
   },
-
   "tracked_situations": [
     {
       "key": "brightline",
       "label": "Brightline Florida",
       "note": "Passenger rail; bond restructuring, ridership, commuter rail",
       "sector": "Rail",
-      "aliases": ["Brightline", "Brightline Trains", "Brightline Florida", "Brightline West", "Florida East Coast Railway", "FECR", "AAFOH"]
+      "aliases": [
+        "Brightline",
+        "Brightline Trains",
+        "Brightline Florida",
+        "Brightline West",
+        "Florida East Coast Railway",
+        "FECR",
+        "AAFOH"
+      ]
     },
     {
       "key": "hydrostor",
       "label": "Hydrostor",
       "note": "Long-duration compressed air energy storage",
       "sector": "Energy Transition & Storage",
-      "aliases": ["Hydrostor", "Willow Rock", "Silver City", "Broken Hill"]
+      "aliases": [
+        "Hydrostor",
+        "Willow Rock",
+        "Silver City",
+        "Broken Hill"
+      ]
     },
     {
       "key": "avangrid_arclight",
       "label": "Avangrid / ArcLight Renewables",
       "note": "North American wind and solar portfolio transactions",
       "sector": "Power & Renewables",
-      "aliases": ["Avangrid", "Iberdrola", "ArcLight", "SkyVest"]
+      "aliases": [
+        "Avangrid",
+        "Iberdrola",
+        "ArcLight",
+        "SkyVest"
+      ]
     },
     {
       "key": "ftai_infrastructure",
       "label": "FTAI Infrastructure",
       "note": "Transtar, Long Ridge, Jefferson, Repauno",
       "sector": "Transport & Logistics",
-      "aliases": ["FTAI Infrastructure", "Transtar", "Long Ridge", "Jefferson Terminal", "Repauno", "OmniTRAX"]
+      "aliases": [
+        "FTAI Infrastructure",
+        "Transtar",
+        "Long Ridge",
+        "Jefferson Terminal",
+        "Repauno",
+        "OmniTRAX"
+      ]
     },
     {
       "key": "mcdermott_nmdc",
       "label": "McDermott / NMDC",
       "note": "Energy engineering and marine construction",
       "sector": "Social Infrastructure",
-      "aliases": ["McDermott", "McDermott International", "NMDC", "NMDC Group", "National Marine Dredging"]
+      "aliases": [
+        "McDermott",
+        "McDermott International",
+        "NMDC",
+        "NMDC Group",
+        "National Marine Dredging"
+      ]
     },
     {
       "key": "jennmar_weber",
       "label": "Jennmar / Weber Mining",
       "note": "Ground control and mining consumables",
       "sector": "Mining Services",
-      "aliases": ["Jennmar", "Weber Mining", "Weber Mining & Tunnelling", "FalconPoint", "FalconPoint Partners"]
+      "aliases": [
+        "Jennmar",
+        "Weber Mining",
+        "Weber Mining & Tunnelling",
+        "FalconPoint",
+        "FalconPoint Partners"
+      ]
     },
     {
       "key": "odfjell_terminals",
       "label": "Odfjell Terminals",
       "note": "Liquids tank terminals, Houston and Charleston",
       "sector": "Ports & Terminals",
-      "aliases": ["Odfjell", "Odfjell Terminals", "Odfjell SE", "OTUS"]
+      "aliases": [
+        "Odfjell",
+        "Odfjell Terminals",
+        "Odfjell SE",
+        "OTUS"
+      ]
     },
     {
       "key": "sisu_miratech",
       "label": "Sisu / Miratech",
       "note": "Distributed generation services, gas-to-AI power",
       "sector": "Power & Renewables",
-      "aliases": ["Sisu Energy", "Sisu Energy & Environmental", "Miratech"]
+      "aliases": [
+        "Sisu Energy",
+        "Sisu Energy & Environmental",
+        "Miratech"
+      ]
     },
     {
       "key": "logistec_termont",
       "label": "LOGISTEC / Termont",
       "note": "Canadian port terminal operations",
       "sector": "Ports & Terminals",
-      "aliases": ["LOGISTEC", "Logistec", "Termont", "Termont Montreal", "Blue Wolf Capital"]
+      "aliases": [
+        "LOGISTEC",
+        "Logistec",
+        "Termont",
+        "Termont Montreal",
+        "Blue Wolf Capital"
+      ]
     }
   ],
-
   "sections": [
-    {"key": "sponsor_moves", "label": "Sponsor moves"},
-    {"key": "sector_themes", "label": "Sector themes"},
-    {"key": "market_regulatory", "label": "Broader market / regulatory"},
-    {"key": "tracked_situations", "label": "Tracked situations"}
+    {
+      "key": "sponsor_moves",
+      "label": "Sponsor moves"
+    },
+    {
+      "key": "sector_themes",
+      "label": "Sector themes"
+    },
+    {
+      "key": "market_regulatory",
+      "label": "Broader market / regulatory"
+    },
+    {
+      "key": "tracked_situations",
+      "label": "Tracked situations"
+    }
   ],
-
   "sectors": [
     "Power & Renewables",
     "Energy Transition & Storage",
@@ -181,5 +280,33 @@
     "Funds & Fundraising",
     "Regulatory & Policy",
     "Social Infrastructure"
+  ],
+  "email": {
+    "max_items": 8,
+    "min_score": 20,
+    "lead_count": 3,
+    "weights": {
+      "tracked_situation": 100,
+      "priority_firm": 100,
+      "high_priority": 25,
+      "watchlist_firm_each": 15,
+      "watchlist_firm_cap": 30,
+      "section": {
+        "tracked_situations": 0,
+        "sponsor_moves": 10,
+        "market_regulatory": 6,
+        "sector_themes": 4
+      },
+      "same_day": 8,
+      "prior_day": 4,
+      "multi_source": 5,
+      "developing_story": 6,
+      "secondary_firm": 60
+    }
+  },
+  "secondary_firms": [
+    "I Squared Capital",
+    "Stonepeak",
+    "EQT Infrastructure"
   ]
 }

@@ -1,6 +1,6 @@
 # MSIP
 
-24 items, 2026-01-15 to 2026-07-30.
+22 items, 2026-01-15 to 2026-07-30.
 
 ---
 
@@ -15,20 +15,6 @@
 **Why you care.** Ammunition for an MSIP conversation: a quantified value-creation story on a portfolio asset, plus a plausible monetisation window if fibre multiples hold.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-30-lightpath-says-ip-backbone-traffic-is-growing-32-38e1d3`</sub>
-
----
-
-### **[watchlist]** Aecon consortium wins multi-billion-dollar contract for the MSIP-backed 932-MW Greenlight gas plant in Alberta
-
-`2026-07-30` · Sponsor moves · [Aecon Q2 2026 results (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/30/3336460/0/en/aecon-reports-second-quarter-2026-results.html), [MSIP investment in Greenlight Electricity Centre](https://finance.yahoo.com/energy/articles/morgan-stanley-infrastructure-partners-announces-130200035.html)
-
-**Deal / players.** In its Q2 release, Aecon disclosed that after quarter end an Aecon consortium was awarded a multi-billion-dollar contract by Greenlight Electricity Centre Limited Partnership, whose owners are Pembina Pipeline, Morgan Stanley Infrastructure Partners and Kineticor Asset Management. MSIP announced its investment in the 932-MW combined-cycle project in Sturgeon County, Alberta on 6 July, with MSIP and Pembina each holding 47.5% and Kineticor 5%. Aecon reported Q2 revenue up 25% year on year, adjusted EBITDA roughly doubled, and backlog of $10.5bn.
-
-**Why it matters.** The EPC award is the moment a greenfield power investment stops being a development story and starts consuming capital, so MSIP's return now hinges on construction cost and schedule rather than sourcing. Watch whether the co-located data centre offtake is firmed up, how the contract allocates completion risk, and what the price tag implies for per-kW build costs on Alberta gas.
-
-**Why you care.** MSIP is a target fund and this is its freshest power deal, so knowing who is building Greenlight and on what terms is exactly the detail an interviewer will probe.
-
-<sub>Firms: MSIP, Kineticor Asset Management · Sectors: Power & Renewables, Midstream & Gas · Geo: Canada · id: `2026-07-30-aecon-consortium-wins-multi-billion-dollar-contr-efa52d`</sub>
 
 ---
 
@@ -71,18 +57,6 @@
 **Why you care.** Clearest live illustration of multi-conduit option value in an MSIP asset. Good material if you are asked how you would underwrite a fibre build.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-15-lightpath-signs-10-year-second-anchor-tenant-on-f5b232`</sub>
-
----
-
-### **[watchlist]** MSIP takes exclusivity on a majority stake in French environmental services platform Nicollin
-
-`2026-07-14` · Sponsor moves · [Morgan Stanley Investment Management newsroom](https://www.morganstanley.com/im/en-us/individual-investor/insights/articles/engage-spring-2026.html)
-
-**Deal / players.** Morgan Stanley Investment Management, through funds managed by Morgan Stanley Infrastructure Partners, entered into exclusivity and committed to complete the acquisition of a majority stake in Nicollin Environnement, a family-owned French platform focused on waste collection and sorting, urban street cleaning and water-related solutions. Terms undisclosed. The announcement precedes MSIP's 27 July agreement to acquire Epic Energy, owner of the Moomba to Adelaide gas pipeline.
-
-**Why it matters.** French environmental services cash flows are municipal-contract backed with indexation, which is why they price as core-plus rather than growth, and family ownership usually means an under-levered balance sheet and unexploited route density. The value-creation levers are contract repricing at renewal, fleet and depot consolidation, and bolt-ons in a highly fragmented market, so the entry basis matters less than the platform's ability to absorb acquisitions. Read alongside Epic Energy and the 47.5% stake in the 932 MW Greenlight combined-cycle project in Alberta, MSIP is concentrating on contracted or regulated cash flows with build-out optionality rather than merchant risk. Exclusivity is not a signed deal, so French works council consultation and closing conditions remain to be cleared. Watch for signing terms and the first bolt-on.
-
-<sub>Firms: MSIP · Sectors: Water & Environmental · Geo: France · id: `2026-07-14-msip-takes-exclusivity-on-a-majority-stake-in-fr-53cc0c`</sub>
 
 ---
 

@@ -97,7 +97,9 @@
   ],
   "priority": "normal",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-05-31-actis-holds-2-5bn-first-close-on-actis-energy-6-4f345e",
   "story_id": "story-actis-holds-2-5bn-first-close-on-actis-e",
   "story_size": 1
@@ -132,7 +134,9 @@
   ],
   "priority": "high",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-05-31-eqt-sets-21bn-target-for-infrastructure-vii-one-4610c2",
   "story_id": "story-eqt-sets-21bn-target-for-infrastructure",
   "story_size": 1
@@ -380,7 +384,7 @@
   "priority": "high",
   "situations": [],
   "flags": [
-   "priority_firm"
+   "secondary_firm"
   ],
   "id": "2026-05-27-stonepeak-led-consortium-to-acquire-estia-health-0f6c10",
   "story_id": "story-stonepeak-led-consortium-to-acquire-esti",
@@ -411,7 +415,9 @@
   ],
   "priority": "normal",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-05-26-i-squared-plans-1bn-investment-into-indian-power-d97873",
   "story_id": "story-i-squared-plans-1bn-investment-into-indi",
   "story_size": 1
@@ -447,7 +453,9 @@
   ],
   "priority": "normal",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-05-25-i-squared-commits-up-to-1bn-to-new-us-ai-inferen-983aa1",
   "story_id": "story-i-squared-commits-up-to-1bn-to-new-us-ai",
   "story_size": 1
@@ -1282,7 +1290,7 @@
   "priority": "high",
   "situations": [],
   "flags": [
-   "priority_firm"
+   "secondary_firm"
   ],
   "id": "2026-05-11-stonepeak-to-acquire-bmo-transportation-and-vend-156d25",
   "story_id": "story-stonepeak-to-acquire-bmo-transportation",
@@ -1319,7 +1327,9 @@
   ],
   "priority": "normal",
   "situations": [],
-  "flags": [],
+  "flags": [
+   "secondary_firm"
+  ],
   "id": "2026-05-07-eqt-takes-70-of-1-3bn-north-american-cold-storag-da3047",
   "story_id": "story-eqt-takes-70-of-1-3bn-north-american-col",
   "story_size": 1

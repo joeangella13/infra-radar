@@ -4,7 +4,7 @@
 
 ---
 
-### Altérra joins I Squared's $600m continuation vehicle for Peruvian power platform Inkia
+### **[watchlist]** Altérra joins I Squared's $600m continuation vehicle for Peruvian power platform Inkia
 
 `2026-06-18` · Sponsor moves · [Infrastructure Investor](https://www.infrastructureinvestor.com/alterra-joins-i-squareds-600m-cv-for-peruvian-power-business/)
 
@@ -18,7 +18,7 @@
 
 ---
 
-### Actis holds $2.5bn first close on Actis Energy 6 toward a $6bn target for emerging-markets power and grids
+### **[watchlist]** Actis holds $2.5bn first close on Actis Energy 6 toward a $6bn target for emerging-markets power and grids
 
 `2026-05-31` · Market / regulatory · [Dakota](https://www.dakota.com/reports-blog/may-2026-new-private-fund-launches-closes)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### I Squared plans $1bn investment into Indian power transmission
+### **[watchlist]** I Squared plans $1bn investment into Indian power transmission
 
 `2026-05-26` · Sponsor moves · [Infrastructure Investor](https://www.infrastructureinvestor.com/the-pipeline-cips-new-biogas-fund-allianzs-e1bn-third-close-and-i-squareds-indian-transmission-deal/)
 
@@ -46,7 +46,7 @@
 
 ---
 
-### I Squared commits up to $1bn to new US AI inference and edge colocation platform, seeded with $225m Cogent portfolio
+### **[watchlist]** I Squared commits up to $1bn to new US AI inference and edge colocation platform, seeded with $225m Cogent portfolio
 
 `2026-05-25` · Sponsor moves · [BusinessWire](https://www.businesswire.com/news/home/20260525403366/en/I-Squared-Capital-Launches-U.S.-AI-Inference-and-Edge-Colocation-Data-Center-Platform-With-$1BN-Commitment), [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/i-squared-capital-buys-10-data-centers-from-cogent-aims-to-launch-new-us-based-operator/)
 

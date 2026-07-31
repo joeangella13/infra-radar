@@ -32,7 +32,7 @@
 
 ---
 
-### EQT secures $9.4bn for its AI-focused infrastructure fund
+### **[watchlist]** EQT secures $9.4bn for its AI-focused infrastructure fund
 
 `2026-07-20` · Market / regulatory · [Infrastructure Investor](https://www.infrastructureinvestor.com/the-pipeline-eqt-secures-9-4bn-for-ai-fund-gips-record-busy-year-ifms-2bn-value-add-target/), [Infrastructure Investor](https://www.infrastructureinvestor.com/eqts-ai-fundraising-success-shows-the-pulling-power-of-marquee-platforms/)
 
@@ -60,7 +60,7 @@
 
 ---
 
-### AES stockholders approve $33.4bn take-private by GIP and EQT-led consortium with CalPERS and QIA
+### **[watchlist]** AES stockholders approve $33.4bn take-private by GIP and EQT-led consortium with CalPERS and QIA
 
 `2026-06-26` · Sponsor moves · [PR Newswire](https://www.prnewswire.com/news-releases/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium-302812261.html), [LNG Industry](https://www.lngindustry.com/liquid-natural-gas/29062026/aes-stockholders-approve-acquisition-by-global-infrastructure-partners-and-eqt-led-consortium/)
 
