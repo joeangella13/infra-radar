@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 236,
+ "total_items": 239,
  "months": [
   "2026-07",
   "2026-06",
@@ -32,7 +32,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-07-30"
+  "2026-07-31"
  ],
  "firms": [
   {
@@ -1121,21 +1121,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 92,
+   "count": 95,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-07-31"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 76,
+   "count": 78,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-07-31"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-07-31"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1199,6 +1199,38 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-07-31-s-p-global-moves-to-buy-data-center-site-selecti-659de1",
+   "d": "2026-07-31",
+   "h": "S&P Global moves to buy data center site-selection data firm datacenterHawk",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-07",
+   "t": "story-s-p-global-moves-to-buy-data-center-site",
+   "x": 0
+  },
+  {
+   "id": "2026-07-31-appeals-court-upholds-ferc-s-2023-interconnectio-be17d9",
+   "d": "2026-07-31",
+   "h": "Appeals court upholds FERC's 2023 interconnection queue reform rule against industry challenges",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-07",
+   "t": "story-appeals-court-upholds-ferc-s-2023-interc",
+   "x": 0
+  },
   {
    "id": "2026-07-30-blackstone-energy-transition-partners-to-acquire-a8e483",
    "d": "2026-07-30",

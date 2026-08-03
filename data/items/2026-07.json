@@ -1,5 +1,63 @@
 [
  {
+  "date": "2026-07-31",
+  "headline": "S&P Global moves to buy data center site-selection data firm datacenterHawk",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "HPCwire/BigDATAwire",
+    "url": "https://www.hpcwire.com/bigdatawire/2026/07/31/ai-is-creating-a-new-market-for-infrastructure-data-sp-global-wants-in/"
+   }
+  ],
+  "players": "S&P Global has agreed to acquire datacenterHawk, a firm founded in 2014 that tracks hundreds of data center markets, covering operating facilities, projects under development, pricing, available capacity and fiber connectivity. Terms were not disclosed in the reporting.",
+  "why_it_matters": "As hyperscalers and infrastructure funds race to site gigawatt-scale campuses, proprietary data on power availability and grid capacity is becoming as valuable as the real estate itself. A ratings/data giant buying into that layer signals underwriting for data center and power deals is getting more data-driven and less bespoke, which could compress the information edge sponsors like DigitalBridge or GIP have relied on.",
+  "why_you_care": "Useful context for any pitch or comp involving data center power siting — the tools underwriters use to value sites are consolidating.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-31-s-p-global-moves-to-buy-data-center-site-selecti-659de1",
+  "story_id": "story-s-p-global-moves-to-buy-data-center-site",
+  "story_size": 1
+ },
+ {
+  "date": "2026-07-31",
+  "headline": "Appeals court upholds FERC's 2023 interconnection queue reform rule against industry challenges",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bloomberg Law",
+    "url": "https://news.bloomberglaw.com/environment-and-energy/ferc-defeats-challenges-to-rule-aimed-at-easing-grid-backlog"
+   }
+  ],
+  "players": "The DC Circuit Court of Appeals sided with FERC on Friday, upholding the 2023 order that added study deadlines and penalties to how transmission providers process interconnection requests. The rule was challenged by industry parties as exceeding FERC's authority; the court disagreed.",
+  "why_it_matters": "This is the rulebook that governs how fast a wind, solar, storage or gas project can get through the interconnection queue and start earning revenue. Upholding it removes a legal cloud over queue reform just as FERC is separately pushing grid operators to speed up large-load and data center interconnections. Watch for how PJM, MISO and others cite this ruling in their pending Section 206 responses.",
+  "why_you_care": "Queue speed directly affects when a renewables asset like an ArcLight/Avangrid wind or solar project starts generating cash flow.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-07-31-appeals-court-upholds-ferc-s-2023-interconnectio-be17d9",
+  "story_id": "story-appeals-court-upholds-ferc-s-2023-interc",
+  "story_size": 1
+ },
+ {
   "date": "2026-07-30",
   "headline": "Blackstone Energy Transition Partners to acquire industrial imaging firm DarkVision from Koch",
   "section": "sponsor_moves",
