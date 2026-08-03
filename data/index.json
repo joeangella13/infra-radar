@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T02:42:54+00:00",
+ "generated_at": "2026-08-03T12:01:06+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -22,6 +22,7 @@
  ],
  "total_items": 239,
  "months": [
+  "2026-08",
   "2026-07",
   "2026-06",
   "2026-05",
@@ -32,7 +33,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-07-31"
+  "2026-08-03"
  ],
  "firms": [
   {
@@ -76,6 +77,14 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "KKR",
+   "watchlist": true,
+   "priority": false,
+   "count": 6,
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-08-03"
+  },
+  {
    "name": "Meridiam",
    "watchlist": true,
    "priority": false,
@@ -90,14 +99,6 @@
    "count": 5,
    "first_seen": "2026-05-07",
    "last_seen": "2026-07-20"
-  },
-  {
-   "name": "KKR",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-06-10",
-   "last_seen": "2026-07-28"
   },
   {
    "name": "Stonepeak",
@@ -1121,13 +1122,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 95,
+   "count": 94,
    "first_seen": "2026-01-13",
    "last_seen": "2026-07-31"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 78,
+   "count": 77,
    "first_seen": "2026-01-15",
    "last_seen": "2026-07-31"
   },
@@ -1150,14 +1151,14 @@
    "last_seen": "2026-07-30"
   },
   {
-   "name": "Rail",
+   "name": "Funds & Fundraising",
    "count": 27,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-08-03"
   },
   {
-   "name": "Funds & Fundraising",
-   "count": 26,
+   "name": "Rail",
+   "count": 27,
    "first_seen": "2026-05-04",
    "last_seen": "2026-07-29"
   },
@@ -1199,6 +1200,23 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-03-kkr-closes-largest-ever-infrastructure-fund-at-1-4686ed",
+   "d": "2026-08-03",
+   "h": "KKR closes largest-ever infrastructure fund at $19.2bn",
+   "s": "market_regulatory",
+   "f": [
+    "KKR"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-kkr-closes-largest-ever-infrastructure-f",
+   "x": 0
+  },
   {
    "id": "2026-07-31-s-p-global-moves-to-buy-data-center-site-selecti-659de1",
    "d": "2026-07-31",

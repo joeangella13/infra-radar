@@ -1,13 +1,14 @@
 # Archive
 
-239 items, 2026-01-13 to 2026-07-31.
+239 items, 2026-01-13 to 2026-08-03.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-07](2026-07.md) — 112 items
+- [2026-08](2026-08.md) — 1 items
+- [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
 - [2026-05](2026-05.md) — 46 items
 - [2026-04](2026-04.md) — 3 items
@@ -34,9 +35,9 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 9 items
 - [Brookfield](firms/Brookfield.md) — 7 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 7 items
+- [KKR](firms/KKR.md) — 6 items
 - [Meridiam](firms/Meridiam.md) — 6 items
 - [Stonepeak](firms/Stonepeak.md) — 5 items
-- [KKR](firms/KKR.md) — 5 items
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 5 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 4 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 4 items
