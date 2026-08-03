@@ -8,23 +8,30 @@ first, then `archive/README.md` for the news itself.
 
 ## Who this is for
 
-Joe Angella. Investment banking analyst at Rothschild & Co in New York, in the
-Infrastructure, Power & Renewables group. He is moving from infrastructure banking
-into infrastructure private equity.
+Joe Angella. He joins **Morgan Stanley Infrastructure Partners (MSIP)** on
+**10 August 2026** as an investor, moving across from Rothschild & Co's
+Infrastructure, Power & Renewables team in New York, where he was an investment
+banking analyst.
+
+He is not job hunting and is not interviewing. He has the seat. Nothing in this
+archive should be framed as interview preparation.
 
 He reads this to:
 
-- source investment ideas
-- prepare for PE interviews — walk me through a deal, is this a good investment and
-  why, why this fund
-- build market context and comps for client pitches
-- track what competing sponsors are doing
+- stay current on his own firm's activity, portfolio companies and pipeline
+- track competing sponsors and what they are paying
+- source and pressure-test investment ideas
+- build comps and market context for underwriting
 
-**Funds he is targeting:** MSIP (Morgan Stanley Infrastructure Partners), Stonepeak,
-Greenbriar Equity Group. Items touching these get flagged.
+**His firm: MSIP.** Its transactions are his firm's transactions and its portfolio
+companies are his portfolio. MSIP news is internal news and gets the ◆ flag.
 
-**Deals he has personally worked on** — these are the "tracked situations", and news
-on them matters more to him than anything else in the archive:
+**Direct competitors:** Stonepeak, I Squared Capital, EQT Infrastructure. These get
+a second-tier flag.
+
+**Deals he executed at Rothschild** — the "tracked situations". He knows these better
+than almost anyone, they remain live, and several are credible sourcing angles to
+bring to MSIP:
 
 | Situation | What it is |
 |---|---|
@@ -51,9 +58,11 @@ Every item carries four things:
 1. **Headline** — one factual line, no hype
 2. **Deal / players** — the hard facts: who, what, how much, what stake, what timing
 3. **Why it matters** — the investor read, 2 to 3 sentences
-4. **Why you care** — one sentence on why it is useful to *him* specifically: an
-   interview it is relevant to, a deal he has worked on, a comp he could use, a
-   competitor he tracks
+4. **Why you care** — one sentence on why it matters to *him* specifically. Framed
+   by type: an MSIP item is his own firm; a Stonepeak, I Squared or EQT item is a
+   competitor's move; a tracked situation is a deal he executed and still knows
+   cold; a sector or policy item is a comp, a pricing point or an underwriting risk.
+   Never framed as interview preparation — he has the job
 
 Voice: short, plain English. Say the thing, say why it matters, stop. A smart
 colleague explaining something quickly, not a research report.
@@ -90,11 +99,12 @@ source before anything goes into a deck.
 - `archive/YYYY-MM.md` — every item that month
 - `archive/situations/<key>.md` — the full run of one tracked situation, which is
   usually the fastest way to reconstruct how a story developed
-- `archive/firms/<name>.md` — everything on one firm, useful before an interview
+- `archive/firms/<name>.md` — everything on one firm, including MSIP itself
 - `data/index.json` — the same data structured, if you need to compute over it
 
 Useful things to ask for: a summary of what happened on a situation over a period;
-firm activity before an interview; comps for a sector; what changed since a date.
+what a competitor has been buying; comps for a sector; what MSIP has done this
+quarter; what changed since a given date.
 
 ---
 

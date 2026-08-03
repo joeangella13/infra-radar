@@ -4,12 +4,15 @@
   "timezone": "America/New_York",
   "email_to": "joeangella13@gmail.com",
   "reader_profile": {
-    "who": "Joe Angella, an investment banking analyst at Rothschild & Co in New York, in the Infrastructure, Power & Renewables group. He is moving from infrastructure banking into infrastructure private equity.",
+    "who": "Joe Angella. He joins Morgan Stanley Infrastructure Partners (MSIP) on 10 August 2026 as an investor, moving across from Rothschild & Co's Infrastructure, Power & Renewables team in New York, where he was an investment banking analyst. He is not job hunting. He has the seat.",
+    "employer": "MSIP",
+    "start_date": "2026-08-10",
+    "former_employer": "Rothschild & Co, Infrastructure, Power & Renewables",
     "uses": [
-      "source investment ideas",
-      "prepare for PE interviews (walk me through a deal, is this a good investment, why this fund)",
-      "build market context and comps for client pitches",
-      "track what competing sponsors are doing"
+      "stay current on his own firm's activity, portfolio companies and pipeline",
+      "track competing sponsors and what they are paying",
+      "source and pressure-test investment ideas",
+      "build comps and market context for underwriting"
     ],
     "own_deals": [
       "Brightline Florida",
@@ -21,6 +24,12 @@
       "Odfjell Terminals",
       "Sisu/Miratech",
       "LOGISTEC/Termont"
+    ],
+    "own_deals_note": "Deals he executed at Rothschild. He knows these better than almost anyone, they remain live situations, and several are credible sourcing angles to bring to MSIP.",
+    "competitors": [
+      "Stonepeak",
+      "I Squared Capital",
+      "EQT Infrastructure"
     ]
   },
   "priority_firms": [

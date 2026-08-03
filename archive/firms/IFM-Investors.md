@@ -12,7 +12,7 @@
 
 **Why it matters.** Dedicated AI infrastructure vehicles are now their own fundraising category rather than a sleeve inside flagship funds, and $9.4bn in three months says LPs will take concentrated thematic exposure at scale. That capital is the main driver of entry multiples in digital infrastructure and why co-located generation rights command a premium. The risk is vintage concentration into a finite set of powered sites.
 
-**Why you care.** Explains why powered land and generation rights keep getting bid up in your coverage, and it is fundraising context you should be able to speak to.
+**Why you care.** EQT arming itself with $9.4bn aimed squarely at AI infrastructure, the capital that will bid entry multiples on powered land and generation rights against MSIP.
 
 <sub>Firms: EQT Infrastructure, Global Infrastructure Partners, IFM Investors · Sectors: Funds & Fundraising, Digital Infrastructure · Geo: Global, United States, Europe · id: `2026-07-20-eqt-secures-9-4bn-for-its-ai-focused-infrastruct-e11c9b`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** IFM's bid vehicle closed its off-market offer for Atlas Arteria at 67.43% voting power, enough to drive distribution policy and refinancing without compulsory acquisition. The board rejected the offer on 6 May before IFM raised it in June and recommended it. The prize is the 30.8% APRR stake, inflation-linked French motorway tolls. Dulles Greenway, with capped tolls and traffic below underwriting, is the problem asset.
 
-**Why you care.** A rejected-then-recommended take-private of a listed toll road vehicle is strong why-this-fund material on how core infrastructure buyers price concession cash flows.
+**Why you care.** How core buyers price concession cash flow: 67.43% is enough to drive distribution policy and refinancing without compulsory acquisition, with inflation-linked APRR the prize and Dulles Greenway the problem asset.
 
 <sub>Firms: IFM Investors · Sectors: Transport & Logistics · Geo: Australia, France, United States, Germany · id: `2026-07-07-ifm-completes-atlas-arteria-takeover-reaching-67-aaff48`</sub>
 

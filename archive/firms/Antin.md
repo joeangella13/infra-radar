@@ -12,7 +12,7 @@
 
 **Why it matters.** Antin's Fund III agreed to sell 30% of Sølvtrans to GLIL Infrastructure, keeping majority control alongside the founder; terms undisclosed, close expected Q3 2026 after an eight-year hold. It generates DPI without a full exit at an uncertain point in the salmon cycle. Wellboats are contracted, mission-critical assets, the fleet grew from 21 vessels in 2018 to 48 with eight building, and GLIL's UK base targets Scottish expansion.
 
-**Why you care.** A liquidity structure worth having in your head: partial stake sale as the DPI answer when hold periods stretch. Comes up any time exits are discussed.
+**Why you care.** Partial stake sale as the DPI answer when holds stretch to eight years: Antin keeps control and the founder stays, with close expected in Q3 2026 and terms undisclosed.
 
 <sub>Firms: Antin · Sectors: Transport & Logistics · Geo: Norway, United Kingdom · id: `2026-07-29-antin-sells-30-of-norwegian-wellboat-operator-sl-630f3d`</sub>
 

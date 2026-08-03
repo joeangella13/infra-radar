@@ -12,7 +12,7 @@
 
 **Why it matters.** FERC denied a waiver sought by ArcLight-owned Advanced Power Services to cut its roughly $2bn Chestnut Run gas plant in Ohio from 1.3 GW to 1.245 GW after supply constraints forced a turbine substitution. PJM's Reliability Resource Initiative bars changes to project size, and FERC found the restudy would delay Transition Cycle #2. Fast-track interconnection now clearly carries zero flexibility, raising the value of secured turbine slots.
 
-**Why you care.** Sits on your ArcLight/Avangrid coverage and makes a sharp interview point: an RRI queue position is only as good as the equipment order already locked behind it.
+**Why you care.** Your ArcLight coverage. An RRI queue position is only as good as the turbine order locked behind it, and secured equipment slots just became more valuable.
 
 <sub>Firms: ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables, Regulatory & Policy · Geo: United States · id: `2026-07-02-ferc-denies-arclight-backed-developer-s-waiver-t-5a5a49`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** The clearest GP-level bet that data centre returns are gated by electrons, not racks: DigitalBridge is buying dispatchable generation, 20.8GW owned with about 7GW in PJM plus a 15GW pipeline, instead of more colocation, so it can sell power-plus-shell to hyperscalers. At roughly $1.05bn this is a management-company price, meaning GP consolidation is now driven by capability gaps. Contingent on SoftBank's separate $4bn DigitalBridge deal.
 
-**Why you care.** You have worked opposite ArcLight. This changes who that counterparty becomes and gives you a sharp answer on why power is the AI bottleneck.
+**Why you care.** You sat opposite ArcLight on Avangrid at Rothschild; that counterparty now sits inside DigitalBridge, contingent on SoftBank's deal, and it is a GP-level bet that power gates AI returns.
 
 <sub>Firms: DigitalBridge, ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-05-27-digitalbridge-to-acquire-power-investor-arclight-006a66`</sub>
 

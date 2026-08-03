@@ -12,7 +12,7 @@
 
 **Why it matters.** Unison Energy, Tiger Infrastructure's energy-as-a-service platform in Greenwich, Connecticut, appointed Al Dahya chief financial officer, effective immediately. He was Director of Operations at Breakthrough Energy and CFO and Chief Corporate Development Officer at SOURCE Global from 2018 to 2025, after SunEdison and TerraForm Global. Unison owns and operates on-site microgrids for hospitals, data centres and industry on long-term fixed-price contracts. (Source record is inconsistent: headline and commentary describe unrelated items.)
 
-**Why you care.** A personnel item, not a deal. Worth knowing the name in on-site microgrids for data centres, which sits right next to your gas-to-power work.
+**Why you care.** A personnel item, not a deal. The name is worth knowing in on-site microgrids for data centres, adjacent to MSIP's gas-to-power exposure. Source record is internally inconsistent.
 
 <sub>Firms: Tiger Infrastructure · Sectors: Social Infrastructure, Energy Transition & Storage · Geo: United Kingdom, Sweden, United States · id: `2026-05-22-tiger-backed-emed-group-completes-transfer-of-br-3c787f`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** IAC's infrastructure quality comes from long-term on-airport concessions and scarce hangar capacity, not contracted revenue, so the multiple hinges on how much the buyer credits that moat against repainting cyclicality. Tiger grew hangars from 17 to 25 and secured an inaugural investment-grade rating in 2025, lowering cost of capital. Selling to another infrastructure fund rather than a strategic confirms the asset moved from growth equity to core-plus.
 
-**Why you care.** A clean build-to-core exit story. Useful as a template when an interviewer asks you to lay out a value creation plan.
+**Why you care.** A build-to-core exit in practice: hangars from 17 to 25, an inaugural investment-grade rating, then a sale to another infrastructure fund rather than a strategic.
 
 <sub>Firms: Tiger Infrastructure · Sectors: Transport & Logistics · Geo: United States, Europe · id: `2026-05-15-tiger-infrastructure-sells-international-aerospa-d6440c`</sub>
 

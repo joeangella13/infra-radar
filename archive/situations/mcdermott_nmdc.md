@@ -14,7 +14,7 @@ Energy engineering and marine construction
 
 **Why it matters.** McDermott and Amsterdam-based ULC-Energy signed a cooperation agreement to support Rolls-Royce SMR projects, aimed at pairing SMRs with energy-intensive industry in the Netherlands and Belgium, with McDermott supplying engineering across decarbonisation, hydrogen, ammonia, SAF and carbon capture. No contract value, timeline or binding status was disclosed, so nothing belongs in backlog. It lands four weeks after the Nordic bond pricing and during the rights offering subscription period.
 
-**Why you care.** Your McDermott/NMDC situation. Positioning rather than an award, but the timing against a dilutive recapitalisation is the nuance worth flagging if it comes up.
+**Why you care.** You ran McDermott/NMDC at Rothschild. Positioning rather than an award, with no value, timeline or binding status disclosed, but it lands during the rights offering subscription period.
 
 <sub>Situations: mcdermott_nmdc · Sectors: Nuclear & SMR, Energy Transition & Storage · Geo: Netherlands, Belgium · id: `2026-07-29-mcdermott-and-ulc-energy-sign-cooperation-agreem-359d17`</sub>
 
@@ -28,7 +28,7 @@ Energy engineering and marine construction
 
 **Why it matters.** Robotti, holding about 2% of McDermott's Class A shares, wants the rights offering amended to add an oversubscription privilege ranking ahead of the backstop parties. Without one, non-participating stock flows to insiders including MFN, Baupost, Mason and First Pacific, two with board seats, at $1.50, implying roughly $51m pre-money equity and about 92% dilution against $489m of EBITDA and $17.6bn of backlog. Subscription expires August 17, 2026.
 
-**Why you care.** Your McDermott/NMDC situation turned into a live minority-holder fight. Good raw material for a governance-angle deal story, and a date to watch.
+**Why you care.** Your McDermott/NMDC situation turned into a live minority-holder fight over a 92% dilutive rights offering at $1.50, with the subscription expiring August 17, 2026.
 
 <sub>Firms: Robotti & Company Advisors, MFN Partners, Baupost Group, Mason Capital Management, First Pacific Advisors · Situations: mcdermott_nmdc · Sectors: Midstream & Gas, Funds & Fundraising · Geo: United States · id: `2026-07-09-robotti-company-urges-mcdermott-board-to-add-ove-c1ec89`</sub>
 
@@ -42,7 +42,7 @@ Energy engineering and marine construction
 
 **Why it matters.** A 10.5% coupon on senior paper, against $489m of trailing EBITDA and a net cash balance sheet, says the market still prices McDermott off its restructuring history. Use of proceeds is the tell: cash collateralising LC facilities is a bonding fix for a contractor that cannot get uncollateralised capacity. Over $1bn raised in total, including $500m of dilutive equity, with subscription expiring August 17 and Q3 closing expected.
 
-**Why you care.** Your McDermott situation. The 10.5% print is the number to quote when anyone asks where that credit is clearing now.
+**Why you care.** Your McDermott situation, repriced. The 10.5% print is where that credit clears now, and cash-collateralising LC facilities says the bonding constraint still binds.
 
 <sub>Firms: DNB Carnegie, Clarksons Securities, MFN Partners, Baupost Group, Mason Capital Management, First Pacific Advisors · Situations: mcdermott_nmdc · Sectors: Midstream & Gas, Funds & Fundraising · Geo: United States · id: `2026-07-01-mcdermott-prices-550m-of-10-5-nordic-bonds-due-2-3bc2de`</sub>
 
@@ -56,7 +56,7 @@ Energy engineering and marine construction
 
 **Why it matters.** Aramco selected McDermott as one of 11 contractors on a multi-year project management consultancy agreement covering pre-FEED, FEED and PMC work in Saudi Arabia. No value was disclosed and the release does not say it was booked to backlog, so read it as pre-qualification for future call-offs, not committed volume. Eleven names caps margin. The value is positional, since PMC and FEED sit upstream of EPC awards.
 
-**Why you care.** You worked McDermott/NMDC, so get the nuance right: framework award, not backlog, but it buys line of sight on the Saudi EPC pipeline.
+**Why you care.** McDermott again, and get the nuance right: framework award, not backlog, one of eleven names, but it buys positional line of sight on the Saudi EPC pipeline.
 
 <sub>Situations: mcdermott_nmdc · Sectors: Midstream & Gas · Geo: Saudi Arabia · id: `2026-06-03-aramco-selects-mcdermott-as-one-of-11-contractor-57ca5f`</sub>
 
@@ -70,7 +70,7 @@ Energy engineering and marine construction
 
 **Why it matters.** McDermott reported Q1 2026 revenue of $2.4bn, adjusted EBITDA of $117m ($489m trailing twelve months), backlog of $17.6bn and $126m of cash used in operations. The trailing EBITDA and backlog are what Robotti cites against a $51m implied pre-money equity value in the rights offering dispute; negative operating cash flow is the counterweight and explains the cash-collateralised LC facilities. Middle East concentration stays live.
 
-**Why you care.** You worked McDermott/NMDC, so these are the figures behind the rights-offering fight. Know which side each number supports before the situation comes up.
+**Why you care.** Your McDermott file. The $17.6bn backlog and $489m trailing EBITDA are what Robotti cites against the rights offering; $126m of cash burn is the counterweight.
 
 <sub>Situations: mcdermott_nmdc · Sectors: Midstream & Gas · Geo: United States, Saudi Arabia · id: `2026-05-18-mcdermott-reports-q1-2026-revenue-of-2-4bn-adjus-8fb180`</sub>
 

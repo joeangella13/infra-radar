@@ -12,7 +12,7 @@
 
 **Why it matters.** An incumbent island telco is about as defensive as digital infrastructure gets: captive market, no realistic overbuilder, utility-like cash flows. The buyer mix is the tell, with Jersey Telecom bringing an operating playbook from an analogous Crown Dependency and CVC DIF bringing the capital, so the consortium can underwrite synergies a pure financial buyer could not. Seven-year hold, terms undisclosed.
 
-**Why you care.** Outside your sectors, but a good template for exit routing: pairing a strategic with a fund is how you maximise value on a single-market asset.
+**Why you care.** Exit-routing template rather than a live angle: pairing a strategic operator with a fund is how a single-market island telco clears above a pure financial bid.
 
 <sub>Firms: Basalt Infrastructure, CVC DIF, Jersey Telecom · Sectors: Digital Infrastructure · Geo: Isle of Man, United Kingdom · id: `2026-05-19-basalt-infrastructure-completes-sale-of-manx-tel-cf25e5`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Maintenance-of-way leasing rides non-discretionary track renewal spend by Class I railroads, short lines and contractors, so utilisation holds through freight cycles in a way wagon leasing does not. The plan is fleet growth on cheap infrastructure-style leverage, hence the Wells Fargo debt syndication, plus rolling up a fragmented lessor base. A William Blair auction means entry pricing is probably full.
 
-**Why you care.** Same shape as Jennmar/Weber Mining, an industrial services business sold into a capex cycle, and a clean mid-market rail comp.
+**Why you care.** A mid-market rail comp in the same shape as your Jennmar work, industrial services on infrastructure leverage, though a William Blair auction means Basalt's entry pricing is probably full.
 
 <sub>Firms: Basalt Infrastructure · Sectors: Rail · Geo: United States, Canada · id: `2026-05-11-basalt-infrastructure-agrees-to-acquire-r-e-l-a-316e82`</sub>
 

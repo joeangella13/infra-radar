@@ -272,7 +272,11 @@ async function loadMonth(m){
     return j;
   }
   try{
-    const r = await fetch(`data/items/${m}.json`, {cache:'no-cache'});
+    // Past months never change once written, so let the browser serve them from
+    // disk with no network round-trip. Only the live month revalidates.
+    const live = m >= new Date().toISOString().slice(0,7);
+    const r = await fetch(`data/items/${m}.json`,
+                          {cache: live ? 'no-cache' : 'force-cache'});
     if(!r.ok) throw new Error(r.status);
     const j = await r.json();
     MONTHS.set(m, j);

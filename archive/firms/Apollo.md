@@ -12,7 +12,7 @@
 
 **Why it matters.** Structured equity dressed as a JV: Williams keeps 51% and control, and its buyout right in years seven to fourteen at Blackstone's outstanding investment balance caps sponsor upside, which is why three big managers could share the $5.34bn without competing on multiple. Behind-the-meter generation contracted to data centre load is the strongest cash-flow profile in US power now: long tenor, investment-grade counterparties, no merchant risk.
 
-**Why you care.** The structure to know cold, minority structured equity into midstream-sponsored power. Exactly the kind of deal you would be asked to size up at MSIP or Stonepeak.
+**Why you care.** The structure to know cold: minority structured equity into midstream-sponsored power, where Williams' year seven to fourteen buyout right caps sponsor upside, which is why three managers shared $5.34bn without bidding up multiple.
 
 <sub>Firms: Blackstone, Apollo, KKR · Sectors: Power & Renewables, Midstream & Gas, Digital Infrastructure · Geo: United States · id: `2026-07-13-blackstone-apollo-and-kkr-to-invest-5-34bn-for-4-26e776`</sub>
 

@@ -12,7 +12,7 @@
 
 **Why it matters.** Macquarie completed the sale of Aligned Data Centers to a consortium of the AI Infrastructure Partnership, MGX and BlackRock's GIP, at the $40bn enterprise value announced in October 2025, roughly $6.25m per MW of operational and planned capacity. Over eight years Macquarie took Aligned from two facilities and 85MW to 51 campuses and more than 6.4GW. Returns to MAM undisclosed.
 
-**Why you care.** The benchmark every hyperscale platform now gets marked against. Memorise the $/MW and the 85MW-to-6.4GW arc; it is the cleanest platform-build story in digital infra.
+**Why you care.** The benchmark every hyperscale platform now gets marked against: $40bn enterprise value, roughly $6.25m per MW, and 85MW to 6.4GW over an eight-year hold.
 
 <sub>Firms: Macquarie Asset Management, Global Infrastructure Partners, MGX · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-21-macquarie-completes-40bn-exit-of-aligned-data-ce-6fc7f7`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** MGX raising close to $50bn from sovereigns and others turns Abu Dhabi from a captive balance sheet into a fund manager, putting price-insensitive capital up against GIP, Blackstone and Brookfield for the same power and compute assets. Expect entry-multiple pressure on hyperscale platforms and contracted generation. But MGX has tended to write alongside GIP and BlackRock, so the effect may be bigger consortia rather than more bidders.
 
-**Why you care.** Competitive-dynamics colour for any AI-power pitch: who else is bidding, and why entry multiples keep grinding higher.
+**Why you care.** Close to $50bn of price-insensitive capital entering the same power and compute assets, so expect entry-multiple pressure, or simply bigger consortia rather than more bidders.
 
 <sub>Firms: MGX · Sectors: Funds & Fundraising, Digital Infrastructure · Geo: United Arab Emirates, United States · id: `2026-06-23-abu-dhabi-s-mgx-closes-near-50bn-raise-for-ai-in-f0b378`</sub>
 

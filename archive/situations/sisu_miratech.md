@@ -14,7 +14,7 @@ Distributed generation services, gas-to-AI power
 
 **Why it matters.** Backcast announced an undisclosed debt investment in Sisu, the Tulsa maker of gas turbine exhaust casings, emissions systems and waste heat recovery. Founders John Hare and Phil Childers keep their stakes and stay in charge, and record backlog is coming from AI data center operators buying off-grid power. Taking growth debt rather than selling says they see more value ahead, and being financeable without a sale lifts the price of any future control process.
 
-**Why you care.** Straight into your Sisu/Miratech work: adjacent demand pool rather than a combination, no transaction between them, and founders visibly pricing themselves up ahead of a control process.
+**Why you care.** Reads straight into your Sisu/Miratech work: founders taking growth debt rather than selling, with AI datacenter backlog lifting the price of any eventual control process.
 
 <sub>Firms: Backcast Partners · Situations: sisu_miratech · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-03-12-backcast-partners-provides-debt-capital-to-sisu-8da85f`</sub>
 
@@ -28,7 +28,7 @@ Distributed generation services, gas-to-AI power
 
 **Why it matters.** Closing turns MIRATECH from an exporter into an in-region APAC manufacturer, which matters in emissions aftertreatment because local fabrication and field service decide who wins work. The data centre driver cited is the same demand thesis running through Sisu. Two deals in six weeks, ECI in February and the ACS catalyst deal in January, signals a programmatic buy-and-build, though undisclosed terms on both mean no multiple read-across.
 
-**Why you care.** Your own deal. Progress on the Sisu/MIRATECH platform, and the two-in-six-weeks pace is the buy-and-build story you would tell in a walk-me-through-a-deal answer.
+**Why you care.** You ran Sisu at Rothschild. Two bolt-ons in six weeks is the buy-and-build thesis you underwrote actually compounding, and a credible sourcing angle to raise at MSIP.
 
 <sub>Situations: sisu_miratech · Sectors: Power & Renewables, Energy Transition & Storage · Geo: Australia, United States · id: `2026-02-24-miratech-completes-acquisition-of-australia-s-ex-04de37`</sub>
 
@@ -42,7 +42,7 @@ Distributed generation services, gas-to-AI power
 
 **Why it matters.** Buying a catalyst manufacturer rather than a distributor moves MIRATECH into the highest-margin, most supply-constrained part of emissions aftertreatment. Catalyst lead times have been a bottleneck for distributed generation serving data centres, so owning production is a competitive weapon. With ECI six weeks later, that is a pattern of capability-led buys across geography and the value chain. Terms undisclosed on both, so deployed capital and sponsor stay unconfirmed.
 
-**Why you care.** You worked Sisu/MIRATECH, so this is the bolt-on pattern you would walk an interviewer through, and it ties the platform straight to data centre power demand.
+**Why you care.** You ran Sisu/MIRATECH. Capability-led buys up the value chain are the thesis playing out, and the undisclosed terms leave the sponsor unconfirmed, so worth flagging at MSIP.
 
 <sub>Situations: sisu_miratech · Sectors: Power & Renewables, Energy Transition & Storage · Geo: United States · id: `2026-01-13-miratech-acquires-advanced-catalyst-systems-of-m-a3cd01`</sub>
 

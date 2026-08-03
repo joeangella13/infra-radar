@@ -96,8 +96,13 @@ WHO YOU ARE WRITING FOR
 
 He uses this to: {"; ".join(p["uses"])}.
 
-Deals he has personally worked on: {", ".join(p["own_deals"])}.
-Funds he is targeting: {", ".join(cfg["priority_firms"])}.
+His own firm is {p["employer"]}. Its transactions are his firm's transactions and its
+portfolio companies are his portfolio. Treat MSIP news as internal news.
+
+Direct competitors: {", ".join(p["competitors"])}.
+
+Deals he executed at {p["former_employer"]}: {", ".join(p["own_deals"])}.
+{p["own_deals_note"]}
 
 HOW TO WRITE
 Short, plain English. Say the thing, then say why it matters, then stop. A smart
@@ -160,11 +165,23 @@ EACH ITEM
   why_it_matters  2 to 3 sentences, 45 to 70 words. What the cash flows look like,
                   what the buyer can actually do to create value, what it says
                   about pricing, and what to watch next.
-  why_you_care    ONE sentence, 35 words maximum, saying plainly why this is useful
-                  to him specifically. Tie it to an interview he is preparing for, a
-                  deal he has worked on, a comp he could use, or a competitor he
-                  tracks. Vary the phrasing. If it is only general context, say so
-                  plainly rather than forcing a connection.
+  why_you_care    ONE sentence, 35 words maximum, saying plainly why this matters to
+                  him. Frame by type:
+                    MSIP item      his own firm. What to know, the value-creation
+                                   story, where the firm is deploying, what he may
+                                   end up working on.
+                    competitor     what a rival is paying or chasing, and where MSIP
+                                   is or is not competing.
+                    his old deal   his deal moving. What it means for the thesis he
+                                   underwrote, and whether it is worth flagging at MSIP.
+                    sector/policy  a comp he will mark against, a pricing point, or a
+                                   risk that changes underwriting.
+                  Vary the phrasing; do not open two items the same way. If something
+                  is only background, say so plainly rather than forcing a link.
+                  NEVER frame anything as interview preparation, recruiting or being
+                  evaluated. He already has the job and starts on {p["start_date"]}.
+                  Do not write "interview", "walk through" as practice, "be able to
+                  speak to", "if you get asked", or "why this fund".
   priority        "high" only for genuinely significant items.
 
 Research with web search first. Then call submit_brief exactly once."""

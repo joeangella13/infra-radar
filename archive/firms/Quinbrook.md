@@ -12,7 +12,7 @@
 
 **Why it matters.** The 74% re-up rate is the real datapoint, showing UK value-add renewables held its LP base while generalist energy transition fundraising stalled. The £587m final close, raised in roughly 18 months, sizes the fund for build-and-operate solar, onshore wind and storage rather than trophy assets. Capacity market and CfD floors support leverage; grid connection dates are the execution risk.
 
-**Why you care.** A read on where LP money still moves in renewables. Context rather than something actionable, unless a UK mandate crosses your desk.
+**Why you care.** Background only. The 74% re-up rate shows UK value-add renewables held its LP base, but nothing here is actionable unless a UK mandate crosses the desk.
 
 <sub>Firms: Quinbrook · Sectors: Funds & Fundraising, Power & Renewables · Geo: United Kingdom · id: `2026-07-08-quinbrook-closes-second-uk-renewables-fund-at-58-ae35fd`</sub>
 

@@ -12,7 +12,7 @@
 
 **Why it matters.** KKR and ECP agreed to take DCC Energy private for GBP5.75bn at 6,525p a share plus a 147.22p final dividend, a 24% premium to the 5,380p undisturbed price, with up to 125p more if Nexora is sold by 31 July 2027; an April bid at 5,800p was rejected. DCC distributes LPG and liquid fuels on unit margins, so returns must come from bolt-ons and margin, not re-rating. Completion expected Q1 2027.
 
-**Why you care.** Take-private mechanics worth having cold: two-stage bid, 24% premium, contingent consideration on a non-core asset. Standard interview territory, and ECP appears twice in this batch.
+**Why you care.** Two-stage bid mechanics at a 24% premium with contingent consideration on a non-core asset. On unit-margin fuel distribution, returns have to come from bolt-ons and margin, not re-rating.
 
 <sub>Firms: KKR, Energy Capital Partners · Sectors: Midstream & Gas, Transport & Logistics · Geo: United Kingdom, Ireland · id: `2026-07-27-kkr-and-ecp-agree-5-75bn-take-private-of-dcc-ene-dd95fd`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** ECP had raised $7bn for ECP VI by July 17 against a $5bn original target, and LPs approved lifting the hard cap from $7.5bn to $7.8bn; Dakota had it at $4.8bn in May. The mandate spans renewables, storage and gas across North America and Europe, the flexibility LPs now want given dispatchable gas serving data centre load. The capital has a home: ECP co-bids with KKR on the GBP5.75bn DCC Energy take-private.
 
-**Why you care.** A clean read on LP appetite in energy infrastructure, plus a fund whose deal sizes require co-investment well beyond fund capacity, which is worth knowing before any sponsor meeting.
+**Why you care.** LP appetite in energy infrastructure read straight: a $5bn target heading toward $8bn, mandated across gas, renewables and storage, the flexibility data centre load now demands.
 
 <sub>Firms: Energy Capital Partners · Sectors: Funds & Fundraising, Power & Renewables, Energy Transition & Storage · Geo: United States, Europe · id: `2026-07-17-ecp-vi-heads-for-about-8bn-close-after-lps-appro-1ead81`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Actis held a $2.5bn first close on Energy 6 against a $6bn target for emerging-markets renewables, grids and energy transition, testing whether LP appetite runs beyond OECD digital and grid assets. The same report had I Squared's Fund IV at a $10bn initial close with NYC Police and Fire pension money among the LPs, and ECP VI at $4.8bn.
 
-**Why you care.** Fundraising scoreboard. Handy background if an interviewer asks who is raising and where LP allocation is actually landing this cycle.
+**Why you care.** I Squared, a direct competitor, took a $10bn initial close on Fund IV, the LP capital that will sit across the table from MSIP in auctions. Actis and ECP alongside.
 
 <sub>Firms: Actis, I Squared Capital, Energy Capital Partners · Sectors: Funds & Fundraising, Power & Renewables, Energy Transition & Storage · Geo: Global · id: `2026-05-31-actis-holds-2-5bn-first-close-on-actis-energy-6-4f345e`</sub>
 

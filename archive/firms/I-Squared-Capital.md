@@ -12,7 +12,7 @@
 
 **Why it matters.** I Squared formed a $600m continuation vehicle for Inkia, its Peruvian power platform, with UAE climate vehicle Altérra joining as co-investor in what Infrastructure Investor described as Altérra's first direct Latin American investment. Pricing and rollover ratio undisclosed. Infra CVs are scarce, so this is a useful reference point, and bringing in sovereign-adjacent climate capital rather than a secondaries fund suggests the clearing price needed a strategic's cost of capital.
 
-**Why you care.** Continuation vehicles come up constantly in PE interviews as the DPI-versus-conviction trade; this gives you an infrastructure example instead of the usual buyout ones.
+**Why you care.** I Squared taking liquidity without selling. A $600m continuation vehicle on Inkia that cleared with sovereign-adjacent climate capital rather than a secondaries fund, a rare infra CV reference point.
 
 <sub>Firms: I Squared Capital · Sectors: Power & Renewables · Geo: Peru · id: `2026-06-18-alterra-joins-i-squared-s-600m-continuation-vehi-a2d1c3`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Actis held a $2.5bn first close on Energy 6 against a $6bn target for emerging-markets renewables, grids and energy transition, testing whether LP appetite runs beyond OECD digital and grid assets. The same report had I Squared's Fund IV at a $10bn initial close with NYC Police and Fire pension money among the LPs, and ECP VI at $4.8bn.
 
-**Why you care.** Fundraising scoreboard. Handy background if an interviewer asks who is raising and where LP allocation is actually landing this cycle.
+**Why you care.** I Squared, a direct competitor, took a $10bn initial close on Fund IV, the LP capital that will sit across the table from MSIP in auctions. Actis and ECP alongside.
 
 <sub>Firms: Actis, I Squared Capital, Energy Capital Partners · Sectors: Funds & Fundraising, Power & Renewables, Energy Transition & Storage · Geo: Global · id: `2026-05-31-actis-holds-2-5bn-first-close-on-actis-energy-6-4f345e`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Infrastructure Investor reported that I Squared intends to deploy $1bn into Indian power transmission, with no counterparty, asset or structure disclosed. Indian transmission is genuinely core: 35-year TBCB concessions paid on availability, not volume. But tariff-based competitive bidding has compressed equity IRRs as domestic and sovereign capital crowded in, and buying an InvIT-ready portfolio versus building greenfield gives very different risk and exit profiles.
 
-**Why you care.** Useful for how a large fund frames an emerging-market core mandate, and a ready reference if an interviewer asks where you would put $1bn of power capital today.
+**Why you care.** A direct competitor signalling where $1bn goes next. Indian transmission is availability-paid and genuinely core, but TBCB bidding has already compressed equity IRRs.
 
 <sub>Firms: I Squared Capital · Sectors: Power & Renewables · Geo: India · id: `2026-05-26-i-squared-plans-1bn-investment-into-indian-power-d97873`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** I Squared is betting the next leg of data centre demand is edge inference rather than hyperscale training, meaning smaller footprints in dense metros where power and fibre already exist. Buying a carrier's non-core estate at $225m for 53MW is roughly $4.2m per MW, a fraction of greenfield cost, so value creation is re-tenanting and densification rather than construction. The trade-off is shorter tenor and more churn than hyperscale leases.
 
-**Why you care.** Gives you a concrete dollars-per-MW entry benchmark for edge colocation, plus a competing-sponsor datapoint on playing AI power without hyperscale build risk.
+**Why you care.** Direct competitor, and the entry mark is the point: roughly $4.2m per MW for 53MW of edge colocation, with value creation in re-tenanting and densification rather than construction.
 
 <sub>Firms: I Squared Capital · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-25-i-squared-commits-up-to-1bn-to-new-us-ai-inferen-983aa1`</sub>
 

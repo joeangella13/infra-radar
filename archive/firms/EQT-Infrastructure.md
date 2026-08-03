@@ -12,7 +12,7 @@
 
 **Why it matters.** Dedicated AI infrastructure vehicles are now their own fundraising category rather than a sleeve inside flagship funds, and $9.4bn in three months says LPs will take concentrated thematic exposure at scale. That capital is the main driver of entry multiples in digital infrastructure and why co-located generation rights command a premium. The risk is vintage concentration into a finite set of powered sites.
 
-**Why you care.** Explains why powered land and generation rights keep getting bid up in your coverage, and it is fundraising context you should be able to speak to.
+**Why you care.** EQT arming itself with $9.4bn aimed squarely at AI infrastructure, the capital that will bid entry multiples on powered land and generation rights against MSIP.
 
 <sub>Firms: EQT Infrastructure, Global Infrastructure Partners, IFM Investors · Sectors: Funds & Fundraising, Digital Infrastructure · Geo: Global, United States, Europe · id: `2026-07-20-eqt-secures-9-4bn-for-its-ai-focused-infrastruct-e11c9b`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Carlyle agreed to sell Copia Power to EQT Infrastructure VII; terms undisclosed, though press coverage put it near $2.6bn. Copia has 2.6GW operating or in construction and a 30GW+ pipeline: 25GW+ solar and storage, 7GW gas, 9GW grid-connected data centres. Value sits in interconnection positions, land and permitting rather than operating cash flow, and the gas and data centre capacity is what makes it AI-adjacent. Built from inception in 2021, a five-year hold.
 
-**Why you care.** The comp to know for development-platform valuation, and evidence for the argument that pipeline GW rather than EBITDA sets the price on these assets.
+**Why you care.** EQT, a direct rival, paying a reported $2.6bn for a development platform priced on 30GW of pipeline rather than EBITDA; interconnection, land and permitting are the value.
 
 <sub>Firms: EQT Infrastructure, Carlyle · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-07-10-carlyle-sells-power-and-ai-infrastructure-platfo-b1c588`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** At roughly $33.4bn enterprise value on about $10.7bn of equity, this is a heavily levered utility carve-out where the return comes from asset rotation and rate-base growth at the regulated Indiana and Ohio utilities, not the merchant renewables arm. Refinancing and rating agency treatment are the dominant risks, and two sovereign-scale LPs are what make the equity cheque work. Close expected late 2026 or early 2027.
 
-**Why you care.** The clearest evidence that US regulated utilities are now infra-fund territory, which is a strong "what has changed in the market" answer.
+**Why you care.** Rival EQT and GIP are taking $33.4bn of regulated utility private with sovereign LPs; stockholders approved, close late 2026 or early 2027, and the return sits in Indiana and Ohio rate base.
 
 <sub>Firms: Global Infrastructure Partners, EQT Infrastructure, QIA · Sectors: Power & Renewables · Geo: United States · id: `2026-06-26-aes-stockholders-approve-33-4bn-take-private-by-fb28f1`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** A EUR21bn target, about $24.5bn, puts EQT among the handful of managers able to write $2bn-plus control cheques unsyndicated, which is now table stakes in power and AI deals. Fund VII is already the named buyer of Copia Power from Carlyle, while Fund VI sits behind the GIP-led AES take-private. The LP question is whether returns hold as cheque size roughly doubles.
 
-**Why you care.** Useful scale benchmark when explaining why the largest infra funds now hunt carve-outs and take-privates, the same shift MSIP and Stonepeak are riding.
+**Why you care.** EQT sizing Fund VII at EUR21bn sets the cheque-size bar in power and AI: a rival able to write $2bn-plus control positions unsyndicated.
 
 <sub>Firms: EQT Infrastructure · Sectors: Funds & Fundraising · Geo: Europe, United States · id: `2026-05-31-eqt-sets-21bn-target-for-infrastructure-vii-one-4610c2`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** EQT's Active Core Infrastructure fund is acquiring 70% of a JV with Americold holding 12 US cold storage facilities valued at over $1.3bn, Americold keeping 30% and managing; close expected Q3 2026. That is classic core risk transfer, EQT buying stability while Americold keeps operating alpha and takes ~$1.1bn to delever. Entry at asset value rather than a corporate multiple points to yield-plus-development underwriting.
 
-**Why you care.** The 70/30 operator-retained structure is a template you can lift straight into a pitch, and a tidy example of core-infra risk transfer for interviews.
+**Why you care.** EQT, a direct rival, buying core stability at asset value with the operator keeping 30% and management, the risk-transfer structure MSIP will see across the table.
 
 <sub>Firms: EQT Infrastructure · Sectors: Transport & Logistics · Geo: United States · id: `2026-05-07-eqt-takes-70-of-1-3bn-north-american-cold-storag-da3047`</sub>
 

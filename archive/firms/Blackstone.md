@@ -12,7 +12,7 @@
 
 **Why it matters.** Asset integrity inspection is regulatory-driven, non-discretionary spend across pipelines, wells and industrial plant, so revenue recurs and is largely insulated from commodity price swings. Owning the whole stack, from imaging sensors and silicon through defect-quantifying AI models, is a real moat in a market where competitors resell hardware and interpret data manually. Coming a month after Dresser, it confirms Blackstone's energy transition vehicle is pivoting from asset ownership to services. Terms undisclosed.
 
-**Why you care.** Competing-sponsor signal worth tracking: Blackstone hunting energy services rather than assets is a different answer to high infrastructure entry multiples.
+**Why you care.** A competing sponsor answering high infrastructure entry multiples by buying energy services rather than assets, on regulatory-driven inspection spend. Second such deal in a month.
 
 <sub>Firms: Blackstone · Sectors: Midstream & Gas · Geo: Canada, United States · id: `2026-07-30-blackstone-energy-transition-partners-to-acquire-a8e483`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** In substance a sale-and-leaseback: the sponsors own pipelines they do not operate and collect a volume-based tariff from a state oil company for 20.5 years, so the risk is throughput and convertibility rather than operations. A volume-linked rather than fixed tariff gives growth participation but removes the availability-payment floor infrastructure buyers usually insist on. KOC keeps 51% and control, taking $7.85bn upfront.
 
-**Why you care.** Big-ticket midstream structuring you can point to, and three sponsors splitting the equity equally is a neat illustration of spreading country risk.
+**Why you care.** Three sponsors splitting 49% equally is how country risk gets spread, on a structure that is really a sale-and-leaseback with a volume tariff and no availability floor.
 
 <sub>Firms: Blackstone, Brookfield, KKR · Sectors: Midstream & Gas · Geo: Kuwait · id: `2026-07-28-blackstone-brookfield-and-kkr-sign-16bn-kuwait-c-e06869`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Brookfield agreed to buy Aypa Power from Blackstone at roughly $7bn enterprise value and about $3bn equity. A fleet that is 95% contracted with investment-grade offtakers on a 17-year average remaining tenor is a genuinely core cash-flow profile, which is why it clears at an infrastructure multiple. Blackstone took a 0.2GWh C&I business to 6.5GW plus a 20GW-plus pipeline in about six years.
 
-**Why you care.** This is now the reference price for independent storage platforms. Use it when you mark Hydrostor's pipeline or build a storage comp set.
+**Why you care.** The reference price for independent storage platforms at roughly $7bn enterprise value. Use it when you mark Hydrostor's pipeline or build a storage comp set.
 
 <sub>Firms: Brookfield, Blackstone · Sectors: Energy Transition & Storage · Geo: United States, Canada · id: `2026-07-22-brookfield-to-buy-battery-storage-platform-aypa-a74ae5`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Blackstone launched a dedicated Asia Pacific infrastructure platform and hired Ami Momaya from KKR India as Head of Infrastructure for India, its first dedicated infrastructure hire in the region. He came from the National Infrastructure Investment Fund and spent 17 years at Morgan Stanley Investment Management. With about $84bn of infrastructure AUM and AirTrunk already owned, this formalises origination in the one region where Blackstone has been a follower.
 
-**Why you care.** Competitor tracking. Blackstone building out India adds bid pressure in a market that has been clubby, and the NIIF background shows where that deal flow actually comes from.
+**Why you care.** Competitor tracking: Blackstone formalising India origination with an NIIF- and KKR-trained hire adds bid pressure in a market that has run clubby.
 
 <sub>Firms: Blackstone · Sectors: Funds & Fundraising, Digital Infrastructure · Geo: India, Australia, Singapore · id: `2026-07-15-blackstone-launches-dedicated-apac-infrastructur-dbc57c`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** Structured equity dressed as a JV: Williams keeps 51% and control, and its buyout right in years seven to fourteen at Blackstone's outstanding investment balance caps sponsor upside, which is why three big managers could share the $5.34bn without competing on multiple. Behind-the-meter generation contracted to data centre load is the strongest cash-flow profile in US power now: long tenor, investment-grade counterparties, no merchant risk.
 
-**Why you care.** The structure to know cold, minority structured equity into midstream-sponsored power. Exactly the kind of deal you would be asked to size up at MSIP or Stonepeak.
+**Why you care.** The structure to know cold: minority structured equity into midstream-sponsored power, where Williams' year seven to fourteen buyout right caps sponsor upside, which is why three managers shared $5.34bn without bidding up multiple.
 
 <sub>Firms: Blackstone, Apollo, KKR · Sectors: Power & Renewables, Midstream & Gas, Digital Infrastructure · Geo: United States · id: `2026-07-13-blackstone-apollo-and-kkr-to-invest-5-34bn-for-4-26e776`</sub>
 
@@ -82,7 +82,7 @@
 
 **Why it matters.** Blackstone Energy Transition Partners agreed to acquire Dresser Utility Solutions from First Reserve; terms undisclosed. Dresser, Houston-based, founded 1880, roughly 850 staff, supplies metering and digital instrumentation, pressure and flow control, gas and water repair products and utility software. Revenue tracks utility maintenance and replacement capex, which is regulated rate-base spending and non-discretionary. As the first deal of a new fund vintage it points energy transition capital at picks-and-shovels rather than generation.
 
-**Why you care.** A concrete answer with a name attached when a fund asks where you would deploy energy transition capital given how punishing generation entry pricing has become.
+**Why you care.** A rival opening a new fund vintage on picks-and-shovels rather than generation, with revenue tied to non-discretionary utility replacement capex. Where energy transition capital is actually going.
 
 <sub>Firms: Blackstone · Sectors: Midstream & Gas, Water & Environmental · Geo: United States · id: `2026-07-06-blackstone-energy-transition-partners-to-acquire-5738c8`</sub>
 
@@ -96,7 +96,7 @@
 
 **Why it matters.** Blackstone's agreed $3.5bn exit from a 2023-vintage development JV values 96MW at roughly $36m per MW, a stabilised hyperscale mark and a fast realisation. Taking $2.3bn of the consideration in DLR stock keeps Blackstone exposed to the sector while crystallising the development premium on these specific assets. It is also a clean read on where leased Northern Virginia capacity clears with power constraints freezing new supply.
 
-**Why you care.** A hard $/MW comp for Northern Virginia that you can drop straight into a data centre valuation page.
+**Why you care.** Sets the Northern Virginia mark at roughly $36m per MW across 96MW of stabilised hyperscale capacity.
 
 <sub>Firms: Blackstone · Sectors: Digital Infrastructure · Geo: United States · id: `2026-06-29-digital-realty-to-buy-blackstone-s-stakes-in-thr-9fd4b0`</sub>
 
@@ -110,7 +110,7 @@
 
 **Why it matters.** Digital Realty agreed to buy Blackstone's equity in three Northern Virginia data centres for $3.5bn ($1.2bn cash, $2.3bn in shares), implying $7.8bn gross at 100%. The assets are 288 MW of IT capacity, fully leased to investment-grade hyperscalers on 15-year leases with 3.6% escalators, at a stated initial stabilised cap rate above 6.5%. That is roughly $27m per MW, the cleanest public pricing mark of the quarter.
 
-**Why you care.** The number to put on a valuation page in any data centre pitch, and a template for how a sponsor exits a 2021-23 development vintage into strategic paper.
+**Why you care.** Sets the data centre mark at roughly $27m per MW and a 6.5%-plus stabilised cap rate, the cleanest public pricing point of the quarter for anything you underwrite.
 
 <sub>Firms: Blackstone · Sectors: Digital Infrastructure · Geo: United States · id: `2026-06-29-digital-realty-buys-blackstone-s-stakes-in-three-be1d6e`</sub>
 
@@ -124,7 +124,7 @@
 
 **Why it matters.** Enstructure agreed to acquire LOGISTEC's marine terminal division, spanning 62 ports and 84 terminals across North America, terms undisclosed. That creates the largest independent multi-purpose terminal network on the continent and changes the competitive set for US and Canadian breakbulk, bulk and project-cargo concessions. Blue Wolf keeps majority control, with Blackstone Credit invested since 2022 and Viking equity, which reads as a hold rather than a near-term exit.
 
-**Why you care.** Your LOGISTEC/Termont situation seen from the buyer's side, and probably the strongest ports deal story you can walk through for a terminal-focused sponsor.
+**Why you care.** You ran LOGISTEC/Termont at Rothschild; here it is from the buyer's side, with Blue Wolf keeping majority control alongside Blackstone Credit and Viking, reading as a hold not an exit.
 
 <sub>Firms: Blue Wolf Capital Partners, Blackstone, Viking Global Investors · Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: United States, Canada · id: `2026-06-15-enstructure-to-acquire-logistec-s-marine-termina-d41951`</sub>
 
@@ -138,7 +138,7 @@
 
 **Why it matters.** Blackstone filed for a $1.75bn IPO of Blackstone Digital Infrastructure Trust (NYSE: BXDC), 87,500,000 shares at $20 with a 1% bonus share kicker, to buy newly built data centers valued $250m to $1.5bn leased to hyperscalers, projecting 5.75% to 7%+ returns. That underwriting sets a public-market return floor and a permanent bid for stabilized assets, capping what private buyers can pay without leverage or development margin.
 
-**Why you care.** A hard return floor to quote in data center pitches: stabilized hyperscale paper clears at 5.75%-7%, so the excess return has to come from development or powered-shell risk.
+**Why you care.** The filed underwriting sets a public-market return reference for stabilised hyperscale data centres at 5.75% to 7%, so excess return has to come from development or lease-up risk.
 
 <sub>Firms: Blackstone, Goldman Sachs, Citigroup, Morgan Stanley, Barclays · Sectors: Digital Infrastructure, Funds & Fundraising · Geo: United States · id: `2026-05-04-blackstone-files-for-1-75b-ipo-of-a-listed-data-572579`</sub>
 

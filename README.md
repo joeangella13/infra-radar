@@ -122,7 +122,10 @@ To run less often, edit the cron in `.github/workflows/daily.yml`.
 
 Everything you'd want to change lives in **`config.json`**:
 
-- `priority_firms` — the firms that get the ◆ flag. Currently MSIP, Stonepeak, Greenbriar.
+- `reader_profile` — who the brief is for and what they do. This drives the
+  "Why you care" line. **Update it when the job or the target list changes.**
+- `priority_firms` — top tier, ◆ flag, +100 in the email ranking. Currently MSIP.
+- `secondary_firms` — second tier, ◇ flag, +60. Currently I Squared, Stonepeak, EQT.
 - `watchlist_firms` — the firms the research pass is told to sweep each morning
 - `tracked_situations` — the situation watchlist. Each has a `key`, a display `label`, a `note`
   and an `aliases` list; anything matching an alias is auto-tagged to that situation.

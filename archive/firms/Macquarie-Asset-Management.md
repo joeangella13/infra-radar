@@ -12,7 +12,7 @@
 
 **Why it matters.** Extensions have compressed from months to days, a fifth AAFOH supplement and a fourteenth commuter one, which says no consensual deal is documented and creditors are pricing optionality week by week. Assured Guaranty, insuring roughly 51% of the $2.2bn senior bonds, effectively controls whether this stays out of court. Commuter holders are the most exposed, since their security rests on county payments that are not yet contractually committed.
 
-**Why you care.** The creditor map on your own deal: who holds what and who has control. Exactly the detail that makes a restructuring walkthrough credible.
+**Why you care.** Extensions compressed from months to days on your Brightline deal, and Assured Guaranty, insuring roughly 51% of the $2.2bn senior bonds, effectively controls whether this stays out of court.
 
 <sub>Firms: Fortress Investment Group, Assured Guaranty, First Eagle, Nuveen, Invesco, Global Infrastructure Partners, Macquarie Asset Management · Situations: brightline · Sectors: Rail · Geo: United States · id: `2026-07-27-brightline-florida-wins-fifth-aafoh-and-14th-com-39bb0c`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Macquarie completed the sale of Aligned Data Centers to a consortium of the AI Infrastructure Partnership, MGX and BlackRock's GIP, at the $40bn enterprise value announced in October 2025, roughly $6.25m per MW of operational and planned capacity. Over eight years Macquarie took Aligned from two facilities and 85MW to 51 campuses and more than 6.4GW. Returns to MAM undisclosed.
 
-**Why you care.** The benchmark every hyperscale platform now gets marked against. Memorise the $/MW and the 85MW-to-6.4GW arc; it is the cleanest platform-build story in digital infra.
+**Why you care.** The benchmark every hyperscale platform now gets marked against: $40bn enterprise value, roughly $6.25m per MW, and 85MW to 6.4GW over an eight-year hold.
 
 <sub>Firms: Macquarie Asset Management, Global Infrastructure Partners, MGX · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-21-macquarie-completes-40bn-exit-of-aligned-data-ce-6fc7f7`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** An $835m enterprise value on $98m of EBITDA is roughly 8.5x trailing, a rare disclosed mark for Latin American agri-bulk terminals where comparables are scarce. It is also a completed sponsor exit: Macquarie and IG4 sold a Brazilian port platform to a sovereign-backed strategic at institutional pricing. Read the multiple as bulk-appropriate, since sugar and grain export volumes carry commodity-cycle throughput risk that container gateways do not.
 
-**Why you care.** A live ports comp for terminal pitches, and evidence of what a sponsor exit to a Gulf strategic clears at, which is relevant to your Odfjell and LOGISTEC work.
+**Why you care.** Roughly 8.5x trailing on $98m of EBITDA is a rare disclosed mark for agri-bulk terminals, and a comp against your Odfjell and LOGISTEC work on what a sponsor exit clears at.
 
 <sub>Firms: Macquarie Asset Management, IG4 Capital · Sectors: Ports & Terminals · Geo: Brazil, United Arab Emirates · id: `2026-06-02-ad-ports-buys-brazilian-agri-bulk-terminal-opera-d2d3d4`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** The largest Australian infrastructure take-private of the cycle, at roughly A$11.7bn enterprise value and A$5.20 a share in cash, shows listed logistics platforms with landside port concessions still clear at a premium when sovereign and pension money syndicates behind a manager. That co-investment is what allows a cheque this size without a GP club. The NSW court approved the scheme in July.
 
-**Why you care.** Benchmark for how a large ports-and-logistics platform gets funded, and a concrete example of co-invest structure if fund strategy comes up.
+**Why you care.** Sovereign and pension co-invest is what lets a manager clear A$11.7bn for a listed ports-and-logistics platform without a GP club; the NSW court approved the scheme in July.
 
 <sub>Firms: Macquarie Asset Management, GIC · Sectors: Ports & Terminals, Transport & Logistics · Geo: Australia · id: `2026-05-14-temasek-gic-and-calpers-revealed-as-co-investors-1c6f88`</sub>
 

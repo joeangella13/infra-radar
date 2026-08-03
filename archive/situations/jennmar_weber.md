@@ -14,7 +14,7 @@ Ground control and mining consumables
 
 **Why it matters.** KPS's majority investment in Jennmar has completed, on the Q2 2026 guidance, so clearance was uneventful. FalconPoint rolling a significant minority means the prior sponsor stays exposed, which usually signals a second value-creation phase rather than a clean exit. Hiring outside CEO Dave Webster after a 22-year founder tenure points to an acquisition-led plan, consistent with Weber Mining & Tunnelling and Rohrig.
 
-**Why you care.** Your Jennmar/Weber deal, now closed. The read for you is that Jennmar is an active buyer in ground control with KPS capacity behind it.
+**Why you care.** Jennmar closed, and FalconPoint rolling a minority alongside an outside CEO points to a second value-creation phase on the deal you ran; it is now an active buyer in ground control.
 
 <sub>Firms: KPS Capital Partners, FalconPoint Partners · Situations: jennmar_weber · Sectors: Mining Services · Geo: United States · id: `2026-06-17-kps-capital-partners-completes-majority-investme-f2714c`</sub>
 
@@ -28,7 +28,7 @@ Ground control and mining consumables
 
 **Why it matters.** Two sell-side banks, Evercore and Rothschild, signal a broad competitive process rather than a bilateral deal, which is the best read on value given undisclosed terms. FalconPoint rolling a significant minority rather than exiting at the top of the mining-consumables cycle says it sees value left, especially after the July 2025 Weber deal internationalised the platform. KPS buys operational transformation, so expect footprint rationalisation and bolt-ons. Closed June 16-17, 2026, on the guided timetable.
 
-**Why you care.** Your own deal, and the one you will be asked to walk through. The sell-side dynamics and FalconPoint's roll are the value story you would have to defend.
+**Why you care.** You ran this at Rothschild, advising Jennmar and FalconPoint. It closed June 16-17 on the guided timetable, and FalconPoint's retained minority says the mining-consumables cycle still has value left.
 
 <sub>Firms: KPS Capital Partners, FalconPoint Partners, Evercore, Rothschild & Co, Jefferies, Lowenstein Sandler, Paul Weiss Rifkind Wharton & Garrison · Situations: jennmar_weber · Sectors: Mining Services · Geo: United States · id: `2026-03-11-kps-capital-partners-agrees-majority-investment-c28a8a`</sub>
 

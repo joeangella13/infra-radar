@@ -12,7 +12,7 @@
 
 **Why it matters.** In substance a sale-and-leaseback: the sponsors own pipelines they do not operate and collect a volume-based tariff from a state oil company for 20.5 years, so the risk is throughput and convertibility rather than operations. A volume-linked rather than fixed tariff gives growth participation but removes the availability-payment floor infrastructure buyers usually insist on. KOC keeps 51% and control, taking $7.85bn upfront.
 
-**Why you care.** Big-ticket midstream structuring you can point to, and three sponsors splitting the equity equally is a neat illustration of spreading country risk.
+**Why you care.** Three sponsors splitting 49% equally is how country risk gets spread, on a structure that is really a sale-and-leaseback with a volume tariff and no availability floor.
 
 <sub>Firms: Blackstone, Brookfield, KKR · Sectors: Midstream & Gas · Geo: Kuwait · id: `2026-07-28-blackstone-brookfield-and-kkr-sign-16bn-kuwait-c-e06869`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** KKR and ECP agreed to take DCC Energy private for GBP5.75bn at 6,525p a share plus a 147.22p final dividend, a 24% premium to the 5,380p undisturbed price, with up to 125p more if Nexora is sold by 31 July 2027; an April bid at 5,800p was rejected. DCC distributes LPG and liquid fuels on unit margins, so returns must come from bolt-ons and margin, not re-rating. Completion expected Q1 2027.
 
-**Why you care.** Take-private mechanics worth having cold: two-stage bid, 24% premium, contingent consideration on a non-core asset. Standard interview territory, and ECP appears twice in this batch.
+**Why you care.** Two-stage bid mechanics at a 24% premium with contingent consideration on a non-core asset. On unit-margin fuel distribution, returns have to come from bolt-ons and margin, not re-rating.
 
 <sub>Firms: KKR, Energy Capital Partners · Sectors: Midstream & Gas, Transport & Logistics · Geo: United Kingdom, Ireland · id: `2026-07-27-kkr-and-ecp-agree-5-75bn-take-private-of-dcc-ene-dd95fd`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Structured equity dressed as a JV: Williams keeps 51% and control, and its buyout right in years seven to fourteen at Blackstone's outstanding investment balance caps sponsor upside, which is why three big managers could share the $5.34bn without competing on multiple. Behind-the-meter generation contracted to data centre load is the strongest cash-flow profile in US power now: long tenor, investment-grade counterparties, no merchant risk.
 
-**Why you care.** The structure to know cold, minority structured equity into midstream-sponsored power. Exactly the kind of deal you would be asked to size up at MSIP or Stonepeak.
+**Why you care.** The structure to know cold: minority structured equity into midstream-sponsored power, where Williams' year seven to fourteen buyout right caps sponsor upside, which is why three managers shared $5.34bn without bidding up multiple.
 
 <sub>Firms: Blackstone, Apollo, KKR · Sectors: Power & Renewables, Midstream & Gas, Digital Infrastructure · Geo: United States · id: `2026-07-13-blackstone-apollo-and-kkr-to-invest-5-34bn-for-4-26e776`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** A $4.2bn carve-out from a seller under balance-sheet pressure is usually the best entry basis available in a crowded asset class. The point is buying development, construction and O&M alongside the operating fleet: that turns a portfolio purchase into a platform which originates at cost instead of competing at auction. The up-to-$390m contingent payment bridges a gap on pipeline value, sensible with US tax credits sunsetting. Close is subject to regulatory approvals.
 
-**Why you care.** The best current comp for a large renewables platform trade, directly usable on your ArcLight/Avangrid work and as a 'walk me through a deal' structure with an earnout.
+**Why you care.** The comp for a large renewables platform trade, and it reads against your ArcLight/Avangrid work: the agreed $4.2bn carve-out buys origination capability, not just an operating fleet.
 
 <sub>Firms: KKR · Sectors: Power & Renewables, Energy Transition & Storage · Geo: United States, Canada · id: `2026-06-30-kkr-to-acquire-edf-power-solutions-north-america-d9af30`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** KKR launched Helix Digital Infrastructure with over $10bn of long-duration commitments anchored by KKR and the Kuwait Investment Authority, NVIDIA as cornerstone strategic partner and Vistra as preferred power provider across 18 states. Former AWS chief Adam Selipsky is co-founder and CEO, with KKR's Waldemar Szlezak as CIO. The pitch is selling hyperscalers power, shell and fibre as one product rather than the fragmented stack they buy today.
 
-**Why you care.** The competitor set MSIP and Stonepeak are now bidding against in data centre power. Have a view on whether the integrated pitch actually beats a specialist.
+**Why you care.** The competitive set in data centre power just added a $10bn-plus integrated bidder with NVIDIA and Vistra attached, so MSIP now competes against a bundled power-shell-fibre pitch.
 
 <sub>Firms: KKR · Sectors: Digital Infrastructure, Power & Renewables · Geo: United States · id: `2026-06-10-kkr-launches-helix-digital-infrastructure-with-1-89d17a`</sub>
 

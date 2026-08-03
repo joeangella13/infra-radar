@@ -14,7 +14,7 @@ Transtar, Long Ridge, Jefferson, Repauno
 
 **Why it matters.** FTAI Infrastructure will report Q2 after the close on August 5, with a call August 6. It is the first disclosure point after the Tidewater close and with the Long Ridge sale pending, so expect an update on Q3 closing timing and regulatory approval for the $1.52bn MARA transaction. The deleveraging bridge, $1.16bn of Long Ridge debt eliminated plus roughly $300m of corporate repayment, is the focus.
 
-**Why you care.** Diary item for your FTAI coverage. The Railroad and Jefferson Terminal segment numbers on that call show whether the post-Long Ridge business carries the capital structure.
+**Why you care.** Diary item on a name you covered at Rothschild: August 5 after the close, the first disclosure since Tidewater closed and with the Long Ridge sale pending.
 
 <sub>Situations: ftai_infrastructure · Sectors: Rail, Ports & Terminals · Geo: United States · id: `2026-07-15-ftai-infrastructure-sets-q2-2026-results-for-aug-d2e345`</sub>
 
@@ -28,7 +28,7 @@ Transtar, Long Ridge, Jefferson, Repauno
 
 **Why it matters.** FTAI Infrastructure said it completed the acquisition of Tidewater Logistics, a barge and rail transloading business in Ohio, West Virginia and Texas, for about $45m cash against roughly $9m of expected forward EBITDA. That is a five times entry multiple, well inside where FIP's equity trades. Funding came from upsizing the existing term loan rather than Long Ridge proceeds, so lenders will back the rail platform independently of the divestiture.
 
-**Why you care.** You worked FTAI Infrastructure, and this is a clean walk-me-through-a-deal answer: cheap bolt-on, accretive on look-through, financed without waiting on the sale.
+**Why you care.** You ran FTAI Infrastructure. A five times entry multiple funded off an upsized term loan says lenders back the rail platform independently of the Long Ridge divestiture, the thesis holding up.
 
 <sub>Situations: ftai_infrastructure · Sectors: Rail, Transport & Logistics · Geo: United States · id: `2026-06-29-ftai-infrastructure-acquires-tidewater-logistics-24a3ea`</sub>
 
@@ -42,7 +42,7 @@ Transtar, Long Ridge, Jefferson, Repauno
 
 **Why it matters.** Power & Gas was $26.4m of the $70.6m quarter, so selling Long Ridge to MARA for $1.52bn strips roughly 37% of run-rate EBITDA in exchange for $1.16bn of debt elimination and about $300m of corporate deleveraging. That only works if Railroad's $40.2m and Jefferson's $14.4m carry the residual structure. Repauno burns cash at negative $2.3m until Phase 2 starts up in early 2027. The $150.2m net loss is not the operative metric.
 
-**Why you care.** You covered FTAI, and this is the post-Long Ridge leverage story in numbers: a ready 'is this a good investment' case built on trading EBITDA for deleveraging.
+**Why you care.** You covered FTAI at Rothschild. The agreed Long Ridge sale strips roughly 37% of run-rate EBITDA for deleveraging, so Railroad's $40.2m and Jefferson's $14.4m have to carry the structure.
 
 <sub>Situations: ftai_infrastructure · Sectors: Rail, Ports & Terminals, Midstream & Gas · Geo: United States · id: `2026-05-07-ftai-infrastructure-posts-q1-adjusted-ebitda-of-7e1d3f`</sub>
 
@@ -56,7 +56,7 @@ Transtar, Long Ridge, Jefferson, Repauno
 
 **Why it matters.** FTAI Infrastructure agreed to sell Long Ridge Energy & Power, including a 485 MW combined-cycle gas plant, to a MARA Holdings subsidiary for about $1.52bn, with closing expected in Q3 2026 subject to regulatory approvals. FIP will eliminate $1.16bn of Long Ridge debt, repay roughly $300m of corporate debt and reinvest the rest in freight rail and terminals. The buyer is a bitcoin miner pivoting to AI and data centre power.
 
-**Why you care.** Your own FTAI Infrastructure coverage: a levered merchant power position converted into parent deleveraging, and the cleanest deal story you have on gas-to-AI-power demand.
+**Why you care.** You ran FTAI Infrastructure. Long Ridge agreed at about $1.52bn to a bitcoin miner pivoting to AI power, closing expected Q3 2026, the gas-to-AI thesis clearing at a price.
 
 <sub>Firms: Jefferies, Lazard, Skadden Arps Slate Meagher & Flom, Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Power & Renewables, Midstream & Gas, Digital Infrastructure · Geo: United States · id: `2026-04-30-ftai-infrastructure-agrees-to-sell-long-ridge-en-d8e126`</sub>
 

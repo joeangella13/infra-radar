@@ -12,7 +12,7 @@
 
 **Why it matters.** The economics turn on availability-based contracting: Dauntless is paid standby rates whether or not the aircraft fly, with flight-hour revenue on top, so the cash flow is contracted rather than the volatile fee-for-service the sector looks like. Barriers are real, since amphibious aircraft, agency certifications, trained crews and narrow approved-vendor lists all take time. Terms and seller undisclosed.
 
-**Why you care.** A sharp "is this infrastructure?" test case on how a services business earns an availability-payment profile. Nothing like it on your deal sheet, which makes it memorable.
+**Why you care.** Availability-based contracting turning a services business into contracted cash flow is a boundary test for what counts as infrastructure, but terms and seller are undisclosed and it sits outside your coverage.
 
 <sub>Firms: Ridgewood Infrastructure · Sectors: Transport & Logistics · Geo: United States · id: `2026-06-10-ridgewood-infrastructure-acquires-dauntless-air-b1e75c`</sub>
 

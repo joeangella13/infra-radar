@@ -12,7 +12,7 @@
 
 **Why it matters.** Meridiam refinanced Netcity Telecom, Bucharest's underground telecoms network, with EUR80m at up to 26.5 years, described as Romania's first project finance bond. Netcity runs over 3,000km of duct serving nearly 600,000 homes and offices under a 49-year municipal concession dating to 2008, exactly the monopoly profile that supports very long amortising debt. The bigger win is a Romanian project bond benchmark others can reuse across CEE.
 
-**Why you care.** Handy long-tenor financing precedent for concession assets. Otherwise general market colour on CEE digital infrastructure, not something you can act on.
+**Why you care.** A 26.5-year tenor against a 49-year municipal concession is a useful long-dated financing precedent; otherwise CEE digital infrastructure colour, not actionable.
 
 <sub>Firms: Meridiam, E-INFRA Group · Sectors: Digital Infrastructure · Geo: Romania · id: `2026-07-23-meridiam-refinances-netcity-telecom-with-eur80m-d92b2e`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Meridiam led a EUR 23m investment in Chargepoly, which builds and operates DC charging for heavy-duty fleets across France, the UK and Canada. Depot charging beats public charging because utilisation is contracted against a known fleet, and Chargepoly's Lucie software shares one constrained grid connection across many charge points, avoiding the substation upgrades that kill most heavy-duty electrification cases. This is growth equity, not infrastructure yield.
 
-**Why you care.** Small and early, but the grid-connection-as-scarce-asset framing travels well into any charging or fleet electrification pitch you build.
+**Why you care.** Growth equity, not infrastructure yield, but the framing travels: the constrained grid connection shared across many charge points is the scarce asset, not the hardware.
 
 <sub>Firms: Meridiam, Fideve Groupe · Sectors: Energy Transition & Storage · Geo: France, United Kingdom, Canada · id: `2026-07-22-meridiam-leads-eur23m-investment-in-chargepoly-f-b7e543`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Meridiam and Guy's and St Thomas' NHS Foundation Trust launched a partnership to design, finance and deliver energy upgrades, with Dalkia Energy Services as technical partner, starting at St Thomas' Hospital and potentially extending to other southeast London trusts and public bodies. Scope covers replacing fossil-fuel heating, efficiency works and network modernisation. No NHS capital upfront; size and contract length undisclosed.
 
-**Why you care.** Availability-style cash flow from a public counterparty. Useful contrast when you explain where on the risk curve you want to sit and why.
+**Why you care.** Availability-style cash flow from a public counterparty with no NHS capital upfront and terms undisclosed, a read on the low-risk end of the curve, background rather than actionable.
 
 <sub>Firms: Meridiam, Dalkia Energy Services · Sectors: Social Infrastructure · Geo: United Kingdom · id: `2026-07-08-meridiam-and-guy-s-and-st-thomas-nhs-trust-launc-36b80f`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Yard tractors electrify well because duty cycles are short-radius, high-hours and entirely on private property, so there is no public charging dependency and diesel displacement works without subsidy. Swappable batteries are the specific fix for three-shift yards with no charging window. At 160 tractors across 100 sites Blyyd has product validation but not manufacturing scale, so the EUR5m is early growth capital and the risk is industrial ramp.
 
-**Why you care.** Small and early, but it is logistics-yard decarbonisation, adjacent to your LOGISTEC/Termont work and a marker of where venture-adjacent infra money is going.
+**Why you care.** Small early growth cheque from another sponsor into logistics-yard decarbonisation, adjacent to the LOGISTEC/Termont end of your coverage but mostly a marker of where infra-adjacent money is going.
 
 <sub>Firms: Meridiam · Sectors: Energy Transition & Storage · Geo: France · id: `2026-06-18-meridiam-invests-eur5m-in-blyyd-to-scale-electri-ea89d8`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** US public pensions made 165 infrastructure fund commitments totalling $17.4bn in 2025, down from 254 worth $21.3bn in 2024 and 238 worth $23.8bn in 2023, per the Reason Foundation. Twenty-six states committed $13.3bn, led by CalPERS at $1.8bn. That is 35% fewer cheques and 18% less money, which points to capital concentrating in brand-name managers while mid-market and first-time funds face a tighter market.
 
-**Why you care.** Fundraising context for a why-this-fund answer, where LP flows are narrowing toward the largest franchises. The report author could not explain the drop, so do not over-read it.
+**Why you care.** LP flows are narrowing: $17.4bn across 165 commitments in 2025, down from $21.3bn. Fundraising background, and the report's author could not explain the drop.
 
 <sub>Firms: CalPERS, Meridiam · Sectors: Funds & Fundraising · Geo: United States · id: `2026-06-01-us-public-pension-commitments-to-infrastructure-52c420`</sub>
 
@@ -82,7 +82,7 @@
 
 **Why it matters.** Meridiam launched Siruai, 100MW of wind plus 50MWh of storage in Kajiado County, over EUR200m of investment, with Craftskills Energy and Kenyan government support. Kenyan wind sells under long-term dollar PPAs with KPLC, so cash flow is contracted hard currency but carries offtaker credit risk. The storage firms up output and addresses curtailment, and siting next to Kipeto shares grid connection, land and O&M.
 
-**Why you care.** General market colour rather than something actionable, though the wind-plus-storage firming argument is transferable if you need to defend storage value in a client pitch.
+**Why you care.** Background market colour, not directly actionable, though the wind-plus-storage firming logic and shared grid connection next to Kipeto transfer to how you underwrite storage value.
 
 <sub>Firms: Meridiam, Craftskills Energy · Sectors: Power & Renewables · Geo: Kenya · id: `2026-05-11-meridiam-launches-siruai-100mw-wind-plus-50mwh-s-37e921`</sub>
 

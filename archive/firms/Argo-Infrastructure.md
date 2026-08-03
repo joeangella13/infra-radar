@@ -12,7 +12,7 @@
 
 **Why it matters.** Argo Infrastructure bought an eight-site C&I solar portfolio from NuGen Capital Management, six sites in Massachusetts and two in New Jersey, terms undisclosed, taking its platform to 270MW across 196 sites and marking its 21st investment since 2013. NuGen stays on as operating partner post-close. Massachusetts SMART and New Jersey SREC-II supply 10-20 year contracted revenue largely insulated from merchant power prices.
 
-**Why you care.** A tidy aggregation story you could walk through end to end, and a reminder of how a financial owner buys cash flows without building an asset management team.
+**Why you care.** Competitive-set read: a financial owner aggregating C&I solar to 270MW and keeping NuGen on as operator, buying SMART and SREC-II contracted revenue rather than building an asset management team.
 
 <sub>Firms: Argo Infrastructure, NuGen Capital Management · Sectors: Power & Renewables · Geo: United States · id: `2026-07-09-argo-infrastructure-acquires-eight-site-c-i-sola-e92b5e`</sub>
 

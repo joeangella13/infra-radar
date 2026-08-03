@@ -12,7 +12,7 @@
 
 **Why it matters.** Bain is reported to be exploring a sale of up to 50% of Bridge Data Centres at roughly $4bn, with Sixth Street, SK Telecom, GIC and La Caisse among bidders; nothing has been decided. That is a useful pricing reference for emerging-market data centre growth capital, valued on pipeline (Bridge targets 3GW by 2030) rather than stabilised NOI, and it confirms Malaysia and Thailand as Singapore's overflow markets.
 
-**Why you care.** A live process to track. Asian DC platform pricing, and the bidder list shows which capital pools now compete for digital infrastructure.
+**Why you care.** Pricing reference for emerging-market data centre platforms, valued on a 3GW pipeline rather than stabilised NOI; the bidder list shows which capital pools now compete. Nothing decided.
 
 <sub>Firms: Bain Capital, Sixth Street, GIC, La Caisse · Sectors: Digital Infrastructure · Geo: Singapore, Malaysia, Thailand, India · id: `2026-07-29-bain-capital-explores-selling-up-to-50-of-singap-b0a728`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** The largest Australian infrastructure take-private of the cycle, at roughly A$11.7bn enterprise value and A$5.20 a share in cash, shows listed logistics platforms with landside port concessions still clear at a premium when sovereign and pension money syndicates behind a manager. That co-investment is what allows a cheque this size without a GP club. The NSW court approved the scheme in July.
 
-**Why you care.** Benchmark for how a large ports-and-logistics platform gets funded, and a concrete example of co-invest structure if fund strategy comes up.
+**Why you care.** Sovereign and pension co-invest is what lets a manager clear A$11.7bn for a listed ports-and-logistics platform without a GP club; the NSW court approved the scheme in July.
 
 <sub>Firms: Macquarie Asset Management, GIC · Sectors: Ports & Terminals, Transport & Logistics · Geo: Australia · id: `2026-05-14-temasek-gic-and-calpers-revealed-as-co-investors-1c6f88`</sub>
 

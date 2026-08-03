@@ -12,7 +12,7 @@
 
 **Why it matters.** The split is the story: $3.8bn of bespoke mandates against a $1.7bn commingled fund raised on a $750m target. Large LPs want infrastructure secondaries exposure on their own terms and fee schedules, not through a blind pool. Raising more than seven times target confirms demand far exceeds deal supply, a mismatch that pushes pricing toward par and erodes the discount the strategy depends on.
 
-**Why you care.** Fundraising-market context for interviews. Shows you track where LP capital is going and gives you a real view on why secondaries returns may compress.
+**Why you care.** Infrastructure secondaries raised more than seven times target, with $3.8bn of it in bespoke mandates: demand outrunning deal supply, which pushes pricing toward par. Background market colour.
 
 <sub>Firms: Partners Group · Sectors: Funds & Fundraising · Geo: United States, Europe, Global · id: `2026-07-23-partners-group-wraps-debut-infrastructure-second-8a2f79`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Partners Group closed its fourth direct infrastructure programme above $15bn, targeting next-generation energy and utility platforms with a mid-market emphasis; deployment undisclosed. Close to half sits in separate accounts rather than the commingled fund, which is how headline programme sizes keep growing while pension commitment counts fall. That is $15bn of fresh bid pressure on already crowded digital and power auctions.
 
-**Why you care.** Competitive intel for processes you run, and the dual-vehicle structure is a sharp observation to offer when a fund asks what you notice in today's fundraising market.
+**Why you care.** Another $15bn of bid pressure on already crowded digital and power auctions, with close to half sitting in separate accounts rather than the commingled fund.
 
 <sub>Firms: Partners Group · Sectors: Funds & Fundraising, Digital Infrastructure, Power & Renewables · Geo: United States, Europe, Global · id: `2026-07-20-partners-group-closes-fourth-direct-infrastructu-0568e3`</sub>
 

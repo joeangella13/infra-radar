@@ -12,7 +12,7 @@
 
 **Why it matters.** The clearest GP-level bet that data centre returns are gated by electrons, not racks: DigitalBridge is buying dispatchable generation, 20.8GW owned with about 7GW in PJM plus a 15GW pipeline, instead of more colocation, so it can sell power-plus-shell to hyperscalers. At roughly $1.05bn this is a management-company price, meaning GP consolidation is now driven by capability gaps. Contingent on SoftBank's separate $4bn DigitalBridge deal.
 
-**Why you care.** You have worked opposite ArcLight. This changes who that counterparty becomes and gives you a sharp answer on why power is the AI bottleneck.
+**Why you care.** You sat opposite ArcLight on Avangrid at Rothschild; that counterparty now sits inside DigitalBridge, contingent on SoftBank's deal, and it is a GP-level bet that power gates AI returns.
 
 <sub>Firms: DigitalBridge, ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-05-27-digitalbridge-to-acquire-power-investor-arclight-006a66`</sub>
 

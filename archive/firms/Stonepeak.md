@@ -12,7 +12,7 @@
 
 **Why it matters.** Stonepeak closed its 25% stake in UNITED PORTS LLC for $2.4bn, implying roughly $10bn total, with CMA CGM holding 75% and full operational control. The JV holds nine terminals, including Fenix Marine in Los Angeles and Port Liberty in New York, plus assets in Spain, Brazil, Taiwan, Vietnam and India, where Nhava Sheva is pending approval. CMA CGM's own throughput anchors volumes, and the real option is Stonepeak's up-to-$3.6bn follow-on capacity.
 
-**Why you care.** Stonepeak, in ports, against your LOGISTEC/Termont background. The one deal here you should have a firm view on before interviewing there.
+**Why you care.** Stonepeak paying $2.4bn for 25% of a nine-terminal ports JV, roughly $10bn implied, is exactly the asset type your LOGISTEC and Termont work covers, with up to $3.6bn more behind it.
 
 <sub>Firms: Stonepeak, CMA CGM · Sectors: Ports & Terminals · Geo: United States, Spain, Brazil, Taiwan · id: `2026-07-28-cma-cgm-and-stonepeak-complete-formation-of-unit-44aa70`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** A clean full exit from a greenfield midstream build, and it closed on announcement, so no financing or regulatory risk hangs over it. Selling to the operating partner is the highest-certainty route for a non-operating stake and usually clears above what a financial sponsor would pay for a passive interest. C$1.215bn for a minority NGL interest is a useful Western Canadian mark.
 
-**Why you care.** Stonepeak is on your target list, so this is one of their exits you should be able to walk through end to end.
+**Why you care.** Competitor exit worth marking: Stonepeak clearing a non-operating NGL stake to its operating partner at C$1.215bn, closed on announcement, the highest-certainty route out of a minority midstream position.
 
 <sub>Firms: Stonepeak, Keyera · Sectors: Midstream & Gas · Geo: Canada · id: `2026-06-17-stonepeak-exits-kaps-selling-remaining-50-ngl-pi-5c32e2`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Stonepeak and Energy Equation Partners agreed to buy a majority of Anwim, Poland's largest independent fuel marketer: over 540 MOYA stations, roughly 3 billion litres a year, terms undisclosed, close expected H2 2026. Fuel retail is throughput and margin driven, not contracted, so underwriting rests on network density, site value and convenience margin. The play is folding a second national platform into the JET JV for procurement scale.
 
-**Why you care.** Stonepeak is on your target list, and this shows how they stretch the definition of infrastructure. Exactly the kind of thing they will test you on.
+**Why you care.** A direct competitor stretching infrastructure into fuel retail, throughput and margin rather than contracted revenue, and folding a second national platform into the JET JV for procurement scale.
 
 <sub>Firms: Stonepeak, Energy Equation Partners · Sectors: Midstream & Gas · Geo: Poland · id: `2026-06-11-stonepeak-and-energy-equation-partners-to-acquir-0bcc93`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Australian aged care earns government per-resident subsidy plus refundable accommodation deposits, so cash flow blends regulated income with a big working-capital float that behaves like cheap financing. Post-Royal Commission reform lifted per-bed subsidies and made the sector investable again; Bain agreeing a sponsor sale rather than a listing says the recovery is priced but not fully harvested. Two ANZ assets in four months means Stonepeak is building a platform.
 
-**Why you care.** Stonepeak is on your target list. A live example of their platform-building playbook, Volarae after Aura, to cite in a why-this-fund answer.
+**Why you care.** A direct competitor building an ANZ social infrastructure platform, two assets in four months, underwriting government subsidy income plus a refundable-deposit float. Terms undisclosed.
 
 <sub>Firms: Stonepeak, Axight Capital, Bain Capital · Sectors: Social Infrastructure · Geo: Australia · id: `2026-05-27-stonepeak-led-consortium-to-acquire-estia-health-0f6c10`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** Asset-backed leasing rather than hard infrastructure, but the cash flows are contracted lease and loan income against remarketable collateral, a profile Stonepeak has underwritten nine times before across roughly $28bn of EV including Textainer, ATSG and TRAC Intermodal. The lever is funding cost: off a bank balance sheet the platform can use securitisation and private credit, while BMO's retained 19.9% preserves origination flow. Close expected Q4 2026.
 
-**Why you care.** Straight interview material for Stonepeak, showing how they stretch the definition of transport infrastructure and repeat one playbook nine times.
+**Why you care.** Stonepeak running its asset-backed leasing playbook a ninth time, across roughly $28bn of EV; a direct competitor widening what counts as transport infrastructure. Close expected Q4 2026.
 
 <sub>Firms: Stonepeak, BMO Financial Group · Sectors: Transport & Logistics · Geo: United States, Canada · id: `2026-05-11-stonepeak-to-acquire-bmo-transportation-and-vend-156d25`</sub>
 

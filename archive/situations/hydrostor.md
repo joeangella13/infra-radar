@@ -14,7 +14,7 @@ Long-duration compressed air energy storage
 
 **Why it matters.** A signed project labor agreement and supplier outreach drawing more than 40 local vendors are pre-mobilisation activities, so this is a real construction-start signal. Under the EPC-M structure Hatch manages but Hydrostor contracts vendors directly, leaving procurement risk with the sponsor and making the financing package the gating item. Willow Rock anchors the DOE conditional commitment of up to $1.76bn and the 50 MW California Community Power offtake, so a slip reprices the platform.
 
-**Why you care.** Hydrostor at its sharpest point: whether groundbreaking actually happens in 2026, and whether financial close lands with it, is what marks the platform.
+**Why you care.** Sharpest point on your Hydrostor thesis: a signed labour agreement and 40-plus vendors read as real pre-mobilisation, but EPC-M leaves procurement risk with the sponsor and financing gates it.
 
 <sub>Firms: Hatch · Situations: hydrostor · Sectors: Energy Transition & Storage, Power & Renewables · Geo: United States · id: `2026-07-09-hydrostor-says-willow-rock-is-nearing-groundbrea-4ee6c9`</sub>
 
@@ -28,7 +28,7 @@ Long-duration compressed air energy storage
 
 **Why it matters.** Hydrostor is developing the Quinte A-CAES project in Greater Napanee, Ontario, now in permitting after a Municipal Support Resolution, with the Mohawks of the Bay of Quinte as Indigenous equity partner and Hatch executing. It is aimed at IESO's Long-Lead-Time procurement for up to 800MW of long-duration storage, with a US$50m convertible development loan from Canada Growth Fund behind the Canadian projects. Until an award there is no contracted offtake.
 
-**Why you care.** Feeds your Hydrostor file directly. The Canada Growth Fund convertible is the term to watch, since conversion drives platform-level dilution if the Canadian projects scale.
+**Why you care.** You underwrote Hydrostor at Rothschild. Permitting progress without an IESO award still means no contracted offtake, and the Canada Growth Fund convertible is the dilution term to watch.
 
 <sub>Firms: Canada Growth Fund, Hatch · Situations: hydrostor · Sectors: Energy Transition & Storage, Power & Renewables · Geo: Canada · id: `2026-05-13-hydrostor-unveils-quinte-a-caes-project-in-great-946b9b`</sub>
 
@@ -42,7 +42,7 @@ Long-duration compressed air energy storage
 
 **Why it matters.** Hydrostor and Hatch announced a partnership under which Hatch leads design and execution on Willow Rock, a 500 MW / 4,000 MWh eight-hour A-CAES project in California, and takes an equity stake in Hydrostor. That puts Hatch's own capital behind its cost and schedule estimates, partly substituting for the EPC wrap a first-of-a-kind project cannot get. Amount undisclosed, which limits the comfort.
 
-**Why you care.** Straight into your Hydrostor work: this is the alignment argument for Willow Rock's bankability and another datapoint on the platform's industrial backing.
+**Why you care.** Your Hydrostor deal. Hatch putting equity behind its own cost and schedule estimates is the bankability argument for Willow Rock, though the undisclosed amount limits how far it goes.
 
 <sub>Firms: Hatch · Situations: hydrostor · Sectors: Energy Transition & Storage · Geo: Canada, United States · id: `2026-02-25-hatch-takes-equity-stake-in-hydrostor-and-will-l-000046`</sub>
 
@@ -56,7 +56,7 @@ Long-duration compressed air energy storage
 
 **Why it matters.** Contracted capacity is what lets lenders size debt, so this is the milestone that makes the DOE conditional commitment financeable. But 50 MW against 500 MW of nameplate means only a tenth of the project is sold; the rest needs more offtake or merchant CAISO exposure. The six-CCA counterparty group is fragmented, which lenders will scrutinise.
 
-**Why you care.** You worked Hydrostor, so this is the number that anchors Willow Rock's contracted share, and the gap you would have to defend in any valuation.
+**Why you care.** You ran Hydrostor. 50 MW contracted against 500 MW of nameplate is the gap in the thesis you underwrote, and it is what makes the DOE conditional commitment financeable.
 
 <sub>Firms: California Community Power · Situations: hydrostor · Sectors: Energy Transition & Storage, Power & Renewables · Geo: United States · id: `2026-02-12-hydrostor-signs-50-mw-willow-rock-offtake-with-c-7ac7b4`</sub>
 
@@ -70,7 +70,7 @@ Long-duration compressed air energy storage
 
 **Why it matters.** Baker Hughes, an investor since 2019, added undisclosed equity plus orders for up to 1.4 GW of compression and power generation equipment for Hydrostor's US and Australian flagships. That gives lenders one bankable OEM counterparty with a real balance sheet, and the equity ties Baker Hughes to project success rather than a one-off sale, the alignment first-of-a-kind technology needs to reach close. The 1.4 GW is a ceiling, not a firm order.
 
-**Why you care.** Straight into your Hydrostor work: this is the equipment de-risking argument for Willow Rock and Silver City, and a clean answer on how a first-of-a-kind storage project gets financed.
+**Why you care.** You ran Hydrostor at Rothschild. A bankable OEM counterparty taking equity alongside orders is the financing unlock you underwrote, though the 1.4 GW is a ceiling, not a firm order.
 
 <sub>Firms: Baker Hughes · Situations: hydrostor · Sectors: Energy Transition & Storage, Power & Renewables · Geo: United States, Australia · id: `2026-01-28-baker-hughes-deepens-hydrostor-tie-up-with-equit-d864a6`</sub>
 

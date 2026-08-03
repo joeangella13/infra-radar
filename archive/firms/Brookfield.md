@@ -12,7 +12,7 @@
 
 **Why it matters.** DOE awarded Brookfield a lease to develop a data centre campus at the former Paducah Gaseous Diffusion Plant in Kentucky and selected NextEra for power: up to 1.8 GW of utility capacity, over 1.2 GW of compute and 4.6 GW of dedicated generation, split 2 GW gas and 2.6 GW storage, fully built by 2032 at a reported $100bn. No offtaker disclosed, so it is a commitment to build, not a contract.
 
-**Why you care.** The largest live example of behind-the-fence gas plus storage on federal land. You should be able to describe the structure cold in a power interview.
+**Why you care.** The largest live behind-the-fence gas-plus-storage structure on federal land, 4.6GW dedicated to one campus. No offtaker disclosed, so it is a commitment to build, not a contract.
 
 <sub>Firms: Brookfield · Sectors: Digital Infrastructure, Power & Renewables, Energy Transition & Storage · Geo: United States · id: `2026-07-29-brookfield-and-nextera-to-build-100bn-ai-data-ce-f79228`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** In substance a sale-and-leaseback: the sponsors own pipelines they do not operate and collect a volume-based tariff from a state oil company for 20.5 years, so the risk is throughput and convertibility rather than operations. A volume-linked rather than fixed tariff gives growth participation but removes the availability-payment floor infrastructure buyers usually insist on. KOC keeps 51% and control, taking $7.85bn upfront.
 
-**Why you care.** Big-ticket midstream structuring you can point to, and three sponsors splitting the equity equally is a neat illustration of spreading country risk.
+**Why you care.** Three sponsors splitting 49% equally is how country risk gets spread, on a structure that is really a sale-and-leaseback with a volume tariff and no availability floor.
 
 <sub>Firms: Blackstone, Brookfield, KKR · Sectors: Midstream & Gas · Geo: Kuwait · id: `2026-07-28-blackstone-brookfield-and-kkr-sign-16bn-kuwait-c-e06869`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Brookfield was named exclusive preferred negotiating partner, on a non-binding term sheet, to arrange roughly $9bn of the $10bn NAVER AI factory expansion. That is the arranger seat rather than the equity seat, which fits a single national-champion offtaker and a three-year refresh cycle. NVIDIA's $1bn for 4.5% is conditional on the financing, so Brookfield's mandate gates the deal; capacity scales from 55MW to 200MW by 2028.
 
-**Why you care.** Sovereign AI infrastructure emerging as its own asset class. A good market-context answer if someone asks where digital infra capital heads next.
+**Why you care.** Brookfield took the arranger seat, not the equity seat, on roughly $9bn of Korean AI factory financing on a non-binding term sheet, a signal that sovereign AI is its own asset class.
 
 <sub>Firms: Brookfield · Sectors: Digital Infrastructure · Geo: South Korea · id: `2026-07-27-brookfield-named-preferred-financing-partner-in-344b5d`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Brookfield agreed to buy Aypa Power from Blackstone at roughly $7bn enterprise value and about $3bn equity. A fleet that is 95% contracted with investment-grade offtakers on a 17-year average remaining tenor is a genuinely core cash-flow profile, which is why it clears at an infrastructure multiple. Blackstone took a 0.2GWh C&I business to 6.5GW plus a 20GW-plus pipeline in about six years.
 
-**Why you care.** This is now the reference price for independent storage platforms. Use it when you mark Hydrostor's pipeline or build a storage comp set.
+**Why you care.** The reference price for independent storage platforms at roughly $7bn enterprise value. Use it when you mark Hydrostor's pipeline or build a storage comp set.
 
 <sub>Firms: Brookfield, Blackstone · Sectors: Energy Transition & Storage · Geo: United States, Canada · id: `2026-07-22-brookfield-to-buy-battery-storage-platform-aypa-a74ae5`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** Brookfield plans to collapse BIP and BIPC into one corporation, BIP Inc, one-for-one. The dual structure traded at a discount because index funds and many US taxable investors avoid K-1 partnerships, so this is valuation arbitrage rather than anything operational: index inclusion mechanically adds passive demand for the same cash flows. Special meetings are set for 14 October with completion expected in Q4 2026.
 
-**Why you care.** Listed-comp housekeeping. Matters mainly if you carry BIP in a trading comps set or discuss Brookfield's acquisition currency in a pitch.
+**Why you care.** Listed-comp housekeeping: a one-for-one collapse chasing index demand, relevant only if BIP sits in your trading comps set or you are sizing Brookfield's acquisition currency.
 
 <sub>Firms: Brookfield · Sectors: Funds & Fundraising · Geo: Canada, United States · id: `2026-07-21-brookfield-infrastructure-to-collapse-bip-and-bi-483ad9`</sub>
 
@@ -82,6 +82,8 @@
 
 **Why it matters.** A $25 billion commitment to a single onsite-power technology is the largest explicit bet yet that speed-to-power, not cost of power, is what hyperscalers will pay for. Fuel cells sidestep the turbine backlog and most air-permitting friction, which is precisely the arbitrage: deliverability commands a premium over levelized cost. For infra investors it establishes onsite generation-as-a-service as a fundable, scaled asset class with a named anchor sponsor, and it creates a comparable for pricing similar platforms. Watch installed MW and contracted offtake disclosure — the dollar headline is a deployment target, not committed capital.
 
+**Why you care.** Brookfield putting $25bn behind onsite power makes generation-as-a-service a fundable asset class and sets the comparable; the headline is a deployment target, so watch installed MW and contracted offtake.
+
 <sub>Firms: Brookfield · Sectors: Power & Renewables, Digital Infrastructure, Energy Transition & Storage · Geo: United States · id: `2026-06-30-brookfield-and-bloom-energy-expand-their-ai-infr-3930a5`</sub>
 
 ---
@@ -94,7 +96,7 @@
 
 **Why it matters.** The pitch is speed, not cost: onsite fuel cells skip interconnection queues running five-plus years in the constrained markets where AI load wants to sit, and customers pay a premium for time-to-power. Brookfield is effectively financing equipment-backed projects with contracted offtake, closer to leasing than merchant generation. A fivefold jump to $25bn in nine months is a demand signal, but a framework is not deployed capital.
 
-**Why you care.** Right on your data centre power patch: the number to cite when sizing the behind-the-meter opportunity, with the framework caveat attached.
+**Why you care.** Sizes the behind-the-meter opportunity at $25bn of framework, not deployed capital, with Brookfield paying for time-to-power while interconnection queues run five-plus years.
 
 <sub>Firms: Brookfield · Sectors: Energy Transition & Storage, Digital Infrastructure · Geo: United States · id: `2026-06-30-brookfield-and-bloom-energy-expand-ai-power-part-48cf0e`</sub>
 

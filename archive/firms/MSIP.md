@@ -12,7 +12,7 @@
 
 **Why it matters.** IP traffic across Lightpath's 12,100 route miles has grown at a 32% annualised rate over 18 months, against a 19% historical rate. Traffic leads recontracting and upsell, because bandwidth upgrades on already-lit buildings drop through at very high margin with the capex sunk. The step-change suggests Lightpath is capturing AI-era traffic, not just legacy enterprise access, supporting terminal value on an asset MSIP has held since 2020.
 
-**Why you care.** Ammunition for an MSIP conversation: a quantified value-creation story on a portfolio asset, plus a plausible monetisation window if fibre multiples hold.
+**Why you care.** MSIP portfolio company: 32% annualised IP traffic growth against 19% historically, upsell on already-lit buildings at very high margin, supporting terminal value on an asset held since 2020.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-30-lightpath-says-ip-backbone-traffic-is-growing-32-38e1d3`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Flexential, whose investor group includes MSIP alongside GI Partners, GI Data Infrastructure and Hamilton Lane, bought 110 acres in Talty, Kaufman County southeast of Dallas-Fort Worth. Phase one is 36MW across 375,000 sq ft, with build-out potential of 108MW in three buildings; site work starts early 2027 and customers arrive late 2028. Amount undisclosed, so this is land-banking optionality, not committed capex.
 
-**Why you care.** Another MSIP-backed platform leaning into development risk. Useful detail on how the fund is actually deploying in data centres right now.
+**Why you care.** MSIP-backed Flexential land-banking 110 acres for a 108MW Dallas campus, amount undisclosed, so optionality rather than committed capex. A direct read on how the firm is deploying in data centres.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-28-flexential-buys-110-acres-in-kaufman-county-texa-6446c9`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** MSIP agreed to acquire Epic Energy, owner of the Moomba to Adelaide Pipeline System, one of only two pipeline systems serving Adelaide within over 1,200km of South Australian transmission; terms undisclosed, close expected H2 2026. Value comes from tariff resets and recontracting the shipper book more than growth capex. MSIP's language about sourcing through long-standing relationships signals a bilateral or limited process, which usually means a more forgiving entry multiple.
 
-**Why you care.** Your best single MSIP case study: bilateral sourcing, mid-market, monopoly-adjacent cash flows. Be able to walk through it unprompted.
+**Why you care.** This is the deal to know walking in: bilateral sourcing, mid-market, monopoly-adjacent cash flows, with value from tariff resets and recontracting the shipper book rather than growth capex.
 
 <sub>Firms: MSIP · Sectors: Midstream & Gas · Geo: Australia · id: `2026-07-27-morgan-stanley-infrastructure-partners-to-acquir-455e7a`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Lightpath signed a second infrastructure tenant, described as a leading multinational data centre developer and operator, to a 10-year anchor on its all-underground multi-conduit build in eastern Pennsylvania's Susquehanna region. The tenant will use more than 60% of the combined system and adds another multi-gigawatt campus, lifting planned regional capacity about 30%. Dollar terms undisclosed. A second tenant on a committed trench is mostly margin.
 
-**Why you care.** Clearest live illustration of multi-conduit option value in an MSIP asset. Good material if you are asked how you would underwrite a fibre build.
+**Why you care.** Multi-conduit option value proving out inside MSIP's portfolio: a second 10-year anchor taking over 60% of the system lifts planned regional capacity roughly 30% on committed trench.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-15-lightpath-signs-10-year-second-anchor-tenant-on-f5b232`</sub>
 
@@ -68,7 +68,7 @@
 
 **Why it matters.** Municipal waste and street cleaning concessions underwrite like regulated infrastructure: multi-year public tenders, inflation indexation, high incumbent renewal rates. The stated value creation is modernising a 2,900-vehicle fleet with capex recoverable through renewals, plus buy-and-build in a fragmented French market. Taking control alongside a founding family that keeps a minority is the standard French succession structure and typically prices below a competitive auction.
 
-**Why you care.** Rothschild advised the family and MSIP is the buyer, so your firm is on one side and your target fund on the other. Strongest possible "why MSIP" anchor.
+**Why you care.** One to know walking in: MSIP taking control of French municipal waste concessions alongside the founding family, with fleet modernisation and bolt-ons as the value story. Close expected Q4 2026.
 
 <sub>Firms: MSIP · Sectors: Water & Environmental · Geo: France · id: `2026-07-10-msip-to-acquire-majority-stake-in-french-waste-a-44c9e0`</sub>
 
@@ -82,7 +82,7 @@
 
 **Why it matters.** Lightpath will deliver triverse fibre and multi-terabit capacity to hyperscale campuses in Saline, Michigan by end-2026 and Port Washington, Wisconsin in Q2 2027, each above 1GW, under an anchor customer partnership; term and value undisclosed. Moving out of its legacy northeast metros changes the geographic risk and addressable market. Physical route diversity cannot be replicated quickly, which supports long terms and pricing power, but anchor-led greenfield eats equity ahead of cash flow.
 
-**Why you care.** Shows how MSIP's fibre platform is funding growth. The equity-ahead-of-cash-flow question is a sharp thing to raise if they ask what you would diligence.
+**Why you care.** Your platform moving out of its legacy northeast metros. Anchor-led greenfield eats equity ahead of cash flow, the thing to watch as Lightpath funds two campuses above 1GW.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-07-08-lightpath-to-build-ai-grade-fibre-to-two-new-hyp-b5ec56`</sub>
 
@@ -96,7 +96,7 @@
 
 **Why it matters.** Pembina confirmed that Greenlight Electricity Centre, its partnership with MSIP and Kineticor, will supply dedicated behind-the-meter gas-fired generation to Meta's new Alberta data centre. Naming the hyperscaler de-risks the credit story, because counterparty quality decides whether this prices as contracted infrastructure or merchant Alberta power. Behind-the-meter also sidesteps AESO interconnection queues and transmission limits. No incremental financial terms were disclosed.
 
-**Why you care.** The single most useful MSIP item in this batch: strategic midstream partner, half the equity, single-name long-term toll. Know this one cold before the interview.
+**Why you care.** This is the MSIP position to know cold: Greenlight with Pembina and Kineticor supplying behind-the-meter generation to a named hyperscaler, which decides whether it prices as contracted infrastructure or merchant Alberta power.
 
 <sub>Firms: MSIP · Sectors: Power & Renewables, Digital Infrastructure · Geo: Canada · id: `2026-07-08-pembina-confirms-greenlight-will-supply-dedicate-a07b8c`</sub>
 
@@ -110,7 +110,7 @@
 
 **Why it matters.** MSIP's largest disclosed 2026 commitment is development-stage rather than operating: a 932MW Alberta plant with four years of construction, so the return pays for completion risk, with fixed-price agreements covering about 85% of the roughly $4bn cost. A long-term toll to a data centre customer turns merchant Alberta power into contracted, availability-based cash flow, and 60/40 debt-equity implies about $1.8bn of equity across MSIP, Pembina and Kineticor.
 
-**Why you care.** The single best MSIP case study you have: partnering with a strategic, taking construction risk, playing power-for-AI. Expect to walk through it.
+**Why you care.** MSIP's largest disclosed 2026 commitment, and the one most likely to land on your desk: four years of construction risk on a 932MW Alberta plant tolled to a data centre.
 
 <sub>Firms: MSIP · Sectors: Power & Renewables, Digital Infrastructure · Geo: Canada · id: `2026-07-06-msip-takes-47-5-of-greenlight-electricity-centre-90e36c`</sub>
 
@@ -124,7 +124,7 @@
 
 **Why it matters.** The EPC award converts FID into a real construction schedule and lets the equity be underwritten as infrastructure rather than development risk. Key detail: the site is permitted to 1,864MW against a 932MW first phase, making phase two a free option on brownfield expansion at an already-interconnected site. With contractor capacity the binding constraint on North American gas, locking an EPC now for 2030 is an edge.
 
-**Why you care.** This is an MSIP asset, and the best is-this-a-good-investment rehearsal in the file, with a permitted phase two to argue as upside.
+**Why you care.** MSIP owns 47.5% of this one. The EPC award moves Greenlight from development to construction risk, and the permit to 1,864MW against a 932MW phase one is free brownfield optionality.
 
 <sub>Firms: MSIP · Sectors: Power & Renewables, Digital Infrastructure · Geo: Canada · id: `2026-07-02-aecon-led-consortium-wins-epc-for-msip-backed-gr-aad68b`</sub>
 
@@ -138,7 +138,7 @@
 
 **Why it matters.** Legacy telco billing stacks cap how fast a fibre operator can quote, provision and invoice newer products like dark fibre IRUs and private networks. Automating that is how Lightpath turns a growing route-mile base into more revenue per mile without proportional headcount, and it signals a mix shift from lit enterprise services toward longer-term, infrastructure-style contracts that carry better multiples. No financial terms disclosed.
 
-**Why you care.** Minor on its own, but Lightpath is an MSIP asset, so it is worth a sentence on the value-creation plan if you interview there.
+**Why you care.** Small on its own, but this is the billing and provisioning plumbing behind Lightpath's mix shift toward dark fibre and private networks, a value-creation lever in MSIP's portfolio.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-06-17-lightpath-deploys-oracle-cloud-billing-and-assur-4f204b`</sub>
 
@@ -152,7 +152,7 @@
 
 **Why it matters.** Flexential named Sam Rudek chief operating officer under CEO Ryan Mallory. He was COO of CBRE's Data Center Solutions group, running a 3,000-person operations organisation across 350 data centres and a $1.2bn modernisation programme, and now covers development, engineering and product across 40+ data centres in 18 markets. It is the classic hire when a platform shifts from buying capacity to building it, and Hillsboro, Atlanta and Dallas execution is now the main risk.
 
-**Why you care.** MSIP portfolio company. Exactly the kind of operating detail to raise in that interview to show you follow how they run assets, not just how they buy them.
+**Why you care.** Flexential is an MSIP platform, and this is the operating hire a business makes when it shifts from buying capacity to building it. Execution is now the risk.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-06-04-flexential-appoints-sam-rudek-ex-cbre-data-cente-43d16a`</sub>
 
@@ -166,7 +166,7 @@
 
 **Why it matters.** Flexential closed its purchase of the Hillsboro 4 and 5 data centres in Oregon, 496,000 sq ft and 54MW combined, with Hillsboro 4 fully leased; seller and price undisclosed. Owning instead of leasing removes landlord recapture and rent-reset risk and shifts the business from an opco multiple toward a real-asset multiple. It also unlocks ABS and mortgage debt, the funding channel Flexential already uses.
 
-**Why you care.** An MSIP-linked asset making the opco-to-propco move, which is exactly the value-creation story to have ready if they ask how you would underwrite colocation.
+**Why you care.** Flexential is an MSIP asset making the opco-to-propco move: owning removes rent-reset risk, shifts it toward a real-asset multiple and unlocks the ABS and mortgage debt it already uses.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-28-flexential-buys-hillsboro-4-and-5-data-centres-i-dab37a`</sub>
 
@@ -180,7 +180,7 @@
 
 **Why it matters.** Ortega says traditional core assets now clear at single-digit yields, so MSIP targets development, carve-outs and platform building in the mid-market, where deals can be negotiated bilaterally rather than won at auction. The 2026 record matches almost exactly: an Alberta greenfield gas plant, a French family waste carve-out, a bilateral Australian pipeline. It is a deliberate move up the risk curve, so returns hinge on construction and integration, not multiple arbitrage.
 
-**Why you care.** This is the why-MSIP answer in their own words. Learn the three-pillar framing and have a deal of your own ready against each pillar.
+**Why you care.** Read this before day one: Ortega's three pillars, development, carve-outs and platform building in the mid-market, are how MSIP defines its edge now that core clears at single-digit yields.
 
 <sub>Firms: MSIP · Sectors: Funds & Fundraising · Geo: United States · id: `2026-05-22-msip-americas-head-chris-ortega-says-core-infras-a1a4e7`</sub>
 
@@ -194,7 +194,7 @@
 
 **Why it matters.** Mobile backhaul is the most infrastructure-like revenue metro fibre carries: multi-year contracts with investment-grade carriers, low churn, predictable escalators. Lightpath is adding 265 route miles to serve more than 2,400 macro sites, and the return driver is that over half of endpoints are second, third or fourth tenants on existing fibre, so marginal cost is minimal. For MSIP it protects legacy cash flow while AI long-haul builds mature.
 
-**Why you care.** An MSIP asset. Know it before the interview, since it shows how they defend an existing cash flow base rather than chase new builds.
+**Why you care.** An MSIP asset defending its cash flow base: more than half of endpoints sit as second-or-later tenants on existing fibre, so these 265 route miles cost little at the margin.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-19-lightpath-adds-265-route-miles-in-greater-new-yo-367f42`</sub>
 
@@ -208,7 +208,7 @@
 
 **Why it matters.** Lightpath announced a roughly 392 route-mile Columbus-Chicago system, 327 miles of it new all-underground multi-conduit fibre across three states, plus eight LightCube data centres. An undisclosed anchor supports it; the Columbus-to-South Bend leg comes online first, with full completion targeted for Q4 2028. It is Lightpath's second owned long-haul route after the 2024 New York-to-Ashburn acquisition.
 
-**Why you care.** Build rather than buy, with permitting risk across three states. A concrete example of the development-stage profile MSIP says it prefers, useful for a why-this-fund answer.
+**Why you care.** A 392-mile greenfield long-haul build with permitting risk across three states, targeted for Q4 2028 completion, is the development-stage profile MSIP prefers, now inside your own portfolio.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-12-lightpath-launches-392-mile-columbus-chicago-lon-3e4e23`</sub>
 
@@ -222,7 +222,7 @@
 
 **Why it matters.** CableFinder and Lightpath announced a platform partnership putting Lightpath's fibre into CableFinder's channel-partner quoting system; terms undisclosed. Channel distribution is a cheap way to fill capacity on fibre already built and lit, lifting utilisation without more trenching. It feeds the higher-priced enterprise revenue layer but matters far less than hyperscale and carrier contracts. Incremental rather than strategic for MSIP.
 
-**Why you care.** Minor on its own, but it is an MSIP-linked asset, so worth being able to speak to Lightpath's revenue layers if the fund's portfolio comes up.
+**Why you care.** Lightpath sits in your portfolio now. Channel distribution lifts utilisation on fibre already built and lit, but this is incremental rather than strategic.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-04-15-lightpath-and-cablefinder-strike-platform-partne-e0a8b4`</sub>
 
@@ -236,7 +236,7 @@
 
 **Why it matters.** ABS is now the main funding channel for scaled colocation: the $800m issue says Flexential's lease book is stable and granular enough to securitise cheaply, which funds Atlanta, Hillsboro and Dallas at once without a big sponsor equity call. At 4.5MW this is enterprise and multi-tenant work, not hyperscale, so watch whether 2028 delivery slips as southeastern power constraints bite.
 
-**Why you care.** MSIP is on the cap table, so this is a portfolio company you should be able to speak to in an interview, plus a live example of ABS as the colo funding tool.
+**Why you care.** MSIP sits on this cap table, and the $800m ABS is how your colocation platform funds Atlanta, Hillsboro and Dallas at once without a big sponsor equity call.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-04-14-flexential-adds-fifth-atlanta-area-data-centre-t-647d5d`</sub>
 
@@ -250,7 +250,7 @@
 
 **Why it matters.** MSIP's first disclosed 2026 exit sells a peaker into what looks like the top of the New York capacity cycle, with Zone J tight on data centre load growth and in-city retirements. The dedicated subsea cable is the whole thesis: in-city deliverability from an out-of-city plant, which cannot be replicated. Terms undisclosed, close expected Q3 2026.
 
-**Why you care.** Core MSIP interview material: an eight-year hold, a clear exit rationale, and an open question on where proceeds get recycled. Know this one cold.
+**Why you care.** MSIP agreed this exit, closing Q3 2026, after eight years; the subsea cable giving in-city Zone J deliverability is the value story to have straight walking in.
 
 <sub>Firms: MSIP · Sectors: Power & Renewables · Geo: United States · id: `2026-03-17-msip-agrees-to-sell-660mw-bayonne-energy-center-f95342`</sub>
 
@@ -264,7 +264,7 @@
 
 **Why it matters.** Lightpath won GSA schedule 47QTCA26D0021, letting federal agencies buy through GSA eBuy and state, local and education buyers in all 50 states procure via Cooperative Purchasing. No contract value disclosed, so it is a procurement vehicle rather than booked revenue. It opens long-term, low-churn, low-credit-risk customers for a network of 12,100-plus route miles and dilutes carrier and hyperscale concentration.
 
-**Why you care.** Modest by itself, but it is revenue diversification ahead of any eventual MSIP process, the kind of detail that lands well in a portfolio question.
+**Why you care.** Same asset, different lever: a procurement vehicle rather than booked revenue, but it dilutes carrier and hyperscale concentration on the network MSIP already owns.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-03-10-lightpath-wins-gsa-multiple-award-schedule-contr-600c2d`</sub>
 
@@ -278,7 +278,7 @@
 
 **Why it matters.** A perfect GRESB score is a fundraising and sale input, not a cash-flow event. It matters at the margin because European and Asian LPs use the benchmark when diligencing both individual assets and successor funds, so a top score smooths any future sale to an ESG-constrained buyer pool. For MSIP's North Haven Infrastructure franchise it is a modest supporting data point.
 
-**Why you care.** Thin on its own, but Lightpath sits in the MSIP portfolio, so it is worth being able to speak to how the fund positions assets for ESG-constrained buyers.
+**Why you care.** Lightpath sits in your portfolio, and a perfect GRESB score is an exit-positioning input rather than a cash-flow one, smoothing a future sale into an ESG-constrained buyer pool.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-01-28-lightpath-reports-a-perfect-gresb-score-for-2025-855c95`</sub>
 
@@ -292,7 +292,7 @@
 
 **Why it matters.** Three awards in one market from hyperscale customers is an incumbency effect: once you hold conduit and permits in a corridor, follow-on work goes to whoever delivers fastest rather than cheapest, and hyperscalers pay for date certainty. That is how a fibre platform compounds in an AI build-out, and it set up the Columbus-Chicago long-haul route announced in May. Watch whether route miles convert into disclosed contracted revenue.
 
-**Why you care.** MSIP's flagship digital asset, with concrete evidence of how the platform compounds operationally. That is exactly the story they will want you to tell back to them.
+**Why you care.** Lightpath is MSIP's fibre platform, and three hyperscale awards in one Columbus corridor is the incumbency effect that underpins the value-creation case you are inheriting.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-01-20-lightpath-takes-third-major-columbus-network-awa-dc90f1`</sub>
 
@@ -306,7 +306,7 @@
 
 **Why it matters.** Lightpath booked $252m of AI-enabling contract value in 2025, up 240% from $110m, for $362m over two years, and reported a $6.4bn sales pipeline across 10 markets, 6.4x higher year on year. That suggests the capex programme is demand-led rather than speculative. But pipeline is not backlog and hyperscale demand moves between markets quickly, so 2026 conversion is the test.
 
-**Why you care.** MSIP's fibre asset compounding fast. Useful if you get asked what you would do with a portfolio company, and a monetisation candidate worth tracking.
+**Why you care.** Lightpath is yours now. The $252m of AI contract value and $6.4bn pipeline is the demand-led capex story, but 2026 conversion is what actually marks the asset.
 
 <sub>Firms: MSIP · Sectors: Digital Infrastructure · Geo: United States · id: `2026-01-15-lightpath-books-252m-of-ai-driven-contract-value-1aea43`</sub>
 

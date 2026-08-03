@@ -12,7 +12,7 @@
 
 **Why it matters.** Merging Ritter and Great Plains into Rightfiber creates a 28,000-mile network across 20 states, crossing the scale where hyperscaler and enterprise wholesale demand becomes addressable; neither company could bid long-haul or middle-mile alone. The mix improves too, since enterprise and carrier transport on already-built route is high-margin, unlike capital-hungry residential FTTH. One combined asset also sets up a single cleaner exit.
 
-**Why you care.** Outside your sectors, but a tidy illustration of buy-and-build scale logic you can lift for a pitch page or an interview answer.
+**Why you care.** Buy-and-build logic in regional fibre: 28,000 route miles crosses into hyperscaler and enterprise wholesale demand neither company could bid alone. Market read on fibre scale, not a live angle.
 
 <sub>Firms: Grain Management · Sectors: Digital Infrastructure · Geo: United States · id: `2026-06-16-grain-management-combines-ritter-and-great-plain-6b7f87`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Grain Management-backed 123NET named Ken Fitzpatrick CEO, with founder Dan Irvin moving to the board. Fitzpatrick ran Everstream, a comparable regional enterprise fibre platform, and spent nearly two decades at Charter and Spectrum Enterprise. These transitions usually precede institutionalisation and a big financing or exit. The real prize is four data centres plus the Detroit Internet Exchange carrier hotel, interconnection revenue with utility-like margins and low churn.
 
-**Why you care.** Management change as an exit signal is a pattern worth naming in interviews, and it is useful sponsor intel if you track who is preparing digital infra for sale.
+**Why you care.** Sponsor watch. A CEO change like this usually precedes institutionalisation and a big financing or exit, and the real prize is four data centres plus the Detroit Internet Exchange carrier hotel.
 
 <sub>Firms: Grain Management · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-21-grain-management-portfolio-company-123net-names-0eaeac`</sub>
 
@@ -40,7 +40,7 @@
 
 **Why it matters.** Grain-backed Great Plains Communications agreed to acquire Fastwyre's Nebraska broadband business, covering 26+ communities and over two dozen staff, terms undisclosed and subject to regulatory approval. In-footprint consolidation is the cheapest form of fibre M&A because subscribers migrate onto GPC's existing 20,000-mile network with minimal new capex. It landed weeks before GPC was folded into Rightfiber alongside Ritter, so Grain was buying density ahead of the platform combination.
 
-**Why you care.** Outside your coverage, but a tidy example of buying density immediately before a platform merger, which is the kind of sequencing logic that works in a walk-me-through-a-deal answer.
+**Why you care.** Grain bought in-footprint density weeks before folding GPC into Rightfiber, the cheapest form of fibre M&A executed immediately ahead of a platform combination. Market read on sequencing.
 
 <sub>Firms: Grain Management · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-19-grain-backed-great-plains-communications-to-acqu-2a133f`</sub>
 
@@ -54,7 +54,7 @@
 
 **Why it matters.** Managed network services is asset-light contracted recurring revenue, so it trades on retention and gross margin rather than route miles, and merging two aggregators mainly buys carrier purchasing leverage. The interesting part is Grain reinvesting rather than exiting: partial liquidity, a reset hold clock and Charlesbank's capital for the next phase, which is what sponsors do when the consolidation runway outlasts the fund.
 
-**Why you care.** A clean example of a sponsor reinvesting alongside new capital instead of selling, useful framing for PE interview questions about hold periods and exit timing.
+**Why you care.** Grain reinvesting rather than exiting is what sponsors do when the consolidation runway outlasts the fund, a hold-structure read from the wider sponsor set. Terms undisclosed.
 
 <sub>Firms: Grain Management, Charlesbank Capital Partners · Sectors: Digital Infrastructure · Geo: United States · id: `2026-05-12-grain-management-reinvests-as-spectrotel-combine-ce8dbb`</sub>
 

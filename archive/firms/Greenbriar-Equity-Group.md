@@ -12,7 +12,7 @@
 
 **Why it matters.** Partial monetisation, not an exit: Greenbriar keeps roughly 81% and control, so the $650m IPO at $20 works as deleveraging and price discovery ahead of staged sell-downs. Revenue is programme-driven and backlog-backed, $522.09m with a $24.84m net loss to March 2026. Taking a 2022-vintage buyout public at roughly $3.3bn implied value in under four years is a strong Fund VI marker behind February's $5.4bn Fund VII.
 
-**Why you care.** Greenbriar is on your target list. This is the exit they will want to discuss and the evidence base for your "why this fund" answer.
+**Why you care.** IPO as partial monetisation rather than exit, with Greenbriar keeping roughly 81% and control and proceeds going to debt. A live read on the public exit route.
 
 <sub>Firms: Greenbriar Equity Group · Sectors: Transport & Logistics · Geo: United States · id: `2026-06-02-greenbriar-backed-applied-aerospace-defense-pric-d1a7e2`</sub>
 

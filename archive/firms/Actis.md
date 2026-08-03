@@ -12,7 +12,7 @@
 
 **Why it matters.** Actis held a $2.5bn first close on Energy 6 against a $6bn target for emerging-markets renewables, grids and energy transition, testing whether LP appetite runs beyond OECD digital and grid assets. The same report had I Squared's Fund IV at a $10bn initial close with NYC Police and Fire pension money among the LPs, and ECP VI at $4.8bn.
 
-**Why you care.** Fundraising scoreboard. Handy background if an interviewer asks who is raising and where LP allocation is actually landing this cycle.
+**Why you care.** I Squared, a direct competitor, took a $10bn initial close on Fund IV, the LP capital that will sit across the table from MSIP in auctions. Actis and ECP alongside.
 
 <sub>Firms: Actis, I Squared Capital, Energy Capital Partners · Sectors: Funds & Fundraising, Power & Renewables, Energy Transition & Storage · Geo: Global · id: `2026-05-31-actis-holds-2-5bn-first-close-on-actis-energy-6-4f345e`</sub>
 

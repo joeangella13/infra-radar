@@ -14,7 +14,7 @@ North American wind and solar portfolio transactions
 
 **Why it matters.** ISO-NE picked a $2.2bn Avangrid and Eversource project as its preliminary preferred solution to Maine transmission constraints, the first large award under a competitive long-term procurement rather than traditional planning. It validates a model FERC has pushed since Order 1000 that had produced little in practice. Awarding it to incumbent transmission owners will fuel the argument that these solicitations do not really open the market to independents.
 
-**Why you care.** Avangrid again, on the regulated side. A live datapoint on New England transmission capex if that relationship or region comes up in a pitch.
+**Why you care.** Avangrid again, on the regulated side: a $2.2bn preliminary preferred solution is a live New England transmission capex datapoint and the first real output from competitive procurement since Order 1000.
 
 <sub>Situations: avangrid_arclight · Sectors: Power & Renewables, Regulatory & Policy · Geo: United States · id: `2026-07-28-iso-ne-picks-2-2bn-avangrid-eversource-solution-ec84b5`</sub>
 
@@ -28,7 +28,7 @@ North American wind and solar portfolio transactions
 
 **Why it matters.** Avangrid put treasury and corporate development under one SVP, Ryan Shields, reporting to the CEO, the structure a company adopts when capital allocation and transactions run as a single workstream; Teresa Bradford becomes SVP and Controller. The release cites continuity on key strategic projects and transactions but names no assets, and no renewables divestiture or ArcLight transaction was announced in the review period.
 
-**Why you care.** You covered ArcLight/Avangrid. Shields is now the person across the table on any Iberdrola North American portfolio rotation.
+**Why you care.** You covered ArcLight/Avangrid. Shields now runs treasury and corporate development as one workstream reporting to the CEO, so he is the counterparty on any Iberdrola North American portfolio rotation.
 
 <sub>Firms: Iberdrola · Situations: avangrid_arclight · Sectors: Power & Renewables · Geo: United States · id: `2026-07-16-avangrid-promotes-ryan-shields-to-svp-finance-co-a50af2`</sub>
 
@@ -42,7 +42,7 @@ North American wind and solar portfolio transactions
 
 **Why it matters.** Still building rather than harvesting: continued construction spend on the 57 MWdc / 41 MWac Oregon Trail Solar cuts against the thesis that Iberdrola is a net seller of North American assets. No offtaker was disclosed, which makes contracted cash flow quality hard to assess for any portfolio sale. Clustering Oregon Trail with the adjacent Shutler storage project and the operating Pachwaywit Fields solar creates a package that would sell better as a bundle.
 
-**Why you care.** Read-through to your ArcLight/Avangrid mandate: evidence on whether a portfolio process is coming, and what the Oregon cluster would look like packaged.
+**Why you care.** Your ArcLight/Avangrid mandate: continued construction spend cuts against the net-seller thesis, no offtaker disclosed, and the Oregon cluster would sell better bundled than piecemeal.
 
 <sub>Firms: Iberdrola · Situations: avangrid_arclight · Sectors: Power & Renewables · Geo: United States · id: `2026-07-08-avangrid-begins-panel-installation-at-57-mwdc-or-30ec0c`</sub>
 
@@ -56,7 +56,7 @@ North American wind and solar portfolio transactions
 
 **Why it matters.** FERC denied a waiver sought by ArcLight-owned Advanced Power Services to cut its roughly $2bn Chestnut Run gas plant in Ohio from 1.3 GW to 1.245 GW after supply constraints forced a turbine substitution. PJM's Reliability Resource Initiative bars changes to project size, and FERC found the restudy would delay Transition Cycle #2. Fast-track interconnection now clearly carries zero flexibility, raising the value of secured turbine slots.
 
-**Why you care.** Sits on your ArcLight/Avangrid coverage and makes a sharp interview point: an RRI queue position is only as good as the equipment order already locked behind it.
+**Why you care.** Your ArcLight coverage. An RRI queue position is only as good as the turbine order locked behind it, and secured equipment slots just became more valuable.
 
 <sub>Firms: ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables, Regulatory & Policy · Geo: United States · id: `2026-07-02-ferc-denies-arclight-backed-developer-s-waiver-t-5a5a49`</sub>
 
@@ -70,7 +70,7 @@ North American wind and solar portfolio transactions
 
 **Why it matters.** The clearest GP-level bet that data centre returns are gated by electrons, not racks: DigitalBridge is buying dispatchable generation, 20.8GW owned with about 7GW in PJM plus a 15GW pipeline, instead of more colocation, so it can sell power-plus-shell to hyperscalers. At roughly $1.05bn this is a management-company price, meaning GP consolidation is now driven by capability gaps. Contingent on SoftBank's separate $4bn DigitalBridge deal.
 
-**Why you care.** You have worked opposite ArcLight. This changes who that counterparty becomes and gives you a sharp answer on why power is the AI bottleneck.
+**Why you care.** You sat opposite ArcLight on Avangrid at Rothschild; that counterparty now sits inside DigitalBridge, contingent on SoftBank's deal, and it is a GP-level bet that power gates AI returns.
 
 <sub>Firms: DigitalBridge, ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-05-27-digitalbridge-to-acquire-power-investor-arclight-006a66`</sub>
 

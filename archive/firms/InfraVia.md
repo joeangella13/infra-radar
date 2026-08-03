@@ -12,7 +12,7 @@
 
 **Why it matters.** Marinas behave more like ports than leisure assets: concession or long-leasehold tenure, multi-year berth contracts, high renewal rates and effectively fixed supply because coastal permitting is near-impossible. InfraVia's levers are further consolidation of a fragmented market and yield management on the 1,000-plus superyacht berths where scarcity bites hardest. But CVC already ran the roll-up to 28 marinas in nine countries, so InfraVia is paying for a built platform. Terms undisclosed.
 
-**Why you care.** Sponsor-to-sponsor exit in a niche ports-adjacent asset. Handy example if you are asked where infra funds find pricing power outside core sectors.
+**Why you care.** Sponsor-to-sponsor exit showing where infra money finds pricing power outside core sectors, though CVC already built the 28-marina platform, so InfraVia is paying for the roll-up rather than doing it.
 
 <sub>Firms: InfraVia, CVC Capital Partners · Sectors: Ports & Terminals · Geo: Turkey, Croatia, Greece, United Arab Emirates · id: `2026-07-06-infravia-to-acquire-d-marin-emea-premium-marina-0ca0d0`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** InfraVia's Critical Metals Fund put SEK 420m (EUR 39m) into a 6.6% stake in the Viscaria copper project at Kiruna, developed by Nasdaq Stockholm-listed Gruvaktiebolaget Viscaria, its third investment in the strategy. Viscaria targets roughly 26,000 tonnes of contained copper a year by 2028, helped by hydro power and rail access. Minority and pre-production, so returns ride on construction and copper price, not contracted income.
 
-**Why you care.** Sits in your mining services lane and is a good test case for how far an infrastructure mandate now stretches, which is a question you should have an answer to.
+**Why you care.** A sponsor stretching an infrastructure mandate into pre-production mining: minority, no contracted income, returns riding on construction and the copper price. A boundary marker, not a comp.
 
 <sub>Firms: InfraVia · Sectors: Mining Services · Geo: Sweden · id: `2026-06-17-infravia-critical-metals-fund-invests-sek420m-fo-f29af3`</sub>
 

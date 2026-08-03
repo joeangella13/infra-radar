@@ -12,7 +12,7 @@
 
 **Why it matters.** Carlyle agreed to sell Copia Power to EQT Infrastructure VII; terms undisclosed, though press coverage put it near $2.6bn. Copia has 2.6GW operating or in construction and a 30GW+ pipeline: 25GW+ solar and storage, 7GW gas, 9GW grid-connected data centres. Value sits in interconnection positions, land and permitting rather than operating cash flow, and the gas and data centre capacity is what makes it AI-adjacent. Built from inception in 2021, a five-year hold.
 
-**Why you care.** The comp to know for development-platform valuation, and evidence for the argument that pipeline GW rather than EBITDA sets the price on these assets.
+**Why you care.** EQT, a direct rival, paying a reported $2.6bn for a development platform priced on 30GW of pipeline rather than EBITDA; interconnection, land and permitting are the value.
 
 <sub>Firms: EQT Infrastructure, Carlyle · Sectors: Power & Renewables, Digital Infrastructure · Geo: United States · id: `2026-07-10-carlyle-sells-power-and-ai-infrastructure-platfo-b1c588`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Diversified Energy and Carlyle agreed to buy Camino Natural Resources' Anadarko Basin assets for about $1.2bn (reported at $1.175bn by some outlets), with Carlyle providing capital and Diversified operating; coverage flagged an ABS component. It is Carlyle's template: long-life, low-decline PDP gas with hedgeable volumes, where securitisation beats reserve-based lending on cost of capital. Whether ABS spreads hold is the constraint on repeat deals.
 
-**Why you care.** Sharp example of returns engineered through financing rather than growth capex, and a good answer if a fund asks you where upstream stops being infrastructure.
+**Why you care.** Carlyle's template for long-life PDP gas, where returns come from securitisation rather than growth capex, and a marker for how far the infrastructure label now stretches upstream.
 
 <sub>Firms: Carlyle · Sectors: Midstream & Gas · Geo: United States · id: `2026-05-06-carlyle-and-diversified-energy-agree-to-buy-cami-75487c`</sub>
 

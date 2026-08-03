@@ -12,7 +12,7 @@
 
 **Why it matters.** Northleaf and Inovia launched 'Discovery by Inovia x Northleaf', giving Canadian pre-seed and seed managers and founders capital, firm-building guidance and network access. Northleaf manages over US$31bn, Inovia over US$2.5bn, and the two have already deployed roughly C$177m across 13 investments since 2016, so this formalises an existing relationship. It is a fund-platform move, not an infrastructure deal.
 
-**Why you care.** Nothing actionable here. Only worth a line as a signal of where a mid-size manager is putting franchise effort relative to its next infrastructure raise.
+**Why you care.** A venture fund-platform launch, not an infrastructure deal. No read-across for MSIP.
 
 <sub>Firms: Northleaf, Inovia Capital · Sectors: Funds & Fundraising · Geo: Canada · id: `2026-05-07-northleaf-and-inovia-launch-discovery-platform-t-f4666f`</sub>
 
@@ -26,7 +26,7 @@
 
 **Why it matters.** Terminals contributed $2.3m of a $32m group net result, up from $1.8m. That is directional rather than material and keeps the division a candidate for portfolio action without moving the equity story. No facility-level detail on Houston, Charleston or the Antwerp JV. Guidance for a stronger 2Q26 rests on Hormuz-driven tonne-miles, a shipping tailwind rather than a terminals one.
 
-**Why you care.** Odfjell Terminals is one of yours. This is the current earnings baseline to work from if a terminals carve-out ever comes to market.
+**Why you care.** You ran Odfjell Terminals. This is the earnings baseline, $2.3m of a $32m group result, keeping the division in play for portfolio action without moving the equity story.
 
 <sub>Firms: Northleaf · Situations: odfjell_terminals · Sectors: Ports & Terminals · Geo: Norway, United States · id: `2026-05-06-odfjell-se-reports-1q26-net-result-of-32m-termin-fe357c`</sub>
 

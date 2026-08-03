@@ -14,7 +14,7 @@ Canadian port terminal operations
 
 **Why it matters.** Enstructure agreed to acquire LOGISTEC's marine terminal division, spanning 62 ports and 84 terminals across North America, terms undisclosed. That creates the largest independent multi-purpose terminal network on the continent and changes the competitive set for US and Canadian breakbulk, bulk and project-cargo concessions. Blue Wolf keeps majority control, with Blackstone Credit invested since 2022 and Viking equity, which reads as a hold rather than a near-term exit.
 
-**Why you care.** Your LOGISTEC/Termont situation seen from the buyer's side, and probably the strongest ports deal story you can walk through for a terminal-focused sponsor.
+**Why you care.** You ran LOGISTEC/Termont at Rothschild; here it is from the buyer's side, with Blue Wolf keeping majority control alongside Blackstone Credit and Viking, reading as a hold not an exit.
 
 <sub>Firms: Blue Wolf Capital Partners, Blackstone, Viking Global Investors · Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: United States, Canada · id: `2026-06-15-enstructure-to-acquire-logistec-s-marine-termina-d41951`</sub>
 
@@ -28,7 +28,7 @@ Canadian port terminal operations
 
 **Why it matters.** Two 120-tonne cranes give the Houston breakbulk terminal the heavy-lift capability that wins wind components, modular process equipment and oversized project cargo, the highest-rate Gulf categories. Calling it phase one of a multi-stage program shows Blue Wolf funding organic capacity alongside M&A. Capex is undisclosed, so returns can't be run; the phasing suggests staged approval against volumes.
 
-**Why you care.** Adds the organic-growth leg to your LOGISTEC story, useful if you are asked how Blue Wolf creates value beyond bolt-on acquisitions.
+**Why you care.** Blue Wolf funding organic capacity on the platform you ran at Rothschild; heavy-lift capability wins the highest-rate Gulf cargo, though undisclosed capex means the phase-one return cannot be run.
 
 <sub>Firms: Blue Wolf Capital Partners · Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: United States, Canada · id: `2026-03-18-logistec-deploys-two-120-tonne-harbor-cranes-at-1b8e17`</sub>
 
@@ -42,7 +42,7 @@ Canadian port terminal operations
 
 **Why it matters.** East Dubuque gives LOGISTEC CN rail plus Upper Mississippi barge access into Midwest agriculture, steel and energy flows, tying its Gulf Coast and Great Lakes positions together. Buying from a utility parent shedding non-core logistics is a repeatable sourcing channel, and Alliant's willingness to sell suggests more utility-owned terminals could come to market. Undisclosed pricing here and on Altamira means no multiple reference for the roll-up.
 
-**Why you care.** Your own LOGISTEC/Termont deal, with the thesis playing out. The utility-carve-out sourcing angle is a clean line for a deal walkthrough.
+**Why you care.** Your LOGISTEC/Termont deal, compounding. Utilities shedding non-core terminals is a repeatable sourcing channel worth flagging at MSIP, though undisclosed pricing leaves no multiple for the roll-up.
 
 <sub>Firms: Blue Wolf Capital Partners, Berenson & Company, King & Spalding, RJM & Company, Chapman & Cutler · Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: United States, Canada · id: `2026-03-11-logistec-acquires-logistics-park-dubuque-from-al-6170eb`</sub>
 
@@ -56,7 +56,7 @@ Canadian port terminal operations
 
 **Why it matters.** LOGISTEC's first Latin American move: a steel and breakbulk terminal at Altamira that pairs with Houston into a two-country steel corridor rather than two standalone terminals. Signed but not closed, with Mexican antitrust plus port authority and Navy clearance outstanding and no timetable, so the approval path is less predictable than a US filing. With Dubuque and the Houston cranes, Blue Wolf is building a Gulf-plus-inland network.
 
-**Why you care.** You worked LOGISTEC/Termont, so this is your own situation moving. Closing confirmation and the Mexican approval path are what to track next.
+**Why you care.** You ran LOGISTEC/Termont at Rothschild, and the platform is buying into Mexico - signed, not closed, pending antitrust, port and Navy clearance. A live sourcing angle worth flagging at MSIP.
 
 <sub>Firms: Blue Wolf Capital Partners, Berenson & Company, Holland & Knight · Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: Mexico, Canada, United States · id: `2026-02-17-logistec-signs-definitive-agreement-to-acquire-i-11fc8b`</sub>
 
