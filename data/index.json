@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T13:25:25+00:00",
+ "generated_at": "2026-08-05T12:23:29+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 239,
+ "total_items": 240,
  "months": [
   "2026-08",
   "2026-07",
@@ -1050,9 +1050,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-07-27"
+   "last_seen": "2026-08-03"
   },
   {
    "key": "avangrid_arclight",
@@ -1151,22 +1151,22 @@
    "last_seen": "2026-07-30"
   },
   {
+   "name": "Rail",
+   "count": 28,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-08-03"
+  },
+  {
    "name": "Funds & Fundraising",
    "count": 27,
    "first_seen": "2026-05-04",
    "last_seen": "2026-08-03"
   },
   {
-   "name": "Rail",
-   "count": 27,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-07-29"
-  },
-  {
    "name": "Transport & Logistics",
-   "count": 25,
+   "count": 26,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-08-03"
   },
   {
    "name": "Ports & Terminals",
@@ -1200,6 +1200,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-03-brightline-florida-gets-a-sixth-grace-period-on-0209e8",
+   "d": "2026-08-03",
+   "h": "Brightline Florida gets a sixth grace period on $1.2bn AAFOH bonds, 15th on commuter debt",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-brightline-florida-gets-a-sixth-grace-pe",
+   "x": 0
+  },
   {
    "id": "2026-08-03-kkr-closes-largest-ever-infrastructure-fund-at-1-4686ed",
    "d": "2026-08-03",
