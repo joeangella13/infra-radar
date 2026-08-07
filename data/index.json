@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T12:23:29+00:00",
+ "generated_at": "2026-08-07T11:15:33+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 240,
+ "total_items": 243,
  "months": [
   "2026-08",
   "2026-07",
@@ -33,7 +33,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-08-03"
+  "2026-08-05"
  ],
  "firms": [
   {
@@ -1063,6 +1063,14 @@
    "last_seen": "2026-07-28"
   },
   {
+   "key": "ftai_infrastructure",
+   "label": "FTAI Infrastructure",
+   "note": "Transtar, Long Ridge, Jefferson, Repauno",
+   "count": 5,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-08-05"
+  },
+  {
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
@@ -1077,14 +1085,6 @@
    "count": 5,
    "first_seen": "2026-05-18",
    "last_seen": "2026-07-29"
-  },
-  {
-   "key": "ftai_infrastructure",
-   "label": "FTAI Infrastructure",
-   "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 4,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-07-15"
   },
   {
    "key": "logistec_termont",
@@ -1122,21 +1122,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 94,
+   "count": 95,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-07-31"
+   "last_seen": "2026-08-03"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 77,
+   "count": 78,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-07-31"
+   "last_seen": "2026-08-03"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 54,
+   "count": 55,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-31"
+   "last_seen": "2026-08-03"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1146,15 +1146,21 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 34,
+   "count": 35,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-08-05"
   },
   {
    "name": "Rail",
-   "count": 28,
+   "count": 29,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-05"
+  },
+  {
+   "name": "Transport & Logistics",
+   "count": 27,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-08-05"
   },
   {
    "name": "Funds & Fundraising",
@@ -1163,16 +1169,10 @@
    "last_seen": "2026-08-03"
   },
   {
-   "name": "Transport & Logistics",
-   "count": 26,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-08-03"
-  },
-  {
    "name": "Ports & Terminals",
-   "count": 24,
+   "count": 25,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-08-05"
   },
   {
    "name": "Social Infrastructure",
@@ -1200,6 +1200,57 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-05-i-squared-capital-buys-indonesian-cold-storage-a-9d592a",
+   "d": "2026-08-05",
+   "h": "I Squared Capital buys Indonesian cold-storage and logistics platform Cella",
+   "s": "sponsor_moves",
+   "f": [],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-i-squared-capital-buys-indonesian-cold-s",
+   "x": 0
+  },
+  {
+   "id": "2026-08-05-ftai-infrastructure-q2-rail-hits-record-revenue-c2a081",
+   "d": "2026-08-05",
+   "h": "FTAI Infrastructure Q2: rail hits record revenue, Long Ridge sale to MARA still pending",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Rail",
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-ftai-infrastructure-q2-rail-hits-record",
+   "x": 0
+  },
+  {
+   "id": "2026-08-03-texas-gov-abbott-freezes-new-data-center-grid-co-ef951c",
+   "d": "2026-08-03",
+   "h": "Texas Gov. Abbott freezes new data center grid connections pending ERCOT/PUCT audit",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-texas-gov-abbott-freezes-new-data-center",
+   "x": 0
+  },
   {
    "id": "2026-08-03-brightline-florida-gets-a-sixth-grace-period-on-0209e8",
    "d": "2026-08-03",

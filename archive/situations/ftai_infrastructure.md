@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-4 items, 2026-04-30 to 2026-07-15.
+5 items, 2026-04-30 to 2026-08-05.
+
+---
+
+### FTAI Infrastructure Q2: rail hits record revenue, Long Ridge sale to MARA still pending
+
+`2026-08-05` · Tracked situations · [StockTitan](https://www.stocktitan.net/news/FIP/ftai-infrastructure-inc-reports-second-quarter-2026-results-declares-zl36kugiz6ve.html), [FTAI Infrastructure IR](https://ir.fipinc.com/news-events/news-releases)
+
+**Deal / players.** FTAI Infrastructure reported a Q2 2026 net loss of $166.5 million, versus $83.9 million a year earlier, with total debt of about $2.76 billion and negative total equity. The rail segment posted record revenue and Adjusted EBITDA for the quarter, and the company completed its Tidewater Logistics tuck-in acquisition on June 29. The pending $1.52 billion sale of Long Ridge Energy and Power to MARA Holdings, expected to close in Q3, will eliminate $1.16 billion of Long Ridge debt and repay roughly $300 million of other debt.
+
+**Why it matters.** The Long Ridge exit meaningfully deleverages FTAI Infrastructure and sharpens its focus on the rail, ports and midstream assets that anchored the original thesis. Rail's record quarter is the clearest read yet on Transtar's underlying earnings power even as headline losses widen on non-cash items. Watch whether the MARA sale closes on schedule and how proceeds get redeployed.
+
+**Why you care.** This is the deal he underwrote at Rothschild moving in real time, and the Long Ridge exit and rail strength are worth flagging inside MSIP as a live comp.
+
+<sub>Situations: ftai_infrastructure · Sectors: Rail, Midstream & Gas, Ports & Terminals · Geo: United States · id: `2026-08-05-ftai-infrastructure-q2-rail-hits-record-revenue-c2a081`</sub>
 
 ---
 
