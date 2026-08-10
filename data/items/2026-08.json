@@ -1,5 +1,48 @@
 [
  {
+  "date": "2026-08-10",
+  "headline": "I Squared Capital agrees to buy oOh!media for A$1.70/share, ~$1.04bn enterprise value",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "AdNews",
+    "url": "https://www.adnews.com.au/news/i-squared-capital-takes-ooh"
+   },
+   {
+    "name": "Yahoo Finance Australia",
+    "url": "https://au.finance.yahoo.com/news/ooh-media-agrees-revised-1-021100197.html"
+   },
+   {
+    "name": "Mi3",
+    "url": "https://www.mi-3.com.au/10-08-2026/i-squared-lands-oohmedia-170-share-after-competitive-process-eyes-digital-acceleration"
+   }
+  ],
+  "players": "I Squared Capital, via OOH BidCo Pty Ltd, signed a binding scheme agreement to buy 100% of oOh!media for A$1.68 cash per share plus a 2-cent fully franked dividend, implying an equity value of about A$898m and enterprise value of A$1.04bn. It beat out rival bidders Pacific Equity Partners and Oaktree Capital Management after a three-month process; the price is 21.4% above I Squared's original A$1.40-range approach in April.",
+  "why_it_matters": "I Squared is funding the deal with committed equity from ISQ Global Infrastructure Fund IV and ISQ Growth Markets Infrastructure Fund II plus undisclosed debt, no financing condition attached. The bidding war shows sponsors treating large out-of-home ad networks as infrastructure-style annuities with digital upside; expected to close late November or early December 2026 pending FIRB and competition clearance.",
+  "why_you_care": "A rival infra shop just paid up 21% in a competitive auction for a network asset outside the usual power/transport lane, useful as a pricing comp on how far sponsors will stretch.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "oOh!media",
+   "I Squared Capital"
+  ],
+  "sectors": [
+   "Social Infrastructure"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-08-10-i-squared-capital-agrees-to-buy-ooh-media-for-a-e8e341",
+  "story_id": "story-i-squared-capital-agrees-to-buy-ooh-medi",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-05",
   "headline": "I Squared Capital buys Indonesian cold-storage and logistics platform Cella",
   "section": "sponsor_moves",

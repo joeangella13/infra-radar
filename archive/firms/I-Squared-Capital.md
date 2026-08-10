@@ -1,6 +1,20 @@
 # I Squared Capital
 
-4 items, 2026-05-25 to 2026-06-18.
+5 items, 2026-05-25 to 2026-08-10.
+
+---
+
+### **[watchlist]** I Squared Capital agrees to buy oOh!media for A$1.70/share, ~$1.04bn enterprise value
+
+`2026-08-10` · Sponsor moves · [AdNews](https://www.adnews.com.au/news/i-squared-capital-takes-ooh), [Yahoo Finance Australia](https://au.finance.yahoo.com/news/ooh-media-agrees-revised-1-021100197.html), [Mi3](https://www.mi-3.com.au/10-08-2026/i-squared-lands-oohmedia-170-share-after-competitive-process-eyes-digital-acceleration)
+
+**Deal / players.** I Squared Capital, via OOH BidCo Pty Ltd, signed a binding scheme agreement to buy 100% of oOh!media for A$1.68 cash per share plus a 2-cent fully franked dividend, implying an equity value of about A$898m and enterprise value of A$1.04bn. It beat out rival bidders Pacific Equity Partners and Oaktree Capital Management after a three-month process; the price is 21.4% above I Squared's original A$1.40-range approach in April.
+
+**Why it matters.** I Squared is funding the deal with committed equity from ISQ Global Infrastructure Fund IV and ISQ Growth Markets Infrastructure Fund II plus undisclosed debt, no financing condition attached. The bidding war shows sponsors treating large out-of-home ad networks as infrastructure-style annuities with digital upside; expected to close late November or early December 2026 pending FIRB and competition clearance.
+
+**Why you care.** A rival infra shop just paid up 21% in a competitive auction for a network asset outside the usual power/transport lane, useful as a pricing comp on how far sponsors will stretch.
+
+<sub>Firms: I Squared Capital · Sectors: Social Infrastructure · Geo: Australia · id: `2026-08-10-i-squared-capital-agrees-to-buy-ooh-media-for-a-e8e341`</sub>
 
 ---
 

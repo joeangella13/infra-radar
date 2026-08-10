@@ -1,13 +1,13 @@
 # Archive
 
-243 items, 2026-01-13 to 2026-08-05.
+244 items, 2026-01-13 to 2026-08-10.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-08](2026-08.md) — 5 items
+- [2026-08](2026-08.md) — 6 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
 - [2026-05](2026-05.md) — 46 items
@@ -39,8 +39,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Meridiam](firms/Meridiam.md) — 6 items
 - [Stonepeak](firms/Stonepeak.md) — 5 items
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 5 items
+- [I Squared Capital](firms/I-Squared-Capital.md) — 5 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 4 items
-- [I Squared Capital](firms/I-Squared-Capital.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 3 items
 - [IFM Investors](firms/IFM-Investors.md) — 2 items
