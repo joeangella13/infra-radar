@@ -1,6 +1,20 @@
 # Brookfield
 
-7 items, 2026-06-30 to 2026-07-29.
+8 items, 2026-06-30 to 2026-08-10.
+
+---
+
+### Nvidia recruits Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to fund $500bn of AI compute
+
+`2026-08-10` · Sponsor moves · [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital), [Blackstone](https://www.blackstone.com/news/press/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital/)
+
+**Deal / players.** Nvidia announced strategic partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to set up independent compute financing platforms aimed at mobilizing over $500 billion of third-party capital for AI infrastructure buildout over time. The six firms will create dedicated capital pools so Nvidia customers can finance GPU-based AI factories at scale and at attractive rates.
+
+**Why it matters.** This turns Nvidia compute itself into a financeable asset class, letting infrastructure and credit funds lend against chip cash flows rather than just data-center real estate. It locks in six firms — three of them on your watchlist — as the preferred balance sheets for AI compute buildout, resetting how AI infra debt gets priced. Watch whether follow-on vehicles open to other sponsors.
+
+**Why you care.** Brookfield, Blackstone and KKR just got first pick on financing Nvidia's AI buildout, a structure MSIP is not yet part of.
+
+<sub>Firms: Blackstone, Brookfield, KKR, Apollo · Sectors: Digital Infrastructure, Funds & Fundraising · Geo: United States · id: `2026-08-10-nvidia-recruits-apollo-blackrock-blackstone-broo-0fb377`</sub>
 
 ---
 

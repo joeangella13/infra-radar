@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:30:50+00:00",
+ "generated_at": "2026-08-11T11:13:39+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 244,
+ "total_items": 247,
  "months": [
   "2026-08",
   "2026-07",
@@ -48,9 +48,9 @@
    "name": "Blackstone",
    "watchlist": true,
    "priority": false,
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Fortress Investment Group",
@@ -64,9 +64,9 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-07-29"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -80,9 +80,9 @@
    "name": "KKR",
    "watchlist": true,
    "priority": false,
-   "count": 6,
+   "count": 7,
    "first_seen": "2026-06-10",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Meridiam",
@@ -171,6 +171,14 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
+  },
+  {
+   "name": "Apollo",
+   "watchlist": true,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-08-10"
   },
   {
    "name": "ArcLight",
@@ -387,14 +395,6 @@
    "count": 1,
    "first_seen": "2026-07-29",
    "last_seen": "2026-07-29"
-  },
-  {
-   "name": "Apollo",
-   "watchlist": true,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-07-13",
-   "last_seen": "2026-07-13"
   },
   {
    "name": "Argo Infrastructure",
@@ -1122,15 +1122,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 95,
+   "count": 96,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 78,
+   "count": 81,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Regulatory & Policy",
@@ -1140,9 +1140,9 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 40,
+   "count": 41,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-07-30"
+   "last_seen": "2026-08-10"
   },
   {
    "name": "Midstream & Gas",
@@ -1157,16 +1157,16 @@
    "last_seen": "2026-08-05"
   },
   {
+   "name": "Funds & Fundraising",
+   "count": 28,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-08-10"
+  },
+  {
    "name": "Transport & Logistics",
    "count": 27,
    "first_seen": "2026-02-17",
    "last_seen": "2026-08-05"
-  },
-  {
-   "name": "Funds & Fundraising",
-   "count": 27,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-08-03"
   },
   {
    "name": "Ports & Terminals",
@@ -1216,6 +1216,59 @@
    "m": "2026-08",
    "t": "story-i-squared-capital-agrees-to-buy-ooh-medi",
    "x": 1
+  },
+  {
+   "id": "2026-08-10-nvidia-recruits-apollo-blackrock-blackstone-broo-0fb377",
+   "d": "2026-08-10",
+   "h": "Nvidia recruits Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to fund $500bn of AI compute",
+   "s": "sponsor_moves",
+   "f": [
+    "Blackstone",
+    "Brookfield",
+    "KKR",
+    "Apollo"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Funds & Fundraising"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-nvidia-recruits-apollo-blackrock-blackst",
+   "x": 0
+  },
+  {
+   "id": "2026-08-10-energy-vault-to-supply-1-25gw-of-off-grid-batter-bd3e4d",
+   "d": "2026-08-10",
+   "h": "Energy Vault to supply 1.25GW of off-grid battery storage for a Texas hyperscale data center",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-energy-vault-to-supply-1-25gw-of-off-gri",
+   "x": 0
+  },
+  {
+   "id": "2026-08-10-hd-hyundai-signs-674m-deal-to-supply-gas-engines-bffdfe",
+   "d": "2026-08-10",
+   "h": "HD Hyundai signs $674m deal to supply gas engines for US data centers",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-hd-hyundai-signs-674m-deal-to-supply-gas",
+   "x": 0
   },
   {
    "id": "2026-08-05-i-squared-capital-buys-indonesian-cold-storage-a-9d592a",

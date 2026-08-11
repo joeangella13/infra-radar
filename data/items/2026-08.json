@@ -1,6 +1,70 @@
 [
  {
   "date": "2026-08-10",
+  "headline": "Energy Vault to supply 1.25GW of off-grid battery storage for a Texas hyperscale data center",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Data Center Dynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/"
+   }
+  ],
+  "players": "Energy Vault signed a deal to supply battery energy storage systems, grid-forming power conversion equipment and AI infrastructure control software for a 1.25GW integrated power deployment at a hyperscale data center in Texas. The developer is unnamed; the companies will jointly deploy fully integrated, off-grid power systems to speed the site's connection by avoiding utility interconnection queues, with initial deployments starting in four to 12 months.",
+  "why_it_matters": "This is one of the largest off-grid storage commitments tied to a single data center site so far, and a live example of the 'island mode' thesis where storage plus generation replaces grid interconnection entirely. It's a scale comp for how big behind-the-meter storage platforms are getting priced.",
+  "why_you_care": "Confirms storage-plus-generation packages are scaling fast for data centers, relevant if MSIP looks at a similar behind-the-meter platform.",
+  "firms": [],
+  "companies": [
+   "Energy Vault"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-10-energy-vault-to-supply-1-25gw-of-off-grid-batter-bd3e4d",
+  "story_id": "story-energy-vault-to-supply-1-25gw-of-off-gri",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-10",
+  "headline": "HD Hyundai signs $674m deal to supply gas engines for US data centers",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "UPI",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/10/biz-hd-hyundai-data-center-power-deal/8781786398600/"
+   }
+  ],
+  "players": "HD Hyundai Heavy Industries secured a 956 billion won ($674 million) contract to supply power generation equipment for US data centers operated by a major tech company as AI demand drives electricity infrastructure investment. The company signed the agreement with US energy infrastructure developer Corban Energy Group to supply generating systems based on its 9.6-megawatt HiMSEN engines.",
+  "why_it_matters": "This stacks on top of INNIO's 1.1GW gas-engine order from the prior week, confirming reciprocating gas engines are becoming a standard bridge technology while grid interconnects lag. The pricing and delivery timeline here is a direct comp for behind-the-meter power economics.",
+  "why_you_care": "A fresh gas-engine pricing data point to mark against the INNIO and Entergy deals already on your board.",
+  "firms": [],
+  "companies": [
+   "HD Hyundai Heavy Industries",
+   "Corban Energy Group"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States",
+   "South Korea"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-10-hd-hyundai-signs-674m-deal-to-supply-gas-engines-bffdfe",
+  "story_id": "story-hd-hyundai-signs-674m-deal-to-supply-gas",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-10",
   "headline": "I Squared Capital agrees to buy oOh!media for A$1.70/share, ~$1.04bn enterprise value",
   "section": "sponsor_moves",
   "sources": [
@@ -40,6 +104,52 @@
   ],
   "id": "2026-08-10-i-squared-capital-agrees-to-buy-ooh-media-for-a-e8e341",
   "story_id": "story-i-squared-capital-agrees-to-buy-ooh-medi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-10",
+  "headline": "Nvidia recruits Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to fund $500bn of AI compute",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "NVIDIA Newsroom",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital"
+   },
+   {
+    "name": "Blackstone",
+    "url": "https://www.blackstone.com/news/press/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital/"
+   }
+  ],
+  "players": "Nvidia announced strategic partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to set up independent compute financing platforms aimed at mobilizing over $500 billion of third-party capital for AI infrastructure buildout over time. The six firms will create dedicated capital pools so Nvidia customers can finance GPU-based AI factories at scale and at attractive rates.",
+  "why_it_matters": "This turns Nvidia compute itself into a financeable asset class, letting infrastructure and credit funds lend against chip cash flows rather than just data-center real estate. It locks in six firms — three of them on your watchlist — as the preferred balance sheets for AI compute buildout, resetting how AI infra debt gets priced. Watch whether follow-on vehicles open to other sponsors.",
+  "why_you_care": "Brookfield, Blackstone and KKR just got first pick on financing Nvidia's AI buildout, a structure MSIP is not yet part of.",
+  "firms": [
+   "Blackstone",
+   "Brookfield",
+   "KKR",
+   "Apollo"
+  ],
+  "companies": [
+   "Nvidia",
+   "Apollo",
+   "BlackRock",
+   "Blackstone",
+   "Brookfield",
+   "Goldman Sachs",
+   "KKR"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-10-nvidia-recruits-apollo-blackrock-blackstone-broo-0fb377",
+  "story_id": "story-nvidia-recruits-apollo-blackrock-blackst",
   "story_size": 1
  },
  {
