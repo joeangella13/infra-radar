@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T11:13:39+00:00",
+ "generated_at": "2026-08-12T11:15:27+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 247,
+ "total_items": 248,
  "months": [
   "2026-08",
   "2026-07",
@@ -33,7 +33,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-08-10"
+  "2026-08-11"
  ],
  "firms": [
   {
@@ -93,6 +93,14 @@
    "last_seen": "2026-07-23"
   },
   {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": false,
+   "count": 6,
+   "first_seen": "2026-05-11",
+   "last_seen": "2026-08-11"
+  },
+  {
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
@@ -107,14 +115,6 @@
    "count": 5,
    "first_seen": "2026-05-25",
    "last_seen": "2026-08-10"
-  },
-  {
-   "name": "Stonepeak",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-05-11",
-   "last_seen": "2026-07-28"
   },
   {
    "name": "Blue Wolf Capital Partners",
@@ -1152,21 +1152,21 @@
   },
   {
    "name": "Rail",
-   "count": 29,
+   "count": 30,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-05"
+   "last_seen": "2026-08-11"
+  },
+  {
+   "name": "Transport & Logistics",
+   "count": 28,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-08-11"
   },
   {
    "name": "Funds & Fundraising",
    "count": 28,
    "first_seen": "2026-05-04",
    "last_seen": "2026-08-10"
-  },
-  {
-   "name": "Transport & Logistics",
-   "count": 27,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-08-05"
   },
   {
    "name": "Ports & Terminals",
@@ -1200,6 +1200,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-11-stonepeak-buys-an-860-100-sq-ft-rail-served-ware-61fde0",
+   "d": "2026-08-11",
+   "h": "Stonepeak buys an 860,100 sq ft rail-served warehouse in Fort Worth's Alliance submarket",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics",
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-stonepeak-buys-an-860-100-sq-ft-rail-ser",
+   "x": 1
+  },
   {
    "id": "2026-08-10-i-squared-capital-agrees-to-buy-ooh-media-for-a-e8e341",
    "d": "2026-08-10",

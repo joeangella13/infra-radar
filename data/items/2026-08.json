@@ -1,5 +1,44 @@
 [
  {
+  "date": "2026-08-11",
+  "headline": "Stonepeak buys an 860,100 sq ft rail-served warehouse in Fort Worth's Alliance submarket",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Stonepeak",
+    "url": "https://stonepeak.com/news/stonepeak-acquires-rail-served-logistics-asset-in-fort-worth-texas"
+   },
+   {
+    "name": "The Middle Market",
+    "url": "https://www.themiddlemarket.com/latest-news/stonepeak-acquires-fort-worth-logistics-asset"
+   }
+  ],
+  "players": "Stonepeak announced the acquisition on August 11, 2026. The asset sits in the Alliance submarket of Dallas-Fort Worth, next to the BNSF Alliance intermodal terminal and Fort Worth Alliance cargo airport, with direct access to I-35. Terms undisclosed.",
+  "why_it_matters": "This is a single-asset logistics real estate buy, not a platform deal, but it shows Stonepeak leaning further into rail-adjacent industrial space as a real-asset yield play tied to nearshoring and DFW's population growth (projected 3x the national average through 2031). Watch whether this becomes a seed for a broader logistics platform, the way Stonepeak has built out digital infrastructure via bolt-ons.",
+  "why_you_care": "A direct competitor quietly building a logistics real-asset book around rail nodes — a different entry point into the same intermodal/rail theme MSIP could underwrite.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [
+   "Stonepeak"
+  ],
+  "sectors": [
+   "Transport & Logistics",
+   "Rail"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-08-11-stonepeak-buys-an-860-100-sq-ft-rail-served-ware-61fde0",
+  "story_id": "story-stonepeak-buys-an-860-100-sq-ft-rail-ser",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-10",
   "headline": "Energy Vault to supply 1.25GW of off-grid battery storage for a Texas hyperscale data center",
   "section": "sector_themes",

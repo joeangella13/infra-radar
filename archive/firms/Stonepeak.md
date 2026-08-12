@@ -1,6 +1,20 @@
 # Stonepeak
 
-5 items, 2026-05-11 to 2026-07-28.
+6 items, 2026-05-11 to 2026-08-11.
+
+---
+
+### **[watchlist]** Stonepeak buys an 860,100 sq ft rail-served warehouse in Fort Worth's Alliance submarket
+
+`2026-08-11` · Sponsor moves · [Stonepeak](https://stonepeak.com/news/stonepeak-acquires-rail-served-logistics-asset-in-fort-worth-texas), [The Middle Market](https://www.themiddlemarket.com/latest-news/stonepeak-acquires-fort-worth-logistics-asset)
+
+**Deal / players.** Stonepeak announced the acquisition on August 11, 2026. The asset sits in the Alliance submarket of Dallas-Fort Worth, next to the BNSF Alliance intermodal terminal and Fort Worth Alliance cargo airport, with direct access to I-35. Terms undisclosed.
+
+**Why it matters.** This is a single-asset logistics real estate buy, not a platform deal, but it shows Stonepeak leaning further into rail-adjacent industrial space as a real-asset yield play tied to nearshoring and DFW's population growth (projected 3x the national average through 2031). Watch whether this becomes a seed for a broader logistics platform, the way Stonepeak has built out digital infrastructure via bolt-ons.
+
+**Why you care.** A direct competitor quietly building a logistics real-asset book around rail nodes — a different entry point into the same intermodal/rail theme MSIP could underwrite.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics, Rail · Geo: United States · id: `2026-08-11-stonepeak-buys-an-860-100-sq-ft-rail-served-ware-61fde0`</sub>
 
 ---
 
