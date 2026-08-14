@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T11:15:48+00:00",
+ "generated_at": "2026-08-14T11:13:56+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 249,
+ "total_items": 251,
  "months": [
   "2026-08",
   "2026-07",
@@ -85,6 +85,14 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 6,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-08-12"
+  },
+  {
    "name": "Meridiam",
    "watchlist": true,
    "priority": false,
@@ -107,14 +115,6 @@
    "count": 5,
    "first_seen": "2026-05-07",
    "last_seen": "2026-07-20"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-08-10"
   },
   {
    "name": "Blue Wolf Capital Partners",
@@ -869,6 +869,14 @@
    "last_seen": "2026-07-08"
   },
   {
+   "name": "Mubadala",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12"
+  },
+  {
    "name": "NextEra Energy",
    "watchlist": false,
    "priority": false,
@@ -1050,9 +1058,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 11,
+   "count": 12,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-12"
   },
   {
    "key": "avangrid_arclight",
@@ -1152,15 +1160,15 @@
   },
   {
    "name": "Rail",
-   "count": 30,
+   "count": 31,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-11"
+   "last_seen": "2026-08-12"
   },
   {
    "name": "Transport & Logistics",
-   "count": 28,
+   "count": 29,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-08-11"
+   "last_seen": "2026-08-12"
   },
   {
    "name": "Funds & Fundraising",
@@ -1212,6 +1220,41 @@
    "m": "2026-08",
    "t": "story-eqt-infrastructure-offers-a-6-9bn-4-9bn",
    "x": 0
+  },
+  {
+   "id": "2026-08-12-brightline-lands-56-5m-federal-grant-for-a-cocoa-ed67dd",
+   "d": "2026-08-12",
+   "h": "Brightline lands $56.5m federal grant for a Cocoa station as S&P and Fitch downgrades pile on",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-brightline-lands-56-5m-federal-grant-for",
+   "x": 0
+  },
+  {
+   "id": "2026-08-12-i-squared-capital-marks-completed-public-listing-28b3ef",
+   "d": "2026-08-12",
+   "h": "I Squared Capital marks completed public listing of its Cube Highways Trust InvIT in India",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital",
+    "Mubadala"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-i-squared-capital-marks-completed-public",
+   "x": 1
   },
   {
    "id": "2026-08-11-stonepeak-buys-an-860-100-sq-ft-rail-served-ware-61fde0",

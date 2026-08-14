@@ -1,6 +1,85 @@
 [
  {
   "date": "2026-08-12",
+  "headline": "Brightline lands $56.5m federal grant for a Cocoa station as S&P and Fitch downgrades pile on",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "ClickOrlando",
+    "url": "https://www.clickorlando.com/news/local/2026/08/12/transformational-project-cocoa-secures-dollar56-million-federal-grant-for-brightline-station/"
+   },
+   {
+    "name": "ClickOrlando video",
+    "url": "https://www.clickorlando.com/video/news/2026/08/12/transformational-project-cocoa-secures-56-million-federal-grant-for-brightline-station/"
+   }
+  ],
+  "players": "The city of Cocoa secured a $56.48 million federal grant toward a future Brightline station on the Space Coast, with service there possible as soon as 2030. The news lands alongside recent debt-rating downgrades from S&P and Fitch that raise the odds of a default, even as Brightline says Q2 2026 was its highest-revenue quarter ever.",
+  "why_it_matters": "A federal grant for expansion is a vote of confidence in the network's long-term route map at the same time bondholders keep granting short-term payment relief on the AAFOH and commuter debt. The split signal, expansion funding versus rating downgrades, is exactly the tension underwriters need to track heading into any restructuring talks.",
+  "why_you_care": "New expansion funding alongside fresh downgrades bears directly on the bond-restructuring thesis behind the Brightline deal he executed at Rothschild.",
+  "firms": [],
+  "companies": [
+   "Brightline Florida"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "Florida"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-08-12-brightline-lands-56-5m-federal-grant-for-a-cocoa-ed67dd",
+  "story_id": "story-brightline-lands-56-5m-federal-grant-for",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-12",
+  "headline": "I Squared Capital marks completed public listing of its Cube Highways Trust InvIT in India",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "I Squared Capital",
+    "url": "https://isquaredcapital.com/"
+   },
+   {
+    "name": "IndMoney",
+    "url": "https://www.indmoney.com/ipo/cube-highways-trust-ipo"
+   },
+   {
+    "name": "Zerodha",
+    "url": "https://zerodha.com/ipo/453059/cube-highways-trust/"
+   }
+  ],
+  "players": "I Squared Capital announced completion of the public listing of Cube Highways Trust, an Indian road InvIT it co-sponsors alongside BCI and Mubadala (via Seventy Second). The trust holds 27 operational highway assets covering 8,754 lane kilometres across 12 states, run under toll, annuity and hybrid-annuity concessions.",
+  "why_it_matters": "Taking a private toll-road platform public via India's InvIT structure is a proven exit route for mid-market infrastructure sponsors to recycle capital while keeping a stake, and it gives I Squared a fresh public comp for its own road book. It also confirms Indian InvIT demand is intact even after a lukewarm early subscription.",
+  "why_you_care": "Shows how a direct competitor monetizes mature transport assets through public listing rather than a trade sale, a route MSIP could weigh for its own infrastructure exits.",
+  "firms": [
+   "I Squared Capital",
+   "Mubadala"
+  ],
+  "companies": [
+   "Cube Highways Trust"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "India"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-08-12-i-squared-capital-marks-completed-public-listing-28b3ef",
+  "story_id": "story-i-squared-capital-marks-completed-public",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-12",
   "headline": "EQT Infrastructure offers A$6.9bn ($4.9bn) for Australia's Cleanaway Waste Management",
   "section": "sponsor_moves",
   "sources": [
