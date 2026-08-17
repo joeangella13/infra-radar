@@ -1,13 +1,13 @@
 # Archive
 
-251 items, 2026-01-13 to 2026-08-12.
+254 items, 2026-01-13 to 2026-08-17.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-08](2026-08.md) — 13 items
+- [2026-08](2026-08.md) — 16 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
 - [2026-05](2026-05.md) — 46 items
@@ -19,9 +19,9 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
-- [Brightline Florida](situations/brightline.md) — 12 items
+- [Brightline Florida](situations/brightline.md) — 13 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
-- [Hydrostor](situations/hydrostor.md) — 5 items
+- [Hydrostor](situations/hydrostor.md) — 6 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 4 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 5 items
@@ -32,7 +32,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 - [MSIP](firms/MSIP.md) ◆ — 22 items
 - [Blackstone](firms/Blackstone.md) — 11 items
-- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 9 items
+- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 10 items
 - [Brookfield](firms/Brookfield.md) — 8 items
 - [KKR](firms/KKR.md) — 7 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 7 items
@@ -62,6 +62,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Ridgewood Infrastructure](firms/Ridgewood-Infrastructure.md) — 1 items
 - [Actis](firms/Actis.md) — 1 items
 - [Argo Infrastructure](firms/Argo-Infrastructure.md) — 1 items
+- [CPP Investments](firms/CPP-Investments.md) — 1 items
 - [Mubadala](firms/Mubadala.md) — 1 items
 
 ---

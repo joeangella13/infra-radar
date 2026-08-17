@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T11:13:56+00:00",
+ "generated_at": "2026-08-17T10:56:10+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 251,
+ "total_items": 254,
  "months": [
   "2026-08",
   "2026-07",
@@ -33,7 +33,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-08-12"
+  "2026-08-17"
  ],
  "firms": [
   {
@@ -56,9 +56,9 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-07-27"
+   "last_seen": "2026-08-14"
   },
   {
    "name": "Brookfield",
@@ -197,6 +197,14 @@
    "last_seen": "2026-07-29"
   },
   {
+   "name": "Baker Hughes",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-01-28",
+   "last_seen": "2026-08-14"
+  },
+  {
    "name": "Barclays",
    "watchlist": false,
    "priority": false,
@@ -229,6 +237,14 @@
    "last_seen": "2026-03-11"
   },
   {
+   "name": "Canada Growth Fund",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-05-13",
+   "last_seen": "2026-08-14"
+  },
+  {
    "name": "Carlyle",
    "watchlist": true,
    "priority": false,
@@ -259,6 +275,14 @@
    "count": 2,
    "first_seen": "2026-05-14",
    "last_seen": "2026-07-29"
+  },
+  {
+   "name": "Goldman Sachs Alternatives",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-06-01",
+   "last_seen": "2026-08-14"
   },
   {
    "name": "IFM Investors",
@@ -453,14 +477,6 @@
    "last_seen": "2026-03-12"
   },
   {
-   "name": "Baker Hughes",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-01-28",
-   "last_seen": "2026-01-28"
-  },
-  {
    "name": "Bank of America",
    "watchlist": false,
    "priority": false,
@@ -483,6 +499,14 @@
    "count": 1,
    "first_seen": "2026-07-28",
    "last_seen": "2026-07-28"
+  },
+  {
+   "name": "CPP Investments",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14"
   },
   {
    "name": "CVC Capital Partners",
@@ -515,14 +539,6 @@
    "count": 1,
    "first_seen": "2026-02-12",
    "last_seen": "2026-02-12"
-  },
-  {
-   "name": "Canada Growth Fund",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-05-13",
-   "last_seen": "2026-05-13"
   },
   {
    "name": "Chapman & Cutler",
@@ -707,14 +723,6 @@
    "count": 1,
    "first_seen": "2026-05-04",
    "last_seen": "2026-05-04"
-  },
-  {
-   "name": "Goldman Sachs Alternatives",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-06-01",
-   "last_seen": "2026-06-01"
   },
   {
    "name": "Greenbriar Equity Group",
@@ -1058,9 +1066,17 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 12,
+   "count": 13,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-08-12"
+   "last_seen": "2026-08-14"
+  },
+  {
+   "key": "hydrostor",
+   "label": "Hydrostor",
+   "note": "Long-duration compressed air energy storage",
+   "count": 6,
+   "first_seen": "2026-01-28",
+   "last_seen": "2026-08-14"
   },
   {
    "key": "avangrid_arclight",
@@ -1077,14 +1093,6 @@
    "count": 5,
    "first_seen": "2026-04-30",
    "last_seen": "2026-08-05"
-  },
-  {
-   "key": "hydrostor",
-   "label": "Hydrostor",
-   "note": "Long-duration compressed air energy storage",
-   "count": 5,
-   "first_seen": "2026-01-28",
-   "last_seen": "2026-07-09"
   },
   {
    "key": "mcdermott_nmdc",
@@ -1130,9 +1138,9 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 96,
+   "count": 97,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-08-10"
+   "last_seen": "2026-08-17"
   },
   {
    "name": "Digital Infrastructure",
@@ -1142,15 +1150,15 @@
   },
   {
    "name": "Regulatory & Policy",
-   "count": 55,
+   "count": 56,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-03"
+   "last_seen": "2026-08-17"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 41,
+   "count": 42,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-08-10"
+   "last_seen": "2026-08-14"
   },
   {
    "name": "Midstream & Gas",
@@ -1160,9 +1168,9 @@
   },
   {
    "name": "Rail",
-   "count": 31,
+   "count": 32,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-12"
+   "last_seen": "2026-08-14"
   },
   {
    "name": "Transport & Logistics",
@@ -1208,6 +1216,63 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-17-pjm-s-60-day-deadline-to-justify-or-rewrite-larg-fbbabe",
+   "d": "2026-08-17",
+   "h": "PJM's 60-day deadline to justify or rewrite large-load interconnection tariffs to FERC lands today",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-pjm-s-60-day-deadline-to-justify-or-rewr",
+   "x": 0
+  },
+  {
+   "id": "2026-08-14-hydrostor-raises-230m-equity-round-to-push-willo-13e8e2",
+   "d": "2026-08-14",
+   "h": "Hydrostor raises $230m equity round to push Willow Rock CAES project toward financial close",
+   "s": "tracked_situations",
+   "f": [
+    "Goldman Sachs Alternatives",
+    "CPP Investments",
+    "Canada Growth Fund",
+    "Baker Hughes"
+   ],
+   "u": [
+    "hydrostor"
+   ],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-hydrostor-raises-230m-equity-round-to-pu",
+   "x": 0
+  },
+  {
+   "id": "2026-08-14-brightline-s-cocoa-grant-balloons-into-a-5-3bn-f-ddb2d5",
+   "d": "2026-08-14",
+   "h": "Brightline's Cocoa grant balloons into a $5.3bn federal rail package, with $2bn diverted from cancelled California HSR",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-brightline-s-cocoa-grant-balloons-into-a",
+   "x": 0
+  },
   {
    "id": "2026-08-12-eqt-infrastructure-offers-a-6-9bn-4-9bn-for-aust-5878ee",
    "d": "2026-08-12",
