@@ -1,6 +1,20 @@
 # I Squared Capital
 
-6 items, 2026-05-25 to 2026-08-12.
+7 items, 2026-05-25 to 2026-08-17.
+
+---
+
+### **[watchlist]** I Squared-backed WhiteWater JV sanctions twin 48-inch Permian-to-Katy gas pipelines
+
+`2026-08-17` · Sponsor moves · [BOE Report](https://boereport.com/2026/08/17/solitude-pipeline-system-reaches-final-investment-decision-to-transport-gas-from-the-permian-basin-to-the-gulf-coast/), [Offshore Technology](https://www.offshore-technology.com/news/whitewater-fid-solitude-pipeline-system/), [Simpson Thacher](https://www.stblaw.com/about-us/news/view/2026/08/17/solitude-pipeline-system-reaches-final-investment-decision)
+
+**Deal / players.** WhiteWater and partners Devon Energy, MPLX, Diamondback Energy and Western Midstream took a positive final investment decision on the Solitude Pipeline System, two 48-inch gas lines from the Permian Basin to Katy, Texas, with initial capacity of roughly 2.25 Bcf/d in late 2029 and another 2.25 Bcf/d in 2030. WhiteWater holds a 50% stake in the JV, with Devon at 25%, MPLX 10%, and Diamondback and Western Midstream at 7.5% each; I Squared Capital and FIC Partners Management are partners inside WhiteWater's share (terms undisclosed).
+
+**Why it matters.** The line has already secured substantial long-term firm transportation agreements with mostly investment-grade shippers, so cash flow is largely locked in before construction starts. It's I Squared's second Permian-to-Gulf pipeline bet alongside WhiteWater after last year's Matterhorn Express stake, underscoring a repeatable playbook of buying contracted gas-takeaway capacity as basin gas-to-oil ratios rise and Gulf Coast LNG and power demand grows.
+
+**Why you care.** A rival mid-market sponsor stacking contracted Permian gas-takeaway stakes is a live comp for how midstream capacity feeding AI-era gas demand gets priced.
+
+<sub>Firms: I Squared Capital · Sectors: Midstream & Gas · Geo: US, Texas · id: `2026-08-17-i-squared-backed-whitewater-jv-sanctions-twin-48-dcb764`</sub>
 
 ---
 

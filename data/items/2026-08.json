@@ -1,6 +1,55 @@
 [
  {
   "date": "2026-08-17",
+  "headline": "I Squared-backed WhiteWater JV sanctions twin 48-inch Permian-to-Katy gas pipelines",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "BOE Report",
+    "url": "https://boereport.com/2026/08/17/solitude-pipeline-system-reaches-final-investment-decision-to-transport-gas-from-the-permian-basin-to-the-gulf-coast/"
+   },
+   {
+    "name": "Offshore Technology",
+    "url": "https://www.offshore-technology.com/news/whitewater-fid-solitude-pipeline-system/"
+   },
+   {
+    "name": "Simpson Thacher",
+    "url": "https://www.stblaw.com/about-us/news/view/2026/08/17/solitude-pipeline-system-reaches-final-investment-decision"
+   }
+  ],
+  "players": "WhiteWater and partners Devon Energy, MPLX, Diamondback Energy and Western Midstream took a positive final investment decision on the Solitude Pipeline System, two 48-inch gas lines from the Permian Basin to Katy, Texas, with initial capacity of roughly 2.25 Bcf/d in late 2029 and another 2.25 Bcf/d in 2030. WhiteWater holds a 50% stake in the JV, with Devon at 25%, MPLX 10%, and Diamondback and Western Midstream at 7.5% each; I Squared Capital and FIC Partners Management are partners inside WhiteWater's share (terms undisclosed).",
+  "why_it_matters": "The line has already secured substantial long-term firm transportation agreements with mostly investment-grade shippers, so cash flow is largely locked in before construction starts. It's I Squared's second Permian-to-Gulf pipeline bet alongside WhiteWater after last year's Matterhorn Express stake, underscoring a repeatable playbook of buying contracted gas-takeaway capacity as basin gas-to-oil ratios rise and Gulf Coast LNG and power demand grows.",
+  "why_you_care": "A rival mid-market sponsor stacking contracted Permian gas-takeaway stakes is a live comp for how midstream capacity feeding AI-era gas demand gets priced.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "WhiteWater",
+   "Devon Energy",
+   "MPLX",
+   "Diamondback Energy",
+   "Western Midstream Partners",
+   "I Squared Capital",
+   "FIC Partners Management"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US",
+   "Texas"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-08-17-i-squared-backed-whitewater-jv-sanctions-twin-48-dcb764",
+  "story_id": "story-i-squared-backed-whitewater-jv-sanctions",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-17",
   "headline": "PJM's 60-day deadline to justify or rewrite large-load interconnection tariffs to FERC lands today",
   "section": "market_regulatory",
   "sources": [
