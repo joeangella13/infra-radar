@@ -1,5 +1,41 @@
 [
  {
+  "date": "2026-08-18",
+  "headline": "Deutsche Bahn puts DB Cargo UK up for sale as it refocuses on Central Europe",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/freight/2026/08/18/deutsche-bahn-puts-db-cargo-uk-up-for-sale-as-it-focuses-on-central-europe/"
+   },
+   {
+    "name": "International Railway Journal",
+    "url": "https://www.railjournal.com/financial/db-puts-british-freight-business-up-for-sale/"
+   }
+  ],
+  "players": "DB Cargo UK's board announced on August 17 it has appointed legal and financial advisers to find a new owner, with talks with interested parties already underway according to trade press. The business employs about 2,200-2,155 people and runs UK freight, infrastructure and passenger charter services plus Channel Tunnel cross-border freight; parent DB Cargo AG is refocusing on Central Europe after a 2024 EU State Aid ruling forced a restructuring that includes cutting over 6,000 German jobs by 2030.",
+  "why_it_matters": "This is a real rail freight platform coming to market with a large asset base and property portfolio, not a rumor - advisers are mandated and buyer conversations have started. Revenue fell and losses persist (£12.3m loss in 2024 accounts, though improving), so pricing will hinge on turnaround credibility. Watch who shows up on the bid list: infra funds with rail operating experience have circled UK freight before.",
+  "why_you_care": "A rail freight platform sale is exactly the kind of situation his Brightline and LOGISTEC/Termont experience trained him to underwrite quickly.",
+  "firms": [],
+  "companies": [
+   "DB Cargo UK",
+   "Deutsche Bahn"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "UK"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-18-deutsche-bahn-puts-db-cargo-uk-up-for-sale-as-it-864fb0",
+  "story_id": "story-deutsche-bahn-puts-db-cargo-uk-up-for-sa",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-17",
   "headline": "I Squared-backed WhiteWater JV sanctions twin 48-inch Permian-to-Katy gas pipelines",
   "section": "sponsor_moves",
@@ -46,6 +82,44 @@
   ],
   "id": "2026-08-17-i-squared-backed-whitewater-jv-sanctions-twin-48-dcb764",
   "story_id": "story-i-squared-backed-whitewater-jv-sanctions",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-17",
+  "headline": "Army Corps grants federal permit for $1.8-3bn Louisiana International Terminal on the Mississippi",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Seatrade Maritime News",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/federal-greenlight-for-new-louisiana-deepwater-container-terminal"
+   },
+   {
+    "name": "Fox 8 Live",
+    "url": "https://www.fox8live.com/2026/08/17/federal-permit-granted-18-billion-louisiana-international-terminal-container-ship-port/"
+   }
+  ],
+  "players": "The U.S. Army Corps of Engineers granted the federal permit authorizing construction of the Louisiana International Terminal, a greenfield deepwater container port in St. Bernard Parish being built as a public-private partnership between Port NOLA, MSC's Terminal Investment Limited and Ports America. The facility is designed to handle ships over 16,000 TEU that can't currently reach New Orleans, with financing for the roughly $2-3bn port and $1bn of supporting infrastructure still to be finalized.",
+  "why_it_matters": "This is the only new greenfield US container port in development and would connect to every Class I railroad plus the interstate system, a scarce combination that ports investors pay up for. Permitting was the main gating item; the next catalyst is financial close on a multi-billion-dollar capital stack, which is where infra equity and project debt will compete for a piece.",
+  "why_you_care": "A live, financeable greenfield port project gives him a fresh comp for how ports and terminal assets get valued and structured.",
+  "firms": [],
+  "companies": [
+   "Port of New Orleans",
+   "Terminal Investment Limited",
+   "Ports America"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US",
+   "Louisiana"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-17-army-corps-grants-federal-permit-for-1-8-3bn-lou-a619aa",
+  "story_id": "story-army-corps-grants-federal-permit-for-1-8",
   "story_size": 1
  },
  {
