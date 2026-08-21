@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-13 items, 2026-05-15 to 2026-08-14.
+14 items, 2026-05-15 to 2026-08-20.
+
+---
+
+### Brightline's Cocoa station enters construction phase as Space Coast extension advances
+
+`2026-08-20` · Tracked situations · [Planetizen](https://www.planetizen.com/news/2026/08/138253-brightline-expands-service-floridas-space-coast)
+
+**Deal / players.** Brightline's new Cocoa, Florida station - funded by the $57.5m federal grant already reported this month - is now moving into construction, per an August 20 update, with plans for parking, amenities and four miles of double track linking to Port Canaveral and Kennedy Space Center access.
+
+**Why it matters.** This is process news, not a new funding event: the grant was already reported August 11-14, but confirmation the project has cleared into construction is a small positive proof point for Brightline's capital program even as its bond restructuring drags on with a sixth AAFOH grace period and a 15th commuter-bond extension.
+
+**Why you care.** Small forward step on a deal you underwrote directly; the debt story and grace-period pattern are the bigger thing to keep tracking.
+
+<sub>Situations: brightline · Sectors: Rail · Geo: US · id: `2026-08-20-brightline-s-cocoa-station-enters-construction-p-432354`</sub>
 
 ---
 
