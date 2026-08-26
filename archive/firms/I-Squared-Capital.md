@@ -1,6 +1,20 @@
 # I Squared Capital
 
-7 items, 2026-05-25 to 2026-08-17.
+8 items, 2026-05-25 to 2026-08-20.
+
+---
+
+### **[watchlist]** I Squared Capital launches Saragon, a $1bn data-center platform seeded with 10 ex-Cogent sites
+
+`2026-08-20` · Sponsor moves · [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/i-squared-capital-launches-data-center-firm-saragon/)
+
+**Deal / players.** I Squared Capital is backing new data-center company Saragon with up to $1 billion in committed capital. The platform is seeded with ten data centers across nine US markets (Chicago, Atlanta, Phoenix, Los Angeles, Kansas City, Baltimore, Houston, Nashville, Stockton) acquired from Cogent, totaling about 53MW of installed power and 259,000 sq ft of colocation space.
+
+**Why it matters.** This is a platform play, not a one-off buy: I Squared is using a discrete Cogent carve-out as a base to scale a national colo footprint, the same playbook sponsors are using across digital infra right now. It sets a fresh comp for small/mid-market colo assets (roughly 5.3MW average per site) at a moment when MSIP holds a competing digital infra position through Flexential.
+
+**Why you care.** Direct competitor building a digital-infra platform from scratch gives you a fresh comp set to mark Flexential and future MSIP digital deals against.
+
+<sub>Firms: I Squared Capital · Sectors: Digital Infrastructure · Geo: United States · id: `2026-08-20-i-squared-capital-launches-saragon-a-1bn-data-ce-2966a6`</sub>
 
 ---
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T10:58:26+00:00",
+ "generated_at": "2026-08-26T11:00:46+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 259,
+ "total_items": 260,
  "months": [
   "2026-08",
   "2026-07",
@@ -69,20 +69,20 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 8,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-08-20"
+  },
+  {
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
    "count": 7,
    "first_seen": "2026-05-15",
    "last_seen": "2026-07-27"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 7,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-08-17"
   },
   {
    "name": "KKR",
@@ -1144,9 +1144,9 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 81,
+   "count": 82,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-08-10"
+   "last_seen": "2026-08-20"
   },
   {
    "name": "Regulatory & Policy",
@@ -1231,6 +1231,23 @@
    "m": "2026-08",
    "t": "story-ad-ports-hires-hsbc-as-8-6bn-l-imad-take",
    "x": 0
+  },
+  {
+   "id": "2026-08-20-i-squared-capital-launches-saragon-a-1bn-data-ce-2966a6",
+   "d": "2026-08-20",
+   "h": "I Squared Capital launches Saragon, a $1bn data-center platform seeded with 10 ex-Cogent sites",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-i-squared-capital-launches-saragon-a-1bn",
+   "x": 1
   },
   {
    "id": "2026-08-20-brightline-s-cocoa-station-enters-construction-p-432354",
