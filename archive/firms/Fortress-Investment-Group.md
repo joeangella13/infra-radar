@@ -1,6 +1,20 @@
 # Fortress Investment Group
 
-10 items, 2026-04-30 to 2026-08-14.
+11 items, 2026-04-30 to 2026-08-26.
+
+---
+
+### Brightline lines up $350m rescue loan with Assured Guaranty ahead of possible Chapter 11
+
+`2026-08-26` · Tracked situations · [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-26/brightline-lands-350-million-assured-loan-in-case-of-bankruptcy)
+
+**Deal / players.** Brightline has reached a deal with municipal-bond insurer Assured Guaranty for at least $350 million in new loans if it files Chapter 11. The move addresses urgency around Fortress-backed Brightline's $5.5 billion of obligations.
+
+**Why it matters.** Lining up a rescue facility before a filing is the clearest signal yet that management sees bankruptcy as the likely path, not a tail risk. Watch whether this becomes a pre-packaged restructuring that wipes out equity while keeping the railroad running, and how bondholders react to Assured stepping in as a backstop.
+
+**Why you care.** This is the deal he underwrote at Rothschild; a bond-insurer-backed bankruptcy loan changes the recovery math on the debt stack he modeled.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US · id: `2026-08-26-brightline-lines-up-350m-rescue-loan-with-assure-bb6026`</sub>
 
 ---
 

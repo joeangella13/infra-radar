@@ -2,7 +2,35 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-14 items, 2026-05-15 to 2026-08-20.
+16 items, 2026-05-15 to 2026-08-27.
+
+---
+
+### Martin County scrambles for federal cash after Brightline's Stuart station misses a grant round
+
+`2026-08-27` · Tracked situations · [CBS12](https://cbs12.com/news/local/martin-county-says-stuart-brightline-station-plan-remains-on-track-despite-funding-hurdles-martin-county-15-million-federal-help-brian-mast-high-speed-rail-treasure-coast-)
+
+**Deal / players.** Martin County officials are pursuing federal funding to advance a long-planned Brightline station in downtown Stuart after missing a federal grant opportunity, and face opposition from Florida East Coast Railway, which owns the tracks.
+
+**Why it matters.** Station buildout keeps moving on local political will even as the parent company lines up bankruptcy financing, a split between capex ambition and balance-sheet reality that shows up across the corridor, not just at Cocoa.
+
+**Why you care.** A second data point on how station expansion plans are holding up against Brightline's deepening financial distress.
+
+<sub>Situations: brightline · Sectors: Rail · Geo: US · id: `2026-08-27-martin-county-scrambles-for-federal-cash-after-b-bc5682`</sub>
+
+---
+
+### Brightline lines up $350m rescue loan with Assured Guaranty ahead of possible Chapter 11
+
+`2026-08-26` · Tracked situations · [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-26/brightline-lands-350-million-assured-loan-in-case-of-bankruptcy)
+
+**Deal / players.** Brightline has reached a deal with municipal-bond insurer Assured Guaranty for at least $350 million in new loans if it files Chapter 11. The move addresses urgency around Fortress-backed Brightline's $5.5 billion of obligations.
+
+**Why it matters.** Lining up a rescue facility before a filing is the clearest signal yet that management sees bankruptcy as the likely path, not a tail risk. Watch whether this becomes a pre-packaged restructuring that wipes out equity while keeping the railroad running, and how bondholders react to Assured stepping in as a backstop.
+
+**Why you care.** This is the deal he underwrote at Rothschild; a bond-insurer-backed bankruptcy loan changes the recovery math on the debt stack he modeled.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US · id: `2026-08-26-brightline-lines-up-350m-rescue-loan-with-assure-bb6026`</sub>
 
 ---
 

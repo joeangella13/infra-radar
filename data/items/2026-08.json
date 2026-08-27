@@ -1,5 +1,136 @@
 [
  {
+  "date": "2026-08-27",
+  "headline": "Martin County scrambles for federal cash after Brightline's Stuart station misses a grant round",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "CBS12",
+    "url": "https://cbs12.com/news/local/martin-county-says-stuart-brightline-station-plan-remains-on-track-despite-funding-hurdles-martin-county-15-million-federal-help-brian-mast-high-speed-rail-treasure-coast-"
+   }
+  ],
+  "players": "Martin County officials are pursuing federal funding to advance a long-planned Brightline station in downtown Stuart after missing a federal grant opportunity, and face opposition from Florida East Coast Railway, which owns the tracks.",
+  "why_it_matters": "Station buildout keeps moving on local political will even as the parent company lines up bankruptcy financing, a split between capex ambition and balance-sheet reality that shows up across the corridor, not just at Cocoa.",
+  "why_you_care": "A second data point on how station expansion plans are holding up against Brightline's deepening financial distress.",
+  "firms": [],
+  "companies": [
+   "Brightline"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-08-27-martin-county-scrambles-for-federal-cash-after-b-bc5682",
+  "story_id": "story-martin-county-scrambles-for-federal-cash",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-26",
+  "headline": "StepStone closes debut infrastructure secondaries fund at $1.7bn",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/08/26/3351309/0/en/stepstone-group-closes-its-infrastructure-secondaries-fund-raising-1-7-billion-across-the-fund-and-related-separate-accounts.html"
+   }
+  ],
+  "players": "StepStone Group closed its first dedicated infrastructure secondaries vehicle, StepStone Secondaries Infrastructure Fund, and related separate accounts at $1.7 billion in total commitments. The fund is already around 50% deployed across 26 closed LP-interest and GP-led deals, mostly in the middle market.",
+  "why_it_matters": "It's another sign LPs are using secondaries to manage liquidity in an infrastructure market where exits have been slow, and that GP-led deals are becoming a normal tool rather than a last resort. Worth tracking against KKR's record $19.2bn Core+ close earlier in August as two very different signals about where LP dollars are going.",
+  "why_you_care": "Context on the fundraising environment MSIP and rivals are competing in, and a reminder secondaries are becoming a bigger piece of the capital stack.",
+  "firms": [],
+  "companies": [
+   "StepStone Group"
+  ],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "Global"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-26-stepstone-closes-debut-infrastructure-secondarie-603ee8",
+  "story_id": "story-stepstone-closes-debut-infrastructure-se",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-26",
+  "headline": "Enbridge pays $600m for Permian crude-gathering assets from Salt Creek Midstream",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "BNN Bloomberg",
+    "url": "https://www.bnnbloomberg.ca/business/economics/2026/08/26/enbridge-to-buy-salt-creek-midstream-crude-gathering-assets-for-us600-million/"
+   },
+   {
+    "name": "The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/08/27/this-energy-giant-just-bought-500-miles-of-pipeline-in-america-s-busiest-oil-field-here-s-why/"
+   }
+  ],
+  "players": "Enbridge is acquiring Salt Creek Midstream's crude oil gathering business for $600 million cash, gaining full ownership of the Orla and Wink North gathering systems and a 50% stake in Delaware Crossing, adding about 500 miles of Delaware Basin gathering infrastructure with roughly 10 years of average remaining contract life.",
+  "why_it_matters": "Enbridge frames the deal as immediately accretive and a direct feed into its Ingleside export terminal, the largest crude export facility in North America. It's a small deal by Enbridge's standards but a clean read on how strategics are pricing contracted Permian gathering assets right now.",
+  "why_you_care": "A fresh multiple on gathering-system cash flows tied to long-term contracts, useful as a comp against any midstream underwriting.",
+  "firms": [],
+  "companies": [
+   "Enbridge",
+   "Salt Creek Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-26-enbridge-pays-600m-for-permian-crude-gathering-a-c3e507",
+  "story_id": "story-enbridge-pays-600m-for-permian-crude-gat",
+  "story_size": 1
+ },
+ {
+  "date": "2026-08-26",
+  "headline": "Brightline lines up $350m rescue loan with Assured Guaranty ahead of possible Chapter 11",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/brightline-lands-350-million-assured-loan-in-case-of-bankruptcy"
+   }
+  ],
+  "players": "Brightline has reached a deal with municipal-bond insurer Assured Guaranty for at least $350 million in new loans if it files Chapter 11. The move addresses urgency around Fortress-backed Brightline's $5.5 billion of obligations.",
+  "why_it_matters": "Lining up a rescue facility before a filing is the clearest signal yet that management sees bankruptcy as the likely path, not a tail risk. Watch whether this becomes a pre-packaged restructuring that wipes out equity while keeping the railroad running, and how bondholders react to Assured stepping in as a backstop.",
+  "why_you_care": "This is the deal he underwrote at Rothschild; a bond-insurer-backed bankruptcy loan changes the recovery math on the debt stack he modeled.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-08-26-brightline-lines-up-350m-rescue-loan-with-assure-bb6026",
+  "story_id": "story-brightline-lines-up-350m-rescue-loan-wit",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-21",
   "headline": "AD Ports hires HSBC as $8.6bn L'imad take-private tender formally opens",
   "section": "sector_themes",
