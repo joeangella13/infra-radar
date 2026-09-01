@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:41:09+00:00",
+ "generated_at": "2026-09-01T15:01:31+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 264,
+ "total_items": 265,
  "months": [
   "2026-08",
   "2026-07",
@@ -33,7 +33,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-08-27"
+  "2026-08-31"
  ],
  "firms": [
   {
@@ -61,20 +61,20 @@
    "last_seen": "2026-08-26"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 9,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-08-31"
+  },
+  {
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
    "count": 8,
    "first_seen": "2026-06-30",
    "last_seen": "2026-08-10"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 8,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-08-20"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -1144,9 +1144,9 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 82,
+   "count": 83,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-08-20"
+   "last_seen": "2026-08-31"
   },
   {
    "name": "Regulatory & Policy",
@@ -1180,9 +1180,9 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 29,
+   "count": 30,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-26"
+   "last_seen": "2026-08-31"
   },
   {
    "name": "Ports & Terminals",
@@ -1216,6 +1216,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-08-31-i-squared-capital-expands-its-openinfra-private-a06d83",
+   "d": "2026-08-31",
+   "h": "I Squared Capital expands its OpenInfra private-wealth vehicle into Australia",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-08",
+   "t": "story-i-squared-capital-expands-its-openinfra",
+   "x": 1
+  },
   {
    "id": "2026-08-27-martin-county-scrambles-for-federal-cash-after-b-bc5682",
    "d": "2026-08-27",

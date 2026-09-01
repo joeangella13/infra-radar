@@ -1,5 +1,42 @@
 [
  {
+  "date": "2026-08-31",
+  "headline": "I Squared Capital expands its OpenInfra private-wealth vehicle into Australia",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "IREI",
+    "url": "https://irei.com/news/i-squared-capital-expands-openinfra-wealth-platform-to-australia/"
+   },
+   {
+    "name": "Financial Standard",
+    "url": "https://www.financialstandard.com.au/news/i-squared-capital-forays-into-aussie-private-wealth-space-179813789"
+   }
+  ],
+  "players": "I Squared Capital launched the ISQ OpenInfra AUT Fund, an Australian-dollar vehicle giving local wealth managers and advisers access to its infrastructure portfolio. The firm opened its Sydney office in 2022 and has since committed more than $1.5 billion in the region across four platform businesses in energy, environmental, renewables and transport infrastructure. It named Linda Stangherlin as director of investor relations, based in Sydney, to run the expansion.",
+  "why_it_matters": "This is another rival building a permanent, fee-generating retail distribution arm alongside its institutional funds, following its September 2025 OpenInfra launch in the US. Evergreen private-wealth vehicles are becoming a standard second leg for large infrastructure managers chasing capital beyond pension and sovereign LPs. Watch whether MSIP or other peers respond with their own wealth-channel product in APAC.",
+  "why_you_care": "A direct competitor is opening a new, permanent capital channel in a region MSIP also operates in, worth tracking as a fundraising comp.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-08-31-i-squared-capital-expands-its-openinfra-private-a06d83",
+  "story_id": "story-i-squared-capital-expands-its-openinfra",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-27",
   "headline": "Martin County scrambles for federal cash after Brightline's Stuart station misses a grant round",
   "section": "tracked_situations",
