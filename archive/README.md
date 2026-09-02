@@ -1,13 +1,14 @@
 # Archive
 
-265 items, 2026-01-13 to 2026-08-31.
+267 items, 2026-01-13 to 2026-09-01.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-08](2026-08.md) — 27 items
+- [2026-09](2026-09.md) — 1 items
+- [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
 - [2026-05](2026-05.md) — 46 items
@@ -43,10 +44,10 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 3 items
+- [Apollo](firms/Apollo.md) — 3 items
 - [IFM Investors](firms/IFM-Investors.md) — 2 items
 - [Partners Group](firms/Partners-Group.md) — 2 items
 - [ArcLight](firms/ArcLight.md) — 2 items
-- [Apollo](firms/Apollo.md) — 2 items
 - [Carlyle](firms/Carlyle.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items

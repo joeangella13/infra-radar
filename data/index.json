@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:01:31+00:00",
+ "generated_at": "2026-09-02T14:37:04+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,8 +20,9 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 265,
+ "total_items": 267,
  "months": [
+  "2026-09",
   "2026-08",
   "2026-07",
   "2026-06",
@@ -33,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-08-31"
+  "2026-09-01"
  ],
  "firms": [
   {
@@ -141,6 +142,14 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "Apollo",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-08-31"
+  },
+  {
    "name": "Assured Guaranty",
    "watchlist": false,
    "priority": false,
@@ -171,14 +180,6 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
-  },
-  {
-   "name": "Apollo",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-07-13",
-   "last_seen": "2026-08-10"
   },
   {
    "name": "ArcLight",
@@ -1144,7 +1145,7 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 83,
+   "count": 84,
    "first_seen": "2026-01-15",
    "last_seen": "2026-08-31"
   },
@@ -1162,9 +1163,9 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 37,
+   "count": 38,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-08-26"
+   "last_seen": "2026-08-31"
   },
   {
    "name": "Rail",
@@ -1180,9 +1181,9 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 30,
+   "count": 31,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-31"
+   "last_seen": "2026-09-01"
   },
   {
    "name": "Ports & Terminals",
@@ -1217,6 +1218,21 @@
  ],
  "items": [
   {
+   "id": "2026-09-01-niif-closes-2bn-first-tranche-of-india-s-second-e25e24",
+   "d": "2026-09-01",
+   "h": "NIIF closes $2bn first tranche of India's second sovereign infrastructure fund",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-niif-closes-2bn-first-tranche-of-india-s",
+   "x": 0
+  },
+  {
    "id": "2026-08-31-i-squared-capital-expands-its-openinfra-private-a06d83",
    "d": "2026-08-31",
    "h": "I Squared Capital expands its OpenInfra private-wealth vehicle into Australia",
@@ -1233,6 +1249,24 @@
    "m": "2026-08",
    "t": "story-i-squared-capital-expands-its-openinfra",
    "x": 1
+  },
+  {
+   "id": "2026-08-31-slb-buys-apollo-triton-backed-cooling-maker-kelv-a4b422",
+   "d": "2026-08-31",
+   "h": "SLB buys Apollo/Triton-backed cooling maker Kelvion for $3.4bn to chase data-centre demand",
+   "s": "sponsor_moves",
+   "f": [
+    "Apollo"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-08",
+   "t": "story-slb-buys-apollo-triton-backed-cooling-ma",
+   "x": 0
   },
   {
    "id": "2026-08-27-martin-county-scrambles-for-federal-cash-after-b-bc5682",

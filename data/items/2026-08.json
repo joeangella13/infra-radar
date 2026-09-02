@@ -37,6 +37,44 @@
   "story_size": 1
  },
  {
+  "date": "2026-08-31",
+  "headline": "SLB buys Apollo/Triton-backed cooling maker Kelvion for $3.4bn to chase data-centre demand",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Investrade Market Review",
+    "url": "https://investrade.com/market-review-august-31-2026/"
+   }
+  ],
+  "players": "SLB agreed to acquire cooling equipment maker Kelvion from Apollo and funds managed by Triton for $3.4bn in cash, plus assumption of roughly $700m of Kelvion's debt. The deal is expected to close in the first half of 2027, and SLB is targeting $4.5-5bn of revenue and $700-800m of adjusted EBITDA for the resulting data-centre cooling business by 2028.",
+  "why_it_matters": "Cooling is turning into its own infrastructure sub-sector as AI data centres push power density higher, and a strategic buyer paying up for a sponsor-owned cooling platform is a clean read on where value is accruing in the AI power chain. Watch whether other cooling and thermal-management assets get bid up on the back of this comp.",
+  "why_you_care": "A realized Apollo exit in data-centre cooling gives a fresh multiple to mark against any thermal-management or power-adjacent asset MSIP looks at.",
+  "firms": [
+   "Apollo"
+  ],
+  "companies": [
+   "SLB",
+   "Kelvion",
+   "Triton",
+   "ONEOK",
+   "Brazos Midstream"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Global",
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-08-31-slb-buys-apollo-triton-backed-cooling-maker-kelv-a4b422",
+  "story_id": "story-slb-buys-apollo-triton-backed-cooling-ma",
+  "story_size": 1
+ },
+ {
   "date": "2026-08-27",
   "headline": "Martin County scrambles for federal cash after Brightline's Stuart station misses a grant round",
   "section": "tracked_situations",

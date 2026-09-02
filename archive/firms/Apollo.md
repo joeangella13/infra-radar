@@ -1,6 +1,20 @@
 # Apollo
 
-2 items, 2026-07-13 to 2026-08-10.
+3 items, 2026-07-13 to 2026-08-31.
+
+---
+
+### SLB buys Apollo/Triton-backed cooling maker Kelvion for $3.4bn to chase data-centre demand
+
+`2026-08-31` · Sponsor moves · [Investrade Market Review](https://investrade.com/market-review-august-31-2026/)
+
+**Deal / players.** SLB agreed to acquire cooling equipment maker Kelvion from Apollo and funds managed by Triton for $3.4bn in cash, plus assumption of roughly $700m of Kelvion's debt. The deal is expected to close in the first half of 2027, and SLB is targeting $4.5-5bn of revenue and $700-800m of adjusted EBITDA for the resulting data-centre cooling business by 2028.
+
+**Why it matters.** Cooling is turning into its own infrastructure sub-sector as AI data centres push power density higher, and a strategic buyer paying up for a sponsor-owned cooling platform is a clean read on where value is accruing in the AI power chain. Watch whether other cooling and thermal-management assets get bid up on the back of this comp.
+
+**Why you care.** A realized Apollo exit in data-centre cooling gives a fresh multiple to mark against any thermal-management or power-adjacent asset MSIP looks at.
+
+<sub>Firms: Apollo · Sectors: Digital Infrastructure, Midstream & Gas · Geo: Global, US · id: `2026-08-31-slb-buys-apollo-triton-backed-cooling-maker-kelv-a4b422`</sub>
 
 ---
 
