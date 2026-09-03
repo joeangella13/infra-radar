@@ -1,6 +1,20 @@
 # I Squared Capital
 
-9 items, 2026-05-25 to 2026-08-31.
+10 items, 2026-05-25 to 2026-09-02.
+
+---
+
+### **[watchlist]** I Squared's Anza Power signs Amazon's first-ever standalone battery tolling deal, in Victoria
+
+`2026-09-02` · Sector themes · [I Squared Capital](https://isquaredcapital.com/news/anza-power-amazon-battery-storage-agreement/), [Energy-Storage.News](https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/)
+
+**Deal / players.** Anza Power, the Australia/NZ platform I Squared Capital launched in January 2026 with a $300m commitment, signed a tolling agreement with Amazon for the 50MW/200MWh Bairnsdale battery in Victoria. Unlike Anza's prior deals with Amazon, this battery connects directly to the grid rather than being paired with solar or wind, and is Anza's seventh energy agreement since launch.
+
+**Why it matters.** It is the first time Amazon has contracted a standalone battery, anywhere, rather than pairing storage with generation - a shift that lets buyers value storage purely on dispatch and peak-shaving cash flows rather than as an add-on to a renewables PPA. That changes how a battery asset gets underwritten and priced against a hyperscale offtaker.
+
+**Why you care.** I Squared is a direct competitor building out storage platforms for data-center-linked offtake, and this tolling structure is a fresh comp for how MSIP might price standalone battery deals with hyperscalers.
+
+<sub>Firms: I Squared Capital · Sectors: Energy Transition & Storage, Power & Renewables · Geo: Australia · id: `2026-09-02-i-squared-s-anza-power-signs-amazon-s-first-ever-7bb814`</sub>
 
 ---
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T14:37:04+00:00",
+ "generated_at": "2026-09-03T14:41:15+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 267,
+ "total_items": 269,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-01"
+  "2026-09-02"
  ],
  "firms": [
   {
@@ -65,9 +65,9 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-05-25",
-   "last_seen": "2026-08-31"
+   "last_seen": "2026-09-02"
   },
   {
    "name": "Brookfield",
@@ -1096,20 +1096,20 @@
    "last_seen": "2026-08-05"
   },
   {
+   "key": "logistec_termont",
+   "label": "LOGISTEC / Termont",
+   "note": "Canadian port terminal operations",
+   "count": 5,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-09-02"
+  },
+  {
    "key": "mcdermott_nmdc",
    "label": "McDermott / NMDC",
    "note": "Energy engineering and marine construction",
    "count": 5,
    "first_seen": "2026-05-18",
    "last_seen": "2026-07-29"
-  },
-  {
-   "key": "logistec_termont",
-   "label": "LOGISTEC / Termont",
-   "note": "Canadian port terminal operations",
-   "count": 4,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-06-15"
   },
   {
    "key": "sisu_miratech",
@@ -1139,9 +1139,9 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 97,
+   "count": 98,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-08-17"
+   "last_seen": "2026-09-02"
   },
   {
    "name": "Digital Infrastructure",
@@ -1157,9 +1157,9 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 42,
+   "count": 43,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-08-14"
+   "last_seen": "2026-09-02"
   },
   {
    "name": "Midstream & Gas",
@@ -1187,9 +1187,9 @@
   },
   {
    "name": "Ports & Terminals",
-   "count": 27,
+   "count": 28,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-08-21"
+   "last_seen": "2026-09-02"
   },
   {
    "name": "Social Infrastructure",
@@ -1217,6 +1217,41 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-09-02-i-squared-s-anza-power-signs-amazon-s-first-ever-7bb814",
+   "d": "2026-09-02",
+   "h": "I Squared's Anza Power signs Amazon's first-ever standalone battery tolling deal, in Victoria",
+   "s": "sector_themes",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-i-squared-s-anza-power-signs-amazon-s-fi",
+   "x": 1
+  },
+  {
+   "id": "2026-09-02-enstructure-completes-takeover-of-logistec-s-mar-29f1a6",
+   "d": "2026-09-02",
+   "h": "Enstructure completes takeover of LOGISTEC's marine terminals, creating 106-terminal network",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "logistec_termont"
+   ],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-enstructure-completes-takeover-of-logist",
+   "x": 0
+  },
   {
    "id": "2026-09-01-niif-closes-2bn-first-tranche-of-india-s-second-e25e24",
    "d": "2026-09-01",

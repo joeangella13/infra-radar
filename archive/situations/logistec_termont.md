@@ -2,7 +2,21 @@
 
 Canadian port terminal operations
 
-4 items, 2026-02-17 to 2026-06-15.
+5 items, 2026-02-17 to 2026-09-02.
+
+---
+
+### Enstructure completes takeover of LOGISTEC's marine terminals, creating 106-terminal network
+
+`2026-09-02` · Tracked situations · [American Journal of Transportation](https://www.ajot.com/news/enstructure-completes-acquisition-of-logistecs-marine-services-division)
+
+**Deal / players.** Enstructure closed its acquisition of LOGISTEC's marine services division, a deal first announced June 15, 2026. The combined company now runs 106 marine terminals across 30 US states and Canadian provinces with about 6,000 employees.
+
+**Why it matters.** This is the formal close of the consolidation he flagged when LOGISTEC/Termont was live at Rothschild. A 106-terminal network gives Enstructure real scale and pricing power across North American port gateways, and sets a fresh comp for how much scale buyers are now paying for in fragmented terminal operators.
+
+**Why you care.** This was his deal to underwrite at Rothschild; the completed scale-up is worth flagging at MSIP as a live consolidation comp in ports.
+
+<sub>Situations: logistec_termont · Sectors: Ports & Terminals · Geo: United States, Canada · id: `2026-09-02-enstructure-completes-takeover-of-logistec-s-mar-29f1a6`</sub>
 
 ---
 

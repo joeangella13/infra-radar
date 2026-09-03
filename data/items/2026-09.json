@@ -1,5 +1,80 @@
 [
  {
+  "date": "2026-09-02",
+  "headline": "I Squared's Anza Power signs Amazon's first-ever standalone battery tolling deal, in Victoria",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "I Squared Capital",
+    "url": "https://isquaredcapital.com/news/anza-power-amazon-battery-storage-agreement/"
+   },
+   {
+    "name": "Energy-Storage.News",
+    "url": "https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/"
+   }
+  ],
+  "players": "Anza Power, the Australia/NZ platform I Squared Capital launched in January 2026 with a $300m commitment, signed a tolling agreement with Amazon for the 50MW/200MWh Bairnsdale battery in Victoria. Unlike Anza's prior deals with Amazon, this battery connects directly to the grid rather than being paired with solar or wind, and is Anza's seventh energy agreement since launch.",
+  "why_it_matters": "It is the first time Amazon has contracted a standalone battery, anywhere, rather than pairing storage with generation - a shift that lets buyers value storage purely on dispatch and peak-shaving cash flows rather than as an add-on to a renewables PPA. That changes how a battery asset gets underwritten and priced against a hyperscale offtaker.",
+  "why_you_care": "I Squared is a direct competitor building out storage platforms for data-center-linked offtake, and this tolling structure is a fresh comp for how MSIP might price standalone battery deals with hyperscalers.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "Anza Power",
+   "Amazon"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-02-i-squared-s-anza-power-signs-amazon-s-first-ever-7bb814",
+  "story_id": "story-i-squared-s-anza-power-signs-amazon-s-fi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-02",
+  "headline": "Enstructure completes takeover of LOGISTEC's marine terminals, creating 106-terminal network",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "American Journal of Transportation",
+    "url": "https://www.ajot.com/news/enstructure-completes-acquisition-of-logistecs-marine-services-division"
+   }
+  ],
+  "players": "Enstructure closed its acquisition of LOGISTEC's marine services division, a deal first announced June 15, 2026. The combined company now runs 106 marine terminals across 30 US states and Canadian provinces with about 6,000 employees.",
+  "why_it_matters": "This is the formal close of the consolidation he flagged when LOGISTEC/Termont was live at Rothschild. A 106-terminal network gives Enstructure real scale and pricing power across North American port gateways, and sets a fresh comp for how much scale buyers are now paying for in fragmented terminal operators.",
+  "why_you_care": "This was his deal to underwrite at Rothschild; the completed scale-up is worth flagging at MSIP as a live consolidation comp in ports.",
+  "firms": [],
+  "companies": [
+   "LOGISTEC",
+   "Enstructure",
+   "Termont"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "United States",
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [
+   "logistec_termont"
+  ],
+  "flags": [],
+  "id": "2026-09-02-enstructure-completes-takeover-of-logistec-s-mar-29f1a6",
+  "story_id": "story-enstructure-completes-takeover-of-logist",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-01",
   "headline": "NIIF closes $2bn first tranche of India's second sovereign infrastructure fund",
   "section": "market_regulatory",
