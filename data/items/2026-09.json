@@ -1,5 +1,40 @@
 [
  {
+  "date": "2026-09-03",
+  "headline": "Williams closes $5.5bn purchase of Momentum Midstream, building out Haynesville gas position for LNG and power demand",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Williams Companies",
+    "url": "https://www.williams.com/2026/09/03/williams-completes-acquisition-of-momentum-midstream/"
+   },
+   {
+    "name": "Williams Investor Relations",
+    "url": "https://investor.williams.com/news-releases/news-release-details/williams-delivers-strong-second-quarter-2026-results-announces"
+   }
+  ],
+  "players": "Williams (NYSE: WMB) closed its acquisition of Momentum Midstream in a transaction valued at approximately $5.5 billion, expanding its integrated natural gas infrastructure platform in the Haynesville. The deal was signed earlier this year and is built around long-term take-or-pay contracts to serve growing Gulf Coast LNG, power and industrial demand.",
+  "why_it_matters": "This is a live public comp for gas gathering and processing assets tied directly to LNG and gas-to-power demand, the same theme driving valuations across the midstream sector. Long-term take-or-pay structures at this scale set a pricing marker for anyone underwriting Haynesville or similar basin exposure feeding data-center and LNG-linked offtake.",
+  "why_you_care": "A fresh, sizable comp for gas-to-power and midstream deal pricing, useful context if MSIP looks at Sisu/Miratech-style distributed generation or basin gas assets.",
+  "firms": [],
+  "companies": [
+   "Williams",
+   "Momentum Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-03-williams-closes-5-5bn-purchase-of-momentum-midst-482635",
+  "story_id": "story-williams-closes-5-5bn-purchase-of-moment",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-02",
   "headline": "I Squared's Anza Power signs Amazon's first-ever standalone battery tolling deal, in Victoria",
   "section": "sector_themes",
@@ -37,6 +72,42 @@
   ],
   "id": "2026-09-02-i-squared-s-anza-power-signs-amazon-s-first-ever-7bb814",
   "story_id": "story-i-squared-s-anza-power-signs-amazon-s-fi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-02",
+  "headline": "Hydrostor's Silver City compressed-air storage project in Australia clears grid connection approval",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "pv magazine",
+    "url": "http://www.pv-magazine.com/2026/09/02/hydrostor-secures-grid-connection-for-200-mw-1600-mwh-compressed-air-storage-project-in-australia/"
+   },
+   {
+    "name": "No2NuclearPower",
+    "url": "https://www.no2nuclearpower.org.uk/news/compressed-air-storage-3-9-26/"
+   }
+  ],
+  "players": "Hydrostor secured grid connection approval for its 200 MW/1,600 MWh Silver City advanced compressed-air energy storage project in Broken Hill, New South Wales. The eight-hour facility is designed to strengthen grid reliability and provide backup power for the region, and follows Hydrostor's $230m equity raise from Goldman Sachs Alternatives, CPP Investments and Canada Growth Fund in August.",
+  "why_it_matters": "Grid connection approval is a key de-risking gate before financial close and construction start, and comes right after fresh equity from CPP Investments and Goldman Sachs. It's a real-world data point on how long-duration storage projects are clearing regulatory hurdles as the flagship US project (Willow Rock) heads toward its own financial close.",
+  "why_you_care": "You sourced Hydrostor at Rothschild; this is forward motion on the platform's pipeline outside the US and worth tracking as a live situation now that you sit inside MSIP.",
+  "firms": [],
+  "companies": [
+   "Hydrostor"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "high",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-09-02-hydrostor-s-silver-city-compressed-air-storage-p-6253d3",
+  "story_id": "story-hydrostor-s-silver-city-compressed-air-s",
   "story_size": 1
  },
  {

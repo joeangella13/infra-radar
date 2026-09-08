@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T15:58:05+00:00",
+ "generated_at": "2026-09-08T14:41:20+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 269,
+ "total_items": 271,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-02"
+  "2026-09-03"
  ],
  "firms": [
   {
@@ -1075,9 +1075,9 @@
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
-   "count": 6,
+   "count": 7,
    "first_seen": "2026-01-28",
-   "last_seen": "2026-08-14"
+   "last_seen": "2026-09-02"
   },
   {
    "key": "avangrid_arclight",
@@ -1157,15 +1157,15 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 43,
+   "count": 44,
    "first_seen": "2026-01-13",
    "last_seen": "2026-09-02"
   },
   {
    "name": "Midstream & Gas",
-   "count": 38,
+   "count": 39,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-08-31"
+   "last_seen": "2026-09-03"
   },
   {
    "name": "Rail",
@@ -1217,6 +1217,38 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-09-03-williams-closes-5-5bn-purchase-of-momentum-midst-482635",
+   "d": "2026-09-03",
+   "h": "Williams closes $5.5bn purchase of Momentum Midstream, building out Haynesville gas position for LNG and power demand",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-williams-closes-5-5bn-purchase-of-moment",
+   "x": 0
+  },
+  {
+   "id": "2026-09-02-hydrostor-s-silver-city-compressed-air-storage-p-6253d3",
+   "d": "2026-09-02",
+   "h": "Hydrostor's Silver City compressed-air storage project in Australia clears grid connection approval",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "hydrostor"
+   ],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-hydrostor-s-silver-city-compressed-air-s",
+   "x": 0
+  },
   {
    "id": "2026-09-02-i-squared-s-anza-power-signs-amazon-s-first-ever-7bb814",
    "d": "2026-09-02",

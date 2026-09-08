@@ -2,7 +2,21 @@
 
 Long-duration compressed air energy storage
 
-6 items, 2026-01-28 to 2026-08-14.
+7 items, 2026-01-28 to 2026-09-02.
+
+---
+
+### Hydrostor's Silver City compressed-air storage project in Australia clears grid connection approval
+
+`2026-09-02` · Tracked situations · [pv magazine](http://www.pv-magazine.com/2026/09/02/hydrostor-secures-grid-connection-for-200-mw-1600-mwh-compressed-air-storage-project-in-australia/), [No2NuclearPower](https://www.no2nuclearpower.org.uk/news/compressed-air-storage-3-9-26/)
+
+**Deal / players.** Hydrostor secured grid connection approval for its 200 MW/1,600 MWh Silver City advanced compressed-air energy storage project in Broken Hill, New South Wales. The eight-hour facility is designed to strengthen grid reliability and provide backup power for the region, and follows Hydrostor's $230m equity raise from Goldman Sachs Alternatives, CPP Investments and Canada Growth Fund in August.
+
+**Why it matters.** Grid connection approval is a key de-risking gate before financial close and construction start, and comes right after fresh equity from CPP Investments and Goldman Sachs. It's a real-world data point on how long-duration storage projects are clearing regulatory hurdles as the flagship US project (Willow Rock) heads toward its own financial close.
+
+**Why you care.** You sourced Hydrostor at Rothschild; this is forward motion on the platform's pipeline outside the US and worth tracking as a live situation now that you sit inside MSIP.
+
+<sub>Situations: hydrostor · Sectors: Energy Transition & Storage · Geo: Australia · id: `2026-09-02-hydrostor-s-silver-city-compressed-air-storage-p-6253d3`</sub>
 
 ---
 
