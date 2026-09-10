@@ -1,6 +1,20 @@
 # Stonepeak
 
-6 items, 2026-05-11 to 2026-08-11.
+7 items, 2026-05-11 to 2026-09-04.
+
+---
+
+### **[watchlist]** Stonepeak's transport and logistics chief James Wyper to depart after decade-plus run
+
+`2026-09-04` · Sponsor moves · [Infrastructure Investor](https://www.infrastructureinvestor.com/stonepeaks-head-of-transport-and-logistics-to-depart-exclusive/)
+
+**Deal / players.** James Wyper, Stonepeak's Senior Managing Director and Head of U.S. Private Equity and Head of Transportation & Logistics, is leaving the firm. Stonepeak has not yet named a replacement.
+
+**Why it matters.** Wyper built the platform behind Stonepeak's marquee transport bets, including Textainer, TRAC Intermodal and the ATSG buyout, and the unit has won back-to-back Transport Investor of the Year awards. Losing the vertical's long-time head without a named successor is worth tracking for how it affects Stonepeak's pipeline and pricing discipline in ports, rail and logistics deals MSIP competes for.
+
+**Why you care.** A leadership gap at a top rival's transport and logistics franchise, a vertical where MSIP also plays through assets like StraitNZ.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics · id: `2026-09-04-stonepeak-s-transport-and-logistics-chief-james-1b806a`</sub>
 
 ---
 

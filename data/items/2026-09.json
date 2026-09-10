@@ -1,5 +1,93 @@
 [
  {
+  "date": "2026-09-10",
+  "headline": "EIG closes $1.9bn infrastructure debt fund, nearly doubling its senior debt series",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "AltAssets",
+    "url": "https://www.altassets.net/private-equity-news/eig-nearly-doubles-infrastructure-debt-fund-to-1-9bn-total-raised-for-latest-series-tops-4bn.html"
+   }
+  ],
+  "players": "EIG has nearly doubled the size of its senior infrastructure debt fund series with a $1.9bn final close for its sixth vehicle, taking the series total raised past $4bn.",
+  "why_it_matters": "Infrastructure credit continues to raise well even as equity-side M&A volume has thinned this year. A near-doubling of a senior debt vintage signals LPs still want infra exposure through the credit stack, a useful read on financing costs and appetite for leveraging future MSIP deals.",
+  "why_you_care": "A data point on how deep infra credit demand still is, relevant to financing assumptions on new underwriting.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-10-eig-closes-1-9bn-infrastructure-debt-fund-nearly-a2b454",
+  "story_id": "story-eig-closes-1-9bn-infrastructure-debt-fun",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-10",
+  "headline": "Gas turbine shortage pushes AI data centers toward industrial boilers and steam turbines",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "POWER Magazine",
+    "url": "https://www.powermag.com/ai-data-centers-turn-to-industrial-boilers-and-steam-turbines-for-power/"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/ai-data-centers-turn-industrial-125659944.html"
+   }
+  ],
+  "players": "Reporting flags more than 12,000 active U.S. data center projects currently seeking grid interconnection, representing 1,570 GW of generator capacity and 1,030 GW of storage. A Black & Veatch survey found 53% of utilities cite available power as the top obstacle to bringing data centers online, with transmission and substation upgrades close behind.",
+  "why_it_matters": "Gas turbine order books are stretched years out, so developers are backfilling with boilers, steam turbines and other legacy equipment just to get power on site faster. That's a real constraint on how fast behind-the-meter and co-located gas plays can be built and monetized, which matters directly for underwriting timelines on any power-for-AI deal.",
+  "why_you_care": "This is the supply constraint underpinning every gas-to-power and data-center power deal MSIP will underwrite next.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure",
+   "Energy Transition & Storage"
+  ],
+  "geo": [],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-10-gas-turbine-shortage-pushes-ai-data-centers-towa-0bfcec",
+  "story_id": "story-gas-turbine-shortage-pushes-ai-data-cent",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-04",
+  "headline": "Stonepeak's transport and logistics chief James Wyper to depart after decade-plus run",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/stonepeaks-head-of-transport-and-logistics-to-depart-exclusive/"
+   }
+  ],
+  "players": "James Wyper, Stonepeak's Senior Managing Director and Head of U.S. Private Equity and Head of Transportation & Logistics, is leaving the firm. Stonepeak has not yet named a replacement.",
+  "why_it_matters": "Wyper built the platform behind Stonepeak's marquee transport bets, including Textainer, TRAC Intermodal and the ATSG buyout, and the unit has won back-to-back Transport Investor of the Year awards. Losing the vertical's long-time head without a named successor is worth tracking for how it affects Stonepeak's pipeline and pricing discipline in ports, rail and logistics deals MSIP competes for.",
+  "why_you_care": "A leadership gap at a top rival's transport and logistics franchise, a vertical where MSIP also plays through assets like StraitNZ.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-04-stonepeak-s-transport-and-logistics-chief-james-1b806a",
+  "story_id": "story-stonepeak-s-transport-and-logistics-chie",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-03",
   "headline": "Williams closes $5.5bn purchase of Momentum Midstream, building out Haynesville gas position for LNG and power demand",
   "section": "sector_themes",

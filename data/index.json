@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T14:43:23+00:00",
+ "generated_at": "2026-09-10T14:33:57+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 271,
+ "total_items": 274,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-03"
+  "2026-09-10"
  ],
  "firms": [
   {
@@ -94,20 +94,20 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": false,
+   "count": 7,
+   "first_seen": "2026-05-11",
+   "last_seen": "2026-09-04"
+  },
+  {
    "name": "Meridiam",
    "watchlist": true,
    "priority": false,
    "count": 6,
    "first_seen": "2026-05-11",
    "last_seen": "2026-07-23"
-  },
-  {
-   "name": "Stonepeak",
-   "watchlist": true,
-   "priority": false,
-   "count": 6,
-   "first_seen": "2026-05-11",
-   "last_seen": "2026-08-11"
   },
   {
    "name": "EQT Infrastructure",
@@ -1139,15 +1139,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 98,
+   "count": 99,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-10"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 84,
+   "count": 85,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-08-31"
+   "last_seen": "2026-09-10"
   },
   {
    "name": "Regulatory & Policy",
@@ -1157,9 +1157,9 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 44,
+   "count": 45,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-10"
   },
   {
    "name": "Midstream & Gas",
@@ -1175,15 +1175,15 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 32,
+   "count": 33,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-08-21"
+   "last_seen": "2026-09-04"
   },
   {
    "name": "Funds & Fundraising",
-   "count": 31,
+   "count": 32,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-10"
   },
   {
    "name": "Ports & Terminals",
@@ -1217,6 +1217,55 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-09-10-gas-turbine-shortage-pushes-ai-data-centers-towa-0bfcec",
+   "d": "2026-09-10",
+   "h": "Gas turbine shortage pushes AI data centers toward industrial boilers and steam turbines",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Energy Transition & Storage"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-gas-turbine-shortage-pushes-ai-data-cent",
+   "x": 0
+  },
+  {
+   "id": "2026-09-10-eig-closes-1-9bn-infrastructure-debt-fund-nearly-a2b454",
+   "d": "2026-09-10",
+   "h": "EIG closes $1.9bn infrastructure debt fund, nearly doubling its senior debt series",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-eig-closes-1-9bn-infrastructure-debt-fun",
+   "x": 0
+  },
+  {
+   "id": "2026-09-04-stonepeak-s-transport-and-logistics-chief-james-1b806a",
+   "d": "2026-09-04",
+   "h": "Stonepeak's transport and logistics chief James Wyper to depart after decade-plus run",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-stonepeak-s-transport-and-logistics-chie",
+   "x": 1
+  },
   {
    "id": "2026-09-03-williams-closes-5-5bn-purchase-of-momentum-midst-482635",
    "d": "2026-09-03",
