@@ -1,6 +1,20 @@
 # EQT Infrastructure
 
-5 items, 2026-05-07 to 2026-07-20.
+6 items, 2026-05-07 to 2026-09-10.
+
+---
+
+### **[watchlist]** Vauban nears ~€2bn deal for EQT-backed GlobalConnect's Swedish fiber unit
+
+`2026-09-10` · Sponsor moves · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-10/vauban-said-to-near-deal-for-eqt-backed-swedish-fiber-business), [MarketScreener](https://www.marketscreener.com/news/sources-vauban-leads-bidding-for-eqt-backed-globalconnect-s-swedish-fiber-network-bn-ce785bdede8eff24)
+
+**Deal / players.** Vauban Infrastructure Partners has emerged as the leading bidder for EQT-backed GlobalConnect's Swedish fiber-to-the-home business, with negotiations in the final stage. Vauban's bid could value the business at about €2 billion ($2.3bn).
+
+**Why it matters.** EQT is carving out and monetizing a national FTTH unit at a rich multiple, confirming fiber remains a sought-after asset class even as data-center power bottlenecks dominate headlines. Watch whether EQT runs a full breakup of the wider Nordic GlobalConnect platform or holds the rest.
+
+**Why you care.** A direct read on what a rival is realizing for European fiber assets, useful as a pricing comp if MSIP looks at digital infrastructure carve-outs.
+
+<sub>Firms: EQT Infrastructure · Sectors: Digital Infrastructure · Geo: Sweden, Europe · id: `2026-09-10-vauban-nears-2bn-deal-for-eqt-backed-globalconne-2a42eb`</sub>
 
 ---
 

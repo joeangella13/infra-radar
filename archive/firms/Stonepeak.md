@@ -1,6 +1,20 @@
 # Stonepeak
 
-7 items, 2026-05-11 to 2026-09-04.
+8 items, 2026-05-11 to 2026-09-10.
+
+---
+
+### **[watchlist]** Stonepeak CEO backs Australia's push to power data centers with renewables
+
+`2026-09-10` · Sector themes · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-10/stonepeak-ceo-backs-australia-s-renewable-power-data-center-push), [Energy Connects](https://www.energyconnects.com/news/renewables/2026/september/stonepeak-ceo-backs-australia-renewable-data-center-push)
+
+**Deal / players.** Stonepeak CEO Mike Dorrell publicly endorsed the Australian government's push to power data centers with renewable energy, calling it a "very clever idea" that could help win community support for new projects. Speaking on Bloomberg TV, Dorrell, whose firm manages $93 billion, said pushback against data-center buildouts is growing in markets like the US.
+
+**Why it matters.** A top sponsor CEO is putting political weight behind linking data-center approvals to renewable power, which could shape permitting and PPA structuring for AI campuses in Australia. It also signals how sponsors are trying to get ahead of community backlash that has slowed projects elsewhere.
+
+**Why you care.** Competitor commentary on the policy direction that will shape how power-for-data-center deals get structured and underwritten in a market MSIP watches.
+
+<sub>Firms: Stonepeak · Sectors: Digital Infrastructure, Power & Renewables · Geo: Australia · id: `2026-09-10-stonepeak-ceo-backs-australia-s-push-to-power-da-a465ef`</sub>
 
 ---
 

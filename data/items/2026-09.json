@@ -1,6 +1,43 @@
 [
  {
   "date": "2026-09-10",
+  "headline": "Stonepeak CEO backs Australia's push to power data centers with renewables",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/stonepeak-ceo-backs-australia-s-renewable-power-data-center-push"
+   },
+   {
+    "name": "Energy Connects",
+    "url": "https://www.energyconnects.com/news/renewables/2026/september/stonepeak-ceo-backs-australia-renewable-data-center-push"
+   }
+  ],
+  "players": "Stonepeak CEO Mike Dorrell publicly endorsed the Australian government's push to power data centers with renewable energy, calling it a \"very clever idea\" that could help win community support for new projects. Speaking on Bloomberg TV, Dorrell, whose firm manages $93 billion, said pushback against data-center buildouts is growing in markets like the US.",
+  "why_it_matters": "A top sponsor CEO is putting political weight behind linking data-center approvals to renewable power, which could shape permitting and PPA structuring for AI campuses in Australia. It also signals how sponsors are trying to get ahead of community backlash that has slowed projects elsewhere.",
+  "why_you_care": "Competitor commentary on the policy direction that will shape how power-for-data-center deals get structured and underwritten in a market MSIP watches.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-10-stonepeak-ceo-backs-australia-s-push-to-power-da-a465ef",
+  "story_id": "story-stonepeak-ceo-backs-australia-s-push-to",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-10",
   "headline": "EIG closes $1.9bn infrastructure debt fund, nearly doubling its senior debt series",
   "section": "market_regulatory",
   "sources": [
@@ -55,6 +92,46 @@
   "flags": [],
   "id": "2026-09-10-gas-turbine-shortage-pushes-ai-data-centers-towa-0bfcec",
   "story_id": "story-gas-turbine-shortage-pushes-ai-data-cent",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-10",
+  "headline": "Vauban nears ~€2bn deal for EQT-backed GlobalConnect's Swedish fiber unit",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/vauban-said-to-near-deal-for-eqt-backed-swedish-fiber-business"
+   },
+   {
+    "name": "MarketScreener",
+    "url": "https://www.marketscreener.com/news/sources-vauban-leads-bidding-for-eqt-backed-globalconnect-s-swedish-fiber-network-bn-ce785bdede8eff24"
+   }
+  ],
+  "players": "Vauban Infrastructure Partners has emerged as the leading bidder for EQT-backed GlobalConnect's Swedish fiber-to-the-home business, with negotiations in the final stage. Vauban's bid could value the business at about €2 billion ($2.3bn).",
+  "why_it_matters": "EQT is carving out and monetizing a national FTTH unit at a rich multiple, confirming fiber remains a sought-after asset class even as data-center power bottlenecks dominate headlines. Watch whether EQT runs a full breakup of the wider Nordic GlobalConnect platform or holds the rest.",
+  "why_you_care": "A direct read on what a rival is realizing for European fiber assets, useful as a pricing comp if MSIP looks at digital infrastructure carve-outs.",
+  "firms": [
+   "EQT Infrastructure"
+  ],
+  "companies": [
+   "GlobalConnect",
+   "Vauban Infrastructure Partners"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "Sweden",
+   "Europe"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-10-vauban-nears-2bn-deal-for-eqt-backed-globalconne-2a42eb",
+  "story_id": "story-vauban-nears-2bn-deal-for-eqt-backed-glo",
   "story_size": 1
  },
  {

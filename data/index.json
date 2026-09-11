@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T14:33:57+00:00",
+ "generated_at": "2026-09-11T14:32:55+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 274,
+ "total_items": 276,
  "months": [
   "2026-09",
   "2026-08",
@@ -78,6 +78,14 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "Stonepeak",
+   "watchlist": true,
+   "priority": false,
+   "count": 8,
+   "first_seen": "2026-05-11",
+   "last_seen": "2026-09-10"
+  },
+  {
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
@@ -94,12 +102,12 @@
    "last_seen": "2026-08-10"
   },
   {
-   "name": "Stonepeak",
+   "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
-   "count": 7,
-   "first_seen": "2026-05-11",
-   "last_seen": "2026-09-04"
+   "count": 6,
+   "first_seen": "2026-05-07",
+   "last_seen": "2026-09-10"
   },
   {
    "name": "Meridiam",
@@ -108,14 +116,6 @@
    "count": 6,
    "first_seen": "2026-05-11",
    "last_seen": "2026-07-23"
-  },
-  {
-   "name": "EQT Infrastructure",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-05-07",
-   "last_seen": "2026-07-20"
   },
   {
    "name": "Blue Wolf Capital Partners",
@@ -1139,13 +1139,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 99,
+   "count": 100,
    "first_seen": "2026-01-13",
    "last_seen": "2026-09-10"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 85,
+   "count": 87,
    "first_seen": "2026-01-15",
    "last_seen": "2026-09-10"
   },
@@ -1235,6 +1235,24 @@
    "x": 0
   },
   {
+   "id": "2026-09-10-stonepeak-ceo-backs-australia-s-push-to-power-da-a465ef",
+   "d": "2026-09-10",
+   "h": "Stonepeak CEO backs Australia's push to power data centers with renewables",
+   "s": "sector_themes",
+   "f": [
+    "Stonepeak"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-stonepeak-ceo-backs-australia-s-push-to",
+   "x": 1
+  },
+  {
    "id": "2026-09-10-eig-closes-1-9bn-infrastructure-debt-fund-nearly-a2b454",
    "d": "2026-09-10",
    "h": "EIG closes $1.9bn infrastructure debt fund, nearly doubling its senior debt series",
@@ -1248,6 +1266,23 @@
    "m": "2026-09",
    "t": "story-eig-closes-1-9bn-infrastructure-debt-fun",
    "x": 0
+  },
+  {
+   "id": "2026-09-10-vauban-nears-2bn-deal-for-eqt-backed-globalconne-2a42eb",
+   "d": "2026-09-10",
+   "h": "Vauban nears ~€2bn deal for EQT-backed GlobalConnect's Swedish fiber unit",
+   "s": "sponsor_moves",
+   "f": [
+    "EQT Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-vauban-nears-2bn-deal-for-eqt-backed-glo",
+   "x": 1
   },
   {
    "id": "2026-09-04-stonepeak-s-transport-and-logistics-chief-james-1b806a",
