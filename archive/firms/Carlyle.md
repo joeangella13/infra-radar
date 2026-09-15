@@ -1,6 +1,20 @@
 # Carlyle
 
-2 items, 2026-05-06 to 2026-07-10.
+3 items, 2026-05-06 to 2026-09-14.
+
+---
+
+### Carlyle closes second infrastructure credit fund at $2.3bn, triple the size of fund one
+
+`2026-09-14` · Market / regulatory · [Alternative Credit Investor](https://alternativecreditinvestor.com/2026/09/15/carlyle-inks-2-3bn-for-infra-credit/), [MarketScreener](https://www.marketscreener.com/news/carlyle-closes-second-infrastructure-credit-fund-ce785bdcde8af325)
+
+**Deal / players.** Carlyle Infrastructure Credit Fund II closed at $2.3bn, beating its $2bn target and running roughly three times the size of its predecessor. Commitments came from institutions across North America, Europe and Asia; the fund lends into energy transition, digital infrastructure, low-carbon power and water/waste deals.
+
+**Why it matters.** Another large infra credit vehicle (after EIG's $1.9bn close last week) confirms LPs are rotating into infra debt for yield without equity-style risk. That deepens the pool of subordinated and junior capital sponsors like MSIP can use to lever deals, and signals credit spreads/appetite are healthy for refinancing portfolio companies.
+
+**Why you care.** More cheap infra credit in the market is a direct input into how MSIP structures leverage on new deals and refinances portfolio companies.
+
+<sub>Firms: Carlyle · Sectors: Funds & Fundraising · id: `2026-09-14-carlyle-closes-second-infrastructure-credit-fund-921d31`</sub>
 
 ---
 

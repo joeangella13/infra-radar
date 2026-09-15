@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-16 items, 2026-05-15 to 2026-08-27.
+17 items, 2026-05-15 to 2026-09-15.
+
+---
+
+### Man killed by Brightline train in Fort Lauderdale, latest in string of fatal incidents
+
+`2026-09-15` · Tracked situations · [Local10](https://www.local10.com/news/local/2026/09/15/man-dies-after-being-struck-by-brightline-train-in-fort-lauderdale/)
+
+**Deal / players.** A man was struck and killed by a Brightline train in Fort Lauderdale early Tuesday, police confirmed. No further details on train number or cause were released.
+
+**Why it matters.** Brightline is already fighting a going-concern warning, a downgraded bond stack and a pending $350m Assured Guaranty rescue loan; safety incidents keep the FRA and grade-crossing spending under scrutiny even as the company touts a 30% drop in collisions this year. Watch whether this feeds into bondholder or regulator pressure during the ongoing restructuring talks.
+
+**Why you care.** Background noise on the Brightline credit story you underwrote at Rothschild, worth flagging only if it starts affecting the rescue-financing timeline.
+
+<sub>Situations: brightline · Sectors: Rail · id: `2026-09-15-man-killed-by-brightline-train-in-fort-lauderdal-55b6ca`</sub>
 
 ---
 

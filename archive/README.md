@@ -1,13 +1,13 @@
 # Archive
 
-276 items, 2026-01-13 to 2026-09-10.
+278 items, 2026-01-13 to 2026-09-15.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 10 items
+- [2026-09](2026-09.md) — 12 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -20,7 +20,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
-- [Brightline Florida](situations/brightline.md) — 16 items
+- [Brightline Florida](situations/brightline.md) — 17 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
 - [Hydrostor](situations/hydrostor.md) — 7 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
@@ -45,10 +45,10 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Grain Management](firms/Grain-Management.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 3 items
 - [Apollo](firms/Apollo.md) — 3 items
+- [Carlyle](firms/Carlyle.md) — 3 items
 - [IFM Investors](firms/IFM-Investors.md) — 2 items
 - [Partners Group](firms/Partners-Group.md) — 2 items
 - [ArcLight](firms/ArcLight.md) — 2 items
-- [Carlyle](firms/Carlyle.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items
 - [Tiger Infrastructure](firms/Tiger-Infrastructure.md) — 2 items
