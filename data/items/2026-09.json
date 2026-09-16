@@ -28,6 +28,46 @@
   "story_size": 1
  },
  {
+  "date": "2026-09-15",
+  "headline": "Stonepeak wins revised $2.5bn Chicago parking meter deal, agrees to sell deportation-flight airline",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "WTTW",
+    "url": "https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say"
+   },
+   {
+    "name": "Chicago Sun-Times",
+    "url": "https://chicago.suntimes.com/morning-edition/2026/09/16/city-hall-parking-meter-daley-johnson-broadview-six-chaka-khan"
+   }
+  ],
+  "players": "Stonepeak Partners first asked Chicago's City Council in July to approve the $2.53 billion purchase of the city's parking meters from Chicago Parking Meters LLC, which leased the meters for 75 years in 2008. Five alderpeople announced Sept 15 a revised deal requiring Stonepeak to sell Omni Air International, which flies long-haul deportation charters for DHS, plus pay the city $75 million and share 5% of net operating income, projected at roughly $376.2 million through the deal's 2083 expiry.",
+  "why_it_matters": "The Omni Air divestiture shows how a politically toxic side-asset can hold up an otherwise straightforward toll-road-style monetization, and the 5% profit-share plus upfront cash gives municipalities a template for extracting more from future meter, airport or utility privatizations. Watch the full City Council vote for final terms.",
+  "why_you_care": "Stonepeak is a direct competitor; the concessions it accepted to get a public asset deal past City Council are worth marking against MSIP's own municipal pipeline.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [
+   "Chicago Parking Meters LLC",
+   "Omni Air International"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Chicago",
+   "Illinois"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-15-stonepeak-wins-revised-2-5bn-chicago-parking-met-acddac",
+  "story_id": "story-stonepeak-wins-revised-2-5bn-chicago-par",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-14",
   "headline": "Carlyle closes second infrastructure credit fund at $2.3bn, triple the size of fund one",
   "section": "market_regulatory",
@@ -57,6 +97,40 @@
   "flags": [],
   "id": "2026-09-14-carlyle-closes-second-infrastructure-credit-fund-921d31",
   "story_id": "story-carlyle-closes-second-infrastructure-cre",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-14",
+  "headline": "Enstructure breaks ground on new Delaware Container Terminal, first build since absorbing LOGISTEC's ports",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "State of Delaware",
+    "url": "https://news.delaware.gov/2026/09/14/enstructure-diamond-state-port-corporation-stakeholders-celebrate-groundbreaking-of-the-delaware-container-terminal/"
+   }
+  ],
+  "players": "Enstructure and the Diamond State Port Corporation held the groundbreaking on Sept 14 for the Delaware Container Terminal, a new marine container facility in Wilmington. The event came roughly two weeks after Enstructure closed its takeover of LOGISTEC's marine terminals, forming a 106-terminal network.",
+  "why_it_matters": "A greenfield groundbreaking this soon after closing the LOGISTEC roll-up signals Enstructure is moving into growth capex rather than just cost-cutting the combined platform, which changes the read on how much further consolidation capital the new network can absorb.",
+  "why_you_care": "LOGISTEC/Termont was one of his Rothschild deals; the new owner's early capex signals whether the thesis he underwrote on port consolidation is playing out as growth or just cost synergy.",
+  "firms": [],
+  "companies": [
+   "Enstructure",
+   "LOGISTEC",
+   "Diamond State Port Corporation"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "Wilmington, Delaware"
+  ],
+  "priority": "normal",
+  "situations": [
+   "logistec_termont"
+  ],
+  "flags": [],
+  "id": "2026-09-14-enstructure-breaks-ground-on-new-delaware-contai-5d025e",
+  "story_id": "story-enstructure-breaks-ground-on-new-delawar",
   "story_size": 1
  },
  {

@@ -2,7 +2,21 @@
 
 Canadian port terminal operations
 
-5 items, 2026-02-17 to 2026-09-02.
+6 items, 2026-02-17 to 2026-09-14.
+
+---
+
+### Enstructure breaks ground on new Delaware Container Terminal, first build since absorbing LOGISTEC's ports
+
+`2026-09-14` · Tracked situations · [State of Delaware](https://news.delaware.gov/2026/09/14/enstructure-diamond-state-port-corporation-stakeholders-celebrate-groundbreaking-of-the-delaware-container-terminal/)
+
+**Deal / players.** Enstructure and the Diamond State Port Corporation held the groundbreaking on Sept 14 for the Delaware Container Terminal, a new marine container facility in Wilmington. The event came roughly two weeks after Enstructure closed its takeover of LOGISTEC's marine terminals, forming a 106-terminal network.
+
+**Why it matters.** A greenfield groundbreaking this soon after closing the LOGISTEC roll-up signals Enstructure is moving into growth capex rather than just cost-cutting the combined platform, which changes the read on how much further consolidation capital the new network can absorb.
+
+**Why you care.** LOGISTEC/Termont was one of his Rothschild deals; the new owner's early capex signals whether the thesis he underwrote on port consolidation is playing out as growth or just cost synergy.
+
+<sub>Situations: logistec_termont · Sectors: Ports & Terminals · Geo: Wilmington, Delaware · id: `2026-09-14-enstructure-breaks-ground-on-new-delaware-contai-5d025e`</sub>
 
 ---
 

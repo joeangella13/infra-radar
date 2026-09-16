@@ -1,6 +1,20 @@
 # Stonepeak
 
-8 items, 2026-05-11 to 2026-09-10.
+9 items, 2026-05-11 to 2026-09-15.
+
+---
+
+### **[watchlist]** Stonepeak wins revised $2.5bn Chicago parking meter deal, agrees to sell deportation-flight airline
+
+`2026-09-15` · Sponsor moves · [WTTW](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say), [Chicago Sun-Times](https://chicago.suntimes.com/morning-edition/2026/09/16/city-hall-parking-meter-daley-johnson-broadview-six-chaka-khan)
+
+**Deal / players.** Stonepeak Partners first asked Chicago's City Council in July to approve the $2.53 billion purchase of the city's parking meters from Chicago Parking Meters LLC, which leased the meters for 75 years in 2008. Five alderpeople announced Sept 15 a revised deal requiring Stonepeak to sell Omni Air International, which flies long-haul deportation charters for DHS, plus pay the city $75 million and share 5% of net operating income, projected at roughly $376.2 million through the deal's 2083 expiry.
+
+**Why it matters.** The Omni Air divestiture shows how a politically toxic side-asset can hold up an otherwise straightforward toll-road-style monetization, and the 5% profit-share plus upfront cash gives municipalities a template for extracting more from future meter, airport or utility privatizations. Watch the full City Council vote for final terms.
+
+**Why you care.** Stonepeak is a direct competitor; the concessions it accepted to get a public asset deal past City Council are worth marking against MSIP's own municipal pipeline.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics · Geo: Chicago, Illinois · id: `2026-09-15-stonepeak-wins-revised-2-5bn-chicago-parking-met-acddac`</sub>
 
 ---
 

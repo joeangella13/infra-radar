@@ -1,13 +1,13 @@
 # Archive
 
-278 items, 2026-01-13 to 2026-09-15.
+280 items, 2026-01-13 to 2026-09-15.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 12 items
+- [2026-09](2026-09.md) — 14 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -24,7 +24,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
 - [Hydrostor](situations/hydrostor.md) — 7 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
-- [LOGISTEC / Termont](situations/logistec_termont.md) — 5 items
+- [LOGISTEC / Termont](situations/logistec_termont.md) — 6 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 5 items
 - [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 3 items
@@ -35,7 +35,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Blackstone](firms/Blackstone.md) — 11 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 11 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 10 items
-- [Stonepeak](firms/Stonepeak.md) — 8 items
+- [Stonepeak](firms/Stonepeak.md) — 9 items
 - [Brookfield](firms/Brookfield.md) — 8 items
 - [KKR](firms/KKR.md) — 7 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 7 items
