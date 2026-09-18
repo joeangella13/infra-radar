@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T15:08:33+00:00",
+ "generated_at": "2026-09-18T14:35:25+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 280,
+ "total_items": 282,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-15"
+  "2026-09-18"
  ],
  "firms": [
   {
@@ -65,9 +65,9 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-05-25",
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-16"
   },
   {
    "name": "Stonepeak",
@@ -86,6 +86,14 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "EQT Infrastructure",
+   "watchlist": true,
+   "priority": false,
+   "count": 7,
+   "first_seen": "2026-05-07",
+   "last_seen": "2026-09-18"
+  },
+  {
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
@@ -100,14 +108,6 @@
    "count": 7,
    "first_seen": "2026-06-10",
    "last_seen": "2026-08-10"
-  },
-  {
-   "name": "EQT Infrastructure",
-   "watchlist": true,
-   "priority": false,
-   "count": 6,
-   "first_seen": "2026-05-07",
-   "last_seen": "2026-09-10"
   },
   {
    "name": "Meridiam",
@@ -1139,27 +1139,27 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 100,
+   "count": 102,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-10"
+   "last_seen": "2026-09-18"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 87,
+   "count": 88,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-09-10"
+   "last_seen": "2026-09-18"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 56,
+   "count": 57,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-17"
+   "last_seen": "2026-09-16"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 45,
+   "count": 46,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-10"
+   "last_seen": "2026-09-18"
   },
   {
    "name": "Midstream & Gas",
@@ -1181,9 +1181,9 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 33,
+   "count": 34,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-14"
+   "last_seen": "2026-09-16"
   },
   {
    "name": "Ports & Terminals",
@@ -1217,6 +1217,44 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-09-18-eqt-s-madison-energy-to-spend-2bn-on-small-batte-adc16f",
+   "d": "2026-09-18",
+   "h": "EQT's Madison Energy to spend $2bn on small batteries to speed data-center grid hookups",
+   "s": "sponsor_moves",
+   "f": [
+    "EQT Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-eqt-s-madison-energy-to-spend-2bn-on-sma",
+   "x": 1
+  },
+  {
+   "id": "2026-09-16-mexico-picks-i-squared-capital-over-blackrock-to-bfa62f",
+   "d": "2026-09-16",
+   "h": "Mexico picks I Squared Capital over BlackRock to run new energy investment vehicle",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Funds & Fundraising",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-mexico-picks-i-squared-capital-over-blac",
+   "x": 1
+  },
   {
    "id": "2026-09-15-man-killed-by-brightline-train-in-fort-lauderdal-55b6ca",
    "d": "2026-09-15",

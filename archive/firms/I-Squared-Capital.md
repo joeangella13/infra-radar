@@ -1,6 +1,20 @@
 # I Squared Capital
 
-10 items, 2026-05-25 to 2026-09-02.
+11 items, 2026-05-25 to 2026-09-16.
+
+---
+
+### **[watchlist]** Mexico picks I Squared Capital over BlackRock to run new energy investment vehicle
+
+`2026-09-16` · Sponsor moves · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/i-squared-supera-a-blackrock-para-gestionar-proyecto-energetico-de-mexico), [El Financiero](https://www.elfinanciero.com.mx/bloomberg/2026/09/16/mexico-enciende-plan-para-generar-mas-energia-hacienda-elige-a-i-squared-capital-para-financiar-proyectos/)
+
+**Deal / players.** Mexico's Finance Ministry (Hacienda) chose I Squared Capital to oversee a financing vehicle meant to pull in investment for power-sector projects, part of President Sheinbaum's infrastructure push. Hacienda told local pension funds managing roughly $517 billion this month that I Squared had been picked as manager; exact size and structure are still being worked out.
+
+**Why it matters.** A direct sovereign mandate gives I Squared first look at Mexico's electricity build-out and access to a huge captive pension pool, beating a BlackRock-led team for the seat. It signals emerging-market governments are handing infrastructure managers quasi-official gatekeeper roles over pension capital, not just co-investing alongside them.
+
+**Why you care.** I Squared just out-competed BlackRock for a sovereign energy mandate in Mexico, a market MSIP should track for how state-directed capital is being allocated to sponsors.
+
+<sub>Firms: I Squared Capital · Sectors: Power & Renewables, Funds & Fundraising, Regulatory & Policy · Geo: Mexico · id: `2026-09-16-mexico-picks-i-squared-capital-over-blackrock-to-bfa62f`</sub>
 
 ---
 

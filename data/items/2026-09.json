@@ -1,5 +1,79 @@
 [
  {
+  "date": "2026-09-18",
+  "headline": "EQT's Madison Energy to spend $2bn on small batteries to speed data-center grid hookups",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/eqt-is-backing-2-billion-small-battery-push-for-us-data-centers"
+   }
+  ],
+  "players": "EQT Infrastructure-owned Madison Energy Infrastructure will add 1 gigawatt of battery capacity by 2028, starting in PJM's 13-state grid. CEO Richard Walsh said the plan is four-hour discharge batteries sited at industrial and commercial hosts, including waste water treatment plants.",
+  "why_it_matters": "Behind-the-meter batteries let large loads get power without waiting years for new transmission or interconnection queues, which is the single biggest bottleneck for AI data centers right now. This is EQT using an existing distributed-generation platform to sell speed-to-power as a product, not just electrons, and it is a repeatable playbook other sponsors will copy.",
+  "why_you_care": "EQT is a top-priority competitor turning a portfolio company into an interconnection-speed product; worth benchmarking against any MSIP distributed-power exposure.",
+  "firms": [
+   "EQT Infrastructure"
+  ],
+  "companies": [
+   "Madison Energy Infrastructure"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-18-eqt-s-madison-energy-to-spend-2bn-on-small-batte-adc16f",
+  "story_id": "story-eqt-s-madison-energy-to-spend-2bn-on-sma",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-16",
+  "headline": "Mexico picks I Squared Capital over BlackRock to run new energy investment vehicle",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/i-squared-supera-a-blackrock-para-gestionar-proyecto-energetico-de-mexico"
+   },
+   {
+    "name": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/bloomberg/2026/09/16/mexico-enciende-plan-para-generar-mas-energia-hacienda-elige-a-i-squared-capital-para-financiar-proyectos/"
+   }
+  ],
+  "players": "Mexico's Finance Ministry (Hacienda) chose I Squared Capital to oversee a financing vehicle meant to pull in investment for power-sector projects, part of President Sheinbaum's infrastructure push. Hacienda told local pension funds managing roughly $517 billion this month that I Squared had been picked as manager; exact size and structure are still being worked out.",
+  "why_it_matters": "A direct sovereign mandate gives I Squared first look at Mexico's electricity build-out and access to a huge captive pension pool, beating a BlackRock-led team for the seat. It signals emerging-market governments are handing infrastructure managers quasi-official gatekeeper roles over pension capital, not just co-investing alongside them.",
+  "why_you_care": "I Squared just out-competed BlackRock for a sovereign energy mandate in Mexico, a market MSIP should track for how state-directed capital is being allocated to sponsors.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [],
+  "sectors": [
+   "Power & Renewables",
+   "Funds & Fundraising",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "Mexico"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-16-mexico-picks-i-squared-capital-over-blackrock-to-bfa62f",
+  "story_id": "story-mexico-picks-i-squared-capital-over-blac",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-15",
   "headline": "Man killed by Brightline train in Fort Lauderdale, latest in string of fatal incidents",
   "section": "tracked_situations",

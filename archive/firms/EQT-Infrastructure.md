@@ -1,6 +1,20 @@
 # EQT Infrastructure
 
-6 items, 2026-05-07 to 2026-09-10.
+7 items, 2026-05-07 to 2026-09-18.
+
+---
+
+### **[watchlist]** EQT's Madison Energy to spend $2bn on small batteries to speed data-center grid hookups
+
+`2026-09-18` · Sponsor moves · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/eqt-is-backing-2-billion-small-battery-push-for-us-data-centers)
+
+**Deal / players.** EQT Infrastructure-owned Madison Energy Infrastructure will add 1 gigawatt of battery capacity by 2028, starting in PJM's 13-state grid. CEO Richard Walsh said the plan is four-hour discharge batteries sited at industrial and commercial hosts, including waste water treatment plants.
+
+**Why it matters.** Behind-the-meter batteries let large loads get power without waiting years for new transmission or interconnection queues, which is the single biggest bottleneck for AI data centers right now. This is EQT using an existing distributed-generation platform to sell speed-to-power as a product, not just electrons, and it is a repeatable playbook other sponsors will copy.
+
+**Why you care.** EQT is a top-priority competitor turning a portfolio company into an interconnection-speed product; worth benchmarking against any MSIP distributed-power exposure.
+
+<sub>Firms: EQT Infrastructure · Sectors: Energy Transition & Storage, Digital Infrastructure, Power & Renewables · Geo: United States · id: `2026-09-18-eqt-s-madison-energy-to-spend-2bn-on-small-batte-adc16f`</sub>
 
 ---
 
