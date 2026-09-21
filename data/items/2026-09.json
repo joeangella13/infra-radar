@@ -1,5 +1,68 @@
 [
  {
+  "date": "2026-09-19",
+  "headline": "NERC's draft data-center reliability rules clear first ballot, size threshold still unsettled at FERC level",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "mgrid.org",
+    "url": "https://mgrid.org/2026/09/19/nerc-sets-data-center-reliability-rules-at-50-mw-and-100-kv-a-threshold-ferc-declined-to-name/"
+   }
+  ],
+  "players": "NERC's first formal comment period and 10-day ballot on three new computational-load reliability standards closed September 18, 2026. FERC ordered the standards back on July 16, 2026 and set a filing deadline of December 31, 2026, but declined to set its own size threshold itself; industry's balloted draft pegs it at 50 MW and 100 kV. The three drafts cover interconnection/studies data (CLO-001), operational data and communications (CLO-002), and protection coordination/disturbance monitoring (CLO-003).",
+  "why_it_matters": "Whatever threshold survives becomes the line that triggers mandatory reporting and protection-coordination obligations for any large load or co-located generation project. NERC itself says compliance cost impacts are unknown but expected to be significant and to vary by entity and region, which is exactly the kind of open variable that shows up in interconnection timelines and cost allocation fights on gas-to-power and data center deals.",
+  "why_you_care": "Sets the compliance bar — 50MW/100kV — for any gas-to-power or co-located data center deal you'll be underwriting interconnection risk on.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-19-nerc-s-draft-data-center-reliability-rules-clear-b912f5",
+  "story_id": "story-nerc-s-draft-data-center-reliability-rul",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-18",
+  "headline": "Compressed-air storage projects scale up, but analysis argues the economics still haven't caught up",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "CleanTechnica",
+    "url": "https://cleantechnica.com/2026/09/18/compressed-gas-storage-is-still-mostly/"
+   }
+  ],
+  "players": "China has commissioned a 600 MW/2.4 GWh compressed-air demonstration at Huai'an, Hydrostor has pushed its 500 MW/4 GWh Willow Rock project through California certification, and Highview Power has moved its 50 MW/300 MWh liquid-air plant forward, per a CleanTechnica analysis. The piece revisits a two-year-old thesis that compressed-gas storage claims were overstated.",
+  "why_it_matters": "The projects have gotten bigger and cleared more permitting hurdles, but the analysis frames the sector's cost curve as still unresolved next to lithium-ion and gas peakers. That's the exact variable that determines whether Willow Rock and Silver City clear a bankable levelized cost once construction actually starts.",
+  "why_you_care": "Hydrostor was your deal at Rothschild — a live skeptic's take on whether the compressed-air storage economics you underwrote actually pencil at scale.",
+  "firms": [],
+  "companies": [
+   "Hydrostor",
+   "Highview Power"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "United States",
+   "China"
+  ],
+  "priority": "normal",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-09-18-compressed-air-storage-projects-scale-up-but-ana-ecea13",
+  "story_id": "story-compressed-air-storage-projects-scale-up",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-18",
   "headline": "EQT's Madison Energy to spend $2bn on small batteries to speed data-center grid hookups",
   "section": "sponsor_moves",
@@ -33,6 +96,51 @@
   ],
   "id": "2026-09-18-eqt-s-madison-energy-to-spend-2bn-on-small-batte-adc16f",
   "story_id": "story-eqt-s-madison-energy-to-spend-2bn-on-sma",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-17",
+  "headline": "KKR/Blackstone/Energy Capital face off against Brookfield/IFM for GFL Environmental",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg Law",
+    "url": "https://news.bloomberglaw.com/private-equity/blackstone-and-brookfield-consortia-are-said-to-bid-for-gfl"
+   },
+   {
+    "name": "Bitget News (MT Newswires)",
+    "url": "https://www.bitget.com/news/detail/12560605842194"
+   },
+   {
+    "name": "Briefs",
+    "url": "https://www.briefs.co/news/big-infrastructure-heavyweights-circle-gfl-environmental-wit/"
+   }
+  ],
+  "players": "KKR, Energy Capital Partners and Blackstone are bidding together for the Canadian waste manager, while Brookfield and IFM Investors have teamed on a rival bid, Bloomberg reported. GFL is valued at about $18 billion and carries $10 billion in debt; CEO Patrick Dovigi told Bloomberg he'd be open to going private if the price tops the current share level.",
+  "why_it_matters": "GFL's special committee is weighing both club bids and could push for higher offers, with a decision possible in the coming weeks. Five watchlist-grade sponsors splitting into two consortia for one waste platform shows how much dry powder is chasing essential-service, contracted cash flow right now, echoing the AES-style club deal template.",
+  "why_you_care": "Four of your watchlist firms are clubbing up for one $18bn asset — a live read on what rivals will pay and team up for on essential-service infrastructure.",
+  "firms": [
+   "KKR",
+   "Blackstone",
+   "Energy Capital Partners",
+   "Brookfield",
+   "IFM Investors"
+  ],
+  "companies": [
+   "GFL Environmental"
+  ],
+  "sectors": [
+   "Water & Environmental"
+  ],
+  "geo": [
+   "North America",
+   "Canada"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-17-kkr-blackstone-energy-capital-face-off-against-b-d050ba",
+  "story_id": "story-kkr-blackstone-energy-capital-face-off-a",
   "story_size": 1
  },
  {

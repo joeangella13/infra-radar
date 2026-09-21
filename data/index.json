@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T14:35:25+00:00",
+ "generated_at": "2026-09-21T16:33:11+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 282,
+ "total_items": 285,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-18"
+  "2026-09-19"
  ],
  "firms": [
   {
@@ -49,9 +49,9 @@
    "name": "Blackstone",
    "watchlist": true,
    "priority": false,
-   "count": 11,
+   "count": 12,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-08-10"
+   "last_seen": "2026-09-17"
   },
   {
    "name": "Fortress Investment Group",
@@ -70,6 +70,14 @@
    "last_seen": "2026-09-16"
   },
   {
+   "name": "Brookfield",
+   "watchlist": true,
+   "priority": false,
+   "count": 9,
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-09-17"
+  },
+  {
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
@@ -78,12 +86,12 @@
    "last_seen": "2026-09-15"
   },
   {
-   "name": "Brookfield",
+   "name": "KKR",
    "watchlist": true,
    "priority": false,
    "count": 8,
-   "first_seen": "2026-06-30",
-   "last_seen": "2026-08-10"
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-09-17"
   },
   {
    "name": "EQT Infrastructure",
@@ -102,14 +110,6 @@
    "last_seen": "2026-07-27"
   },
   {
-   "name": "KKR",
-   "watchlist": true,
-   "priority": false,
-   "count": 7,
-   "first_seen": "2026-06-10",
-   "last_seen": "2026-08-10"
-  },
-  {
    "name": "Meridiam",
    "watchlist": true,
    "priority": false,
@@ -124,6 +124,14 @@
    "count": 4,
    "first_seen": "2026-02-17",
    "last_seen": "2026-06-15"
+  },
+  {
+   "name": "Energy Capital Partners",
+   "watchlist": true,
+   "priority": false,
+   "count": 4,
+   "first_seen": "2026-05-31",
+   "last_seen": "2026-09-17"
   },
   {
    "name": "Grain Management",
@@ -166,14 +174,6 @@
    "last_seen": "2026-09-14"
   },
   {
-   "name": "Energy Capital Partners",
-   "watchlist": true,
-   "priority": false,
-   "count": 3,
-   "first_seen": "2026-05-31",
-   "last_seen": "2026-07-27"
-  },
-  {
    "name": "Fitch Ratings",
    "watchlist": false,
    "priority": false,
@@ -188,6 +188,14 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
+  },
+  {
+   "name": "IFM Investors",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-09-17"
   },
   {
    "name": "ArcLight",
@@ -284,14 +292,6 @@
    "count": 2,
    "first_seen": "2026-06-01",
    "last_seen": "2026-08-14"
-  },
-  {
-   "name": "IFM Investors",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-07-20"
   },
   {
    "name": "Iberdrola",
@@ -1075,9 +1075,9 @@
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-01-28",
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-18"
   },
   {
    "key": "logistec_termont",
@@ -1145,19 +1145,19 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 88,
+   "count": 89,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-09-18"
+   "last_seen": "2026-09-19"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 57,
+   "count": 58,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-16"
+   "last_seen": "2026-09-19"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 46,
+   "count": 47,
    "first_seen": "2026-01-13",
    "last_seen": "2026-09-18"
   },
@@ -1211,12 +1211,28 @@
   },
   {
    "name": "Water & Environmental",
-   "count": 3,
+   "count": 4,
    "first_seen": "2026-06-22",
-   "last_seen": "2026-07-10"
+   "last_seen": "2026-09-17"
   }
  ],
  "items": [
+  {
+   "id": "2026-09-19-nerc-s-draft-data-center-reliability-rules-clear-b912f5",
+   "d": "2026-09-19",
+   "h": "NERC's draft data-center reliability rules clear first ballot, size threshold still unsettled at FERC level",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-nerc-s-draft-data-center-reliability-rul",
+   "x": 0
+  },
   {
    "id": "2026-09-18-eqt-s-madison-energy-to-spend-2bn-on-small-batte-adc16f",
    "d": "2026-09-18",
@@ -1235,6 +1251,44 @@
    "m": "2026-09",
    "t": "story-eqt-s-madison-energy-to-spend-2bn-on-sma",
    "x": 1
+  },
+  {
+   "id": "2026-09-18-compressed-air-storage-projects-scale-up-but-ana-ecea13",
+   "d": "2026-09-18",
+   "h": "Compressed-air storage projects scale up, but analysis argues the economics still haven't caught up",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "hydrostor"
+   ],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-compressed-air-storage-projects-scale-up",
+   "x": 0
+  },
+  {
+   "id": "2026-09-17-kkr-blackstone-energy-capital-face-off-against-b-d050ba",
+   "d": "2026-09-17",
+   "h": "KKR/Blackstone/Energy Capital face off against Brookfield/IFM for GFL Environmental",
+   "s": "sponsor_moves",
+   "f": [
+    "KKR",
+    "Blackstone",
+    "Energy Capital Partners",
+    "Brookfield",
+    "IFM Investors"
+   ],
+   "u": [],
+   "c": [
+    "Water & Environmental"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-kkr-blackstone-energy-capital-face-off-a",
+   "x": 0
   },
   {
    "id": "2026-09-16-mexico-picks-i-squared-capital-over-blackrock-to-bfa62f",

@@ -1,6 +1,20 @@
 # IFM Investors
 
-2 items, 2026-07-07 to 2026-07-20.
+3 items, 2026-07-07 to 2026-09-17.
+
+---
+
+### KKR/Blackstone/Energy Capital face off against Brookfield/IFM for GFL Environmental
+
+`2026-09-17` · Sponsor moves · [Bloomberg Law](https://news.bloomberglaw.com/private-equity/blackstone-and-brookfield-consortia-are-said-to-bid-for-gfl), [Bitget News (MT Newswires)](https://www.bitget.com/news/detail/12560605842194), [Briefs](https://www.briefs.co/news/big-infrastructure-heavyweights-circle-gfl-environmental-wit/)
+
+**Deal / players.** KKR, Energy Capital Partners and Blackstone are bidding together for the Canadian waste manager, while Brookfield and IFM Investors have teamed on a rival bid, Bloomberg reported. GFL is valued at about $18 billion and carries $10 billion in debt; CEO Patrick Dovigi told Bloomberg he'd be open to going private if the price tops the current share level.
+
+**Why it matters.** GFL's special committee is weighing both club bids and could push for higher offers, with a decision possible in the coming weeks. Five watchlist-grade sponsors splitting into two consortia for one waste platform shows how much dry powder is chasing essential-service, contracted cash flow right now, echoing the AES-style club deal template.
+
+**Why you care.** Four of your watchlist firms are clubbing up for one $18bn asset — a live read on what rivals will pay and team up for on essential-service infrastructure.
+
+<sub>Firms: KKR, Blackstone, Energy Capital Partners, Brookfield, IFM Investors · Sectors: Water & Environmental · Geo: North America, Canada · id: `2026-09-17-kkr-blackstone-energy-capital-face-off-against-b-d050ba`</sub>
 
 ---
 

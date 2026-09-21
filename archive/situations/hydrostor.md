@@ -2,7 +2,21 @@
 
 Long-duration compressed air energy storage
 
-7 items, 2026-01-28 to 2026-09-02.
+8 items, 2026-01-28 to 2026-09-18.
+
+---
+
+### Compressed-air storage projects scale up, but analysis argues the economics still haven't caught up
+
+`2026-09-18` · Tracked situations · [CleanTechnica](https://cleantechnica.com/2026/09/18/compressed-gas-storage-is-still-mostly/)
+
+**Deal / players.** China has commissioned a 600 MW/2.4 GWh compressed-air demonstration at Huai'an, Hydrostor has pushed its 500 MW/4 GWh Willow Rock project through California certification, and Highview Power has moved its 50 MW/300 MWh liquid-air plant forward, per a CleanTechnica analysis. The piece revisits a two-year-old thesis that compressed-gas storage claims were overstated.
+
+**Why it matters.** The projects have gotten bigger and cleared more permitting hurdles, but the analysis frames the sector's cost curve as still unresolved next to lithium-ion and gas peakers. That's the exact variable that determines whether Willow Rock and Silver City clear a bankable levelized cost once construction actually starts.
+
+**Why you care.** Hydrostor was your deal at Rothschild — a live skeptic's take on whether the compressed-air storage economics you underwrote actually pencil at scale.
+
+<sub>Situations: hydrostor · Sectors: Energy Transition & Storage · Geo: United States, China · id: `2026-09-18-compressed-air-storage-projects-scale-up-but-ana-ecea13`</sub>
 
 ---
 
