@@ -1,6 +1,34 @@
 # Stonepeak
 
-9 items, 2026-05-11 to 2026-09-15.
+11 items, 2026-05-11 to 2026-09-22.
+
+---
+
+### **[watchlist]** Stonepeak takes equity stake in AMPYR's European distributed-energy platform ADE
+
+`2026-09-22` · Sponsor moves · [Business Wire via Yahoo Finance](https://finance.yahoo.com/energy/articles/stonepeak-announces-investment-ampyr-distributed-090000509.html), [citybiz](https://www.citybiz.co/article/906930/stonepeak-invests-in-ampyr-distributed-energy-to-accelerate-1-gw-pipeline/)
+
+**Deal / players.** Stonepeak is making an equity investment in AMPYR Distributed Energy (ADE), a platform launched in 2024 with AGP, which retains an ownership interest; financial terms were not disclosed. ADE funds, builds, owns and operates onsite renewable energy for commercial and industrial customers under long-term PPAs, with 250MW contracted across roughly 200 sites and a pipeline exceeding 1GW.
+
+**Why it matters.** The fully-funded PPA model lets customers add onsite renewables with no upfront capex, a structure that scales well against European C&I demand for cheaper, more secure power. Stonepeak is buying into the growth phase rather than the platform build, adding capital to accelerate a gigawatt-plus pipeline rather than underwriting construction risk from scratch.
+
+**Why you care.** A read on how a direct competitor is pricing early-stage distributed-generation platforms serving the same C&I power-cost pressures MSIP watches in data centre and industrial deals.
+
+<sub>Firms: Stonepeak · Sectors: Power & Renewables, Energy Transition & Storage · Geo: UK, Europe · id: `2026-09-22-stonepeak-takes-equity-stake-in-ampyr-s-european-febf40`</sub>
+
+---
+
+### **[watchlist]** Chicago Council adds EV-charging sweetener to Stonepeak's $2.53bn parking meter deal, vote still short of votes by Sept 30
+
+`2026-09-22` · Sponsor moves · [Chicago Sun-Times](https://chicago.suntimes.com/city-hall/2026/09/22/chicago-parking-meters-deal-stonepeak-partners-city-council-compromise-explainer), [ABC7 Chicago](https://abc7chicago.com/post/chicago-aldermen-say-reached-new-agreement-stonepeak-partners-parking-meter-deal-including-profit-share/19835316/)
+
+**Deal / players.** The City Council faces a Sept. 30 deadline to approve Stonepeak's $2.53bn bid for the 57 remaining years of Chicago's parking meter lease, or fight it out in arbitration and court. Council leaders have now added a provision letting Stonepeak turn non-metered blocks into EV charging sites with revenue shared back to the city, on top of the earlier $75m upfront payment, 5% of net operating income annually, and the required sale of deportation-flight operator Omni Air International.
+
+**Why it matters.** Stonepeak is paying more than double the 2008 lease value for an asset with 57 years of contracted cash flow, and the added profit-share and EV-charging terms show how much a sponsor will concede to get a politically toxic deal past a City Council needing 26 votes with aldermanic elections five months out. Watch whether the extra sweeteners are enough, or whether the deal slips past Sept. 30 into arbitration.
+
+**Why you care.** A live comp for how much political and structuring concession a sponsor pays to close a large, contracted US infrastructure asset under public pressure.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics · Geo: US · id: `2026-09-22-chicago-council-adds-ev-charging-sweetener-to-st-8302f5`</sub>
 
 ---
 

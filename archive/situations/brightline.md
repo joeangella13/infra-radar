@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-17 items, 2026-05-15 to 2026-09-15.
+18 items, 2026-05-15 to 2026-09-21.
+
+---
+
+### Brightline's Florida death toll reaches 182 as CEO defends safety spending
+
+`2026-09-21` · Tracked situations · [Hoodline](https://hoodline.com/2026/09/brightline-defends-45-million-safety-program-as-south-florida-death-toll-reaches-182/)
+
+**Deal / players.** Brightline has recorded 182 deaths since 2017, mostly pedestrians, and CEO Patrick Goddard defended the railroad's safety efforts at an Oakland Park press conference. The company points to a program covering fencing, flexible delineators, pavement striping and improved signage at 327 grade crossings between Miami and Cocoa, over half completed as of June 17, 2026, and a 30% year-over-year drop in incidents in Q1.
+
+**Why it matters.** A climbing fatality count on the line he underwrote at Rothschild keeps reputational and potential regulatory risk in play for a rail operator already carrying heavy debt, and the incident-rate improvement Brightline cites is not the same measure as the death count, which is still rising. Watch for any state or federal safety mandate that adds capex or slows expansion.
+
+**Why you care.** This is a deal he executed at Rothschild; the widening gap between Brightline's safety messaging and its rising death toll is worth flagging as a live risk on the thesis.
+
+<sub>Situations: brightline · Sectors: Rail · Geo: US · id: `2026-09-21-brightline-s-florida-death-toll-reaches-182-as-c-04d747`</sub>
 
 ---
 
