@@ -2,7 +2,21 @@
 
 Energy engineering and marine construction
 
-5 items, 2026-05-18 to 2026-07-29.
+6 items, 2026-05-18 to 2026-09-22.
+
+---
+
+### McDermott returns to profit and completes a debt refinancing as backlog hits $15.8bn
+
+`2026-09-22` · Tracked situations · [Rigzone](https://www.rigzone.com/news/mcdermott_completes_refinancing-22-sep-2026-184672-article/)
+
+**Deal / players.** McDermott posted a $41 million net profit for Q2 2026, reversing an $86 million loss a year earlier, with adjusted EBITDA of $143 million and backlog at $15.8 billion as of June. The company also completed a debt refinancing; terms were not disclosed in the release.
+
+**Why it matters.** Revenue actually fell to $2.33 billion from $2.51 billion, and McDermott says liquidity stays constrained until its project mix shifts to higher-margin work and it resolves outstanding unapproved change-order disputes. The refinancing buys runway but doesn't fix the underlying margin and collections issues - worth tracking against backlog conversion in coming quarters.
+
+**Why you care.** One of Joe's old Rothschild deals - the profit swing and refinancing are worth marking against the underwriting thesis on McDermott/NMDC.
+
+<sub>Situations: mcdermott_nmdc · Sectors: Midstream & Gas · Geo: United States · id: `2026-09-22-mcdermott-returns-to-profit-and-completes-a-debt-9b097e`</sub>
 
 ---
 

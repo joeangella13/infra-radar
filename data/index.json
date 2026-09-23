@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T15:06:32+00:00",
+ "generated_at": "2026-09-23T15:09:34+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 288,
+ "total_items": 290,
  "months": [
   "2026-09",
   "2026-08",
@@ -1067,9 +1067,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 18,
+   "count": 19,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-21"
+   "last_seen": "2026-09-22"
   },
   {
    "key": "hydrostor",
@@ -1088,6 +1088,14 @@
    "last_seen": "2026-09-14"
   },
   {
+   "key": "mcdermott_nmdc",
+   "label": "McDermott / NMDC",
+   "note": "Energy engineering and marine construction",
+   "count": 6,
+   "first_seen": "2026-05-18",
+   "last_seen": "2026-09-22"
+  },
+  {
    "key": "avangrid_arclight",
    "label": "Avangrid / ArcLight Renewables",
    "note": "North American wind and solar portfolio transactions",
@@ -1102,14 +1110,6 @@
    "count": 5,
    "first_seen": "2026-04-30",
    "last_seen": "2026-08-05"
-  },
-  {
-   "key": "mcdermott_nmdc",
-   "label": "McDermott / NMDC",
-   "note": "Energy engineering and marine construction",
-   "count": 5,
-   "first_seen": "2026-05-18",
-   "last_seen": "2026-07-29"
   },
   {
    "key": "sisu_miratech",
@@ -1163,19 +1163,19 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-09-03"
+   "last_seen": "2026-09-22"
   },
   {
    "name": "Rail",
-   "count": 38,
+   "count": 39,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-21"
+   "last_seen": "2026-09-22"
   },
   {
    "name": "Transport & Logistics",
-   "count": 35,
+   "count": 36,
    "first_seen": "2026-02-17",
    "last_seen": "2026-09-22"
   },
@@ -1218,6 +1218,24 @@
  ],
  "items": [
   {
+   "id": "2026-09-22-brightline-preparing-chapter-11-filing-on-corpor-533fe3",
+   "d": "2026-09-22",
+   "h": "Brightline preparing Chapter 11 filing on corporate debt, could come this week",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-brightline-preparing-chapter-11-filing-o",
+   "x": 0
+  },
+  {
    "id": "2026-09-22-chicago-council-adds-ev-charging-sweetener-to-st-8302f5",
    "d": "2026-09-22",
    "h": "Chicago Council adds EV-charging sweetener to Stonepeak's $2.53bn parking meter deal, vote still short of votes by Sept 30",
@@ -1233,6 +1251,23 @@
    "m": "2026-09",
    "t": "story-chicago-council-adds-ev-charging-sweeten",
    "x": 1
+  },
+  {
+   "id": "2026-09-22-mcdermott-returns-to-profit-and-completes-a-debt-9b097e",
+   "d": "2026-09-22",
+   "h": "McDermott returns to profit and completes a debt refinancing as backlog hits $15.8bn",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "mcdermott_nmdc"
+   ],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-mcdermott-returns-to-profit-and-complete",
+   "x": 0
   },
   {
    "id": "2026-09-22-stonepeak-takes-equity-stake-in-ampyr-s-european-febf40",

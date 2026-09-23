@@ -1,13 +1,13 @@
 # Archive
 
-288 items, 2026-01-13 to 2026-09-22.
+290 items, 2026-01-13 to 2026-09-22.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 22 items
+- [2026-09](2026-09.md) — 24 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -20,12 +20,12 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
-- [Brightline Florida](situations/brightline.md) — 18 items
+- [Brightline Florida](situations/brightline.md) — 19 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 6 items
-- [McDermott / NMDC](situations/mcdermott_nmdc.md) — 5 items
+- [McDermott / NMDC](situations/mcdermott_nmdc.md) — 6 items
 - [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 3 items
 

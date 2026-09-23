@@ -1,6 +1,36 @@
 [
  {
   "date": "2026-09-22",
+  "headline": "McDermott returns to profit and completes a debt refinancing as backlog hits $15.8bn",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Rigzone",
+    "url": "https://www.rigzone.com/news/mcdermott_completes_refinancing-22-sep-2026-184672-article/"
+   }
+  ],
+  "players": "McDermott posted a $41 million net profit for Q2 2026, reversing an $86 million loss a year earlier, with adjusted EBITDA of $143 million and backlog at $15.8 billion as of June. The company also completed a debt refinancing; terms were not disclosed in the release.",
+  "why_it_matters": "Revenue actually fell to $2.33 billion from $2.51 billion, and McDermott says liquidity stays constrained until its project mix shifts to higher-margin work and it resolves outstanding unapproved change-order disputes. The refinancing buys runway but doesn't fix the underlying margin and collections issues - worth tracking against backlog conversion in coming quarters.",
+  "why_you_care": "One of Joe's old Rothschild deals - the profit swing and refinancing are worth marking against the underwriting thesis on McDermott/NMDC.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "mcdermott_nmdc"
+  ],
+  "flags": [],
+  "id": "2026-09-22-mcdermott-returns-to-profit-and-completes-a-debt-9b097e",
+  "story_id": "story-mcdermott-returns-to-profit-and-complete",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-22",
   "headline": "Stonepeak takes equity stake in AMPYR's European distributed-energy platform ADE",
   "section": "sponsor_moves",
   "sources": [
@@ -38,6 +68,42 @@
   ],
   "id": "2026-09-22-stonepeak-takes-equity-stake-in-ampyr-s-european-febf40",
   "story_id": "story-stonepeak-takes-equity-stake-in-ampyr-s",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-22",
+  "headline": "Brightline preparing Chapter 11 filing on corporate debt, could come this week",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/brightline-preparing-for-bankruptcy-filing-as-soon-as-this-week"
+   },
+   {
+    "name": "Inside The Magic",
+    "url": "https://insidethemagic.net/2026/09/brightline-reportedly-files-for-bankruptcy-this-week-and-disney-cruise-plans-impacted-el1/"
+   }
+  ],
+  "players": "Brightline is laying the groundwork to restructure debt through a Chapter 11 filing, potentially as soon as this week, according to people familiar with the matter. The filing would exclude Brightline's operating unit to avoid a federal trustee and keep trains running, and would target about $1.1 billion of corporate debt that ranks below senior municipal bonds in the capital structure.",
+  "why_it_matters": "Brightline is carrying a debt load reported at roughly $5.5 billion, and ticket revenue from a profitable railroad still doesn't cover interest payments at that scale. This looks like a balance-sheet problem, not a ridership problem, but a Chapter 11 filing will pressure how the senior muni bonds and any station financing (Cocoa, Port Canaveral) get treated. Watch which entity actually files and whether operations stay untouched.",
+  "why_you_care": "This is the rail deal Joe underwrote at Rothschild - a Chapter 11 filing tests whether the senior muni bond structure he priced actually holds up.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "United States",
+   "Florida"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-09-22-brightline-preparing-chapter-11-filing-on-corpor-533fe3",
+  "story_id": "story-brightline-preparing-chapter-11-filing-o",
   "story_size": 1
  },
  {

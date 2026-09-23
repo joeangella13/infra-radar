@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-18 items, 2026-05-15 to 2026-09-21.
+19 items, 2026-05-15 to 2026-09-22.
+
+---
+
+### Brightline preparing Chapter 11 filing on corporate debt, could come this week
+
+`2026-09-22` · Tracked situations · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/brightline-preparing-for-bankruptcy-filing-as-soon-as-this-week), [Inside The Magic](https://insidethemagic.net/2026/09/brightline-reportedly-files-for-bankruptcy-this-week-and-disney-cruise-plans-impacted-el1/)
+
+**Deal / players.** Brightline is laying the groundwork to restructure debt through a Chapter 11 filing, potentially as soon as this week, according to people familiar with the matter. The filing would exclude Brightline's operating unit to avoid a federal trustee and keep trains running, and would target about $1.1 billion of corporate debt that ranks below senior municipal bonds in the capital structure.
+
+**Why it matters.** Brightline is carrying a debt load reported at roughly $5.5 billion, and ticket revenue from a profitable railroad still doesn't cover interest payments at that scale. This looks like a balance-sheet problem, not a ridership problem, but a Chapter 11 filing will pressure how the senior muni bonds and any station financing (Cocoa, Port Canaveral) get treated. Watch which entity actually files and whether operations stay untouched.
+
+**Why you care.** This is the rail deal Joe underwrote at Rothschild - a Chapter 11 filing tests whether the senior muni bond structure he priced actually holds up.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: United States, Florida · id: `2026-09-22-brightline-preparing-chapter-11-filing-on-corpor-533fe3`</sub>
 
 ---
 
