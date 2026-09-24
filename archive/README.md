@@ -1,13 +1,13 @@
 # Archive
 
-290 items, 2026-01-13 to 2026-09-22.
+292 items, 2026-01-13 to 2026-09-23.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 24 items
+- [2026-09](2026-09.md) — 26 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -20,7 +20,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
-- [Brightline Florida](situations/brightline.md) — 19 items
+- [Brightline Florida](situations/brightline.md) — 20 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items

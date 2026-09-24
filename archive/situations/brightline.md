@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-19 items, 2026-05-15 to 2026-09-22.
+20 items, 2026-05-15 to 2026-09-23.
+
+---
+
+### Brightline's bond payment deadline slips two days to today as DIP financing deal firms up
+
+`2026-09-23` · Tracked situations · [Bond Buyer](https://www.bondbuyer.com/news/brightline-bankruptcy-on-tap), [Investing.com (Bloomberg)](https://www.investing.com/news/stock-market-news/brightline-nears-bankruptcy-filing-to-restructure-debt--bloomberg-93CH-4911565)
+
+**Deal / players.** Brightline pushed a bond payment deadline back only two days, from Sept 22 to Sept 24, its latest in a string of short deferrals. It is finalizing debtor-in-possession financing with a muni bondholder group led by First Eagle and Nuveen plus bond insurer Assured Guaranty, which already committed at least $350 million. The debt stack includes $4.4 billion of muni debt and $1.2 billion of unrated tax-exempt bonds now trading around 33 cents on the dollar.
+
+**Why it matters.** A Chapter 11 filing would carve out the operating company, keeping trains running with no federal trustee, while corporate bondholders (a hedge fund group still in talks with Fortress-backed Brightline) absorb the restructuring. How that group gets treated versus the muni and DIP lenders sets the recovery waterfall for one of the largest credits in high-yield muni land.
+
+**Why you care.** He underwrote Brightline at Rothschild; the DIP structure and who gets primed will reshape the capital stack thesis he built and is worth flagging internally.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · id: `2026-09-23-brightline-s-bond-payment-deadline-slips-two-day-9d2125`</sub>
 
 ---
 

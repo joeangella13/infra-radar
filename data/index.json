@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T15:09:34+00:00",
+ "generated_at": "2026-09-24T15:20:21+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 290,
+ "total_items": 292,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-22"
+  "2026-09-23"
  ],
  "firms": [
   {
@@ -1067,9 +1067,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 19,
+   "count": 20,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-22"
+   "last_seen": "2026-09-23"
   },
   {
    "key": "hydrostor",
@@ -1139,21 +1139,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 103,
+   "count": 104,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-22"
+   "last_seen": "2026-09-23"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 89,
+   "count": 90,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-09-19"
+   "last_seen": "2026-09-23"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 58,
+   "count": 59,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-19"
+   "last_seen": "2026-09-23"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1169,15 +1169,15 @@
   },
   {
    "name": "Rail",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-22"
+   "last_seen": "2026-09-23"
   },
   {
    "name": "Transport & Logistics",
-   "count": 36,
+   "count": 37,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-09-22"
+   "last_seen": "2026-09-23"
   },
   {
    "name": "Funds & Fundraising",
@@ -1217,6 +1217,41 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-09-23-brightline-s-bond-payment-deadline-slips-two-day-9d2125",
+   "d": "2026-09-23",
+   "h": "Brightline's bond payment deadline slips two days to today as DIP financing deal firms up",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-brightline-s-bond-payment-deadline-slips",
+   "x": 0
+  },
+  {
+   "id": "2026-09-23-pjm-s-sept-30-backstop-capacity-auction-carries-749258",
+   "d": "2026-09-23",
+   "h": "PJM's Sept 30 backstop capacity auction carries a $555/MW-day cap, 70% above normal",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-pjm-s-sept-30-backstop-capacity-auction",
+   "x": 0
+  },
   {
    "id": "2026-09-22-brightline-preparing-chapter-11-filing-on-corpor-533fe3",
    "d": "2026-09-22",
