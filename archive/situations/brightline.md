@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-20 items, 2026-05-15 to 2026-09-23.
+21 items, 2026-05-15 to 2026-09-24.
+
+---
+
+### Brightline files Chapter 11, restructuring $1.1bn corporate debt while trains keep running
+
+`2026-09-24` · Tracked situations · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-25/florida-s-private-train-brightline-goes-bankrupt-overrun-by-debt), [Bloomberg Law](https://news.bloomberglaw.com/bankruptcy-law/brightline-files-for-chapter-11-bankruptcy-in-new-jersey)
+
+**Deal / players.** Brightline Holdings LLC and other parent entities filed Chapter 11 in New Jersey on Thursday, listing assets and liabilities of $1bn-$10bn; the filing excludes the operating company so trains keep running. Assured Guaranty and other Brightline Florida financial stakeholders signed a restructuring support agreement providing $490 million of new capital on exit - $350 million of new junior debt and $140 million of additional senior debt, with Assured committing $70 million of the senior piece.
+
+**Why it matters.** This is the widely-flagged filing finally landing: Fortress-owned Brightline couldn't earn its way out of roughly $5.5bn in debt despite record ridership growth. The corporate bonds, which sit below $2.2bn of senior municipal debt, get restructured while service continues uninterrupted. Watch who ends up controlling the reorganized entity - Assured and the muni bondholders are effectively financing their own path toward equity.
+
+**Why you care.** Brightline is a deal he underwrote at Rothschild - the filing tests the ridership-versus-debt thesis he built and is now a live situation worth flagging at MSIP.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US · id: `2026-09-24-brightline-files-chapter-11-restructuring-1-1bn-082a55`</sub>
 
 ---
 

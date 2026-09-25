@@ -1,5 +1,85 @@
 [
  {
+  "date": "2026-09-24",
+  "headline": "Brightline files Chapter 11, restructuring $1.1bn corporate debt while trains keep running",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/florida-s-private-train-brightline-goes-bankrupt-overrun-by-debt"
+   },
+   {
+    "name": "Bloomberg Law",
+    "url": "https://news.bloomberglaw.com/bankruptcy-law/brightline-files-for-chapter-11-bankruptcy-in-new-jersey"
+   }
+  ],
+  "players": "Brightline Holdings LLC and other parent entities filed Chapter 11 in New Jersey on Thursday, listing assets and liabilities of $1bn-$10bn; the filing excludes the operating company so trains keep running. Assured Guaranty and other Brightline Florida financial stakeholders signed a restructuring support agreement providing $490 million of new capital on exit - $350 million of new junior debt and $140 million of additional senior debt, with Assured committing $70 million of the senior piece.",
+  "why_it_matters": "This is the widely-flagged filing finally landing: Fortress-owned Brightline couldn't earn its way out of roughly $5.5bn in debt despite record ridership growth. The corporate bonds, which sit below $2.2bn of senior municipal debt, get restructured while service continues uninterrupted. Watch who ends up controlling the reorganized entity - Assured and the muni bondholders are effectively financing their own path toward equity.",
+  "why_you_care": "Brightline is a deal he underwrote at Rothschild - the filing tests the ridership-versus-debt thesis he built and is now a live situation worth flagging at MSIP.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline",
+   "Fortress Investment Group",
+   "Assured Guaranty"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-09-24-brightline-files-chapter-11-restructuring-1-1bn-082a55",
+  "story_id": "story-brightline-files-chapter-11-restructurin",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-23",
+  "headline": "Chicago City Council approves Stonepeak's $2.53bn takeover of parking meters",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Block Club Chicago",
+    "url": "https://blockclubchicago.org/2026/09/24/another-private-investment-group-is-set-to-make-billions-from-the-parking-meter-deal/"
+   },
+   {
+    "name": "Chicago Sun-Times",
+    "url": "https://chicago.suntimes.com/city-hall/2026/09/24/finance-committee-chicago-parking-meters-deal-compromise-stonepeak-partners"
+   }
+  ],
+  "players": "The full City Council voted Sept 23 to approve Stonepeak's purchase of the 57 years remaining on Chicago's parking meter concession, with only two alderpeople opposed. Stonepeak pays the city $75 million upfront plus 5% of future profits, an estimated $376.2 million over the life of the deal, plus 2% of proceeds if it ever resells the concession; it also agreed to exit its ownership of Omni Air, which runs deportation flights for the Trump administration.",
+  "why_it_matters": "This closes out months of arbitration brinkmanship and finalizes one of the largest US municipal infrastructure privatizations this year, replacing the widely-criticized 2008 Daley-era lease. The profit-share and resale claw-back terms - won by aldermen after the city's own buyback bids topped out at $3.2bn - could become a template other cities push for in future concession sales.",
+  "why_you_care": "Stonepeak just set the price and give-backs needed to win a contested municipal monopoly asset - a useful comp if MSIP ever bids on a similar concession.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [
+   "Chicago Parking Meters LLC",
+   "Omni Air"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-23-chicago-city-council-approves-stonepeak-s-2-53bn-e24964",
+  "story_id": "story-chicago-city-council-approves-stonepeak",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-23",
   "headline": "Brightline's bond payment deadline slips two days to today as DIP financing deal firms up",
   "section": "tracked_situations",

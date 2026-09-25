@@ -1,6 +1,20 @@
 # Stonepeak
 
-11 items, 2026-05-11 to 2026-09-22.
+12 items, 2026-05-11 to 2026-09-23.
+
+---
+
+### **[watchlist]** Chicago City Council approves Stonepeak's $2.53bn takeover of parking meters
+
+`2026-09-23` · Sponsor moves · [Block Club Chicago](https://blockclubchicago.org/2026/09/24/another-private-investment-group-is-set-to-make-billions-from-the-parking-meter-deal/), [Chicago Sun-Times](https://chicago.suntimes.com/city-hall/2026/09/24/finance-committee-chicago-parking-meters-deal-compromise-stonepeak-partners)
+
+**Deal / players.** The full City Council voted Sept 23 to approve Stonepeak's purchase of the 57 years remaining on Chicago's parking meter concession, with only two alderpeople opposed. Stonepeak pays the city $75 million upfront plus 5% of future profits, an estimated $376.2 million over the life of the deal, plus 2% of proceeds if it ever resells the concession; it also agreed to exit its ownership of Omni Air, which runs deportation flights for the Trump administration.
+
+**Why it matters.** This closes out months of arbitration brinkmanship and finalizes one of the largest US municipal infrastructure privatizations this year, replacing the widely-criticized 2008 Daley-era lease. The profit-share and resale claw-back terms - won by aldermen after the city's own buyback bids topped out at $3.2bn - could become a template other cities push for in future concession sales.
+
+**Why you care.** Stonepeak just set the price and give-backs needed to win a contested municipal monopoly asset - a useful comp if MSIP ever bids on a similar concession.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics · Geo: US · id: `2026-09-23-chicago-city-council-approves-stonepeak-s-2-53bn-e24964`</sub>
 
 ---
 
