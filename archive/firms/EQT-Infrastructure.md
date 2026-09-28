@@ -1,6 +1,20 @@
 # EQT Infrastructure
 
-7 items, 2026-05-07 to 2026-09-18.
+8 items, 2026-05-07 to 2026-09-28.
+
+---
+
+### **[watchlist]** EQT reconfirms A$3.13-a-share Cleanaway proposal after diligence; binding deal still to be signed
+
+`2026-09-28` · Sponsor moves · [Finimize](https://finimize.com/content/eqt-reconfirms-its-offer-for-cleanaway), [Capital Brief](https://www.capitalbrief.com/briefing/eqt-reconfirms-plans-to-progress-with-94b-cleanaway-buyout-166971f0-c3a4-4814-a308-a86cae7acde1/), [Business News Australia](https://www.businessnewsaustralia.com/articles/swedish-private-equity-giant-eqt-tables-9b-takeover-bid-for-cleanaway-waste-management.html)
+
+**Deal / players.** In a Monday filing to the ASX, EQT Infrastructure told Cleanaway that due diligence has not changed its view and it still plans to sign a scheme implementation deed before exclusivity ends. The proposal, first made public on 13 Aug, is non-binding: A$3.13 cash per share, a 32.1% premium to the prior close, valuing Cleanaway at about A$9.4bn including A$2.3bn of net debt and debt-like items. The board has said it intends to recommend a deal at A$3.13 or more, subject to conditions.
+
+**Why it matters.** The price implies about 20x FY26 EBIT for a waste business with long-term municipal and industrial contracts, a high mark for the sector. Nine weeks of exclusivity from the 13 Aug announcement is running down, so a signed deed or a walk-away should come soon. FIRB and ACCC approvals are conditions of a binding deal.
+
+**Why you care.** EQT is paying around 20x EBIT for contracted waste; use it as the high-end comp for any environmental services deal, and watch whether the binding terms hold at A$3.13.
+
+<sub>Firms: EQT Infrastructure · Sectors: Water & Environmental · Geo: Australia · id: `2026-09-28-eqt-reconfirms-a-3-13-a-share-cleanaway-proposal-fe4cf1`</sub>
 
 ---
 

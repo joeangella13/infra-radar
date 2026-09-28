@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-5 items, 2026-04-30 to 2026-08-05.
+6 items, 2026-04-30 to 2026-09-28.
+
+---
+
+### FTAI's Jefferson signs deal to buy Port Arthur crude terminal and half of Alberta diluent unit for about $255m
+
+`2026-09-28` · Tracked situations · [FTAI Infrastructure (press release)](https://ir.fipinc.com/news-releases/news-release-details/affiliate-jefferson-energy-companies-agrees-acquire-crude-oil), [KuCoin News summary](https://www.kucoin.com/news/flash/jefferson-energy-subsidiary-to-acquire-usd-group-s-oil-logistics-assets-for-255m)
+
+**Deal / players.** A subsidiary of FTAI Energy Partners (Jefferson), part of FTAI Infrastructure, signed a definitive agreement on 28 Sept to buy the Port Arthur Terminal in Texas and a 50% interest in the Diluent Recovery Unit in Hardisty, Alberta, from a USD Group subsidiary. Consideration is about $255m in cash, funded by assuming the business's existing debt plus a new acquisition facility secured by Jefferson. FTAI expects about $50m of annual EBITDA over the next twelve months; regulatory approvals are expected in Q4 2026.
+
+**Why it matters.** About $255m for roughly $50m of expected EBITDA is near 5x, low for cash flow that is reported to sit under long-term contracts with minimum volumes from investment-grade customers. It is debt-funded, so watch Jefferson's leverage against FTAI's stated ceiling of 50% of total capital. It also adds Gulf Coast and Canadian volume to Jefferson while the $1.52bn Long Ridge sale is pending.
+
+**Why you care.** Your old FTAI Infrastructure deal is buying assets at about 5x forward EBITDA: a low-multiple comp for Gulf Coast terminals, and a sign Jefferson is being built out ahead of a possible sale.
+
+<sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals · Geo: US, Canada · id: `2026-09-28-ftai-s-jefferson-signs-deal-to-buy-port-arthur-c-c27d4e`</sub>
 
 ---
 

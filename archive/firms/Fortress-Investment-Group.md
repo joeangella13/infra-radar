@@ -1,6 +1,34 @@
 # Fortress Investment Group
 
-12 items, 2026-04-30 to 2026-09-24.
+14 items, 2026-04-30 to 2026-09-28.
+
+---
+
+### FTAI's Jefferson signs deal to buy Port Arthur crude terminal and half of Alberta diluent unit for about $255m
+
+`2026-09-28` · Tracked situations · [FTAI Infrastructure (press release)](https://ir.fipinc.com/news-releases/news-release-details/affiliate-jefferson-energy-companies-agrees-acquire-crude-oil), [KuCoin News summary](https://www.kucoin.com/news/flash/jefferson-energy-subsidiary-to-acquire-usd-group-s-oil-logistics-assets-for-255m)
+
+**Deal / players.** A subsidiary of FTAI Energy Partners (Jefferson), part of FTAI Infrastructure, signed a definitive agreement on 28 Sept to buy the Port Arthur Terminal in Texas and a 50% interest in the Diluent Recovery Unit in Hardisty, Alberta, from a USD Group subsidiary. Consideration is about $255m in cash, funded by assuming the business's existing debt plus a new acquisition facility secured by Jefferson. FTAI expects about $50m of annual EBITDA over the next twelve months; regulatory approvals are expected in Q4 2026.
+
+**Why it matters.** About $255m for roughly $50m of expected EBITDA is near 5x, low for cash flow that is reported to sit under long-term contracts with minimum volumes from investment-grade customers. It is debt-funded, so watch Jefferson's leverage against FTAI's stated ceiling of 50% of total capital. It also adds Gulf Coast and Canadian volume to Jefferson while the $1.52bn Long Ridge sale is pending.
+
+**Why you care.** Your old FTAI Infrastructure deal is buying assets at about 5x forward EBITDA: a low-multiple comp for Gulf Coast terminals, and a sign Jefferson is being built out ahead of a possible sale.
+
+<sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals · Geo: US, Canada · id: `2026-09-28-ftai-s-jefferson-signs-deal-to-buy-port-arthur-c-c27d4e`</sub>
+
+---
+
+### Brightline Chapter 11 detail: $490m of new capital from stakeholders; ridership still under half of 2024 forecast
+
+`2026-09-25` · Tracked situations · [Yahoo Finance (AP-based)](https://finance.yahoo.com/small-business/articles/brightline-files-chapter-11-bankruptcy-174300235.html), [CBS12](https://cbs12.com/news/local/brightline-to-restructure-finances-no-impact-to-train-service-bankruptcy-high-speed-rail-490-million-brightline-debt-florida-transportation-florida-news), [ClickOrlando](https://www.clickorlando.com/news/local/2026/09/25/brightline-high-speed-hopes-low-yield-reality/)
+
+**Deal / players.** Supporting stakeholders committed $490m of new long-term capital as part of the restructuring agreement. Seventeen Brightline-related parent and affiliate companies filed in New Jersey; Brightline Trains Florida LLC, which runs the trains, did not file. Year-to-date ridership and revenue through August grew 14% and 17%. Debtwire's Tim Hynes told the AP the roughly 3.5m annual riders and about $240m of revenue are under half the passengers and a third of the income forecast in 2024.
+
+**Why it matters.** The filing is limited to parent entities, so the operating company and its train service are ring-fenced while about $1.1bn of corporate debt is reworked. The gap to the 2024 forecast shows how far the original underwriting missed. Watch the court schedule, how the $490m is structured, and whether Brightline West's timeline is affected; one outlet reports possible delays.
+
+**Why you care.** This is the deal you worked on; the equity thesis missed on ridership, so it is a live case for how much ramp-up risk MSIP should price into transport underwriting.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US · id: `2026-09-25-brightline-chapter-11-detail-490m-of-new-capital-698a49`</sub>
 
 ---
 

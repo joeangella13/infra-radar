@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-21 items, 2026-05-15 to 2026-09-24.
+22 items, 2026-05-15 to 2026-09-25.
+
+---
+
+### Brightline Chapter 11 detail: $490m of new capital from stakeholders; ridership still under half of 2024 forecast
+
+`2026-09-25` · Tracked situations · [Yahoo Finance (AP-based)](https://finance.yahoo.com/small-business/articles/brightline-files-chapter-11-bankruptcy-174300235.html), [CBS12](https://cbs12.com/news/local/brightline-to-restructure-finances-no-impact-to-train-service-bankruptcy-high-speed-rail-490-million-brightline-debt-florida-transportation-florida-news), [ClickOrlando](https://www.clickorlando.com/news/local/2026/09/25/brightline-high-speed-hopes-low-yield-reality/)
+
+**Deal / players.** Supporting stakeholders committed $490m of new long-term capital as part of the restructuring agreement. Seventeen Brightline-related parent and affiliate companies filed in New Jersey; Brightline Trains Florida LLC, which runs the trains, did not file. Year-to-date ridership and revenue through August grew 14% and 17%. Debtwire's Tim Hynes told the AP the roughly 3.5m annual riders and about $240m of revenue are under half the passengers and a third of the income forecast in 2024.
+
+**Why it matters.** The filing is limited to parent entities, so the operating company and its train service are ring-fenced while about $1.1bn of corporate debt is reworked. The gap to the 2024 forecast shows how far the original underwriting missed. Watch the court schedule, how the $490m is structured, and whether Brightline West's timeline is affected; one outlet reports possible delays.
+
+**Why you care.** This is the deal you worked on; the equity thesis missed on ridership, so it is a live case for how much ramp-up risk MSIP should price into transport underwriting.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US · id: `2026-09-25-brightline-chapter-11-detail-490m-of-new-capital-698a49`</sub>
 
 ---
 

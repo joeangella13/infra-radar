@@ -1,13 +1,13 @@
 # Archive
 
-294 items, 2026-01-13 to 2026-09-24.
+298 items, 2026-01-13 to 2026-09-28.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 28 items
+- [2026-09](2026-09.md) — 32 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -20,8 +20,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
-- [Brightline Florida](situations/brightline.md) — 21 items
-- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 5 items
+- [Brightline Florida](situations/brightline.md) — 22 items
+- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 6 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 6 items
@@ -32,14 +32,14 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Firms
 
 - [MSIP](firms/MSIP.md) ◆ — 22 items
+- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 14 items
 - [Stonepeak](firms/Stonepeak.md) — 12 items
 - [Blackstone](firms/Blackstone.md) — 12 items
-- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 12 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 11 items
 - [Brookfield](firms/Brookfield.md) — 9 items
 - [KKR](firms/KKR.md) — 8 items
+- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 8 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 7 items
-- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 7 items
 - [Meridiam](firms/Meridiam.md) — 6 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 4 items
