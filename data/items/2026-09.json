@@ -1,6 +1,44 @@
 [
  {
   "date": "2026-09-28",
+  "headline": "HICL and other InfraRed funds agree to buy Scandinavian rail freight operator Hector Rail from Ancala; HICL invests c.£68m for 42%",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "HICL Infrastructure RNS via TradingView/Reuters",
+    "url": "https://www.tradingview.com/news/reuters.com,2026-09-28:newsml_RSb4549Wa:0-reg-hicl-infrastructure-acquisition-scandinavian-rail-freight-investment/"
+   }
+  ],
+  "players": "HICL Infrastructure has agreed to invest c.£68m for a 42% stake in Hector Rail, described as the largest private rail freight operator in Scandinavia, with a fleet of about 100 locomotives. Other InfraRed-managed funds take the rest, so together they acquire 100% from Ancala. Total price and closing timing were not in the announcement text I read.",
+  "why_it_matters": "Rail freight operators earn from freight contracts and asset-light growth, not from owning track. HICL calls it its first 'Enhancer' deal, meaning it is moving up the risk curve for higher returns, with a 10%+ total return target. A listed vehicle taking 42% alongside sister funds suggests buyers still want European transport platforms and that Ancala is choosing to sell. Watch for the full price and any debt package.",
+  "why_you_care": "A clean recent comp for a European rail freight platform, useful when marking any operator-model transport deal at MSIP; background only, with no direct link to a tracked situation.",
+  "firms": [
+   "Ancala"
+  ],
+  "companies": [
+   "Hector Rail",
+   "HICL Infrastructure",
+   "InfraRed Capital Partners",
+   "Ancala"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Sweden",
+   "Scandinavia",
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-28-hicl-and-other-infrared-funds-agree-to-buy-scand-0bbf1d",
+  "story_id": "story-hicl-and-other-infrared-funds-agree-to-b",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-28",
   "headline": "FTAI's Jefferson signs deal to buy Port Arthur crude terminal and half of Alberta diluent unit for about $255m",
   "section": "tracked_situations",
   "sources": [
@@ -81,6 +119,46 @@
   ],
   "id": "2026-09-28-eqt-reconfirms-a-3-13-a-share-cleanaway-proposal-fe4cf1",
   "story_id": "story-eqt-reconfirms-a-3-13-a-share-cleanaway",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-25",
+  "headline": "Eaton signs deal to buy Italy's COL Group from Oaktree's Power Opportunities strategy at €810m enterprise value",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Reuters via Euronext",
+    "url": "https://live.euronext.com/en/financial-news/eaton-acquire-italys-grid-equipment-maker-col-group-eu810-million-expand-europe"
+   },
+   {
+    "name": "DatacenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/eaton-to-acquire-col-group/"
+   }
+  ],
+  "players": "Eaton has signed an agreement to buy COL Group, an Italian maker of medium-voltage switchgear and grid automation equipment, from Oaktree's Power Opportunities strategy for an enterprise value of €810m. COL forecasts 2027 sales of €250m, has about 400 staff and sites in Turin, Milan, Bergamo and Catania. Closing is expected in Q1 2027, subject to approvals; Oaktree bought COL in 2021.",
+  "why_it_matters": "A strategic buyer paying €810m for a grid-equipment maker shows that data centre and utility power demand is lifting values for suppliers as well as owners of the assets. It is an equipment deal, not an infrastructure cash-flow deal, so it is a weaker comp for contracted assets. It does point to where pressure sits in the power chain: switchgear and distribution capacity in Europe.",
+  "why_you_care": "Background on equipment-side pricing and a reminder that grid supply bottlenecks can slow or raise costs for MSIP's digital and power underwriting; not a direct comp for asset ownership.",
+  "firms": [
+   "Oaktree"
+  ],
+  "companies": [
+   "Eaton",
+   "COL Group",
+   "Oaktree"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "Italy",
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-25-eaton-signs-deal-to-buy-italy-s-col-group-from-o-9bb9ae",
+  "story_id": "story-eaton-signs-deal-to-buy-italy-s-col-grou",
   "story_size": 1
  },
  {
@@ -198,6 +276,51 @@
   "flags": [],
   "id": "2026-09-24-brightline-files-chapter-11-restructuring-1-1bn-082a55",
   "story_id": "story-brightline-files-chapter-11-restructurin",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-24",
+  "headline": "BlackRock/AIP and IFM reported in exclusive talks for Stack's Asia-Pacific data centres at up to $25bn; Blue Owl first sought $30bn+",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal"
+   },
+   {
+    "name": "Reuters via The Star",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports"
+   },
+   {
+    "name": "Institutional Real Estate, Inc.",
+    "url": "https://irei.com/news/blackrock-ifm-investors-consortium-explores-25b-asia-data-center-deal/"
+   }
+  ],
+  "players": "Bloomberg reported on 24 September that a consortium including the BlackRock-backed AI Infrastructure Partnership (AIP) and IFM Investors is in exclusive talks to buy Stack Infrastructure's Asia-Pacific data centres. It said a deal could value the portfolio at around $20bn to $25bn. The seller is Blue Owl, which had been seeking more than $30bn; the buyers are still preparing due diligence and talks could fail.",
+  "why_it_matters": "This is a reported negotiation, not a signed deal. If it lands near $20bn to $25bn, it sets a large marker for stabilised, hyperscale-leased data centre platforms in Tokyo, Osaka, Sydney and Melbourne. The gap to Blue Owl's $30bn+ opening ask shows buyers pushing back on price even for scarce assets. Watch whether diligence produces a signed agreement and where the final number settles.",
+  "why_you_care": "A landmark data centre price to mark against, with IFM, a watchlist rival, on the buy side alongside BlackRock; it also shows how large the cheque size is for Asia-Pacific digital assets.",
+  "firms": [
+   "IFM Investors",
+   "Global Infrastructure Partners"
+  ],
+  "companies": [
+   "Stack Infrastructure",
+   "Blue Owl Capital",
+   "Artificial Intelligence Infrastructure Partnership"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "Japan",
+   "Australia",
+   "Asia-Pacific"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-24-blackrock-aip-and-ifm-reported-in-exclusive-talk-4c319e",
+  "story_id": "story-blackrock-aip-and-ifm-reported-in-exclus",
   "story_size": 1
  },
  {

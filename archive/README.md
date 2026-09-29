@@ -1,13 +1,13 @@
 # Archive
 
-298 items, 2026-01-13 to 2026-09-28.
+301 items, 2026-01-13 to 2026-09-28.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 32 items
+- [2026-09](2026-09.md) — 35 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -38,13 +38,13 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [I Squared Capital](firms/I-Squared-Capital.md) — 11 items
 - [Brookfield](firms/Brookfield.md) — 9 items
 - [KKR](firms/KKR.md) — 8 items
+- [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 8 items
-- [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 7 items
 - [Meridiam](firms/Meridiam.md) — 6 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 4 items
+- [IFM Investors](firms/IFM-Investors.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
-- [IFM Investors](firms/IFM-Investors.md) — 3 items
 - [Apollo](firms/Apollo.md) — 3 items
 - [Carlyle](firms/Carlyle.md) — 3 items
 - [Partners Group](firms/Partners-Group.md) — 2 items

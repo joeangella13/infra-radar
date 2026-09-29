@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T18:13:40+00:00",
+ "generated_at": "2026-09-29T16:35:00+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 298,
+ "total_items": 301,
  "months": [
   "2026-09",
   "2026-08",
@@ -94,20 +94,20 @@
    "last_seen": "2026-09-28"
   },
   {
+   "name": "Global Infrastructure Partners",
+   "watchlist": true,
+   "priority": false,
+   "count": 8,
+   "first_seen": "2026-05-15",
+   "last_seen": "2026-09-24"
+  },
+  {
    "name": "KKR",
    "watchlist": true,
    "priority": false,
    "count": 8,
    "first_seen": "2026-06-10",
    "last_seen": "2026-09-17"
-  },
-  {
-   "name": "Global Infrastructure Partners",
-   "watchlist": true,
-   "priority": false,
-   "count": 7,
-   "first_seen": "2026-05-15",
-   "last_seen": "2026-07-27"
   },
   {
    "name": "Meridiam",
@@ -140,6 +140,14 @@
    "count": 4,
    "first_seen": "2026-05-12",
    "last_seen": "2026-06-16"
+  },
+  {
+   "name": "IFM Investors",
+   "watchlist": true,
+   "priority": false,
+   "count": 4,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-09-24"
   },
   {
    "name": "Macquarie Asset Management",
@@ -188,14 +196,6 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
-  },
-  {
-   "name": "IFM Investors",
-   "watchlist": true,
-   "priority": false,
-   "count": 3,
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-09-17"
   },
   {
    "name": "ArcLight",
@@ -412,6 +412,14 @@
    "count": 1,
    "first_seen": "2026-07-14",
    "last_seen": "2026-07-14"
+  },
+  {
+   "name": "Ancala",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28"
   },
   {
    "name": "Antin",
@@ -926,6 +934,14 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "Oaktree",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25"
+  },
+  {
    "name": "Octus",
    "watchlist": false,
    "priority": false,
@@ -1155,15 +1171,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 104,
+   "count": 105,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-23"
+   "last_seen": "2026-09-25"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 90,
+   "count": 92,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-09-23"
+   "last_seen": "2026-09-25"
   },
   {
    "name": "Regulatory & Policy",
@@ -1179,21 +1195,21 @@
   },
   {
    "name": "Rail",
-   "count": 42,
+   "count": 43,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-25"
+   "last_seen": "2026-09-28"
+  },
+  {
+   "name": "Transport & Logistics",
+   "count": 41,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-09-28"
   },
   {
    "name": "Midstream & Gas",
    "count": 41,
    "first_seen": "2026-04-30",
    "last_seen": "2026-09-28"
-  },
-  {
-   "name": "Transport & Logistics",
-   "count": 40,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-09-24"
   },
   {
    "name": "Funds & Fundraising",
@@ -1234,6 +1250,24 @@
  ],
  "items": [
   {
+   "id": "2026-09-28-hicl-and-other-infrared-funds-agree-to-buy-scand-0bbf1d",
+   "d": "2026-09-28",
+   "h": "HICL and other InfraRed funds agree to buy Scandinavian rail freight operator Hector Rail from Ancala; HICL invests c.£68m for 42%",
+   "s": "sponsor_moves",
+   "f": [
+    "Ancala"
+   ],
+   "u": [],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-hicl-and-other-infrared-funds-agree-to-b",
+   "x": 0
+  },
+  {
    "id": "2026-09-28-ftai-s-jefferson-signs-deal-to-buy-port-arthur-c-c27d4e",
    "d": "2026-09-28",
    "h": "FTAI's Jefferson signs deal to buy Port Arthur crude terminal and half of Alberta diluent unit for about $255m",
@@ -1269,6 +1303,24 @@
    "m": "2026-09",
    "t": "story-eqt-reconfirms-a-3-13-a-share-cleanaway",
    "x": 1
+  },
+  {
+   "id": "2026-09-25-eaton-signs-deal-to-buy-italy-s-col-group-from-o-9bb9ae",
+   "d": "2026-09-25",
+   "h": "Eaton signs deal to buy Italy's COL Group from Oaktree's Power Opportunities strategy at €810m enterprise value",
+   "s": "sector_themes",
+   "f": [
+    "Oaktree"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-eaton-signs-deal-to-buy-italy-s-col-grou",
+   "x": 0
   },
   {
    "id": "2026-09-25-brightline-chapter-11-detail-490m-of-new-capital-698a49",
@@ -1307,6 +1359,24 @@
    "p": "high",
    "m": "2026-09",
    "t": "story-brightline-files-chapter-11-restructurin",
+   "x": 0
+  },
+  {
+   "id": "2026-09-24-blackrock-aip-and-ifm-reported-in-exclusive-talk-4c319e",
+   "d": "2026-09-24",
+   "h": "BlackRock/AIP and IFM reported in exclusive talks for Stack's Asia-Pacific data centres at up to $25bn; Blue Owl first sought $30bn+",
+   "s": "sponsor_moves",
+   "f": [
+    "IFM Investors",
+    "Global Infrastructure Partners"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-blackrock-aip-and-ifm-reported-in-exclus",
    "x": 0
   },
   {

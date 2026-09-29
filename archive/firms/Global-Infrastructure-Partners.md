@@ -1,6 +1,20 @@
 # Global Infrastructure Partners
 
-7 items, 2026-05-15 to 2026-07-27.
+8 items, 2026-05-15 to 2026-09-24.
+
+---
+
+### BlackRock/AIP and IFM reported in exclusive talks for Stack's Asia-Pacific data centres at up to $25bn; Blue Owl first sought $30bn+
+
+`2026-09-24` · Sponsor moves · [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal), [Reuters via The Star](https://www.thestar.com.my/tech/tech-news/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports), [Institutional Real Estate, Inc.](https://irei.com/news/blackrock-ifm-investors-consortium-explores-25b-asia-data-center-deal/)
+
+**Deal / players.** Bloomberg reported on 24 September that a consortium including the BlackRock-backed AI Infrastructure Partnership (AIP) and IFM Investors is in exclusive talks to buy Stack Infrastructure's Asia-Pacific data centres. It said a deal could value the portfolio at around $20bn to $25bn. The seller is Blue Owl, which had been seeking more than $30bn; the buyers are still preparing due diligence and talks could fail.
+
+**Why it matters.** This is a reported negotiation, not a signed deal. If it lands near $20bn to $25bn, it sets a large marker for stabilised, hyperscale-leased data centre platforms in Tokyo, Osaka, Sydney and Melbourne. The gap to Blue Owl's $30bn+ opening ask shows buyers pushing back on price even for scarce assets. Watch whether diligence produces a signed agreement and where the final number settles.
+
+**Why you care.** A landmark data centre price to mark against, with IFM, a watchlist rival, on the buy side alongside BlackRock; it also shows how large the cheque size is for Asia-Pacific digital assets.
+
+<sub>Firms: IFM Investors, Global Infrastructure Partners · Sectors: Digital Infrastructure · Geo: Japan, Australia, Asia-Pacific · id: `2026-09-24-blackrock-aip-and-ifm-reported-in-exclusive-talk-4c319e`</sub>
 
 ---
 
