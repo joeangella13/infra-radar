@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T16:35:00+00:00",
+ "generated_at": "2026-09-30T16:28:18+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 301,
+ "total_items": 304,
  "months": [
   "2026-09",
   "2026-08",
@@ -34,7 +34,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-09-28"
+  "2026-09-30"
  ],
  "firms": [
   {
@@ -62,20 +62,20 @@
    "last_seen": "2026-09-17"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 12,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-09-24"
+  },
+  {
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
    "count": 12,
    "first_seen": "2026-05-11",
    "last_seen": "2026-09-23"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 11,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-09-16"
   },
   {
    "name": "Brookfield",
@@ -1099,9 +1099,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 22,
+   "count": 23,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-25"
+   "last_seen": "2026-09-28"
   },
   {
    "key": "hydrostor",
@@ -1177,15 +1177,15 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 92,
+   "count": 93,
    "first_seen": "2026-01-15",
    "last_seen": "2026-09-25"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 59,
+   "count": 60,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-23"
+   "last_seen": "2026-09-30"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1195,15 +1195,15 @@
   },
   {
    "name": "Rail",
-   "count": 43,
+   "count": 44,
    "first_seen": "2026-05-04",
    "last_seen": "2026-09-28"
   },
   {
    "name": "Transport & Logistics",
-   "count": 41,
+   "count": 43,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-30"
   },
   {
    "name": "Midstream & Gas",
@@ -1230,6 +1230,12 @@
    "last_seen": "2026-08-10"
   },
   {
+   "name": "Water & Environmental",
+   "count": 6,
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-09-30"
+  },
+  {
    "name": "Mining Services",
    "count": 5,
    "first_seen": "2026-03-11",
@@ -1240,15 +1246,26 @@
    "count": 5,
    "first_seen": "2026-05-18",
    "last_seen": "2026-07-30"
-  },
-  {
-   "name": "Water & Environmental",
-   "count": 5,
-   "first_seen": "2026-06-22",
-   "last_seen": "2026-09-28"
   }
  ],
  "items": [
+  {
+   "id": "2026-09-30-us-infrastructure-law-s-authorization-reaches-it-76b6ad",
+   "d": "2026-09-30",
+   "h": "US infrastructure law's authorization reaches its Sept 30 expiry; I found no confirmed reauthorization",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Transport & Logistics",
+    "Water & Environmental"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-us-infrastructure-law-s-authorization-re",
+   "x": 0
+  },
   {
    "id": "2026-09-28-hicl-and-other-infrared-funds-agree-to-buy-scand-0bbf1d",
    "d": "2026-09-28",
@@ -1285,6 +1302,24 @@
    "p": "high",
    "m": "2026-09",
    "t": "story-ftai-s-jefferson-signs-deal-to-buy-port",
+   "x": 0
+  },
+  {
+   "id": "2026-09-28-brightline-s-490m-is-140m-senior-and-350m-junior-e39c65",
+   "d": "2026-09-28",
+   "h": "Brightline's $490m is $140m senior and $350m junior debt; plan cuts about $3.3bn of debt, per Reuters",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-brightline-s-490m-is-140m-senior-and-350",
    "x": 0
   },
   {
@@ -1397,6 +1432,23 @@
    "m": "2026-09",
    "t": "story-hamilton-lane-leads-foresight-s-a-660m-t",
    "x": 0
+  },
+  {
+   "id": "2026-09-24-accc-clears-i-squared-s-takeover-of-ooh-media-fi-e74d9c",
+   "d": "2026-09-24",
+   "h": "ACCC clears I Squared's takeover of oOh!media; FIRB and NZ OIO approvals still needed",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-accc-clears-i-squared-s-takeover-of-ooh",
+   "x": 1
   },
   {
    "id": "2026-09-23-chicago-city-council-approves-stonepeak-s-2-53bn-e24964",

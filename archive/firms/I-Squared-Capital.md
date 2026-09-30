@@ -1,6 +1,20 @@
 # I Squared Capital
 
-11 items, 2026-05-25 to 2026-09-16.
+12 items, 2026-05-25 to 2026-09-24.
+
+---
+
+### **[watchlist]** ACCC clears I Squared's takeover of oOh!media; FIRB and NZ OIO approvals still needed
+
+`2026-09-24` · Sponsor moves · [Financial Standard](https://www.financialstandard.com.au/news/accc-green-lights-i-squared-takeover-of-ooh-media-179814066)
+
+**Deal / players.** Australia's competition regulator has cleared I Squared Capital's acquisition of ASX-listed oOh!media. I Squared will pay up to $1.70 a share in cash, an implied value of $898m for the company, per the Australian outlet. The board unanimously recommends the deal absent a superior proposal. Foreign Investment Review Board and NZ Overseas Investment Office approvals are still required.
+
+**Why it matters.** I Squared is taking an out-of-home advertising network private, pitched on long-term contracts and growth. That stretches the infrastructure label toward media assets. The source gives no multiple or enterprise value. Watch the shareholder vote and the two remaining approvals, plus whether a rival bid appears.
+
+**Why you care.** A direct rival is stretching the infrastructure definition in Australia, where MSIP also invests; oOh!media's price is a useful marker for what I Squared will pay for contracted media-type assets.
+
+<sub>Firms: I Squared Capital · Sectors: Digital Infrastructure · Geo: Australia, New Zealand · id: `2026-09-24-accc-clears-i-squared-s-takeover-of-ooh-media-fi-e74d9c`</sub>
 
 ---
 

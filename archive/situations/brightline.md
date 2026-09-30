@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-22 items, 2026-05-15 to 2026-09-25.
+23 items, 2026-05-15 to 2026-09-28.
+
+---
+
+### Brightline's $490m is $140m senior and $350m junior debt; plan cuts about $3.3bn of debt, per Reuters
+
+`2026-09-28` · Tracked situations · [London Reconnections (quoting Smart Cities Dive)](https://londonreconnections.com/brightline-florida-railway-companies-file-for-bankruptcy-smart-cities-dive/), [TravelPulse](https://www.travelpulse.com/news/car-rail/brightline-files-for-bankruptcy-secures-490-million-to-continue-operations), [Travel Weekly](https://www.travelweekly.com/Travel-News/Car-Rental-News/Brightline-files-for-Chapter-11-bankruptcy-protection)
+
+**Deal / players.** Seventeen Brightline Florida parent entities filed for Chapter 11 in New Jersey; the train operating company, Brightline Trains Florida, did not file. Of the $490m of new long-term capital, $140m is senior debt and $350m is junior debt. TravelPulse, citing Reuters, says about $3.3bn of debt is eliminated and $2.2bn of bond debt is left in place, and that ridership is up 14% and revenue up 17% year on year. Brightline West is not in the filing.
+
+**Why it matters.** Most of the new money sits below the senior lenders, so the operating company's interest bill drops but equity is far from safe. The company puts debt at $4.4bn and the WSJ at $5.5bn, so use the court filings, not press figures, in any model. Watch the first court hearings and whether Brightline West closes its own financing.
+
+**Why you care.** This is your old Rothschild deal being reset: the senior/junior split and the $2.2bn of surviving bonds are the new baseline if Brightline debt or other rail assets ever reach MSIP.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-09-28-brightline-s-490m-is-140m-senior-and-350m-junior-e39c65`</sub>
 
 ---
 
