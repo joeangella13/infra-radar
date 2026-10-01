@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-23 items, 2026-05-15 to 2026-09-28.
+24 items, 2026-05-15 to 2026-09-30.
+
+---
+
+### Brightline: court approves $258m interim DIP; creditors holding ~$4.6bn back plan; bondholders offered 4.75% equity
+
+`2026-09-30` · Tracked situations · [The Bond Buyer](https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-29/brightline-creditors-owed-1-billion-sign-debt-deal-lawyer-says), [CityBiz (citing Bloomberg)](https://citybiz.co/article/912205/brightline-offers-creditors-4-75-equity-stake-to-win-support-for-bankruptcy-plan)
+
+**Deal / players.** Judge Mark Hall (D.N.J.) approved the interim $258m DIP loan from Assured Guaranty and mutual-fund bondholders including Nuveen and First Eagle. He did so over the objection of a fund in separate litigation with Brightline Holdings and Morgan Stanley over Brightline West; the approval frees up $190m for the operating company. Brightline's lawyer said creditors holding about $4.6bn of debt now back the plan. A Sept 30 filing offers corporate bondholders at least 4.75% of the reorganized equity, plus governance rights, warrants and a right of first offer on future capital.
+
+**Why it matters.** Brightline's Skadden counsel put total debt at $7.1bn against too little revenue, and the plan keeps the operating company outside Chapter 11 so trains keep running. The 4.75% equity offer to the roughly $1.1bn of 11% corporate bonds shows junior holders had to be bought in. Watch confirmation timing, final equity split, and the Brightline West fight.
+
+**Why you care.** Your Rothschild deal is now a court-run restructuring, and Morgan Stanley is named in the Brightline West dispute; worth checking internally whether MSIP is touched.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US · id: `2026-09-30-brightline-court-approves-258m-interim-dip-credi-5e2d6f`</sub>
 
 ---
 

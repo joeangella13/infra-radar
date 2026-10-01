@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T16:28:18+00:00",
+ "generated_at": "2026-10-01T17:05:28+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 304,
+ "total_items": 306,
  "months": [
   "2026-09",
   "2026-08",
@@ -1099,9 +1099,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 23,
+   "count": 24,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-30"
   },
   {
    "key": "hydrostor",
@@ -1171,9 +1171,9 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 105,
+   "count": 106,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-25"
+   "last_seen": "2026-09-29"
   },
   {
    "name": "Digital Infrastructure",
@@ -1183,7 +1183,7 @@
   },
   {
    "name": "Regulatory & Policy",
-   "count": 60,
+   "count": 61,
    "first_seen": "2026-05-04",
    "last_seen": "2026-09-30"
   },
@@ -1195,13 +1195,13 @@
   },
   {
    "name": "Rail",
-   "count": 44,
+   "count": 45,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-30"
   },
   {
    "name": "Transport & Logistics",
-   "count": 43,
+   "count": 44,
    "first_seen": "2026-02-17",
    "last_seen": "2026-09-30"
   },
@@ -1250,6 +1250,24 @@
  ],
  "items": [
   {
+   "id": "2026-09-30-brightline-court-approves-258m-interim-dip-credi-5e2d6f",
+   "d": "2026-09-30",
+   "h": "Brightline: court approves $258m interim DIP; creditors holding ~$4.6bn back plan; bondholders offered 4.75% equity",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-brightline-court-approves-258m-interim-d",
+   "x": 0
+  },
+  {
    "id": "2026-09-30-us-infrastructure-law-s-authorization-reaches-it-76b6ad",
    "d": "2026-09-30",
    "h": "US infrastructure law's authorization reaches its Sept 30 expiry; I found no confirmed reauthorization",
@@ -1264,6 +1282,22 @@
    "p": "normal",
    "m": "2026-09",
    "t": "story-us-infrastructure-law-s-authorization-re",
+   "x": 0
+  },
+  {
+   "id": "2026-09-29-ferc-accepts-pjm-backstop-procurement-but-suspen-94aa88",
+   "d": "2026-09-29",
+   "h": "FERC accepts PJM backstop procurement but suspends it to Feb 28, 2027; PJM pulls the Sept 30 auction",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-09",
+   "t": "story-ferc-accepts-pjm-backstop-procurement-bu",
    "x": 0
   },
   {

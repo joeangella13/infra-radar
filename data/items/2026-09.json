@@ -34,6 +34,89 @@
   "story_size": 1
  },
  {
+  "date": "2026-09-30",
+  "headline": "Brightline: court approves $258m interim DIP; creditors holding ~$4.6bn back plan; bondholders offered 4.75% equity",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "The Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection"
+   },
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/brightline-creditors-owed-1-billion-sign-debt-deal-lawyer-says"
+   },
+   {
+    "name": "CityBiz (citing Bloomberg)",
+    "url": "https://citybiz.co/article/912205/brightline-offers-creditors-4-75-equity-stake-to-win-support-for-bankruptcy-plan"
+   }
+  ],
+  "players": "Judge Mark Hall (D.N.J.) approved the interim $258m DIP loan from Assured Guaranty and mutual-fund bondholders including Nuveen and First Eagle. He did so over the objection of a fund in separate litigation with Brightline Holdings and Morgan Stanley over Brightline West; the approval frees up $190m for the operating company. Brightline's lawyer said creditors holding about $4.6bn of debt now back the plan. A Sept 30 filing offers corporate bondholders at least 4.75% of the reorganized equity, plus governance rights, warrants and a right of first offer on future capital.",
+  "why_it_matters": "Brightline's Skadden counsel put total debt at $7.1bn against too little revenue, and the plan keeps the operating company outside Chapter 11 so trains keep running. The 4.75% equity offer to the roughly $1.1bn of 11% corporate bonds shows junior holders had to be bought in. Watch confirmation timing, final equity split, and the Brightline West fight.",
+  "why_you_care": "Your Rothschild deal is now a court-run restructuring, and Morgan Stanley is named in the Brightline West dispute; worth checking internally whether MSIP is touched.",
+  "firms": [],
+  "companies": [
+   "Brightline",
+   "Assured Guaranty",
+   "Brightline Holdings"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-09-30-brightline-court-approves-258m-interim-dip-credi-5e2d6f",
+  "story_id": "story-brightline-court-approves-258m-interim-d",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-29",
+  "headline": "FERC accepts PJM backstop procurement but suspends it to Feb 28, 2027; PJM pulls the Sept 30 auction",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "PJM Inside Lines",
+    "url": "https://insidelines.pjm.com/ferc-accepts-pjm-reliability-backstop-proposal/"
+   },
+   {
+    "name": "mgrid",
+    "url": "https://mgrid.org/2026/09/29/ferc-suspends-pjm-backstop-procurement-five-months-auction-pulled/"
+   },
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/"
+   }
+  ],
+  "players": "On Sept 29 FERC accepted PJM's one-time Reliability Backstop Procurement but suspended it five months to Feb 28, 2027, subject to refund. It found three parts may be unjust and unreasonable: cost allocation, rules for a transmission owner leaving PJM, and collateral for load-serving entities. The 6,831 MW target and $555/MW-day offer cap stand, and PJM has not set a new timeline.",
+  "why_it_matters": "The backstop was meant to give new PJM generation long-term contracts of up to 15 years at up to $555/MW-day, with results due early December. That price floor is now delayed at least five months. FERC also wants costs pushed toward the data-center loads driving the need. Watch PJM's refiling and any new auction timetable.",
+  "why_you_care": "Any PJM power or data-center supply deal MSIP looks at now needs a case that works without the backstop contract, so pressure-test PJM capacity and merchant assumptions until PJM refiles.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection",
+   "FERC"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-09-29-ferc-accepts-pjm-backstop-procurement-but-suspen-94aa88",
+  "story_id": "story-ferc-accepts-pjm-backstop-procurement-bu",
+  "story_size": 1
+ },
+ {
   "date": "2026-09-28",
   "headline": "HICL and other InfraRed funds agree to buy Scandinavian rail freight operator Hector Rail from Ancala; HICL invests c.£68m for 42%",
   "section": "sponsor_moves",
