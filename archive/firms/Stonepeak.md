@@ -1,6 +1,20 @@
 # Stonepeak
 
-12 items, 2026-05-11 to 2026-09-23.
+13 items, 2026-05-11 to 2026-09-29.
+
+---
+
+### **[watchlist]** Chicago council gives final 46-3 approval to Stonepeak's $2.53bn parking meter takeover from a Morgan Stanley-led group
+
+`2026-09-29` · Sponsor moves · [Chicago Sun-Times](https://chicago.suntimes.com/city-hall/2026/09/29/city-council-parking-meters-deal-compromise-stonepeak-partners), [Arabian Post](https://thearabianpost.com/chicago-authorises-2-5-billion-stonepeak-parking-transfer), [Briefs.co](https://briefs.co/news/chicago-signs-off-on-2-5-billion-handoff-of-parking-meter-le)
+
+**Deal / players.** The council voted 46-3 on Tuesday, Sept 29, one day before a Sept 30 deadline that could have exposed the city to arbitration. Stonepeak buys Chicago Parking Meters LLC for $2.53bn. The city gets a $75m transfer fee at closing, 5% of net income, and 2% of the sale price if the meters are sold again before the deal ends in 2084. The sellers are a Morgan Stanley-led group that paid $1.15bn for the 75-year lease in 2008.
+
+**Why it matters.** This is a long-dated, inflation-linked cash flow asset changing hands at about 2.2x the 2008 price, by simple division of the two headline figures. The city's own bids reached about $3.2bn before it dropped a buyback, so the private price sat below what the city valued it at. The city's profit share and resale cut cap Stonepeak's upside. Watch closing timing.
+
+**Why you care.** Sellers are a Morgan Stanley-led group, so this is a legacy exit close to MSIP, and direct rival Stonepeak is buying; sources don't say if MSIP funds held it.
+
+<sub>Firms: Stonepeak, Morgan Stanley · Sectors: Transport & Logistics · Geo: US · id: `2026-09-29-chicago-council-gives-final-46-3-approval-to-sto-e6dc40`</sub>
 
 ---
 

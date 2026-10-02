@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-6 items, 2026-04-30 to 2026-09-28.
+7 items, 2026-04-30 to 2026-09-28.
+
+---
+
+### FTAI's Jefferson Port Arthur deal detail: about 5x EBITDA, $190m debt assumed, $72m Barclays loan, $15.3m break fee
+
+`2026-09-28` · Tracked situations · [Investing.com](https://www.investing.com/news/company-news/ftai-infrastructure-unit-to-buy-texas-terminal-for-255m-93CH-4919773), [Tanks & Terminals](https://www.tanksterminals.com/storage-tanks/30092026/ftai-energy-partners-agrees-to-acquire-crude-oil-logistics-assets-from-usd-group/), [Panabee](https://www.panabee.com/news/ftai-infrastructure-expands-logistics-platform-with-255-million-asset-acquisition)
+
+**Deal / players.** FTAI Energy Partners (Jefferson) agreed to buy the Port Arthur Terminal and 50% of the Hardisty diluent recovery unit from a USD Group subsidiary for about $255m in cash. It expects roughly $50m of EBITDA over the next twelve months. Per Panabee's summary, funding is about $190m of assumed debt plus a $72m Barclays commitment, with a $15.3m termination fee. Closing is expected in Q4 2026, subject to regulatory approvals.
+
+**Why it matters.** About 5x forward EBITDA (my arithmetic: $255m over $50m) is a low multiple for take-or-pay crude logistics with an investment-grade counterparty. It is almost all debt-funded, and management says it more than doubles Jefferson's EBITDA and cuts leverage. Watch the Q4 approvals and how Jefferson's debt stack looks afterwards.
+
+**Why you care.** Your FTAI Infrastructure deal is adding contracted cash flow at about 5x, which strengthens Jefferson's case as a standalone asset and is worth flagging to MSIP if it ever comes to market.
+
+<sub>Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals · Geo: US, Canada · id: `2026-09-28-ftai-s-jefferson-port-arthur-deal-detail-about-5-ffc0c6`</sub>
 
 ---
 

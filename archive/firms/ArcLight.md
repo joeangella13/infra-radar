@@ -1,6 +1,20 @@
 # ArcLight
 
-2 items, 2026-05-27 to 2026-07-02.
+3 items, 2026-05-27 to 2026-09-30.
+
+---
+
+### ArcLight closes 50% stake in 5.4 GW IATP power portfolio; Invenergy keeps the other half and operates
+
+`2026-09-30` · Tracked situations · [PR Newswire (ArcLight)](https://www.prnewswire.com/news-releases/arclight-completes-acquisition-of-50-stake-in-5-4-gw-diversified-power-infrastructure-portfolio-302893480.html), [IndexBox](https://indexbox.io/blog/arclight-closes-acquisition-of-50-stake-in-54-gw-iatp-power-portfolio)
+
+**Deal / players.** ArcLight Capital Partners said on Sept 30 that its fund completed the purchase of a 50% stake in IATP, a 5.4 GW portfolio of 11 power assets across North America. Invenergy keeps its 50% and its operating role. IndexBox says the portfolio includes combined-cycle plants. The release I read gives no price.
+
+**Why it matters.** ArcLight is buying existing dispatchable capacity rather than building it. Its stated plan is to capture near-term recontracting and add targeted expansion projects, betting that AI and electrification demand lifts pricing as contracts roll. Terms are undisclosed, so there is no multiple to mark against. Watch which assets recontract first and whether data-centre buyers show up.
+
+**Why you care.** A power-generation structure comp for MSIP's work, and ArcLight is a counterparty you know from the Avangrid renewables deal; with no price disclosed it is not a valuation comp.
+
+<sub>Firms: ArcLight · Situations: avangrid_arclight · Sectors: Power & Renewables · Geo: US, Canada · id: `2026-09-30-arclight-closes-50-stake-in-5-4-gw-iatp-power-po-2814a8`</sub>
 
 ---
 

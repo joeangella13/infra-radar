@@ -1,13 +1,14 @@
 # Archive
 
-306 items, 2026-01-13 to 2026-09-30.
+313 items, 2026-01-13 to 2026-10-02.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-09](2026-09.md) — 40 items
+- [2026-10](2026-10.md) — 3 items
+- [2026-09](2026-09.md) — 44 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
 - [2026-06](2026-06.md) — 63 items
@@ -19,9 +20,9 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 ## Tracked situations
 
-- [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 5 items
+- [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 6 items
 - [Brightline Florida](situations/brightline.md) — 24 items
-- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 6 items
+- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 7 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 6 items
@@ -33,7 +34,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 - [MSIP](firms/MSIP.md) ◆ — 22 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 14 items
-- [Stonepeak](firms/Stonepeak.md) — 12 items
+- [Stonepeak](firms/Stonepeak.md) — 13 items
 - [Blackstone](firms/Blackstone.md) — 12 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 12 items
 - [Brookfield](firms/Brookfield.md) — 9 items
@@ -45,10 +46,10 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [IFM Investors](firms/IFM-Investors.md) — 4 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
+- [ArcLight](firms/ArcLight.md) — 3 items
 - [Apollo](firms/Apollo.md) — 3 items
 - [Carlyle](firms/Carlyle.md) — 3 items
 - [Partners Group](firms/Partners-Group.md) — 2 items
-- [ArcLight](firms/ArcLight.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items
 - [Tiger Infrastructure](firms/Tiger-Infrastructure.md) — 2 items
