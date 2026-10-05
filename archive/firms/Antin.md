@@ -1,6 +1,20 @@
 # Antin
 
-1 items, 2026-07-29 to 2026-07-29.
+2 items, 2026-07-29 to 2026-09-30.
+
+---
+
+### Antin agrees to sell majority of US district energy platform Vicinity to Harrison Street at $2.92bn enterprise value
+
+`2026-09-30` · Sponsor moves · [Antin Infrastructure Partners](https://www.antin-ip.com/media/our-news/antin-to-sell-vicinity-energy-to-harrison-street-asset-management), [IREI](https://irei.com/news/harrison-street-buys-majority-stake-in-district-energy-solution-provider-vicinity-from-antin-infrastructure/), [Private Equity Wire](https://www.privateequitywire.co.uk/antin-agrees-sale-of-majority-stake-in-vicinity-energy-to-harrison-street/)
+
+**Deal / players.** Antin, through Flagship Fund IV, has agreed to sell a majority stake in Vicinity Energy to Harrison Street Asset Management, valuing 100% of the business at $2.92bn enterprise value. Harrison Street plans to buy through a joint venture with Kenon Holdings. The price paid for the stake was not disclosed; closing is expected in the first half of 2027, subject to regulatory approvals.
+
+**Why it matters.** Vicinity heats and cools over 1,000 buildings in 12 US cities under long-term contracts, with customers in higher education, healthcare, government, data centres and commercial. Antin built it from a 2019 carve-out of Veolia's US business, so this is a clean carve-out-to-exit story. EBITDA was not disclosed, so no multiple yet. Watch for a debt package and the Kenon structure.
+
+**Why you care.** A fresh $2.92bn comp for a contracted, carve-out-built US utility-style asset, which is the core-plus profile MSIP targets, and a useful mark against any district energy or similar carve-out.
+
+<sub>Firms: Antin, Harrison Street · Sectors: Power & Renewables, Energy Transition & Storage · Geo: North America · id: `2026-09-30-antin-agrees-to-sell-majority-of-us-district-ene-9e793c`</sub>
 
 ---
 

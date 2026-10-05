@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T16:20:39+00:00",
+ "generated_at": "2026-10-05T19:21:47+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 313,
+ "total_items": 316,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-02"
+  "2026-10-05"
  ],
  "firms": [
   {
@@ -205,6 +205,14 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
+  },
+  {
+   "name": "Antin",
+   "watchlist": true,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-09-30"
   },
   {
    "name": "Bain Capital",
@@ -429,14 +437,6 @@
    "count": 1,
    "first_seen": "2026-09-28",
    "last_seen": "2026-09-28"
-  },
-  {
-   "name": "Antin",
-   "watchlist": true,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-07-29",
-   "last_seen": "2026-07-29"
   },
   {
    "name": "Argo Infrastructure",
@@ -775,6 +775,14 @@
    "last_seen": "2026-09-24"
   },
   {
+   "name": "Harrison Street",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30"
+  },
+  {
    "name": "Holland & Knight",
    "watchlist": false,
    "priority": false,
@@ -1105,20 +1113,20 @@
    "last_seen": "2026-09-30"
   },
   {
+   "key": "ftai_infrastructure",
+   "label": "FTAI Infrastructure",
+   "note": "Transtar, Long Ridge, Jefferson, Repauno",
+   "count": 8,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-05"
+  },
+  {
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
    "count": 8,
    "first_seen": "2026-01-28",
    "last_seen": "2026-09-18"
-  },
-  {
-   "key": "ftai_infrastructure",
-   "label": "FTAI Infrastructure",
-   "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 7,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-09-28"
   },
   {
    "key": "avangrid_arclight",
@@ -1172,15 +1180,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 109,
+   "count": 111,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-05"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 94,
+   "count": 95,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-04"
   },
   {
    "name": "Regulatory & Policy",
@@ -1190,9 +1198,9 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 48,
+   "count": 49,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-22"
+   "last_seen": "2026-09-30"
   },
   {
    "name": "Transport & Logistics",
@@ -1201,28 +1209,28 @@
    "last_seen": "2026-09-30"
   },
   {
+   "name": "Midstream & Gas",
+   "count": 45,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-05"
+  },
+  {
    "name": "Rail",
    "count": 45,
    "first_seen": "2026-05-04",
    "last_seen": "2026-09-30"
   },
   {
-   "name": "Midstream & Gas",
-   "count": 44,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-10-01"
-  },
-  {
    "name": "Funds & Fundraising",
-   "count": 36,
+   "count": 37,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-02"
+   "last_seen": "2026-10-04"
   },
   {
    "name": "Ports & Terminals",
-   "count": 31,
+   "count": 32,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-10-05"
   },
   {
    "name": "Nuclear & SMR",
@@ -1250,6 +1258,41 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-05-ftai-infrastructure-s-1-52bn-long-ridge-sale-now-89518a",
+   "d": "2026-10-05",
+   "h": "FTAI Infrastructure's $1.52bn Long Ridge sale now seen closing in Q4, slipping from a September target",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Power & Renewables",
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ftai-infrastructure-s-1-52bn-long-ridge",
+   "x": 0
+  },
+  {
+   "id": "2026-10-04-nyt-data-centre-and-energy-supply-ipos-are-being-171926",
+   "d": "2026-10-04",
+   "h": "NYT: data-centre and energy-supply IPOs are being delayed as Wall Street turns more sceptical",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-nyt-data-centre-and-energy-supply-ipos-a",
+   "x": 0
+  },
   {
    "id": "2026-10-02-sumitomo-mitsui-trust-bank-closes-second-japan-i-6fcbca",
    "d": "2026-10-02",
@@ -1316,6 +1359,25 @@
    "p": "normal",
    "m": "2026-09",
    "t": "story-arclight-closes-50-stake-in-5-4-gw-iatp",
+   "x": 0
+  },
+  {
+   "id": "2026-09-30-antin-agrees-to-sell-majority-of-us-district-ene-9e793c",
+   "d": "2026-09-30",
+   "h": "Antin agrees to sell majority of US district energy platform Vicinity to Harrison Street at $2.92bn enterprise value",
+   "s": "sponsor_moves",
+   "f": [
+    "Antin",
+    "Harrison Street"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-antin-agrees-to-sell-majority-of-us-dist",
    "x": 0
   },
   {

@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-7 items, 2026-04-30 to 2026-09-28.
+8 items, 2026-04-30 to 2026-10-05.
+
+---
+
+### FTAI Infrastructure's $1.52bn Long Ridge sale now seen closing in Q4, slipping from a September target
+
+`2026-10-05` · Tracked situations · [Investing.com (Citizens note)](https://ng.investing.com/news/stock-market-news/citizens-reiterates-ftai-infrastructure-stock-rating-on-long-ridge-deal-timing-93CH-2713406), [Benzinga (Q2 2026 call transcript)](https://www.benzinga.com/news/26/10/62160572/transcript-ftai-infrastructure-q2-2026-earnings-conference-call), [StockTitan (FIP 10-Q)](https://www.stocktitan.net/sec-filings/FIP/10-q-ftai-infrastructure-inc-quarterly-earnings-report-dd07a73d512f.html)
+
+**Deal / players.** FTAI Infrastructure signed a $1.52bn agreement to sell Long Ridge, which needs FERC approval. Its 10-Q estimated a September close; Citizens now expects the fourth quarter, with the asset on FIP's books through October. On the call, management said the sale should remove about $1.4bn of debt, over $1.1bn of it at Long Ridge, and ex-Long Ridge adjusted EBITDA hit a record $48.7m in Q2.
+
+**Why it matters.** Long Ridge takes roughly $100m of annual EBITDA out, per Citizens, against total debt of $2.89bn, so leverage falls but earnings shrink. The 10-Q ties the Jefferson bridge loan return to 1.19x for repayments through Oct 31; I did not see the rate after that. Delay past October could cost money. Watch the FERC approval date.
+
+**Why you care.** Your FTAI thesis now rests on Transtar, Jefferson and Repauno cash flow without Long Ridge; the closing timing and bridge-loan cost are worth watching as that deleveraging plays out.
+
+<sub>Situations: ftai_infrastructure · Sectors: Power & Renewables, Midstream & Gas, Ports & Terminals · Geo: North America · id: `2026-10-05-ftai-infrastructure-s-1-52bn-long-ridge-sale-now-89518a`</sub>
 
 ---
 

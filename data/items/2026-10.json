@@ -1,5 +1,78 @@
 [
  {
+  "date": "2026-10-05",
+  "headline": "FTAI Infrastructure's $1.52bn Long Ridge sale now seen closing in Q4, slipping from a September target",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Investing.com (Citizens note)",
+    "url": "https://ng.investing.com/news/stock-market-news/citizens-reiterates-ftai-infrastructure-stock-rating-on-long-ridge-deal-timing-93CH-2713406"
+   },
+   {
+    "name": "Benzinga (Q2 2026 call transcript)",
+    "url": "https://www.benzinga.com/news/26/10/62160572/transcript-ftai-infrastructure-q2-2026-earnings-conference-call"
+   },
+   {
+    "name": "StockTitan (FIP 10-Q)",
+    "url": "https://www.stocktitan.net/sec-filings/FIP/10-q-ftai-infrastructure-inc-quarterly-earnings-report-dd07a73d512f.html"
+   }
+  ],
+  "players": "FTAI Infrastructure signed a $1.52bn agreement to sell Long Ridge, which needs FERC approval. Its 10-Q estimated a September close; Citizens now expects the fourth quarter, with the asset on FIP's books through October. On the call, management said the sale should remove about $1.4bn of debt, over $1.1bn of it at Long Ridge, and ex-Long Ridge adjusted EBITDA hit a record $48.7m in Q2.",
+  "why_it_matters": "Long Ridge takes roughly $100m of annual EBITDA out, per Citizens, against total debt of $2.89bn, so leverage falls but earnings shrink. The 10-Q ties the Jefferson bridge loan return to 1.19x for repayments through Oct 31; I did not see the rate after that. Delay past October could cost money. Watch the FERC approval date.",
+  "why_you_care": "Your FTAI thesis now rests on Transtar, Jefferson and Repauno cash flow without Long Ridge; the closing timing and bridge-loan cost are worth watching as that deleveraging plays out.",
+  "firms": [],
+  "companies": [
+   "FTAI Infrastructure",
+   "Long Ridge Energy & Power",
+   "Jefferson Terminal"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Midstream & Gas",
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-10-05-ftai-infrastructure-s-1-52bn-long-ridge-sale-now-89518a",
+  "story_id": "story-ftai-infrastructure-s-1-52bn-long-ridge",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-04",
+  "headline": "NYT: data-centre and energy-supply IPOs are being delayed as Wall Street turns more sceptical",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Philadelphia Inquirer (New York Times)",
+    "url": "https://inquirer.com/business/data-centers-wall-street-backlash-skepticism-investors-build-20261004.html"
+   }
+  ],
+  "players": "The New York Times reports the backlash against data centres is spilling into capital markets. Companies that house data centres or supply them with energy and land were expected to dominate the IPO market in coming months. One company that planned to list on Nasdaq last month, seeking up to $900m at a valuation of up to $10bn, has held back, and another has slowed its timing, per people briefed.",
+  "why_it_matters": "A public-market exit is one of the ways sponsors underwrite data-centre and power-for-AI platforms. If IPO windows narrow, exits lean on trade sales and large private buyers, such as the reported Stack Asia-Pacific talks. That puts more weight on contracted cash flow and less on growth multiples. The excerpt does not name the companies or give a full list of delays.",
+  "why_you_care": "It is a risk to exit assumptions for any digital or AI-power deal you underwrite at MSIP, so test returns with a private-buyer exit rather than an IPO.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-04-nyt-data-centre-and-energy-supply-ipos-are-being-171926",
+  "story_id": "story-nyt-data-centre-and-energy-supply-ipos-a",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-02",
   "headline": "Sumitomo Mitsui Trust Bank closes second Japan infrastructure fund at ¥123bn",
   "section": "market_regulatory",
