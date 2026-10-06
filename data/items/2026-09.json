@@ -1109,6 +1109,47 @@
  },
  {
   "date": "2026-09-17",
+  "headline": "I Squared and TDR file amended US IPO paperwork for Aggreko; price range and size not seen in sources I read",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "SEC (Aggreko Inc. Form F-1/A)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0002134090/000110465926108544/tmq-20260917xf1a.htm"
+   },
+   {
+    "name": "International Rental News",
+    "url": "https://www.internationalrentalnews.com/news/some-things-we-learned-from-aggrekos-ipo-filing/8129941.article"
+   }
+  ],
+  "players": "Aggreko Inc. filed an F-1/A with the SEC on Sept 17, following the original F-1 on Aug 24. In the filing, I Squared describes itself as managing $60bn. Trade press reported in late August that the filing points to an offering before the end of 2026, that both owners would keep a stake, and that price range and share count were not public. Press estimates of $15bn to $20bn valuation and a $1.5bn raise are industry comment, not company figures.",
+  "why_it_matters": "Aggreko is I Squared's biggest visible exit candidate. The Aggreko flotation would show whether public investors pay up for temporary and modular power tied to data-centre demand. A related earlier-logged report says data-centre and energy-supply IPOs are being delayed, so pricing and timing here are a live test of that. Watch for a price range in the next amendment.",
+  "why_you_care": "Background on a direct competitor's exit plan: how I Squared prices Aggreko will indicate what public markets will pay for power-services assets MSIP might own or compete for.",
+  "firms": [
+   "I Squared Capital",
+   "TDR Capital"
+  ],
+  "companies": [
+   "Aggreko"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "UK",
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-09-17-i-squared-and-tdr-file-amended-us-ipo-paperwork-6d1239",
+  "story_id": "story-i-squared-and-tdr-file-amended-us-ipo-pa",
+  "story_size": 1
+ },
+ {
+  "date": "2026-09-17",
   "headline": "KKR/Blackstone/Energy Capital face off against Brookfield/IFM for GFL Environmental",
   "section": "sponsor_moves",
   "sources": [

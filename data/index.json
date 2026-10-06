@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T19:21:47+00:00",
+ "generated_at": "2026-10-06T16:53:48+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 316,
+ "total_items": 321,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-05"
+  "2026-10-06"
  ],
  "firms": [
   {
@@ -55,6 +55,14 @@
    "last_seen": "2026-09-28"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 13,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-09-24"
+  },
+  {
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
@@ -69,14 +77,6 @@
    "count": 12,
    "first_seen": "2026-05-04",
    "last_seen": "2026-09-17"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 12,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-09-24"
   },
   {
    "name": "Brookfield",
@@ -114,9 +114,17 @@
    "name": "Meridiam",
    "watchlist": true,
    "priority": false,
-   "count": 6,
+   "count": 7,
    "first_seen": "2026-05-11",
-   "last_seen": "2026-07-23"
+   "last_seen": "2026-10-06"
+  },
+  {
+   "name": "Macquarie Asset Management",
+   "watchlist": true,
+   "priority": false,
+   "count": 5,
+   "first_seen": "2026-05-14",
+   "last_seen": "2026-10-05"
   },
   {
    "name": "Blue Wolf Capital Partners",
@@ -149,14 +157,6 @@
    "count": 4,
    "first_seen": "2026-07-07",
    "last_seen": "2026-09-24"
-  },
-  {
-   "name": "Macquarie Asset Management",
-   "watchlist": true,
-   "priority": false,
-   "count": 4,
-   "first_seen": "2026-05-14",
-   "last_seen": "2026-07-27"
   },
   {
    "name": "Apollo",
@@ -301,6 +301,14 @@
    "count": 2,
    "first_seen": "2026-06-01",
    "last_seen": "2026-08-14"
+  },
+  {
+   "name": "IG4 Capital",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-06-02",
+   "last_seen": "2026-10-05"
   },
   {
    "name": "Iberdrola",
@@ -799,14 +807,6 @@
    "last_seen": "2026-06-26"
   },
   {
-   "name": "IG4 Capital",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-06-02",
-   "last_seen": "2026-06-02"
-  },
-  {
    "name": "Inovia Capital",
    "watchlist": false,
    "priority": false,
@@ -1063,6 +1063,14 @@
    "last_seen": "2026-05-12"
   },
   {
+   "name": "TDR Capital",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17"
+  },
+  {
    "name": "Temasek",
    "watchlist": false,
    "priority": false,
@@ -1180,15 +1188,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 111,
+   "count": 114,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-05"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 95,
+   "count": 98,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-04"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Regulatory & Policy",
@@ -1204,9 +1212,9 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 45,
+   "count": 46,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Midstream & Gas",
@@ -1222,27 +1230,27 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 37,
+   "count": 38,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-04"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Ports & Terminals",
-   "count": 32,
+   "count": 33,
    "first_seen": "2026-02-17",
    "last_seen": "2026-10-05"
   },
   {
    "name": "Nuclear & SMR",
-   "count": 7,
+   "count": 9,
    "first_seen": "2026-05-18",
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Social Infrastructure",
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-05-20",
-   "last_seen": "2026-08-10"
+   "last_seen": "2026-10-06"
   },
   {
    "name": "Water & Environmental",
@@ -1258,6 +1266,60 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-06-meridiam-closes-4-5bn-north-america-core-fund-on-6cc298",
+   "d": "2026-10-06",
+   "h": "Meridiam closes $4.5bn North America Core Fund on demand above $7bn, built around 15 existing assets",
+   "s": "market_regulatory",
+   "f": [
+    "Meridiam"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Social Infrastructure",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-meridiam-closes-4-5bn-north-america-core",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-bloomberg-google-nears-multi-year-nuclear-power-cdea7c",
+   "d": "2026-10-06",
+   "h": "Bloomberg: Google nears multi-year nuclear power deal with Constellation worth $1bn or more; not yet announced",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Nuclear & SMR",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-bloomberg-google-nears-multi-year-nuclea",
+   "x": 0
+  },
+  {
+   "id": "2026-10-05-ad-ports-completes-835m-purchase-of-brazil-s-cli-3a1b0b",
+   "d": "2026-10-05",
+   "h": "AD Ports completes $835m purchase of Brazil's CLI from Macquarie Asset Management and IG4 Capital",
+   "s": "sponsor_moves",
+   "f": [
+    "Macquarie Asset Management",
+    "IG4 Capital"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ad-ports-completes-835m-purchase-of-braz",
+   "x": 0
+  },
   {
    "id": "2026-10-05-ftai-infrastructure-s-1-52bn-long-ridge-sale-now-89518a",
    "d": "2026-10-05",
@@ -1291,6 +1353,23 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-nyt-data-centre-and-energy-supply-ipos-a",
+   "x": 0
+  },
+  {
+   "id": "2026-10-02-we-energies-offers-oracle-10-20-of-point-beach-n-444b4d",
+   "d": "2026-10-02",
+   "h": "We Energies offers Oracle 10-20% of Point Beach nuclear output for Port Washington data centre; files for new gas plant",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Nuclear & SMR",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-we-energies-offers-oracle-10-20-of-point",
    "x": 0
   },
   {
@@ -1857,6 +1936,25 @@
    "m": "2026-09",
    "t": "story-compressed-air-storage-projects-scale-up",
    "x": 0
+  },
+  {
+   "id": "2026-09-17-i-squared-and-tdr-file-amended-us-ipo-paperwork-6d1239",
+   "d": "2026-09-17",
+   "h": "I Squared and TDR file amended US IPO paperwork for Aggreko; price range and size not seen in sources I read",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital",
+    "TDR Capital"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-09",
+   "t": "story-i-squared-and-tdr-file-amended-us-ipo-pa",
+   "x": 1
   },
   {
    "id": "2026-09-17-kkr-blackstone-energy-capital-face-off-against-b-d050ba",

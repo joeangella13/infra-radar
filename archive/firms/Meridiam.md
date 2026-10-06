@@ -1,6 +1,20 @@
 # Meridiam
 
-6 items, 2026-05-11 to 2026-07-23.
+7 items, 2026-05-11 to 2026-10-06.
+
+---
+
+### Meridiam closes $4.5bn North America Core Fund on demand above $7bn, built around 15 existing assets
+
+`2026-10-06` · Market / regulatory · [Institutional Real Estate Inc. (IREI)](https://irei.com/news/meridiam-closes-its-4-5b-north-america-core-fund/)
+
+**Deal / players.** Meridiam has closed its $4.5bn North America Core Fund. Total demand was above $7bn. The vehicle holds 15 assets in long-life transport and social infrastructure, drawn from the first two generations of Meridiam funds.
+
+**Why it matters.** The fund is seeded with existing Meridiam holdings, so it reads as a way to roll mature assets into a core vehicle and give earlier funds liquidity. That is my inference; the source does not call it a continuation fund. The oversubscription shows strong LP appetite for core, contracted transport and social assets. It is a useful read-across on how mature assets are being recycled and priced.
+
+**Why you care.** A fresh marker on core-asset demand and on how a peer recycles mature holdings, which bears on exit options for MSIP's transport and social assets.
+
+<sub>Firms: Meridiam · Sectors: Funds & Fundraising, Social Infrastructure, Transport & Logistics · Geo: North America · id: `2026-10-06-meridiam-closes-4-5bn-north-america-core-fund-on-6cc298`</sub>
 
 ---
 

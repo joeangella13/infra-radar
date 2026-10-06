@@ -1,5 +1,121 @@
 [
  {
+  "date": "2026-10-06",
+  "headline": "Meridiam closes $4.5bn North America Core Fund on demand above $7bn, built around 15 existing assets",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Institutional Real Estate Inc. (IREI)",
+    "url": "https://irei.com/news/meridiam-closes-its-4-5b-north-america-core-fund/"
+   }
+  ],
+  "players": "Meridiam has closed its $4.5bn North America Core Fund. Total demand was above $7bn. The vehicle holds 15 assets in long-life transport and social infrastructure, drawn from the first two generations of Meridiam funds.",
+  "why_it_matters": "The fund is seeded with existing Meridiam holdings, so it reads as a way to roll mature assets into a core vehicle and give earlier funds liquidity. That is my inference; the source does not call it a continuation fund. The oversubscription shows strong LP appetite for core, contracted transport and social assets. It is a useful read-across on how mature assets are being recycled and priced.",
+  "why_you_care": "A fresh marker on core-asset demand and on how a peer recycles mature holdings, which bears on exit options for MSIP's transport and social assets.",
+  "firms": [
+   "Meridiam"
+  ],
+  "companies": [
+   "Meridiam"
+  ],
+  "sectors": [
+   "Funds & Fundraising",
+   "Social Infrastructure",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-meridiam-closes-4-5bn-north-america-core-fund-on-6cc298",
+  "story_id": "story-meridiam-closes-4-5bn-north-america-core",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
+  "headline": "Bloomberg: Google nears multi-year nuclear power deal with Constellation worth $1bn or more; not yet announced",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Benzinga",
+    "url": "https://www.benzinga.com/markets/tech/26/10/62184763/google-and-constellation-energy-near-1-billion-nuclear-power-deal-as-ai-data-centers-drive-power-demand-report"
+   },
+   {
+    "name": "Cybernews",
+    "url": "https://cybernews.com/news/google-nuclear-power/"
+   }
+  ],
+  "players": "Bloomberg reported on Tuesday, citing people with knowledge, that Google is set to pay Constellation $1bn or more under a multi-year agreement. It could be announced this week. The location and scale of the nuclear capacity have not been reported, and neither company commented.",
+  "why_it_matters": "This is a report, not a signed deal. If it lands, it would be another hyperscaler paying for output from existing reactors, which supports contracted cash flows on existing nuclear and the value of firm power near data centres. Watch for the contract tenor, whether it covers an uprate or only existing output, and any price disclosure, as these set comps for other nuclear and gas assets.",
+  "why_you_care": "A $1bn-plus contract for existing nuclear output is a pricing and tenor marker for any firm-power or data-centre power thesis you work on at MSIP.",
+  "firms": [],
+  "companies": [
+   "Alphabet",
+   "Google",
+   "Constellation Energy"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-bloomberg-google-nears-multi-year-nuclear-power-cdea7c",
+  "story_id": "story-bloomberg-google-nears-multi-year-nuclea",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-05",
+  "headline": "AD Ports completes $835m purchase of Brazil's CLI from Macquarie Asset Management and IG4 Capital",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Dry Bulk Magazine",
+    "url": "https://drybulkmagazine.com/dry-bulk/05102026/ad-ports-group-successfully-completes-acquisition-of-brazils-cli"
+   },
+   {
+    "name": "Splash247",
+    "url": "https://splash247.com/ad-ports-completes-835m-brazil-terminal-acquisition/"
+   },
+   {
+    "name": "Arabian Post",
+    "url": "https://thearabianpost.com/ad-ports-seals-record-brazilian-terminal-acquisition/"
+   }
+  ],
+  "players": "AD Ports Group has closed its purchase of Brazilian agri-bulk terminal operator CLI. The deal was announced June 2 at an enterprise value of AED 3.1bn (US$835m). Sellers were funds managed by Macquarie Asset Management and IG4 Capital. Brazil's ANTAQ and CADE approved it. CLI's Santos and Itaqui terminals handled 17m tonnes in 2025, with revenue of Dhs654m and EBITDA of Dhs360m.",
+  "why_it_matters": "On the disclosed figures, EV to 2025 EBITDA works out to about 8.6x by my arithmetic. That is a usable comp for emerging-market port terminals with long-term port concessions. The buyer is a strategic, which shows how infrastructure funds exit port assets: sell to a port operator that gets operating synergies, not to another fund.",
+  "why_you_care": "A completed port exit by Macquarie at roughly 8.6x EBITDA gives you a fresh strategic-buyer comp for port and terminal underwriting, and a read on what a strategic will pay.",
+  "firms": [
+   "Macquarie Asset Management",
+   "IG4 Capital"
+  ],
+  "companies": [
+   "AD Ports Group",
+   "Corredor Logística e Infraestrutura (CLI)",
+   "Noatum Ports"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "Brazil",
+   "UAE"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-05-ad-ports-completes-835m-purchase-of-brazil-s-cli-3a1b0b",
+  "story_id": "story-ad-ports-completes-835m-purchase-of-braz",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-05",
   "headline": "FTAI Infrastructure's $1.52bn Long Ridge sale now seen closing in Q4, slipping from a September target",
   "section": "tracked_situations",
@@ -70,6 +186,46 @@
   "flags": [],
   "id": "2026-10-04-nyt-data-centre-and-energy-supply-ipos-are-being-171926",
   "story_id": "story-nyt-data-centre-and-energy-supply-ipos-a",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-02",
+  "headline": "We Energies offers Oracle 10-20% of Point Beach nuclear output for Port Washington data centre; files for new gas plant",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Milwaukee Neighborhood News Service",
+    "url": "https://milwaukeenns.org/2026/10/05/wisconsin-we-energies-deal-oracle-data-center-nuclear-energy-power-point-beach-plant/"
+   },
+   {
+    "name": "Wisconsin Watch",
+    "url": "https://wisconsinwatch.org/2026/10/wisconsin-we-energies-deal-oracle-data-center-nuclear-energy-power-point-beach-plant/"
+   }
+  ],
+  "players": "On Oct 2, We Energies announced an agreement letting Oracle subscribe to 10% to 20% of Point Beach's generation. The power would serve Project Lighthouse, the Port Washington campus Oracle is co-developing with OpenAI. The same day, We Energies filed a separate application with the state PSC to build a gas plant at the Fox Energy Center site, which would more than double that site's output. The utility says the Point Beach proposal could save other customers millions in fuel costs.",
+  "why_it_matters": "A regulated utility is selling a slice of an existing nuclear plant to a hyperscaler and also asking to build gas, so data-centre demand is being met with both nuclear and gas. The structure is a subscription, not a plant sale, which keeps the asset in the rate base. Regulatory approval and how the customer-savings claim is tested are the points to watch.",
+  "why_you_care": "A utility-subscription structure for nuclear output, paired with a new gas build for the same load, is a template to compare against MSIP's power and utilities deal flow.",
+  "firms": [],
+  "companies": [
+   "We Energies",
+   "Oracle",
+   "OpenAI",
+   "Point Beach Nuclear Plant"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US",
+   "Wisconsin"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-02-we-energies-offers-oracle-10-20-of-point-beach-n-444b4d",
+  "story_id": "story-we-energies-offers-oracle-10-20-of-point",
   "story_size": 1
  },
  {

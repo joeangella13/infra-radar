@@ -1,6 +1,20 @@
 # Macquarie Asset Management
 
-4 items, 2026-05-14 to 2026-07-27.
+5 items, 2026-05-14 to 2026-10-05.
+
+---
+
+### AD Ports completes $835m purchase of Brazil's CLI from Macquarie Asset Management and IG4 Capital
+
+`2026-10-05` · Sponsor moves · [Dry Bulk Magazine](https://drybulkmagazine.com/dry-bulk/05102026/ad-ports-group-successfully-completes-acquisition-of-brazils-cli), [Splash247](https://splash247.com/ad-ports-completes-835m-brazil-terminal-acquisition/), [Arabian Post](https://thearabianpost.com/ad-ports-seals-record-brazilian-terminal-acquisition/)
+
+**Deal / players.** AD Ports Group has closed its purchase of Brazilian agri-bulk terminal operator CLI. The deal was announced June 2 at an enterprise value of AED 3.1bn (US$835m). Sellers were funds managed by Macquarie Asset Management and IG4 Capital. Brazil's ANTAQ and CADE approved it. CLI's Santos and Itaqui terminals handled 17m tonnes in 2025, with revenue of Dhs654m and EBITDA of Dhs360m.
+
+**Why it matters.** On the disclosed figures, EV to 2025 EBITDA works out to about 8.6x by my arithmetic. That is a usable comp for emerging-market port terminals with long-term port concessions. The buyer is a strategic, which shows how infrastructure funds exit port assets: sell to a port operator that gets operating synergies, not to another fund.
+
+**Why you care.** A completed port exit by Macquarie at roughly 8.6x EBITDA gives you a fresh strategic-buyer comp for port and terminal underwriting, and a read on what a strategic will pay.
+
+<sub>Firms: Macquarie Asset Management, IG4 Capital · Sectors: Ports & Terminals · Geo: Brazil, UAE · id: `2026-10-05-ad-ports-completes-835m-purchase-of-brazil-s-cli-3a1b0b`</sub>
 
 ---
 

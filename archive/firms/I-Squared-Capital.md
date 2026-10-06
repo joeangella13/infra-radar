@@ -1,6 +1,6 @@
 # I Squared Capital
 
-12 items, 2026-05-25 to 2026-09-24.
+13 items, 2026-05-25 to 2026-09-24.
 
 ---
 
@@ -15,6 +15,20 @@
 **Why you care.** A direct rival is stretching the infrastructure definition in Australia, where MSIP also invests; oOh!media's price is a useful marker for what I Squared will pay for contracted media-type assets.
 
 <sub>Firms: I Squared Capital · Sectors: Digital Infrastructure · Geo: Australia, New Zealand · id: `2026-09-24-accc-clears-i-squared-s-takeover-of-ooh-media-fi-e74d9c`</sub>
+
+---
+
+### **[watchlist]** I Squared and TDR file amended US IPO paperwork for Aggreko; price range and size not seen in sources I read
+
+`2026-09-17` · Sponsor moves · [SEC (Aggreko Inc. Form F-1/A)](https://www.sec.gov/Archives/edgar/data/0002134090/000110465926108544/tmq-20260917xf1a.htm), [International Rental News](https://www.internationalrentalnews.com/news/some-things-we-learned-from-aggrekos-ipo-filing/8129941.article)
+
+**Deal / players.** Aggreko Inc. filed an F-1/A with the SEC on Sept 17, following the original F-1 on Aug 24. In the filing, I Squared describes itself as managing $60bn. Trade press reported in late August that the filing points to an offering before the end of 2026, that both owners would keep a stake, and that price range and share count were not public. Press estimates of $15bn to $20bn valuation and a $1.5bn raise are industry comment, not company figures.
+
+**Why it matters.** Aggreko is I Squared's biggest visible exit candidate. The Aggreko flotation would show whether public investors pay up for temporary and modular power tied to data-centre demand. A related earlier-logged report says data-centre and energy-supply IPOs are being delayed, so pricing and timing here are a live test of that. Watch for a price range in the next amendment.
+
+**Why you care.** Background on a direct competitor's exit plan: how I Squared prices Aggreko will indicate what public markets will pay for power-services assets MSIP might own or compete for.
+
+<sub>Firms: I Squared Capital, TDR Capital · Sectors: Power & Renewables, Digital Infrastructure · Geo: UK, US · id: `2026-09-17-i-squared-and-tdr-file-amended-us-ipo-paperwork-6d1239`</sub>
 
 ---
 
