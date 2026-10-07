@@ -1,13 +1,13 @@
 # Archive
 
-321 items, 2026-01-13 to 2026-10-06.
+324 items, 2026-01-13 to 2026-10-07.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 9 items
+- [2026-10](2026-10.md) — 12 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -21,7 +21,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 6 items
-- [Brightline Florida](situations/brightline.md) — 24 items
+- [Brightline Florida](situations/brightline.md) — 25 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 8 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
@@ -51,6 +51,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Carlyle](firms/Carlyle.md) — 3 items
 - [Antin](firms/Antin.md) — 2 items
 - [Partners Group](firms/Partners-Group.md) — 2 items
+- [Copenhagen Infrastructure Partners](firms/Copenhagen-Infrastructure-Partners.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items
 - [Tiger Infrastructure](firms/Tiger-Infrastructure.md) — 2 items
@@ -59,7 +60,6 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [MGX](firms/MGX.md) — 2 items
 - [Greenbriar Equity Group](firms/Greenbriar-Equity-Group.md) — 1 items
 - [DigitalBridge](firms/DigitalBridge.md) — 1 items
-- [Copenhagen Infrastructure Partners](firms/Copenhagen-Infrastructure-Partners.md) — 1 items
 - [Quinbrook](firms/Quinbrook.md) — 1 items
 - [Ridgewood Infrastructure](firms/Ridgewood-Infrastructure.md) — 1 items
 - [Actis](firms/Actis.md) — 1 items

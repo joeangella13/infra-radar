@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-24 items, 2026-05-15 to 2026-09-30.
+25 items, 2026-05-15 to 2026-10-07.
+
+---
+
+### Brightline's planned Cocoa station still expected to open in 2030 despite Chapter 11, local leaders say
+
+`2026-10-07` · Tracked situations · [ClickOrlando (WKMG)](https://www.clickorlando.com/video/news/2026/10/07/brightline-s-cocoa-station-remains-on-track-even-as-the-company-navigates-bankruptcy/), [Orlando Weekly](https://www.orlandoweekly.com/news/orlando-area-news/brightline-files-for-bankruptcy-secures-490m-to-keep-trains-on-track-in-orlando/)
+
+**Deal / players.** WKMG reports local leaders in Brevard County say the Cocoa station is still expected to open in 2030, even after Brightline's parent entities filed Chapter 11. The operating company, Brightline Trains Florida, is not part of the filing and trains continue to run. I only saw the headline and summary of the Cocoa piece, not the full article.
+
+**Why it matters.** Local backing for the Orlando-to-Cocoa extension survives the filing, which keeps the station-led growth story alive on paper. But I did not see who funds it or how it fits with the restructuring, which cuts debt and brings $490m of new capital for the operator. Watch whether the plan sets aside money for expansion.
+
+**Why you care.** Your old deal: the extension and ridership upside you underwrote now depends on a funded restructuring, so check whether the plan keeps expansion capex before anyone at MSIP pitches Brightline-related angles.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-10-07-brightline-s-planned-cocoa-station-still-expecte-c92094`</sub>
 
 ---
 

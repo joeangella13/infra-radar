@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T16:53:48+00:00",
+ "generated_at": "2026-10-07T17:29:46+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 321,
+ "total_items": 324,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-06"
+  "2026-10-07"
  ],
  "firms": [
   {
@@ -269,6 +269,14 @@
    "count": 2,
    "first_seen": "2026-05-13",
    "last_seen": "2026-08-14"
+  },
+  {
+   "name": "Copenhagen Infrastructure Partners",
+   "watchlist": true,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-10-05"
   },
   {
    "name": "FalconPoint Partners",
@@ -615,14 +623,6 @@
    "last_seen": "2026-07-01"
   },
   {
-   "name": "Copenhagen Infrastructure Partners",
-   "watchlist": true,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-06-19",
-   "last_seen": "2026-06-19"
-  },
-  {
    "name": "Craftskills Energy",
    "watchlist": false,
    "priority": false,
@@ -927,6 +927,14 @@
    "last_seen": "2026-05-18"
   },
   {
+   "name": "Norges Bank Investment Management",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05"
+  },
+  {
    "name": "NuGen Capital Management",
    "watchlist": false,
    "priority": false,
@@ -1116,9 +1124,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 24,
+   "count": 25,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-07"
   },
   {
    "key": "ftai_infrastructure",
@@ -1188,13 +1196,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 114,
+   "count": 116,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-06"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 98,
+   "count": 99,
    "first_seen": "2026-01-15",
    "last_seen": "2026-10-06"
   },
@@ -1206,15 +1214,21 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 49,
+   "count": 50,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-05"
   },
   {
    "name": "Transport & Logistics",
-   "count": 46,
+   "count": 47,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-10-07"
+  },
+  {
+   "name": "Rail",
+   "count": 46,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-10-07"
   },
   {
    "name": "Midstream & Gas",
@@ -1223,14 +1237,8 @@
    "last_seen": "2026-10-05"
   },
   {
-   "name": "Rail",
-   "count": 45,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-09-30"
-  },
-  {
    "name": "Funds & Fundraising",
-   "count": 38,
+   "count": 39,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-06"
   },
@@ -1242,7 +1250,7 @@
   },
   {
    "name": "Nuclear & SMR",
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-05-18",
    "last_seen": "2026-10-06"
   },
@@ -1266,6 +1274,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-07-brightline-s-planned-cocoa-station-still-expecte-c92094",
+   "d": "2026-10-07",
+   "h": "Brightline's planned Cocoa station still expected to open in 2030 despite Chapter 11, local leaders say",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brightline-s-planned-cocoa-station-still",
+   "x": 0
+  },
   {
    "id": "2026-10-06-meridiam-closes-4-5bn-north-america-core-fund-on-6cc298",
    "d": "2026-10-06",
@@ -1300,6 +1326,43 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-bloomberg-google-nears-multi-year-nuclea",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-google-and-constellation-announce-20-year-890-mw-55473d",
+   "d": "2026-10-06",
+   "h": "Google and Constellation announce 20-year, 890 MW nuclear uprate PPA backed by $4.3bn of investment, plus 15-year, 2,700 MW supply deal",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Nuclear & SMR",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-10",
+   "t": "story-google-and-constellation-announce-20-yea",
+   "x": 0
+  },
+  {
+   "id": "2026-10-05-norway-s-nbim-commits-1-2bn-to-copenhagen-infras-05d75c",
+   "d": "2026-10-05",
+   "h": "Norway's NBIM commits €1.2bn to Copenhagen Infrastructure Partners' new flagship renewables fund, CI VI",
+   "s": "market_regulatory",
+   "f": [
+    "Copenhagen Infrastructure Partners",
+    "Norges Bank Investment Management"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Power & Renewables",
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-norway-s-nbim-commits-1-2bn-to-copenhage",
    "x": 0
   },
   {

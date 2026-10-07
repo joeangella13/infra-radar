@@ -1,5 +1,43 @@
 [
  {
+  "date": "2026-10-07",
+  "headline": "Brightline's planned Cocoa station still expected to open in 2030 despite Chapter 11, local leaders say",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "ClickOrlando (WKMG)",
+    "url": "https://www.clickorlando.com/video/news/2026/10/07/brightline-s-cocoa-station-remains-on-track-even-as-the-company-navigates-bankruptcy/"
+   },
+   {
+    "name": "Orlando Weekly",
+    "url": "https://www.orlandoweekly.com/news/orlando-area-news/brightline-files-for-bankruptcy-secures-490m-to-keep-trains-on-track-in-orlando/"
+   }
+  ],
+  "players": "WKMG reports local leaders in Brevard County say the Cocoa station is still expected to open in 2030, even after Brightline's parent entities filed Chapter 11. The operating company, Brightline Trains Florida, is not part of the filing and trains continue to run. I only saw the headline and summary of the Cocoa piece, not the full article.",
+  "why_it_matters": "Local backing for the Orlando-to-Cocoa extension survives the filing, which keeps the station-led growth story alive on paper. But I did not see who funds it or how it fits with the restructuring, which cuts debt and brings $490m of new capital for the operator. Watch whether the plan sets aside money for expansion.",
+  "why_you_care": "Your old deal: the extension and ridership upside you underwrote now depends on a funded restructuring, so check whether the plan keeps expansion capex before anyone at MSIP pitches Brightline-related angles.",
+  "firms": [],
+  "companies": [
+   "Brightline"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US",
+   "Florida"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-10-07-brightline-s-planned-cocoa-station-still-expecte-c92094",
+  "story_id": "story-brightline-s-planned-cocoa-station-still",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-06",
   "headline": "Meridiam closes $4.5bn North America Core Fund on demand above $7bn, built around 15 existing assets",
   "section": "market_regulatory",
@@ -69,6 +107,78 @@
   "flags": [],
   "id": "2026-10-06-bloomberg-google-nears-multi-year-nuclear-power-cdea7c",
   "story_id": "story-bloomberg-google-nears-multi-year-nuclea",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
+  "headline": "Google and Constellation announce 20-year, 890 MW nuclear uprate PPA backed by $4.3bn of investment, plus 15-year, 2,700 MW supply deal",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Constellation Energy press release",
+    "url": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html"
+   },
+   {
+    "name": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/"
+   }
+  ],
+  "players": "Constellation and Google announced a 20-year power purchase agreement for 890 MW of new nuclear capacity, delivered through uprates at 11 Constellation units in Illinois, Pennsylvania and New Jersey. Constellation says it will invest more than $4.3bn, and the first uprate is expected in 2028. A separate 15-year agreement covers another 2,700 MW from Constellation's existing PJM fleet. Price terms were not disclosed.",
+  "why_it_matters": "This confirms the Bloomberg report of Oct 6 that we logged as a pending deal. A hyperscaler is now paying to expand existing reactors, not just buy their output. On my arithmetic, $4.3bn for 890 MW is about $4.8m per MW, but PPA pricing is undisclosed, so no return can be derived. Watch for price leaks and for PJM treatment of the new capacity.",
+  "why_you_care": "It sets a fresh comp for what hyperscalers will fund on existing nuclear and for contracted power cash flows, useful when marking any power or data-centre-adjacent deal.",
+  "firms": [],
+  "companies": [
+   "Constellation Energy",
+   "Google"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US",
+   "PJM"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-google-and-constellation-announce-20-year-890-mw-55473d",
+  "story_id": "story-google-and-constellation-announce-20-yea",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-05",
+  "headline": "Norway's NBIM commits €1.2bn to Copenhagen Infrastructure Partners' new flagship renewables fund, CI VI",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "ESG Today",
+    "url": "https://www.esgtoday.com/nbim-commits-over-1-3-billion-to-cips-new-flagship-clean-energy-infrastructure-fund/"
+   }
+  ],
+  "players": "Norges Bank Investment Management committed €1.2bn (about $1.34bn) to CIP's CI VI fund, which invests mainly in renewable generation and storage across OECD markets. CIP is reportedly seeking €16bn for the fund; its predecessor, CIP V, closed in 2025 at €12bn. NBIM put €900m into CIP V in 2024.",
+  "why_it_matters": "A single anchor ticket of this size shows big sovereign LPs are still writing large cheques for development-stage renewables despite the sector's wobbles. A €16bn reported target would be a third larger than CIP V, which means more dry powder bidding for wind, solar and storage platforms. Watch for the first close and how CIP prices its next deals.",
+  "why_you_care": "CIP is a watchlist rival for renewable and storage platforms, so its fundraising pace is a read on competition and pricing for deals MSIP might look at.",
+  "firms": [
+   "Copenhagen Infrastructure Partners",
+   "Norges Bank Investment Management"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising",
+   "Power & Renewables",
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "Global",
+   "Norway"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-05-norway-s-nbim-commits-1-2bn-to-copenhagen-infras-05d75c",
+  "story_id": "story-norway-s-nbim-commits-1-2bn-to-copenhage",
   "story_size": 1
  },
  {
