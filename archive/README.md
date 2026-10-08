@@ -1,13 +1,13 @@
 # Archive
 
-324 items, 2026-01-13 to 2026-10-07.
+330 items, 2026-01-13 to 2026-10-08.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 12 items
+- [2026-10](2026-10.md) — 18 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -21,11 +21,11 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 6 items
-- [Brightline Florida](situations/brightline.md) — 25 items
+- [Brightline Florida](situations/brightline.md) — 26 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 8 items
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
-- [LOGISTEC / Termont](situations/logistec_termont.md) — 6 items
+- [LOGISTEC / Termont](situations/logistec_termont.md) — 7 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 6 items
 - [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 3 items
@@ -33,12 +33,12 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Firms
 
 - [MSIP](firms/MSIP.md) ◆ — 22 items
-- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 14 items
+- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 15 items
 - [Stonepeak](firms/Stonepeak.md) — 13 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 13 items
 - [Blackstone](firms/Blackstone.md) — 12 items
-- [Brookfield](firms/Brookfield.md) — 9 items
-- [KKR](firms/KKR.md) — 8 items
+- [Brookfield](firms/Brookfield.md) — 10 items
+- [KKR](firms/KKR.md) — 9 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 8 items
 - [Meridiam](firms/Meridiam.md) — 7 items

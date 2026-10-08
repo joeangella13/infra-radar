@@ -2,7 +2,7 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-25 items, 2026-05-15 to 2026-10-07.
+26 items, 2026-05-15 to 2026-10-07.
 
 ---
 
@@ -17,6 +17,20 @@ Passenger rail; bond restructuring, ridership, commuter rail
 **Why you care.** Your old deal: the extension and ridership upside you underwrote now depends on a funded restructuring, so check whether the plan keeps expansion capex before anyone at MSIP pitches Brightline-related angles.
 
 <sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-10-07-brightline-s-planned-cocoa-station-still-expecte-c92094`</sub>
+
+---
+
+### Brightline gets court approval to borrow $190m in bankruptcy financing, per Law360; figure differs from $258m interim DIP logged earlier
+
+`2026-10-05` · Tracked situations · [Law360 Bankruptcy Authority](https://law360.com/bankruptcy-authority/articles/2533985)
+
+**Deal / players.** Law360 reported on Oct 5 that Brightline won approval to borrow $190m in bankruptcy financing. The parent entities filed Chapter 11 in late September under a restructuring support agreement; the operating company, Brightline Trains Florida, is not in the filing. I only saw the headline summary, so I cannot say why this differs from the $258m interim DIP already logged.
+
+**Why it matters.** The difference from the $258m interim figure matters because the DIP size sets how much runway the parent has before a plan is voted. The $490m of new long-term capital is the real fix; DIP money only buys time. Watch the final DIP order, the plan timetable and whether the numbers reconcile once the court docket is read.
+
+**Why you care.** Your Brightline deal is now in court; once the plan settles, check whether discounted debt or a rail-adjacent asset becomes a sourcing angle worth flagging at MSIP.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-10-05-brightline-gets-court-approval-to-borrow-190m-in-ae8e4a`</sub>
 
 ---
 

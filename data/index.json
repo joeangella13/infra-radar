@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T17:29:46+00:00",
+ "generated_at": "2026-10-08T17:29:22+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 324,
+ "total_items": 330,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-07"
+  "2026-10-08"
  ],
  "firms": [
   {
@@ -50,9 +50,9 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 14,
+   "count": 15,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-10-05"
   },
   {
    "name": "I Squared Capital",
@@ -82,9 +82,17 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-09-17"
+   "last_seen": "2026-10-07"
+  },
+  {
+   "name": "KKR",
+   "watchlist": true,
+   "priority": false,
+   "count": 9,
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-10-04"
   },
   {
    "name": "EQT Infrastructure",
@@ -101,14 +109,6 @@
    "count": 8,
    "first_seen": "2026-05-15",
    "last_seen": "2026-09-24"
-  },
-  {
-   "name": "KKR",
-   "watchlist": true,
-   "priority": false,
-   "count": 8,
-   "first_seen": "2026-06-10",
-   "last_seen": "2026-09-17"
   },
   {
    "name": "Meridiam",
@@ -405,6 +405,14 @@
    "count": 2,
    "first_seen": "2026-07-20",
    "last_seen": "2026-07-23"
+  },
+  {
+   "name": "Rothschild & Co",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-03-11",
+   "last_seen": "2026-10-07"
   },
   {
    "name": "S&P Global Ratings",
@@ -1039,14 +1047,6 @@
    "last_seen": "2026-07-09"
   },
   {
-   "name": "Rothschild & Co",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-03-11",
-   "last_seen": "2026-03-11"
-  },
-  {
    "name": "Sixth Street",
    "watchlist": false,
    "priority": false,
@@ -1124,7 +1124,7 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 25,
+   "count": 26,
    "first_seen": "2026-05-15",
    "last_seen": "2026-10-07"
   },
@@ -1145,20 +1145,20 @@
    "last_seen": "2026-09-18"
   },
   {
+   "key": "logistec_termont",
+   "label": "LOGISTEC / Termont",
+   "note": "Canadian port terminal operations",
+   "count": 7,
+   "first_seen": "2026-02-17",
+   "last_seen": "2026-10-05"
+  },
+  {
    "key": "avangrid_arclight",
    "label": "Avangrid / ArcLight Renewables",
    "note": "North American wind and solar portfolio transactions",
    "count": 6,
    "first_seen": "2026-05-27",
    "last_seen": "2026-09-30"
-  },
-  {
-   "key": "logistec_termont",
-   "label": "LOGISTEC / Termont",
-   "note": "Canadian port terminal operations",
-   "count": 6,
-   "first_seen": "2026-02-17",
-   "last_seen": "2026-09-14"
   },
   {
    "key": "mcdermott_nmdc",
@@ -1196,21 +1196,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 116,
+   "count": 119,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-10-08"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 99,
+   "count": 101,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-10-07"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 62,
+   "count": 63,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-08"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1220,31 +1220,31 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 47,
+   "count": 49,
    "first_seen": "2026-02-17",
    "last_seen": "2026-10-07"
   },
   {
    "name": "Rail",
-   "count": 46,
+   "count": 47,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-07"
   },
   {
    "name": "Midstream & Gas",
-   "count": 45,
+   "count": 46,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-05"
+   "last_seen": "2026-10-07"
   },
   {
    "name": "Funds & Fundraising",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-06"
   },
   {
    "name": "Ports & Terminals",
-   "count": 33,
+   "count": 34,
    "first_seen": "2026-02-17",
    "last_seen": "2026-10-05"
   },
@@ -1274,6 +1274,58 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-08-ferc-calendar-open-meeting-oct-15-and-commission-e5be31",
+   "d": "2026-10-08",
+   "h": "FERC calendar: open meeting Oct 15 and commissioner-led reliability technical conference Oct 21",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ferc-calendar-open-meeting-oct-15-and-co",
+   "x": 0
+  },
+  {
+   "id": "2026-10-07-hd-hyundai-construction-equipment-wins-276m-deal-bbdf1d",
+   "d": "2026-10-07",
+   "h": "HD Hyundai Construction Equipment wins ~$276m deal to supply gas engines to ERock for US hyperscale data-centre power",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-hd-hyundai-construction-equipment-wins-2",
+   "x": 0
+  },
+  {
+   "id": "2026-10-07-brookfield-s-minority-stake-in-data-centre-devel-93297a",
+   "d": "2026-10-07",
+   "h": "Brookfield's minority stake in data-centre developer AREP, announced Sept 16, extends its AI push into powered land; terms undisclosed",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield",
+    "Rothschild & Co"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brookfield-s-minority-stake-in-data-cent",
+   "x": 0
+  },
   {
    "id": "2026-10-07-brightline-s-planned-cocoa-station-still-expecte-c92094",
    "d": "2026-10-07",
@@ -1346,6 +1398,24 @@
    "x": 0
   },
   {
+   "id": "2026-10-05-logistec-and-port-of-corner-brook-mark-launch-of-40565c",
+   "d": "2026-10-05",
+   "h": "LOGISTEC and Port of Corner Brook mark launch of NEAS liner service to Western Newfoundland; no financial terms",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "logistec_termont"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-logistec-and-port-of-corner-brook-mark-l",
+   "x": 0
+  },
+  {
    "id": "2026-10-05-norway-s-nbim-commits-1-2bn-to-copenhagen-infras-05d75c",
    "d": "2026-10-05",
    "h": "Norway's NBIM commits €1.2bn to Copenhagen Infrastructure Partners' new flagship renewables fund, CI VI",
@@ -1403,6 +1473,26 @@
    "x": 0
   },
   {
+   "id": "2026-10-05-brightline-gets-court-approval-to-borrow-190m-in-ae8e4a",
+   "d": "2026-10-05",
+   "h": "Brightline gets court approval to borrow $190m in bankruptcy financing, per Law360; figure differs from $258m interim DIP logged earlier",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brightline-gets-court-approval-to-borrow",
+   "x": 0
+  },
+  {
    "id": "2026-10-04-nyt-data-centre-and-energy-supply-ipos-are-being-171926",
    "d": "2026-10-04",
    "h": "NYT: data-centre and energy-supply IPOs are being delayed as Wall Street turns more sceptical",
@@ -1416,6 +1506,23 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-nyt-data-centre-and-energy-supply-ipos-a",
+   "x": 0
+  },
+  {
+   "id": "2026-10-04-july-infrastructure-fundraising-topped-28bn-per-49f3ef",
+   "d": "2026-10-04",
+   "h": "July infrastructure fundraising topped $28bn, per Alternatives Watch; Q1 2026 had been lowest first quarter since 2023",
+   "s": "market_regulatory",
+   "f": [
+    "KKR"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-july-infrastructure-fundraising-topped-2",
    "x": 0
   },
   {

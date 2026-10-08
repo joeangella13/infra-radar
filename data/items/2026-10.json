@@ -1,5 +1,111 @@
 [
  {
+  "date": "2026-10-08",
+  "headline": "FERC calendar: open meeting Oct 15 and commissioner-led reliability technical conference Oct 21",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "FERC editorial calendar",
+    "url": "https://ferc.gov/editorial-calendar"
+   },
+   {
+    "name": "American Action Forum",
+    "url": "https://www.americanactionforum.org/insight/ferc-data-center-orders-accelerate-grid-connection/"
+   }
+  ],
+  "players": "FERC's calendar lists an Oct 15 open meeting and a commissioner-led reliability technical conference on Oct 21; it also announced its 2027 commission meeting schedule on Oct 1. Background: after its June 18 open meeting, FERC issued show-cause orders to the six regional grid operators on how large loads such as data centres connect and pay for the grid.",
+  "why_it_matters": "These are the next scheduled points where FERC can move on grid reliability and large-load rules, which drive how fast data-centre-linked power assets get connected and what they can charge. Co-location and behind-the-meter treatment are among the reform areas FERC has asked grid operators to address. Watch the Oct 15 agenda and what the Oct 21 conference says on supply adequacy.",
+  "why_you_care": "Dates to diarise before marking power or co-location assumptions: rule changes on large-load interconnection feed straight into MSIP's power and digital underwriting.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-08-ferc-calendar-open-meeting-oct-15-and-commission-e5be31",
+  "story_id": "story-ferc-calendar-open-meeting-oct-15-and-co",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-07",
+  "headline": "HD Hyundai Construction Equipment wins ~$276m deal to supply gas engines to ERock for US hyperscale data-centre power",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/finance/2026/10/07/hd-construction-equipment-wins-276-million-engine-deal-for"
+   }
+  ],
+  "players": "HD Construction Equipment said on Oct 7 it signed a contract worth about 390bn won ($276m) to supply gas-fuelled power-generation engines to ERock, a US power infrastructure solutions provider. Supply runs 2027 to 2028. The product is a 22-litre engine 'long block'; ERock plans to build generator sets for hyperscale data centres run by US Big Tech.",
+  "why_it_matters": "Grid-connection delays are pushing data centres towards on-site gas generation, and this order shows the equipment chain is being booked for 2027-28, not just the power contracts. For owners of on-site power, engine availability and price become a cost and timing risk in underwriting. Watch who ERock's end customers are and whether other engine makers sign similar deals.",
+  "why_you_care": "A supply-side data point for any behind-the-meter gas or distributed power case you underwrite at MSIP, including engine lead times and capex assumptions.",
+  "firms": [],
+  "companies": [
+   "HD Hyundai Construction Equipment",
+   "ERock"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US",
+   "South Korea"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-07-hd-hyundai-construction-equipment-wins-276m-deal-bbdf1d",
+  "story_id": "story-hd-hyundai-construction-equipment-wins-2",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-07",
+  "headline": "Brookfield's minority stake in data-centre developer AREP, announced Sept 16, extends its AI push into powered land; terms undisclosed",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Data Center Frontier",
+    "url": "https://www.datacenterfrontier.com/hyperscale/article/55409162/brookfields-arep-deal-extends-the-ai-infrastructure-stack-to-powered-land"
+   },
+   {
+    "name": "CRE Daily",
+    "url": "https://www.credaily.com/briefs/brookfield-takes-minority-stake-in-data-center-developer/"
+   }
+  ],
+  "players": "Brookfield affiliates agreed to buy a minority interest in American Real Estate Partners (AREP), announced Sept 16; stake size and price were not disclosed. Closing is expected in Q4 2026, and Rothschild & Co is advising AREP. AREP's PowerHouse Data Centers platform says it has 140 data centres underway or in planning, nearly 10 GW of potential capacity.",
+  "why_it_matters": "A minority stake leaves AREP running its own platform while giving Brookfield a route into powered land and entitlements without paying for the whole business. No price is disclosed, so there is no comp to mark. The roughly 10 GW pipeline is development-stage, so value rests on securing power and tenants. Watch for the stake size when it closes in Q4.",
+  "why_you_care": "A competitor moving up the chain into powered land is a read-across for MSIP's digital book, and it is a deal Rothschild colleagues advised.",
+  "firms": [
+   "Brookfield",
+   "Rothschild & Co"
+  ],
+  "companies": [
+   "American Real Estate Partners",
+   "PowerHouse Data Centers"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-07-brookfield-s-minority-stake-in-data-centre-devel-93297a",
+  "story_id": "story-brookfield-s-minority-stake-in-data-cent",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-07",
   "headline": "Brightline's planned Cocoa station still expected to open in 2030 despite Chapter 11, local leaders say",
   "section": "tracked_situations",
@@ -149,6 +255,42 @@
  },
  {
   "date": "2026-10-05",
+  "headline": "LOGISTEC and Port of Corner Brook mark launch of NEAS liner service to Western Newfoundland; no financial terms",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "LOGISTEC",
+    "url": "https://www.logistec.com/"
+   }
+  ],
+  "players": "On Oct 5, the Port of Corner Brook and LOGISTEC, described as an Enstructure company, marked the launch of Nunavut Eastern Arctic Shipping's new liner service to Western Newfoundland. LOGISTEC says it operates in 62 ports and 85 terminals across Canada, the US and Mexico. No financial terms were given.",
+  "why_it_matters": "This is operating news, not a transaction. It adds an Arctic-supply liner call at a LOGISTEC-served port, which supports volume diversification, but no revenue figure is given. For a terminal operator, value comes from throughput and long-term customer contracts rather than one new service. Watch for volume, contract or ownership news from the company.",
+  "why_you_care": "Background only: a small operating update on a deal you worked at Rothschild, with nothing that changes the thesis or is worth raising at MSIP yet.",
+  "firms": [],
+  "companies": [
+   "LOGISTEC",
+   "Termont",
+   "Nunavut Eastern Arctic Shipping",
+   "Port of Corner Brook"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [
+   "logistec_termont"
+  ],
+  "flags": [],
+  "id": "2026-10-05-logistec-and-port-of-corner-brook-mark-launch-of-40565c",
+  "story_id": "story-logistec-and-port-of-corner-brook-mark-l",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-05",
   "headline": "Norway's NBIM commits €1.2bn to Copenhagen Infrastructure Partners' new flagship renewables fund, CI VI",
   "section": "market_regulatory",
   "sources": [
@@ -270,6 +412,42 @@
   "story_size": 1
  },
  {
+  "date": "2026-10-05",
+  "headline": "Brightline gets court approval to borrow $190m in bankruptcy financing, per Law360; figure differs from $258m interim DIP logged earlier",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Law360 Bankruptcy Authority",
+    "url": "https://law360.com/bankruptcy-authority/articles/2533985"
+   }
+  ],
+  "players": "Law360 reported on Oct 5 that Brightline won approval to borrow $190m in bankruptcy financing. The parent entities filed Chapter 11 in late September under a restructuring support agreement; the operating company, Brightline Trains Florida, is not in the filing. I only saw the headline summary, so I cannot say why this differs from the $258m interim DIP already logged.",
+  "why_it_matters": "The difference from the $258m interim figure matters because the DIP size sets how much runway the parent has before a plan is voted. The $490m of new long-term capital is the real fix; DIP money only buys time. Watch the final DIP order, the plan timetable and whether the numbers reconcile once the court docket is read.",
+  "why_you_care": "Your Brightline deal is now in court; once the plan settles, check whether discounted debt or a rail-adjacent asset becomes a sourcing angle worth flagging at MSIP.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Florida"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US",
+   "Florida"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-10-05-brightline-gets-court-approval-to-borrow-190m-in-ae8e4a",
+  "story_id": "story-brightline-gets-court-approval-to-borrow",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-04",
   "headline": "NYT: data-centre and energy-supply IPOs are being delayed as Wall Street turns more sceptical",
   "section": "market_regulatory",
@@ -296,6 +474,40 @@
   "flags": [],
   "id": "2026-10-04-nyt-data-centre-and-energy-supply-ipos-are-being-171926",
   "story_id": "story-nyt-data-centre-and-energy-supply-ipos-a",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-04",
+  "headline": "July infrastructure fundraising topped $28bn, per Alternatives Watch; Q1 2026 had been lowest first quarter since 2023",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Alternatives Watch",
+    "url": "https://www.alternativeswatch.com/2026/10/04/july-2026-private-equity-infrastructure-fundraising/"
+   },
+   {
+    "name": "Institutional Real Estate, Inc.",
+    "url": "https://irei.com/publications/article/infrastructure-fundraising-catching-its-breath/"
+   }
+  ],
+  "players": "Alternatives Watch reports that private equity led July fundraising with more than $63bn, infrastructure managers closed over $28bn, and total fundraising topped $119bn. Separately, Institutional Real Estate, Inc. data showed 18 infrastructure funds closing $32.0bn in Q1 2026, the lowest first quarter since 2023, with no megafunds.",
+  "why_it_matters": "One month at $28bn compares with $32bn for all of Q1, so capital is flowing again, led by large managers. More dry powder chasing data-centre and power assets likely supports prices. Q3 also includes KKR's $19.2bn fund close on Aug 3. Watch whether Q3 totals confirm a rebound or just a few large closes.",
+  "why_you_care": "Fundraising backdrop for MSIP's own capital raising and for how much rivals can afford to bid; a pricing-pressure factor to carry into comps.",
+  "firms": [
+   "KKR"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "Global"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-04-july-infrastructure-fundraising-topped-28bn-per-49f3ef",
+  "story_id": "story-july-infrastructure-fundraising-topped-2",
   "story_size": 1
  },
  {

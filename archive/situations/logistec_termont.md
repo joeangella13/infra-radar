@@ -2,7 +2,21 @@
 
 Canadian port terminal operations
 
-6 items, 2026-02-17 to 2026-09-14.
+7 items, 2026-02-17 to 2026-10-05.
+
+---
+
+### LOGISTEC and Port of Corner Brook mark launch of NEAS liner service to Western Newfoundland; no financial terms
+
+`2026-10-05` · Tracked situations · [LOGISTEC](https://www.logistec.com/)
+
+**Deal / players.** On Oct 5, the Port of Corner Brook and LOGISTEC, described as an Enstructure company, marked the launch of Nunavut Eastern Arctic Shipping's new liner service to Western Newfoundland. LOGISTEC says it operates in 62 ports and 85 terminals across Canada, the US and Mexico. No financial terms were given.
+
+**Why it matters.** This is operating news, not a transaction. It adds an Arctic-supply liner call at a LOGISTEC-served port, which supports volume diversification, but no revenue figure is given. For a terminal operator, value comes from throughput and long-term customer contracts rather than one new service. Watch for volume, contract or ownership news from the company.
+
+**Why you care.** Background only: a small operating update on a deal you worked at Rothschild, with nothing that changes the thesis or is worth raising at MSIP yet.
+
+<sub>Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: Canada · id: `2026-10-05-logistec-and-port-of-corner-brook-mark-launch-of-40565c`</sub>
 
 ---
 

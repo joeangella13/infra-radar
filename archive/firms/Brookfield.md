@@ -1,6 +1,20 @@
 # Brookfield
 
-9 items, 2026-06-30 to 2026-09-17.
+10 items, 2026-06-30 to 2026-10-07.
+
+---
+
+### Brookfield's minority stake in data-centre developer AREP, announced Sept 16, extends its AI push into powered land; terms undisclosed
+
+`2026-10-07` · Sponsor moves · [Data Center Frontier](https://www.datacenterfrontier.com/hyperscale/article/55409162/brookfields-arep-deal-extends-the-ai-infrastructure-stack-to-powered-land), [CRE Daily](https://www.credaily.com/briefs/brookfield-takes-minority-stake-in-data-center-developer/)
+
+**Deal / players.** Brookfield affiliates agreed to buy a minority interest in American Real Estate Partners (AREP), announced Sept 16; stake size and price were not disclosed. Closing is expected in Q4 2026, and Rothschild & Co is advising AREP. AREP's PowerHouse Data Centers platform says it has 140 data centres underway or in planning, nearly 10 GW of potential capacity.
+
+**Why it matters.** A minority stake leaves AREP running its own platform while giving Brookfield a route into powered land and entitlements without paying for the whole business. No price is disclosed, so there is no comp to mark. The roughly 10 GW pipeline is development-stage, so value rests on securing power and tenants. Watch for the stake size when it closes in Q4.
+
+**Why you care.** A competitor moving up the chain into powered land is a read-across for MSIP's digital book, and it is a deal Rothschild colleagues advised.
+
+<sub>Firms: Brookfield, Rothschild & Co · Sectors: Digital Infrastructure, Power & Renewables · Geo: US · id: `2026-10-07-brookfield-s-minority-stake-in-data-centre-devel-93297a`</sub>
 
 ---
 

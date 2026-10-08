@@ -1,6 +1,20 @@
 # KKR
 
-8 items, 2026-06-10 to 2026-09-17.
+9 items, 2026-06-10 to 2026-10-04.
+
+---
+
+### July infrastructure fundraising topped $28bn, per Alternatives Watch; Q1 2026 had been lowest first quarter since 2023
+
+`2026-10-04` · Market / regulatory · [Alternatives Watch](https://www.alternativeswatch.com/2026/10/04/july-2026-private-equity-infrastructure-fundraising/), [Institutional Real Estate, Inc.](https://irei.com/publications/article/infrastructure-fundraising-catching-its-breath/)
+
+**Deal / players.** Alternatives Watch reports that private equity led July fundraising with more than $63bn, infrastructure managers closed over $28bn, and total fundraising topped $119bn. Separately, Institutional Real Estate, Inc. data showed 18 infrastructure funds closing $32.0bn in Q1 2026, the lowest first quarter since 2023, with no megafunds.
+
+**Why it matters.** One month at $28bn compares with $32bn for all of Q1, so capital is flowing again, led by large managers. More dry powder chasing data-centre and power assets likely supports prices. Q3 also includes KKR's $19.2bn fund close on Aug 3. Watch whether Q3 totals confirm a rebound or just a few large closes.
+
+**Why you care.** Fundraising backdrop for MSIP's own capital raising and for how much rivals can afford to bid; a pricing-pressure factor to carry into comps.
+
+<sub>Firms: KKR · Sectors: Funds & Fundraising · Geo: Global · id: `2026-10-04-july-infrastructure-fundraising-topped-28bn-per-49f3ef`</sub>
 
 ---
 
