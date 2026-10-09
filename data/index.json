@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T17:29:22+00:00",
+ "generated_at": "2026-10-09T17:06:52+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 330,
+ "total_items": 333,
  "months": [
   "2026-10",
   "2026-09",
@@ -503,6 +503,14 @@
    "last_seen": "2026-05-27"
   },
   {
+   "name": "Axium Infrastructure",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06"
+  },
+  {
    "name": "BMO Financial Group",
    "watchlist": false,
    "priority": false,
@@ -863,6 +871,14 @@
    "last_seen": "2026-03-11"
   },
   {
+   "name": "LS Power",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06"
+  },
+  {
    "name": "La Caisse",
    "watchlist": false,
    "priority": false,
@@ -1196,7 +1212,7 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 119,
+   "count": 121,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-08"
   },
@@ -1225,20 +1241,20 @@
    "last_seen": "2026-10-07"
   },
   {
+   "name": "Midstream & Gas",
+   "count": 47,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-07"
+  },
+  {
    "name": "Rail",
    "count": 47,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-07"
   },
   {
-   "name": "Midstream & Gas",
-   "count": 46,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-10-07"
-  },
-  {
    "name": "Funds & Fundraising",
-   "count": 40,
+   "count": 41,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-06"
   },
@@ -1378,6 +1394,56 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-bloomberg-google-nears-multi-year-nuclea",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-axium-portfolio-company-uppco-agrees-to-buy-xcel-8af9d8",
+   "d": "2026-10-06",
+   "h": "Axium portfolio company UPPCO agrees to buy Xcel Energy's regulated electric utilities in Michigan",
+   "s": "sponsor_moves",
+   "f": [
+    "Axium Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-axium-portfolio-company-uppco-agrees-to",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-ls-power-closes-6bn-fund-vi-at-hard-cap-1-7bn-al-af24f6",
+   "d": "2026-10-06",
+   "h": "LS Power closes ~$6bn Fund VI at hard cap; ~$1.7bn already committed to Constellation gas plants",
+   "s": "market_regulatory",
+   "f": [
+    "LS Power"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ls-power-closes-6bn-fund-vi-at-hard-cap",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-energy-transfer-agrees-to-buy-vaquero-midstream-440a6a",
+   "d": "2026-10-06",
+   "h": "Energy Transfer agrees to buy Vaquero Midstream for about $2.625bn in cash and units",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-energy-transfer-agrees-to-buy-vaquero-mi",
    "x": 0
   },
   {

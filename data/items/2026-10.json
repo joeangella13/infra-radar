@@ -217,6 +217,115 @@
  },
  {
   "date": "2026-10-06",
+  "headline": "Axium portfolio company UPPCO agrees to buy Xcel Energy's regulated electric utilities in Michigan",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Axium Infrastructure",
+    "url": "https://www.axiuminfra.com/news/?lang=en"
+   }
+  ],
+  "players": "Axium Infrastructure said its wholly owned portfolio company Upper Peninsula Power Company (UPPCO) has agreed to acquire Xcel Energy's regulated electric transmission and distribution utilities in Michigan. The deal is pending regulatory approval. The page I read gave no price, so terms are undisclosed here.",
+  "why_it_matters": "Regulated utilities earn an allowed return on rate base, so cash flows depend on commission decisions, not on demand. Here a sponsor-owned platform is buying from a listed parent, an add-on route that can bring scale and cost savings. With no price disclosed, there is no multiple to mark yet. Watch the Michigan approval process and the price relative to rate base.",
+  "why_you_care": "Utility add-ons by sponsor-owned platforms are a live pricing and structuring comp for MSIP's utilities and power work; once a price emerges, check it against rate base.",
+  "firms": [
+   "Axium Infrastructure"
+  ],
+  "companies": [
+   "Axium Infrastructure",
+   "Upper Peninsula Power Company",
+   "Xcel Energy"
+  ],
+  "sectors": [
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US",
+   "Michigan"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-axium-portfolio-company-uppco-agrees-to-buy-xcel-8af9d8",
+  "story_id": "story-axium-portfolio-company-uppco-agrees-to",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
+  "headline": "LS Power closes ~$6bn Fund VI at hard cap; ~$1.7bn already committed to Constellation gas plants",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "CityBiz",
+    "url": "https://www.citybiz.co/article/914483/ls-power-closes-6-billion-fund-vi-for-energy-infrastructure-investments/"
+   }
+  ],
+  "players": "LS Power closed LS Power Equity Partners VI with about $6bn of commitments against an original $4bn target. The fund launched in January 2026 and was fully allocated by July. It is more than twice the $2.7bn Fund V, which closed in 2024 and is now fully deployed.",
+  "why_it_matters": "A fund that hit its hard cap and was fully allocated within about six months shows LPs still back power-focused managers. About $1.7bn is already committed to pending purchases of Constellation gas plants, which would form a roughly 5 GW platform across PJM and ERCOT. Watch the price per kW on those deals and whether other sponsors chase the same gas assets.",
+  "why_you_care": "LS Power is a power-focused rival with fresh capital and a gas platform in PJM and ERCOT, which overlaps MSIP's stated focus on power generation and natural gas; use it to gauge competition and pricing.",
+  "firms": [
+   "LS Power"
+  ],
+  "companies": [
+   "LS Power",
+   "Constellation Energy"
+  ],
+  "sectors": [
+   "Funds & Fundraising",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-ls-power-closes-6bn-fund-vi-at-hard-cap-1-7bn-al-af24f6",
+  "story_id": "story-ls-power-closes-6bn-fund-vi-at-hard-cap",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
+  "headline": "Energy Transfer agrees to buy Vaquero Midstream for about $2.625bn in cash and units",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Energy Transfer",
+    "url": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-acquire-vaquero-midstream-2625-billion/"
+   },
+   {
+    "name": "Oil & Gas Journal",
+    "url": "https://ogj.com/general-interest/companies/news/55409838/energy-transfer-expands-delaware-basin-footprint-with-2625-billion-deal"
+   },
+   {
+    "name": "World Pipelines",
+    "url": "https://worldpipelines.com/business-news/08102026/energy-transfer-to-acquire-vaquero-midstream"
+   }
+  ],
+  "players": "Energy Transfer signed a definitive agreement to buy Vaquero Midstream in a bolt-on valued at about $2.625bn. Consideration is $1.95bn in cash plus about 33.3m new Energy Transfer common units. Vaquero owns a 300-mile pipeline network and a gas processing complex with 675 MMcf/d of capacity in the southern Delaware Basin, with acreage to expand to 1.2 bcf/d.",
+  "why_it_matters": "A strategic buyer is paying for Permian gas processing that plugs into its own pipes and fractionation, which is where synergy value comes from. It sets a recent comp for Delaware Basin gas processing and shows strategics can outbid sponsors on connected assets. The EBITDA multiple was not in the sources I read. Watch for that and for closing conditions.",
+  "why_you_care": "Natural gas is a core MSIP focus sector, and this is a fresh Permian processing comp, though a strategic one, so its synergies may not carry over to a sponsor's underwriting.",
+  "firms": [],
+  "companies": [
+   "Energy Transfer",
+   "Vaquero Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US",
+   "Texas"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-energy-transfer-agrees-to-buy-vaquero-midstream-440a6a",
+  "story_id": "story-energy-transfer-agrees-to-buy-vaquero-mi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
   "headline": "Google and Constellation announce 20-year, 890 MW nuclear uprate PPA backed by $4.3bn of investment, plus 15-year, 2,700 MW supply deal",
   "section": "sector_themes",
   "sources": [

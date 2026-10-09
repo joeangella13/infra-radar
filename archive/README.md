@@ -1,13 +1,13 @@
 # Archive
 
-330 items, 2026-01-13 to 2026-10-08.
+333 items, 2026-01-13 to 2026-10-08.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 18 items
+- [2026-10](2026-10.md) — 21 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
