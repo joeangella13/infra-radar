@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:06:52+00:00",
+ "generated_at": "2026-10-12T19:55:04+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 333,
+ "total_items": 337,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-08"
+  "2026-10-09"
  ],
  "firms": [
   {
@@ -791,6 +791,14 @@
    "last_seen": "2026-05-27"
   },
   {
+   "name": "H.I.G. Capital",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
    "name": "Hamilton Lane",
    "watchlist": false,
    "priority": false,
@@ -1212,21 +1220,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 121,
+   "count": 123,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-09"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 101,
+   "count": 103,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-09"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 63,
+   "count": 65,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-09"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1242,7 +1250,7 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 47,
+   "count": 48,
    "first_seen": "2026-04-30",
    "last_seen": "2026-10-07"
   },
@@ -1254,9 +1262,9 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 41,
+   "count": 42,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-10-09"
   },
   {
    "name": "Ports & Terminals",
@@ -1290,6 +1298,57 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-09-ferc-rejects-pjm-s-curtail-first-plan-for-new-la-6bc8d0",
+   "d": "2026-10-09",
+   "h": "FERC rejects PJM's curtail-first plan for new large loads; keeps only 50 MW definition and a load registry",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-10",
+   "t": "story-ferc-rejects-pjm-s-curtail-first-plan-fo",
+   "x": 0
+  },
+  {
+   "id": "2026-10-09-bloomberg-h-i-g-capital-sounds-out-investors-on-df26d9",
+   "d": "2026-10-09",
+   "h": "Bloomberg: H.I.G. Capital sounds out investors on about $2.6bn for second infrastructure fund",
+   "s": "market_regulatory",
+   "f": [
+    "H.I.G. Capital"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-bloomberg-h-i-g-capital-sounds-out-inves",
+   "x": 0
+  },
+  {
+   "id": "2026-10-09-doe-tells-ferc-pjm-s-stalled-6-8-gw-backstop-mus-a33cdc",
+   "d": "2026-10-09",
+   "h": "DOE tells FERC PJM's stalled 6.8 GW backstop must make data centres pay; PJM plans refiling by Oct 29",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-doe-tells-ferc-pjm-s-stalled-6-8-gw-back",
+   "x": 0
+  },
   {
    "id": "2026-10-08-ferc-calendar-open-meeting-oct-15-and-commission-e5be31",
    "d": "2026-10-08",
@@ -1394,6 +1453,21 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-bloomberg-google-nears-multi-year-nuclea",
+   "x": 0
+  },
+  {
+   "id": "2026-10-06-hess-midstream-signs-deal-to-buy-chevron-s-dj-ba-98b654",
+   "d": "2026-10-06",
+   "h": "Hess Midstream signs deal to buy Chevron's DJ Basin assets and Chevron's full stake in Hess Midstream; close targeted by year-end",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-hess-midstream-signs-deal-to-buy-chevron",
    "x": 0
   },
   {

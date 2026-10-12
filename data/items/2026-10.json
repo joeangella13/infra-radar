@@ -1,5 +1,99 @@
 [
  {
+  "date": "2026-10-09",
+  "headline": "Bloomberg: H.I.G. Capital sounds out investors on about $2.6bn for second infrastructure fund",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/h-i-g-said-to-canvass-investors-on-2-6-billion-infra-fund"
+   }
+  ],
+  "players": "Miami-based H.I.G. Capital is looking to raise about $2.6bn for H.I.G. Infrastructure Partners II, according to people familiar with the matter. The firm has started sounding out existing investors. The report snippet I read gave no strategy, hard cap or launch date.",
+  "why_it_matters": "This is early-stage: soundings only, with nothing formally launched. At about $2.6bn it is far smaller than LS Power's roughly $6bn Fund VI or Meridiam's $4.5bn North America Core Fund, both closed this month. Another mid-market sponsor is stocking up, which means more competition for smaller deals. Watch for a formal launch and a target.",
+  "why_you_care": "One more mid-market buyer likely to bid against you on smaller platform deals once this fund is live; background for sizing the competitive field.",
+  "firms": [
+   "H.I.G. Capital"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-09-bloomberg-h-i-g-capital-sounds-out-investors-on-df26d9",
+  "story_id": "story-bloomberg-h-i-g-capital-sounds-out-inves",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-09",
+  "headline": "DOE tells FERC PJM's stalled 6.8 GW backstop must make data centres pay; PJM plans refiling by Oct 29",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Discovery Alert",
+    "url": "https://discoveryalert.com/news/pjm-data-center-power-demand-doe-ferc-october-2026/"
+   }
+  ],
+  "players": "The US Department of Energy told FERC on Oct 7 that PJM must rework its Reliability Backstop Procurement so data centres, not existing customers, bear the cost of the 6.8 GW shortfall. The report, citing Utility Dive, says it appears to be DOE's first filing of this kind at FERC in at least five years. PJM plans a special Members Committee meeting on Oct 22 and aims to refile by Oct 29.",
+  "why_it_matters": "This follows FERC's Sept 29 decision to accept the backstop but suspend it to Feb 28, 2027. The cost-allocation fight decides who funds new capacity. If large loads carry the bill, that supports contracted, load-backed generation and weakens the case for socialised capacity payments. Watch the Oct 22 meeting and the Oct 29 refiling.",
+  "why_you_care": "The outcome sets who pays for new PJM capacity, which affects revenue assumptions on any gas, nuclear or storage asset you mark against, and the cost side of data-centre deals.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-09-doe-tells-ferc-pjm-s-stalled-6-8-gw-backstop-mus-a33cdc",
+  "story_id": "story-doe-tells-ferc-pjm-s-stalled-6-8-gw-back",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-09",
+  "headline": "FERC rejects PJM's curtail-first plan for new large loads; keeps only 50 MW definition and a load registry",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "mgrid.org",
+    "url": "https://mgrid.org/2026/10/10/ferc-rejects-pjms-curtail-first-plan-for-new-large-loads-and-keeps-only-the-50-mw-definition-and-a-registry/"
+   }
+  ],
+  "players": "FERC ruled on Oct 9 in docket ER26-3515-000. It rejected PJM's Interim Resource Adequacy Service, which would have let a new data centre connect before matching capacity existed, with PJM able to curtail it first. It also rejected the 'bring your own new capacity' rules. It accepted only the 50 MW large-load definition and a registry of each large load's location, ramp schedule and capacity supply. PJM had filed Aug 13 and asked for an Oct 12 effective date.",
+  "why_it_matters": "FERC's objection was jurisdiction, not the idea: it said the proposal put obligations on retail customers and chose who gets curtailed, which belongs to states. That leaves PJM with no fast-connect route for new data centres. Self-supply and co-located power deals look more valuable as a result. Watch PJM's next filing and which states act on curtailment.",
+  "why_you_care": "A clear pricing and risk input for any PJM generation or data-centre power case you underwrite: the quick grid-connection route for large loads is gone for now.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-09-ferc-rejects-pjm-s-curtail-first-plan-for-new-la-6bc8d0",
+  "story_id": "story-ferc-rejects-pjm-s-curtail-first-plan-fo",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-08",
   "headline": "FERC calendar: open meeting Oct 15 and commissioner-led reliability technical conference Oct 21",
   "section": "market_regulatory",
@@ -213,6 +307,37 @@
   "flags": [],
   "id": "2026-10-06-bloomberg-google-nears-multi-year-nuclear-power-cdea7c",
   "story_id": "story-bloomberg-google-nears-multi-year-nuclea",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-06",
+  "headline": "Hess Midstream signs deal to buy Chevron's DJ Basin assets and Chevron's full stake in Hess Midstream; close targeted by year-end",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "TipRanks",
+    "url": "https://tipranks.com/news/company-announcements/hess-midstream-acquires-chevron-dj-basin-assets-restructures"
+   }
+  ],
+  "players": "Hess Midstream LP and Chevron signed a purchase and sale agreement on Oct 6. Hess Midstream will acquire Chevron's crude oil, gas and storage assets in Colorado's DJ Basin, plus Chevron's entire ownership of Hess Midstream and its general partner. Closing is targeted by year-end 2026. The report cites lower-tariff, long-term Bakken contracts, fixed-fee DJ Basin agreements and a shareholder-elected board from 2028. Price was not in the report I read; terms undisclosed here.",
+  "why_it_matters": "The deal swaps a lower Bakken tariff for longer contracts and adds fixed-fee DJ Basin volumes with an investment-grade producer, so cash flow becomes more predictable but possibly thinner per barrel. Governance moves away from the parent. It is a template for how sponsor-style independence is priced in midstream. Watch for price disclosure and the pro forma leverage.",
+  "why_you_care": "A midstream comp on contract length, tariff trade-offs and parent separation, useful when MSIP looks at gas infrastructure; background only until price is disclosed.",
+  "firms": [],
+  "companies": [
+   "Hess Midstream",
+   "Chevron"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-06-hess-midstream-signs-deal-to-buy-chevron-s-dj-ba-98b654",
+  "story_id": "story-hess-midstream-signs-deal-to-buy-chevron",
   "story_size": 1
  },
  {
