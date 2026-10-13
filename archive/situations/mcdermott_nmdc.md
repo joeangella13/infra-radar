@@ -2,7 +2,21 @@
 
 Energy engineering and marine construction
 
-6 items, 2026-05-18 to 2026-09-22.
+7 items, 2026-05-18 to 2026-10-11.
+
+---
+
+### NMDC Group inaugurates 148m cutter suction dredger Abu Al Bakhoush in Nantong, China; no financial terms
+
+`2026-10-11` · Tracked situations · [DredgeWire](https://dredgewire.com/nmdc-group-inaugurates-new-heavy-duty-cutter-suction-dredger-abu-al-bakhoush-in-china), [IndexBox](https://www.indexbox.io/blog/nmdc-group-inaugurates-abu-al-bakhoush-heavy-duty-cutter-suction-dredger-in-nantong-china/)
+
+**Deal / players.** NMDC Group's dredging and marine unit inaugurated the Abu Al Bakhoush, a self-propelled heavy-duty cutter suction dredger, at a ceremony in Nantong. The vessel has a 7.8 MW cutter and 30,040 kW of installed power. It joins a fleet of more than 170 vessels and marine units. UAE Minister of State for Foreign Trade Thani Al Zeyoudi attended. No cost or contract terms were given in the sources I read.
+
+**Why it matters.** The group is adding dredging capacity to chase larger international coastal, port and offshore jobs, which supports its marine construction order book. The sources give no contract value, utilisation or vessel cost, so this does not move valuation. Watch for the project awards that would fill the new capacity.
+
+**Why you care.** Background only: a fleet milestone at NMDC Group with no deal terms and no direct read-through to the McDermott situation you worked on.
+
+<sub>Situations: mcdermott_nmdc · Sectors: Ports & Terminals · Geo: UAE, China · id: `2026-10-11-nmdc-group-inaugurates-148m-cutter-suction-dredg-c0ced8`</sub>
 
 ---
 

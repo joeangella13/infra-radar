@@ -1,13 +1,13 @@
 # Archive
 
-337 items, 2026-01-13 to 2026-10-09.
+339 items, 2026-01-13 to 2026-10-11.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 25 items
+- [2026-10](2026-10.md) — 27 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -26,7 +26,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Hydrostor](situations/hydrostor.md) — 8 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 7 items
-- [McDermott / NMDC](situations/mcdermott_nmdc.md) — 6 items
+- [McDermott / NMDC](situations/mcdermott_nmdc.md) — 7 items
 - [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 3 items
 
