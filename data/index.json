@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T17:42:00+00:00",
+ "generated_at": "2026-10-14T15:18:11+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 339,
+ "total_items": 343,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-11"
+  "2026-10-14"
  ],
  "firms": [
   {
@@ -58,9 +58,9 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 13,
+   "count": 14,
    "first_seen": "2026-05-25",
-   "last_seen": "2026-09-24"
+   "last_seen": "2026-10-12"
   },
   {
    "name": "Stonepeak",
@@ -82,9 +82,9 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "KKR",
@@ -1220,27 +1220,27 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 124,
+   "count": 125,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 104,
+   "count": 105,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 66,
+   "count": 68,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 50,
+   "count": 51,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-05"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Transport & Logistics",
@@ -1250,9 +1250,9 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 48,
+   "count": 49,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "Rail",
@@ -1262,21 +1262,21 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 42,
+   "count": 43,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-12"
   },
   {
    "name": "Ports & Terminals",
-   "count": 35,
+   "count": 36,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Nuclear & SMR",
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-05-18",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Social Infrastructure",
@@ -1298,6 +1298,75 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-14-ferc-s-oct-15-open-meeting-agenda-now-published-14176e",
+   "d": "2026-10-14",
+   "h": "FERC's Oct 15 open meeting agenda now published; lists Columbia Gulf, Louisiana LNG and Driftwood Pipeline gas dockets",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ferc-s-oct-15-open-meeting-agenda-now-pu",
+   "x": 0
+  },
+  {
+   "id": "2026-10-13-brazil-to-auction-three-port-terminals-dec-9-wit-24ee03",
+   "d": "2026-10-13",
+   "h": "Brazil to auction three port terminals Dec 9 with R$582.7m of planned investment; Tecon Santos 10 model still under review",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Regulatory & Policy"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brazil-to-auction-three-port-terminals-d",
+   "x": 0
+  },
+  {
+   "id": "2026-10-13-brookfield-ceo-teskey-says-ai-compute-and-power-e861ad",
+   "d": "2026-10-13",
+   "h": "Brookfield CEO Teskey says AI compute and power demand will outrun supply for years; $100bn programme favours fast-build power",
+   "s": "sector_themes",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables",
+    "Energy Transition & Storage",
+    "Nuclear & SMR"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brookfield-ceo-teskey-says-ai-compute-an",
+   "x": 0
+  },
+  {
+   "id": "2026-10-12-i-squared-capital-hires-a-new-managing-director-951b82",
+   "d": "2026-10-12",
+   "h": "I Squared Capital hires a new managing director, per Infrastructure Investor's Oct 12 newsletter; details paywalled",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-i-squared-capital-hires-a-new-managing-d",
+   "x": 1
+  },
   {
    "id": "2026-10-11-nmdc-group-inaugurates-148m-cutter-suction-dredg-c0ced8",
    "d": "2026-10-11",

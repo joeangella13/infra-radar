@@ -1,6 +1,20 @@
 # I Squared Capital
 
-13 items, 2026-05-25 to 2026-09-24.
+14 items, 2026-05-25 to 2026-10-12.
+
+---
+
+### **[watchlist]** I Squared Capital hires a new managing director, per Infrastructure Investor's Oct 12 newsletter; details paywalled
+
+`2026-10-12` · Sponsor moves · [Infrastructure Investor](https://www.infrastructureinvestor.com/the-pipeline-cips-anchor-close-ecps-valuation-tailwind-i-squared-hires-new-md/)
+
+**Deal / players.** Infrastructure Investor's start-of-week Pipeline briefing on Oct 12 lists an I Squared Capital managing director hire among its three lead items. The name, team, region and previous employer sit behind the subscriber wall and I did not see them. No deal terms apply.
+
+**Why it matters.** A senior hire at a direct rival shows where it is adding capacity, and the sector or region of the hire is the useful part. I could not read that, so this is only a flag. Check the full note or a market contact before drawing any conclusion about I Squared's priorities or a possible move from another firm.
+
+**Why you care.** I Squared is one of MSIP's three named rivals; the hire's focus could show where it is pushing next, but the details are unread, so treat it as a lead to check.
+
+<sub>Firms: I Squared Capital · Sectors: Funds & Fundraising · Geo: Global · id: `2026-10-12-i-squared-capital-hires-a-new-managing-director-951b82`</sub>
 
 ---
 

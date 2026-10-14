@@ -1,6 +1,20 @@
 # Brookfield
 
-10 items, 2026-06-30 to 2026-10-07.
+11 items, 2026-06-30 to 2026-10-13.
+
+---
+
+### Brookfield CEO Teskey says AI compute and power demand will outrun supply for years; $100bn programme favours fast-build power
+
+`2026-10-13` · Sector themes · [Crypto Briefing](https://cryptobriefing.com/brookfield-ceo-ai-infrastructure-demand)
+
+**Deal / players.** Brookfield Asset Management CEO Connor Teskey says the world wants more compute and electricity than it can build and that the gap is structural. Brookfield's $100bn AI infrastructure programme covers data centres, power generation and wider compute. On power it favours technologies that can be deployed quickly: fuel cells, renewables, batteries and nuclear. Source is secondary commentary; I did not see a Brookfield release.
+
+**Why it matters.** The largest infrastructure manager is putting a number on AI spend and choosing speed to power over cost. That supports pricing for assets that can connect or generate quickly, such as uprates, fuel cells and batteries, and for powered land. Watch whether other sponsors back the same list and how much of the $100bn is invested rather than targeted.
+
+**Why you care.** Brookfield is a main bidder for the AI power and data-centre assets MSIP also looks at, so its stated power mix is a useful marker for what rivals will pay for.
+
+<sub>Firms: Brookfield · Sectors: Digital Infrastructure, Power & Renewables, Energy Transition & Storage, Nuclear & SMR · Geo: Global · id: `2026-10-13-brookfield-ceo-teskey-says-ai-compute-and-power-e861ad`</sub>
 
 ---
 
