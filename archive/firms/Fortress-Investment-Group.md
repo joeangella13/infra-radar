@@ -1,6 +1,20 @@
 # Fortress Investment Group
 
-15 items, 2026-04-30 to 2026-10-05.
+16 items, 2026-04-30 to 2026-10-13.
+
+---
+
+### FTAI Infrastructure to report Q3 on Nov 5, with Long Ridge sale and Port Arthur purchase both pending
+
+`2026-10-13` · Tracked situations · [GlobeNewswire (FTAI Infrastructure release)](https://www.globenewswire.com/news-release/2026/10/13/3380180/0/en/ftai-infrastructure-inc-announces-timing-of-third-quarter-2026-earnings-and-conference-call.html), [ScanX (Q3 timing and Port Arthur summary)](https://scanx.trade/stock-market-news/companies/ftai-infrastructure-q3fy26-results-earnings-call-set-nov-6/53474713), [MarketScreener (FTAI news list)](https://www.marketscreener.com/news/ftai-infrastructure-unit-to-acquire-energy-assets-for-255-million-ce785adcdc8bf127)
+
+**Deal / players.** FTAI Infrastructure said on Oct 13 it will report Q3 2026 results after the Nasdaq close on Nov 5; a secondary source puts the call at 8:00am ET on Nov 6. Two deals are pending: the $1.52bn Long Ridge sale to MARA, and Jefferson's roughly $255m purchase of the Port Arthur terminal and half of an Alberta diluent unit. The Port Arthur release summary cites about $50m of annual EBITDA and a Q4 2026 closing target.
+
+**Why it matters.** Two live transactions now shape the equity story: Long Ridge removes the power asset, while Port Arthur is said to more than double Jefferson's adjusted EBITDA. Q3 is the next scheduled update after Long Ridge's close slipped into Q4. Look for closing timing, use of sale proceeds, and how much debt Jefferson takes on to fund the purchase.
+
+**Why you care.** Your deal: the Nov 5 print should show whether Long Ridge closes on schedule and how Port Arthur is funded, useful before pitching any carve-out angle at MSIP.
+
+<sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals · Geo: US, Canada · id: `2026-10-13-ftai-infrastructure-to-report-q3-on-nov-5-with-l-4b3c5d`</sub>
 
 ---
 

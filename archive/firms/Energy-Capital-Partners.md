@@ -1,6 +1,20 @@
 # Energy Capital Partners
 
-4 items, 2026-05-31 to 2026-09-17.
+5 items, 2026-05-31 to 2026-10-13.
+
+---
+
+### Infralogic: Q3 infrastructure fundraising led by KKR $19.2bn, Partners Group $15bn; nine-month total 39% below 2025
+
+`2026-10-13` · Market / regulatory · [Infralogic (ION Analytics) Global Fundraising Report 3Q26](https://ionanalytics.com/insights/infralogic/global-fundraising-report-3q26-mega-fund-closes-driving-volumes/)
+
+**Deal / players.** Infralogic's 3Q26 report (Oct 13) says KKR Global Infrastructure Investors V led with a $19.2bn close, then Partners Group Direct Infrastructure IV at $15bn and Energy Capital Partners VI at $8.1bn. The nine-month raise is $97.2bn against $159.5bn a year earlier. Infrastructure funds raised $51.3bn in the quarter, flat on 3Q25's $51.4bn, and 17 funds launched, down from 24 in 2Q26.
+
+**Why it matters.** Three large closes drove the quarter, while nine-month volume sits 39% below 2025's record. Capital is pooling at the biggest managers, which points to well-funded bidders for large assets and slower going for smaller sponsors. Watch the 17 new launches, down from 24 in 2Q, for how much of the mid-market fund pipeline thins out.
+
+**Why you care.** Background for how MSIP's own fundraising and co-invest conversations sit in a market where LPs are favouring the biggest managers.
+
+<sub>Firms: KKR, Partners Group, Energy Capital Partners, Copenhagen Infrastructure Partners · Sectors: Funds & Fundraising · Geo: Global · id: `2026-10-13-infralogic-q3-infrastructure-fundraising-led-by-315c82`</sub>
 
 ---
 

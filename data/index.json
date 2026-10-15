@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T15:18:11+00:00",
+ "generated_at": "2026-10-15T15:11:05+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 343,
+ "total_items": 347,
  "months": [
   "2026-10",
   "2026-09",
@@ -50,9 +50,9 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 15,
+   "count": 16,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-05"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "I Squared Capital",
@@ -82,17 +82,17 @@
    "name": "Brookfield",
    "watchlist": true,
    "priority": false,
-   "count": 11,
+   "count": 12,
    "first_seen": "2026-06-30",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "KKR",
    "watchlist": true,
    "priority": false,
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-06-10",
-   "last_seen": "2026-10-04"
+   "last_seen": "2026-10-13"
   },
   {
    "name": "EQT Infrastructure",
@@ -119,6 +119,14 @@
    "last_seen": "2026-10-06"
   },
   {
+   "name": "Energy Capital Partners",
+   "watchlist": true,
+   "priority": false,
+   "count": 5,
+   "first_seen": "2026-05-31",
+   "last_seen": "2026-10-13"
+  },
+  {
    "name": "Macquarie Asset Management",
    "watchlist": true,
    "priority": false,
@@ -133,14 +141,6 @@
    "count": 4,
    "first_seen": "2026-02-17",
    "last_seen": "2026-06-15"
-  },
-  {
-   "name": "Energy Capital Partners",
-   "watchlist": true,
-   "priority": false,
-   "count": 4,
-   "first_seen": "2026-05-31",
-   "last_seen": "2026-09-17"
   },
   {
    "name": "Grain Management",
@@ -191,6 +191,14 @@
    "last_seen": "2026-09-14"
   },
   {
+   "name": "Copenhagen Infrastructure Partners",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-10-13"
+  },
+  {
    "name": "Fitch Ratings",
    "watchlist": false,
    "priority": false,
@@ -205,6 +213,14 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
+  },
+  {
+   "name": "Partners Group",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-10-13"
   },
   {
    "name": "Antin",
@@ -269,14 +285,6 @@
    "count": 2,
    "first_seen": "2026-05-13",
    "last_seen": "2026-08-14"
-  },
-  {
-   "name": "Copenhagen Infrastructure Partners",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-06-19",
-   "last_seen": "2026-10-05"
   },
   {
    "name": "FalconPoint Partners",
@@ -397,14 +405,6 @@
    "count": 2,
    "first_seen": "2026-05-06",
    "last_seen": "2026-05-07"
-  },
-  {
-   "name": "Partners Group",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-07-20",
-   "last_seen": "2026-07-23"
   },
   {
    "name": "Rothschild & Co",
@@ -1156,9 +1156,9 @@
    "key": "ftai_infrastructure",
    "label": "FTAI Infrastructure",
    "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-05"
+   "last_seen": "2026-10-13"
   },
   {
    "key": "hydrostor",
@@ -1220,15 +1220,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 125,
+   "count": 126,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 105,
+   "count": 106,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "Regulatory & Policy",
@@ -1243,16 +1243,16 @@
    "last_seen": "2026-10-13"
   },
   {
+   "name": "Midstream & Gas",
+   "count": 50,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-14"
+  },
+  {
    "name": "Transport & Logistics",
    "count": 49,
    "first_seen": "2026-02-17",
    "last_seen": "2026-10-07"
-  },
-  {
-   "name": "Midstream & Gas",
-   "count": 49,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-10-14"
   },
   {
    "name": "Rail",
@@ -1262,13 +1262,13 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 43,
+   "count": 45,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-12"
+   "last_seen": "2026-10-14"
   },
   {
    "name": "Ports & Terminals",
-   "count": 36,
+   "count": 37,
    "first_seen": "2026-02-17",
    "last_seen": "2026-10-13"
   },
@@ -1299,6 +1299,23 @@
  ],
  "items": [
   {
+   "id": "2026-10-14-brookfield-infrastructure-unitholders-approve-bi-3181e3",
+   "d": "2026-10-14",
+   "h": "Brookfield Infrastructure unitholders approve BIP/BIPC simplification with about 99.5% support; closing targeted Q4",
+   "s": "sponsor_moves",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-brookfield-infrastructure-unitholders-ap",
+   "x": 0
+  },
+  {
    "id": "2026-10-14-ferc-s-oct-15-open-meeting-agenda-now-published-14176e",
    "d": "2026-10-14",
    "h": "FERC's Oct 15 open meeting agenda now published; lists Columbia Gulf, Louisiana LNG and Driftwood Pipeline gas dockets",
@@ -1312,6 +1329,22 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-ferc-s-oct-15-open-meeting-agenda-now-pu",
+   "x": 0
+  },
+  {
+   "id": "2026-10-14-flex-completes-acquisition-of-epc-power-adding-p-d6c4c1",
+   "d": "2026-10-14",
+   "h": "Flex completes acquisition of EPC Power, adding power-conversion and grid-forming kit for AI data centres; price not found",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-flex-completes-acquisition-of-epc-power",
    "x": 0
   },
   {
@@ -1348,6 +1381,46 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-brookfield-ceo-teskey-says-ai-compute-an",
+   "x": 0
+  },
+  {
+   "id": "2026-10-13-ftai-infrastructure-to-report-q3-on-nov-5-with-l-4b3c5d",
+   "d": "2026-10-13",
+   "h": "FTAI Infrastructure to report Q3 on Nov 5, with Long Ridge sale and Port Arthur purchase both pending",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ftai-infrastructure-q2-rail-hits-record",
+   "x": 0
+  },
+  {
+   "id": "2026-10-13-infralogic-q3-infrastructure-fundraising-led-by-315c82",
+   "d": "2026-10-13",
+   "h": "Infralogic: Q3 infrastructure fundraising led by KKR $19.2bn, Partners Group $15bn; nine-month total 39% below 2025",
+   "s": "market_regulatory",
+   "f": [
+    "KKR",
+    "Partners Group",
+    "Energy Capital Partners",
+    "Copenhagen Infrastructure Partners"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-infralogic-q3-infrastructure-fundraising",
    "x": 0
   },
   {

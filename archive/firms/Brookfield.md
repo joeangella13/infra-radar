@@ -1,6 +1,20 @@
 # Brookfield
 
-11 items, 2026-06-30 to 2026-10-13.
+12 items, 2026-06-30 to 2026-10-14.
+
+---
+
+### Brookfield Infrastructure unitholders approve BIP/BIPC simplification with about 99.5% support; closing targeted Q4
+
+`2026-10-14` · Sponsor moves · [TipRanks (BIP meeting results)](https://tipranks.com/news/company-announcements/brookfield-infrastructure-unitholders-overwhelmingly-back-key-transaction-resolutions), [SEC Schedule 13D/A, Brookfield Infrastructure Corp](https://www.sec.gov/Archives/edgar/data/0001788348/000110465926086412/primary_doc.xml)
+
+**Deal / players.** Brookfield Infrastructure Partners reported that unitholders approved two transaction resolutions with about 99.5% support at the Oct 14 special meeting, with 60.13% of units represented. The plan converts BIP and BIPC into a single Canadian listed corporation, BIP Inc., and still needs British Columbia Supreme Court approval. Completion is expected in Q4 2026; I did not find the BIPC shareholder vote result.
+
+**Why it matters.** A near-unanimous unitholder vote clears the main hurdle for a structure change at one of the largest listed infrastructure owners. The underlying assets and cash flows do not change; what changes is how investors hold them. If BIPC shareholders vote no, the filing says the deal still completes without the BIPC share exchange. Watch the court hearing and the BIPC result.
+
+**Why you care.** Brookfield is a watchlist rival and frequent bidder; this is housekeeping on its listed vehicle rather than a new deal, so treat it as background.
+
+<sub>Firms: Brookfield · Sectors: Funds & Fundraising · Geo: Canada · id: `2026-10-14-brookfield-infrastructure-unitholders-approve-bi-3181e3`</sub>
 
 ---
 
