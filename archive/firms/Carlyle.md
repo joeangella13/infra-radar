@@ -1,6 +1,20 @@
 # Carlyle
 
-3 items, 2026-05-06 to 2026-09-14.
+4 items, 2026-05-06 to 2026-10-15.
+
+---
+
+### **[watchlist]** EQT Q3 report highlights Copia Power and AI infrastructure push; Infrastructure VII due to activate around year-end
+
+`2026-10-15` · Sponsor moves · [EQT AB Q3 announcement (Yahoo Finance)](https://finance.yahoo.com/real-estate/articles/eqt-ab-publ-q3-announcement-052700452.html), [IPE Real Assets](https://realassets.ipe.com/news/eqt-infrastructure-acquires-carlyles-copia-power-in-26bn-deal/10137696.article), [Yahoo Finance](https://finance.yahoo.com/energy/articles/eqt-agrees-buy-copia-power-080525846.html)
+
+**Deal / players.** EQT's Q3 announcement lists the Copia Power acquisition by EQT Infrastructure VII and says its new AI Infrastructure strategy has strong early momentum. The July deal buys Copia from Carlyle and is expected to close by end-2026. IPE understands the price is about $2.6bn; EQT has not disclosed it. Copia has over 2.6 GW operating or under construction and is developing over 9 GW of data centres.
+
+**Why it matters.** EQT is paying for interconnection positions where generation and data-centre load sit together, mostly development pipeline rather than cash flow today. Infrastructure VII will be only 0-5% invested after Copia, while the current fund is 75-80% invested, so fresh capital is coming. Watch for the closing, and for IPE's reported $2.6bn price staying unconfirmed.
+
+**Why you care.** EQT is going straight at integrated power-plus-data-centre platforms, an area MSIP also covers; the reported $2.6bn for Copia is a marker for what such platforms fetch.
+
+<sub>Firms: EQT Infrastructure, Carlyle · Sectors: Digital Infrastructure, Power & Renewables, Funds & Fundraising · Geo: US · id: `2026-10-15-eqt-q3-report-highlights-copia-power-and-ai-infr-989d3c`</sub>
 
 ---
 

@@ -1,13 +1,13 @@
 # Archive
 
-347 items, 2026-01-13 to 2026-10-14.
+354 items, 2026-01-13 to 2026-10-16.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 35 items
+- [2026-10](2026-10.md) — 42 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -23,7 +23,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 6 items
 - [Brightline Florida](situations/brightline.md) — 26 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 9 items
-- [Hydrostor](situations/hydrostor.md) — 8 items
+- [Hydrostor](situations/hydrostor.md) — 9 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 7 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 7 items
@@ -39,18 +39,18 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Brookfield](firms/Brookfield.md) — 12 items
 - [Blackstone](firms/Blackstone.md) — 12 items
 - [KKR](firms/KKR.md) — 10 items
+- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 9 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
-- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 8 items
 - [Meridiam](firms/Meridiam.md) — 7 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 5 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
 - [IFM Investors](firms/IFM-Investors.md) — 4 items
+- [Carlyle](firms/Carlyle.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
 - [Partners Group](firms/Partners-Group.md) — 3 items
 - [Copenhagen Infrastructure Partners](firms/Copenhagen-Infrastructure-Partners.md) — 3 items
 - [ArcLight](firms/ArcLight.md) — 3 items
 - [Apollo](firms/Apollo.md) — 3 items
-- [Carlyle](firms/Carlyle.md) — 3 items
 - [Antin](firms/Antin.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items

@@ -2,7 +2,21 @@
 
 Long-duration compressed air energy storage
 
-8 items, 2026-01-28 to 2026-09-18.
+9 items, 2026-01-28 to 2026-10-13.
+
+---
+
+### Greater Napanee council backs bigger Hydrostor Quinte project, 500 MW to up to 650 MW, ahead of IESO bid
+
+`2026-10-13` · Tracked situations · [Napanee Today (88.7 myFM)](https://www.napaneetoday.ca/2026/10/15/100134/), [Frequency News](https://frequencynews.ca/news/council-approves-project-capacity-increase-for-proposed-quinte-energy-storage-centre), [Kingstonist](https://www.kingstonist.com/news/napanee-council-agrees-to-hydrostor-project-enhancements-updated/)
+
+**Deal / players.** Greater Napanee council voted unanimously on Oct 13 to raise the proposed Quinte Energy Storage Centre from 500 MW to up to 650 MW, with 5,200 MWh of storage. The site grows from 80 to 95 acres, and the annual community benefits fund rises from about $1m to $1.3m. Staff said the increase supports Hydrostor's submission to the IESO Long Lead-Time Capacity Services procurement; an earlier report said the IESO bid closes in November.
+
+**Why it matters.** Hydrostor is resizing the project to compete for an Ontario long-term capacity contract, which would be the revenue backbone. A city official said the company felt a larger size would show better to the IESO. The local noise concern from nearby plants is the permitting risk to watch. The IESO outcome is the next real marker for the pipeline.
+
+**Why you care.** This is your Hydrostor deal scaling its Ontario pipeline into a November IESO bid, worth flagging if MSIP is looking at contracted long-duration storage.
+
+<sub>Situations: hydrostor · Sectors: Energy Transition & Storage · Geo: Canada, Ontario · id: `2026-10-13-greater-napanee-council-backs-bigger-hydrostor-q-af4482`</sub>
 
 ---
 

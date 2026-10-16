@@ -1,5 +1,188 @@
 [
  {
+  "date": "2026-10-16",
+  "headline": "NiSource signs 20-year deal with Microsoft for about 1,100 MW of new generation; Microsoft funds the build",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://ca.investing.com/news/stock-market-news/nisource-signs-power-deal-with-microsoft-for-indiana-campus-93CH-4884936"
+   }
+  ],
+  "players": "NiSource announced a long-term energy agreement with Microsoft for its northwest Indiana data centre campus. The 20-year deal starts in 2028 and adds about 1,100 MW of new generation. Microsoft will fully fund all generation and transmission needed to serve its load, through NiSource Generation Company LLC. Pricing was not in the coverage I read.",
+  "why_it_matters": "The customer pays for the build and signs for 20 years, so the utility takes little ratepayer or stranded-asset risk. That is a template for data-centre load: ring-fenced generation, hyperscaler credit, long tenor. Return terms are not public. Watch for pricing detail, the generation mix and any regulatory filings.",
+  "why_you_care": "A fresh structure to compare against when you underwrite power or utility assets sold into data-centre demand, though the economics are not yet disclosed.",
+  "firms": [],
+  "companies": [
+   "NiSource",
+   "Microsoft"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US",
+   "Indiana"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-16-nisource-signs-20-year-deal-with-microsoft-for-a-ce4851",
+  "story_id": "story-nisource-signs-20-year-deal-with-microso",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-16",
+  "headline": "Venture Global says it is targeting 10 GW of gas-fired power for AI data centres",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "OilPrice.com",
+    "url": "https://oilprice.com/Company-News/Venture-Global-Targets-10-GW-of-Gas-Fired-Power-for-AI-Data-Centers.amp.html"
+   }
+  ],
+  "players": "Venture Global is targeting 10 GW of gas-fired power for AI data centres, per OilPrice. The company said any third-party data centre developments would stay separate from its LNG exports and would not affect existing gas supply commitments. Its LNG capacity in production, construction or development exceeds 100 million tonnes a year. I did not open the company release; customers and capital cost were not in the coverage I read.",
+  "why_it_matters": "A large LNG developer moving into power shows how crowded the behind-the-meter gas market is getting. It could compete with sponsors building the same product, or sell them gas and turbines. A 10 GW target is a goal, not contracted revenue. Watch for named customers, signed offtake and a financing plan.",
+  "why_you_care": "Adds a well-capitalised competitor to the gas-to-power space MSIP targets, which could squeeze returns on greenfield behind-the-meter projects you may look at.",
+  "firms": [],
+  "companies": [
+   "Venture Global"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-16-venture-global-says-it-is-targeting-10-gw-of-gas-ffc5ed",
+  "story_id": "story-venture-global-says-it-is-targeting-10-g",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-15",
+  "headline": "A.P. Moller Capital agrees to buy Portek International from Mitsui; price not found",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Baird Maritime",
+    "url": "https://www.bairdmaritime.com/shipping/ports/ap-moller-capital-portek-acquisition"
+   },
+   {
+    "name": "ScandAsia",
+    "url": "https://scandasia.com/a-p-moller-capital-agrees-to-acquire-singapores-portek/"
+   }
+  ],
+  "players": "A.P. Moller Capital announced on Oct 15 that it agreed to buy all shares in Singapore-based Portek International from Japan's Mitsui & Co. The deal runs through its Emerging Markets Infrastructure Fund II. Portek holds interests in seven multipurpose terminals in Algeria, Gabon, Indonesia, Latvia, Malta and Vietnam. It follows A.P. Moller Capital's Sept 28 agreement to take a majority of Euroports; terms of Portek were not found.",
+  "why_it_matters": "Port terminals give long-dated, volume-linked cash flows, and the buyer says it will work on operations, safety and emissions with local teams. Two port deals in under three weeks, plus an existing Philippine logistics holding, show a sponsor building a ports and logistics book. With no price disclosed, there is no multiple to mark against yet. Watch for closing conditions.",
+  "why_you_care": "Another sponsor is adding port terminals, which supports the demand side of your LOGISTEC/Termont thesis, though without a price this is background rather than a comp you can mark against.",
+  "firms": [
+   "A.P. Moller Capital"
+  ],
+  "companies": [
+   "Portek International",
+   "Mitsui & Co.",
+   "Euroports"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Singapore",
+   "Indonesia",
+   "Vietnam"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-15-a-p-moller-capital-agrees-to-buy-portek-internat-c329a3",
+  "story_id": "story-a-p-moller-capital-agrees-to-buy-portek",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-15",
+  "headline": "EQT Q3 report highlights Copia Power and AI infrastructure push; Infrastructure VII due to activate around year-end",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "EQT AB Q3 announcement (Yahoo Finance)",
+    "url": "https://finance.yahoo.com/real-estate/articles/eqt-ab-publ-q3-announcement-052700452.html"
+   },
+   {
+    "name": "IPE Real Assets",
+    "url": "https://realassets.ipe.com/news/eqt-infrastructure-acquires-carlyles-copia-power-in-26bn-deal/10137696.article"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-agrees-buy-copia-power-080525846.html"
+   }
+  ],
+  "players": "EQT's Q3 announcement lists the Copia Power acquisition by EQT Infrastructure VII and says its new AI Infrastructure strategy has strong early momentum. The July deal buys Copia from Carlyle and is expected to close by end-2026. IPE understands the price is about $2.6bn; EQT has not disclosed it. Copia has over 2.6 GW operating or under construction and is developing over 9 GW of data centres.",
+  "why_it_matters": "EQT is paying for interconnection positions where generation and data-centre load sit together, mostly development pipeline rather than cash flow today. Infrastructure VII will be only 0-5% invested after Copia, while the current fund is 75-80% invested, so fresh capital is coming. Watch for the closing, and for IPE's reported $2.6bn price staying unconfirmed.",
+  "why_you_care": "EQT is going straight at integrated power-plus-data-centre platforms, an area MSIP also covers; the reported $2.6bn for Copia is a marker for what such platforms fetch.",
+  "firms": [
+   "EQT Infrastructure",
+   "Carlyle"
+  ],
+  "companies": [
+   "Copia Power"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables",
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-10-15-eqt-q3-report-highlights-copia-power-and-ai-infr-989d3c",
+  "story_id": "story-carlyle-sells-power-and-ai-infrastructur",
+  "story_size": 2
+ },
+ {
+  "date": "2026-10-15",
+  "headline": "FERC publishes Oct 15 meeting order summaries; accepts 2027 NERC and regional budgets",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "FERC",
+    "url": "https://www.ferc.gov/news-events/news/summaries-october-2026-commission-meeting"
+   }
+  ],
+  "players": "FERC posted summaries of orders voted at its Oct 15 meeting. They include acceptance of 2027 business plans and budgets for NERC, the six Regional Entities and WIRAB, and conditional acceptance of Deseret G&T's market-based rate tariff revisions. The commission also sustained its dismissal of McKenzie Electric's complaint against Basin Electric. The snippet I read did not show results for the Columbia Gulf, Louisiana LNG or Driftwood dockets.",
+  "why_it_matters": "Mostly routine. The items that can move underwriting are the gas pipeline certificate orders and the five-year oil pipeline index review (docket G-1), which feeds oil pipeline rate changes, but I could not confirm outcomes. Check the full orders before relying on any of them. The reliability technical conference on Oct 21 is the next FERC event.",
+  "why_you_care": "Largely background today; once the gas certificate and oil index orders are readable, they matter for any midstream or pipeline underwriting at MSIP.",
+  "firms": [],
+  "companies": [
+   "FERC",
+   "NERC"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-15-ferc-publishes-oct-15-meeting-order-summaries-ac-d2a7ed",
+  "story_id": "story-ferc-publishes-oct-15-meeting-order-summ",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-14",
   "headline": "Brookfield Infrastructure unitholders approve BIP/BIPC simplification with about 99.5% support; closing targeted Q4",
   "section": "sponsor_moves",
@@ -176,6 +359,48 @@
  },
  {
   "date": "2026-10-13",
+  "headline": "Greater Napanee council backs bigger Hydrostor Quinte project, 500 MW to up to 650 MW, ahead of IESO bid",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Napanee Today (88.7 myFM)",
+    "url": "https://www.napaneetoday.ca/2026/10/15/100134/"
+   },
+   {
+    "name": "Frequency News",
+    "url": "https://frequencynews.ca/news/council-approves-project-capacity-increase-for-proposed-quinte-energy-storage-centre"
+   },
+   {
+    "name": "Kingstonist",
+    "url": "https://www.kingstonist.com/news/napanee-council-agrees-to-hydrostor-project-enhancements-updated/"
+   }
+  ],
+  "players": "Greater Napanee council voted unanimously on Oct 13 to raise the proposed Quinte Energy Storage Centre from 500 MW to up to 650 MW, with 5,200 MWh of storage. The site grows from 80 to 95 acres, and the annual community benefits fund rises from about $1m to $1.3m. Staff said the increase supports Hydrostor's submission to the IESO Long Lead-Time Capacity Services procurement; an earlier report said the IESO bid closes in November.",
+  "why_it_matters": "Hydrostor is resizing the project to compete for an Ontario long-term capacity contract, which would be the revenue backbone. A city official said the company felt a larger size would show better to the IESO. The local noise concern from nearby plants is the permitting risk to watch. The IESO outcome is the next real marker for the pipeline.",
+  "why_you_care": "This is your Hydrostor deal scaling its Ontario pipeline into a November IESO bid, worth flagging if MSIP is looking at contracted long-duration storage.",
+  "firms": [],
+  "companies": [
+   "Hydrostor",
+   "Quinte Energy Storage Centre"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "Canada",
+   "Ontario"
+  ],
+  "priority": "normal",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-10-13-greater-napanee-council-backs-bigger-hydrostor-q-af4482",
+  "story_id": "story-greater-napanee-council-backs-bigger-hyd",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-13",
   "headline": "FTAI Infrastructure to report Q3 on Nov 5, with Long Ridge sale and Port Arthur purchase both pending",
   "section": "tracked_situations",
   "sources": [
@@ -254,6 +479,42 @@
   "id": "2026-10-13-infralogic-q3-infrastructure-fundraising-led-by-315c82",
   "story_id": "story-infralogic-q3-infrastructure-fundraising",
   "story_size": 1
+ },
+ {
+  "date": "2026-10-13",
+  "headline": "Enerflex wins 1 GW+ gas power order for a data centre, after 450 MW award on Oct 1; backlog about 1.75 GW",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Hart Energy",
+    "url": "https://www.hartenergy.com/technology-and-innovation/he-enerflex-awarded-project-increases-backlog/"
+   },
+   {
+    "name": "Kalkine Media",
+    "url": "https://kalkinemedia.com/ca/stocks/oil-gas/enerflex-ltd-tsxefx-secures-gigawatt-scale-data-center-power-contract-expanding-behind-the-meter-backlog"
+   }
+  ],
+  "players": "Enerflex said it won a contract to supply more than 1 GW of behind-the-meter, gas-fired power units for an unnamed North American data centre development. It follows the roughly 450 MW award announced Oct 1. Hart Energy puts the data-centre power backlog at 1.75 GW, with deliveries running into the latter part of the decade. Contract value was not found.",
+  "why_it_matters": "Developers are buying on-site gas generation to avoid grid queues, and orders are now gigawatt-sized. The equipment maker gets one-off manufacturing revenue; the long-term cash flows sit with whoever owns and runs the units. Watch who the end customer is and whether owner-operators sign power contracts behind these orders.",
+  "why_you_care": "A demand marker for the gas-to-AI power theme you worked on with Sisu/Miratech, and for any MSIP power or gas deal that sells behind the meter.",
+  "firms": [],
+  "companies": [
+   "Enerflex"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-13-enerflex-wins-1-gw-gas-power-order-for-a-data-ce-785c7f",
+  "story_id": "story-enerflex-wins-about-450-mw-off-grid-gas",
+  "story_size": 2
  },
  {
   "date": "2026-10-12",
@@ -1212,7 +1473,7 @@
   "flags": [],
   "id": "2026-10-01-enerflex-wins-about-450-mw-off-grid-gas-power-or-d5f49f",
   "story_id": "story-enerflex-wins-about-450-mw-off-grid-gas",
-  "story_size": 1
+  "story_size": 2
  },
  {
   "date": "2026-10-01",

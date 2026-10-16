@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T15:11:05+00:00",
+ "generated_at": "2026-10-16T14:58:04+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 347,
+ "total_items": 354,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-14"
+  "2026-10-16"
  ],
  "firms": [
   {
@@ -98,9 +98,9 @@
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-05-07",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-10-15"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -143,6 +143,14 @@
    "last_seen": "2026-06-15"
   },
   {
+   "name": "Carlyle",
+   "watchlist": true,
+   "priority": false,
+   "count": 4,
+   "first_seen": "2026-05-06",
+   "last_seen": "2026-10-15"
+  },
+  {
    "name": "Grain Management",
    "watchlist": true,
    "priority": false,
@@ -181,14 +189,6 @@
    "count": 3,
    "first_seen": "2026-07-14",
    "last_seen": "2026-07-27"
-  },
-  {
-   "name": "Carlyle",
-   "watchlist": true,
-   "priority": false,
-   "count": 3,
-   "first_seen": "2026-05-06",
-   "last_seen": "2026-09-14"
   },
   {
    "name": "Copenhagen Infrastructure Partners",
@@ -429,6 +429,14 @@
    "count": 2,
    "first_seen": "2026-05-15",
    "last_seen": "2026-05-22"
+  },
+  {
+   "name": "A.P. Moller Capital",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
   },
   {
    "name": "Actis",
@@ -1164,9 +1172,9 @@
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-01-28",
-   "last_seen": "2026-09-18"
+   "last_seen": "2026-10-13"
   },
   {
    "key": "logistec_termont",
@@ -1220,39 +1228,39 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 126,
+   "count": 130,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-16"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 106,
+   "count": 110,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-16"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 68,
+   "count": 69,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
+  },
+  {
+   "name": "Midstream & Gas",
+   "count": 53,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-16"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 51,
+   "count": 52,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-13"
   },
   {
-   "name": "Midstream & Gas",
-   "count": 50,
-   "first_seen": "2026-04-30",
-   "last_seen": "2026-10-14"
-  },
-  {
    "name": "Transport & Logistics",
-   "count": 49,
+   "count": 50,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-15"
   },
   {
    "name": "Rail",
@@ -1262,15 +1270,15 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 45,
+   "count": 46,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   },
   {
    "name": "Ports & Terminals",
-   "count": 37,
+   "count": 38,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-15"
   },
   {
    "name": "Nuclear & SMR",
@@ -1298,6 +1306,93 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-16-nisource-signs-20-year-deal-with-microsoft-for-a-ce4851",
+   "d": "2026-10-16",
+   "h": "NiSource signs 20-year deal with Microsoft for about 1,100 MW of new generation; Microsoft funds the build",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-nisource-signs-20-year-deal-with-microso",
+   "x": 0
+  },
+  {
+   "id": "2026-10-16-venture-global-says-it-is-targeting-10-gw-of-gas-ffc5ed",
+   "d": "2026-10-16",
+   "h": "Venture Global says it is targeting 10 GW of gas-fired power for AI data centres",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-venture-global-says-it-is-targeting-10-g",
+   "x": 0
+  },
+  {
+   "id": "2026-10-15-a-p-moller-capital-agrees-to-buy-portek-internat-c329a3",
+   "d": "2026-10-15",
+   "h": "A.P. Moller Capital agrees to buy Portek International from Mitsui; price not found",
+   "s": "sponsor_moves",
+   "f": [
+    "A.P. Moller Capital"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-a-p-moller-capital-agrees-to-buy-portek",
+   "x": 0
+  },
+  {
+   "id": "2026-10-15-eqt-q3-report-highlights-copia-power-and-ai-infr-989d3c",
+   "d": "2026-10-15",
+   "h": "EQT Q3 report highlights Copia Power and AI infrastructure push; Infrastructure VII due to activate around year-end",
+   "s": "sponsor_moves",
+   "f": [
+    "EQT Infrastructure",
+    "Carlyle"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables",
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-carlyle-sells-power-and-ai-infrastructur",
+   "x": 1
+  },
+  {
+   "id": "2026-10-15-ferc-publishes-oct-15-meeting-order-summaries-ac-d2a7ed",
+   "d": "2026-10-15",
+   "h": "FERC publishes Oct 15 meeting order summaries; accepts 2027 NERC and regional budgets",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ferc-publishes-oct-15-meeting-order-summ",
+   "x": 0
+  },
   {
    "id": "2026-10-14-brookfield-infrastructure-unitholders-approve-bi-3181e3",
    "d": "2026-10-14",
@@ -1384,6 +1479,23 @@
    "x": 0
   },
   {
+   "id": "2026-10-13-greater-napanee-council-backs-bigger-hydrostor-q-af4482",
+   "d": "2026-10-13",
+   "h": "Greater Napanee council backs bigger Hydrostor Quinte project, 500 MW to up to 650 MW, ahead of IESO bid",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "hydrostor"
+   ],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-greater-napanee-council-backs-bigger-hyd",
+   "x": 0
+  },
+  {
    "id": "2026-10-13-ftai-infrastructure-to-report-q3-on-nov-5-with-l-4b3c5d",
    "d": "2026-10-13",
    "h": "FTAI Infrastructure to report Q3 on Nov 5, with Long Ridge sale and Port Arthur purchase both pending",
@@ -1421,6 +1533,23 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-infralogic-q3-infrastructure-fundraising",
+   "x": 0
+  },
+  {
+   "id": "2026-10-13-enerflex-wins-1-gw-gas-power-order-for-a-data-ce-785c7f",
+   "d": "2026-10-13",
+   "h": "Enerflex wins 1 GW+ gas power order for a data centre, after 450 MW award on Oct 1; backlog about 1.75 GW",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-enerflex-wins-about-450-mw-off-grid-gas",
    "x": 0
   },
   {
