@@ -1,6 +1,20 @@
 # EQT Infrastructure
 
-9 items, 2026-05-07 to 2026-10-15.
+10 items, 2026-05-07 to 2026-10-19.
+
+---
+
+### **[watchlist]** EQT signs binding A$9.3bn Cleanaway take-private at A$3.095 a share, below the A$3.13 proposal
+
+`2026-10-19` · Sponsor moves · [EQT Group](https://eqtgroup.com/news/eqt-agrees-to-acquire-cleanaway-a-leading-australian-integrated-waste-management-and-resource-recovery-platform-2026-10-18), [Private Equity Insights](https://peinsights.substack.com/p/eqt-agrees-65bn-take-private-of-australian), [TradingView / Seeking Alpha](https://www.tradingview.com/news/seekingalpha:c58390214094b:0-eqt-agrees-to-acquire-cleanaway-waste-in-6-5b-deal/)
+
+**Deal / players.** EQT Infrastructure VI signed a binding scheme implementation deed to buy 100% of Cleanaway (ASX: CWY) for A$3.095 a share in cash, less any dividends paid. That implies an enterprise value of about A$9.3bn and a 32.1% premium to the A$2.37 close on 12 August. It is about 20x FY26 underlying EBIT of A$470.2m. Cleanaway's board unanimously backs it, subject to no superior bid and a Kroll expert report. Completion is targeted by end-March 2027, with a ticking fee if it runs past 31 May 2027.
+
+**Why it matters.** This turns EQT's earlier A$3.13 proposal into a signed deal. The price is a little lower after diligence. The reason was not in the sources I read. About 20x EBIT is a clear mark for a scaled waste platform with landfill, transfer and treatment assets. EQT says the deal leaves Fund VI 85% to 90% invested, so Infrastructure VII is next. Watch the shareholder vote, the expert report and regulatory approvals.
+
+**Why you care.** A rival's A$9.3bn enterprise value and roughly 20x EBIT is a direct comp for any waste or environmental-services deal MSIP looks at, and shows where EQT's current fund is nearly fully deployed.
+
+<sub>Firms: EQT Infrastructure · Sectors: Water & Environmental · Geo: Australia · id: `2026-10-19-eqt-signs-binding-a-9-3bn-cleanaway-take-private-25a710`</sub>
 
 ---
 
