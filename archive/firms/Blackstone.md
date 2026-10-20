@@ -1,6 +1,20 @@
 # Blackstone
 
-12 items, 2026-05-04 to 2026-09-17.
+13 items, 2026-05-04 to 2026-10-19.
+
+---
+
+### Blackstone closes Energy Transition Partners V at $8.7bn hard cap, over 50% larger than its predecessor
+
+`2026-10-19` · Market / regulatory · [Blackstone](https://www.blackstone.com/news/press/blackstone-announces-8-7-billion-final-close-for-blackstone-energy-transition-partners-v/), [Business Wire](https://www.businesswire.com/news/home/20261019527326/en/Blackstone-Announces-$8.7-Billion-Final-Close-for-Blackstone-Energy-Transition-Partners-V)
+
+**Deal / players.** Blackstone announced the final close of Blackstone Energy Transition Partners V at $8.7bn. The fund was oversubscribed and reached its hard cap. It began investing in June and has funded three platforms (Kindle, Fisterra, Viridon) to build and run new power generation and transmission lines, plus three energy-efficiency and resilience acquisitions. Blackstone cites a 34% net IRR since 1997 and over $11bn of new equity committed since January 2025.
+
+**Why it matters.** LPs are still writing large cheques for power and grid build-out even though overall infrastructure fundraising is running well below 2025. Blackstone is buying management teams to build assets and equipment suppliers, not yield assets. Expect it to bid hard for gas-power, transmission and electrical-equipment platforms. Watch which platform it adds next and at what price.
+
+**Why you care.** A watchlist rival now has $8.7bn of fresh equity aimed at power, grid and equipment platforms, which are also MSIP territory, so expect firmer pricing on those targets.
+
+<sub>Firms: Blackstone · Sectors: Funds & Fundraising, Power & Renewables, Energy Transition & Storage · Geo: North America, Global · id: `2026-10-19-blackstone-closes-energy-transition-partners-v-a-575c2b`</sub>
 
 ---
 
