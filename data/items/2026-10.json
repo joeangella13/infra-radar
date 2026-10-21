@@ -1,5 +1,42 @@
 [
  {
+  "date": "2026-10-21",
+  "headline": "IFM Investors reported to take control of Associated British Ports in £10bn deal",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Splash247",
+    "url": "https://splash247.com/australian-fund-takes-control-of-uk-ports-giant-in-10bn-deal/"
+   },
+   {
+    "name": "Infrastructure Investor Deals",
+    "url": "https://www.infrastructureinvestordeals.com/news-and-analysis"
+   }
+  ],
+  "players": "Splash247 reports IFM Investors has bought control of Associated British Ports (ABP) in a £10bn deal, dated Oct 21. IFM is owned by Australian and British pension funds and manages about $96bn of infrastructure. ABP spans containers, vehicles, bulk, cruise and offshore energy, and is pursuing a £500m floating offshore wind hub at Port Talbot. Seller, stake size and whether £10bn is enterprise value were not in what I read.",
+  "why_it_matters": "A £10bn headline makes this a landmark ports comp. ABP earns from a spread of cargo types plus offshore energy, and the £500m Port Talbot hub gives a new owner growth capex to deploy. Confirm the seller, the stake and whether £10bn is enterprise value before marking anything against it. Watch for a company or IFM release with the full terms.",
+  "why_you_care": "A fresh ports comp for LOGISTEC/Termont and any MSIP transport screen once the price basis is confirmed; the buyer is a pension-owned rival that can write very large cheques.",
+  "firms": [
+   "IFM Investors"
+  ],
+  "companies": [
+   "Associated British Ports"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "UK"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-21-ifm-investors-reported-to-take-control-of-associ-16c54d",
+  "story_id": "story-ifm-investors-reported-to-take-control-o",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-20",
   "headline": "CBRE agrees to buy data-centre services firm Onnec for £460m initial cash price",
   "section": "sector_themes",
@@ -29,6 +66,108 @@
   "flags": [],
   "id": "2026-10-20-cbre-agrees-to-buy-data-centre-services-firm-onn-ac9958",
   "story_id": "story-cbre-agrees-to-buy-data-centre-services",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Ares takes significant minority stake in Statera's 1.9 GW UK storage and flexible power portfolio",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Mercom Capital Group",
+    "url": "https://mercomcapital.com/ares-acquires-stake-in-stateras-1-9-gw-uk-energy-portfolio/"
+   }
+  ],
+  "players": "Ares Infrastructure Equity funds acquired a significant minority stake in Statera Energy's operational portfolio of about 1.9 GW, including the 680 MW Carrington Storage project in Greater Manchester and the 750 MW Thurrock Flexible Generation project in Essex. It is Ares Infrastructure Equity's first investment in Europe. Statera keeps owning and operating the assets and continues to develop a 16 GW pipeline. Terms undisclosed; Macquarie Capital advised Statera.",
+  "why_it_matters": "Buying into operating assets avoids construction risk, and Statera stays as owner-operator with Ares as partner, with the stake supplying capital for its growth plans. Price was not disclosed, so there is no multiple to mark yet. Watch whether other large managers follow Ares into GB grid-balancing assets as renewables take a bigger share of supply.",
+  "why_you_care": "Ares' first European infrastructure equity cheque went into GB storage, a read-across for storage underwriting and for Hydrostor's long-duration pitch, though no price is out.",
+  "firms": [
+   "Ares"
+  ],
+  "companies": [
+   "Statera Energy"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "UK"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-19-ares-takes-significant-minority-stake-in-statera-e612fc",
+  "story_id": "story-ares-takes-significant-minority-stake-in",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "I Squared advancing $2bn Philippines programme across fuel storage, pipeline and cold chain",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Context.ph",
+    "url": "https://context.ph/2026/10/19/i-squared-capital-advances-2b-energy-logistics-investments/"
+   }
+  ],
+  "players": "Context.ph reports I Squared Capital is advancing a USD2bn investment programme in the Philippines covering fuel storage, pipeline development and cold-chain logistics. Projects include fuel storage in Batangas and Davao being developed by Philippine Coastal Storage and Pipeline Corp, and a proposed Subic–Clark pipeline. The report says delivery depends on regulatory approvals and project execution. Equity split and timing not found.",
+  "why_it_matters": "Storage and pipeline assets typically earn on fees tied to capacity or throughput, but contract terms here are not disclosed. The programme is large for a single market and still needs approvals. Watch permitting on the Subic–Clark pipeline and whether I Squared brings in co-investors or sells down part of the build.",
+  "why_you_care": "Competitor I Squared is putting capital into Asian midstream and logistics, outside MSIP's mainly OECD focus; background on rival deployment, not a live overlap.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "Philippine Coastal Storage and Pipeline Corp"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Philippines"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-10-19-i-squared-advancing-2bn-philippines-programme-ac-d392bb",
+  "story_id": "story-i-squared-advancing-2bn-philippines-prog",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-19",
+  "headline": "Amazon, X-energy and AEP propose up to 960 MW nuclear plant on former Indiana coal site",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "TechBuzz",
+    "url": "https://www.techbuzz.ai/articles/amazon-bets-big-on-nuclear-power-for-data-centers-in-indiana"
+   }
+  ],
+  "players": "TechBuzz, citing Amazon's announcement, says Amazon will fund a new nuclear facility with reactor developer X-energy and utility American Electric Power (AEP) in Sullivan County, Indiana. It would deliver up to 960 MW to the regional grid and Amazon's data centres, on the site of the defunct Breed Generating Station. X-energy brings the reactor technology, AEP the utility expertise and grid connection, and Amazon the capital and demand. Cost and schedule not found; single secondary source.",
+  "why_it_matters": "A hyperscaler funding the build with a utility partner shifts advanced-reactor risk toward an offtaker-backed structure. Cash flows would come from power sold to Amazon and the grid, but cost, schedule and tariff were not found. Watch for AEP regulatory filings and whether any equity opens up to financial sponsors.",
+  "why_you_care": "Another hyperscaler-funded power build with no price yet; useful for judging how much risk offtakers will absorb versus infrastructure funds, as MSIP screens power and utilities.",
+  "firms": [],
+  "companies": [
+   "Amazon",
+   "X-energy",
+   "American Electric Power"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-19-amazon-x-energy-and-aep-propose-up-to-960-mw-nuc-881607",
+  "story_id": "story-amazon-x-energy-and-aep-propose-up-to-96",
   "story_size": 1
  },
  {

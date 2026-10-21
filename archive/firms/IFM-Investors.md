@@ -1,6 +1,20 @@
 # IFM Investors
 
-4 items, 2026-07-07 to 2026-09-24.
+5 items, 2026-07-07 to 2026-10-21.
+
+---
+
+### IFM Investors reported to take control of Associated British Ports in £10bn deal
+
+`2026-10-21` · Sponsor moves · [Splash247](https://splash247.com/australian-fund-takes-control-of-uk-ports-giant-in-10bn-deal/), [Infrastructure Investor Deals](https://www.infrastructureinvestordeals.com/news-and-analysis)
+
+**Deal / players.** Splash247 reports IFM Investors has bought control of Associated British Ports (ABP) in a £10bn deal, dated Oct 21. IFM is owned by Australian and British pension funds and manages about $96bn of infrastructure. ABP spans containers, vehicles, bulk, cruise and offshore energy, and is pursuing a £500m floating offshore wind hub at Port Talbot. Seller, stake size and whether £10bn is enterprise value were not in what I read.
+
+**Why it matters.** A £10bn headline makes this a landmark ports comp. ABP earns from a spread of cargo types plus offshore energy, and the £500m Port Talbot hub gives a new owner growth capex to deploy. Confirm the seller, the stake and whether £10bn is enterprise value before marking anything against it. Watch for a company or IFM release with the full terms.
+
+**Why you care.** A fresh ports comp for LOGISTEC/Termont and any MSIP transport screen once the price basis is confirmed; the buyer is a pension-owned rival that can write very large cheques.
+
+<sub>Firms: IFM Investors · Sectors: Ports & Terminals, Transport & Logistics · Geo: UK · id: `2026-10-21-ifm-investors-reported-to-take-control-of-associ-16c54d`</sub>
 
 ---
 

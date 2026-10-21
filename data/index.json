@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T15:15:05+00:00",
+ "generated_at": "2026-10-21T15:28:00+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 357,
+ "total_items": 361,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-20"
+  "2026-10-21"
  ],
  "firms": [
   {
@@ -58,9 +58,9 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 14,
+   "count": 15,
    "first_seen": "2026-05-25",
-   "last_seen": "2026-10-12"
+   "last_seen": "2026-10-19"
   },
   {
    "name": "Blackstone",
@@ -127,6 +127,14 @@
    "last_seen": "2026-10-13"
   },
   {
+   "name": "IFM Investors",
+   "watchlist": true,
+   "priority": false,
+   "count": 5,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-10-21"
+  },
+  {
    "name": "Macquarie Asset Management",
    "watchlist": true,
    "priority": false,
@@ -157,14 +165,6 @@
    "count": 4,
    "first_seen": "2026-05-12",
    "last_seen": "2026-06-16"
-  },
-  {
-   "name": "IFM Investors",
-   "watchlist": true,
-   "priority": false,
-   "count": 4,
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-09-24"
   },
   {
    "name": "Apollo",
@@ -469,6 +469,14 @@
    "count": 1,
    "first_seen": "2026-09-28",
    "last_seen": "2026-09-28"
+  },
+  {
+   "name": "Ares",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19"
   },
   {
    "name": "Argo Infrastructure",
@@ -1228,13 +1236,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 131,
+   "count": 133,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-19"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 111,
+   "count": 112,
    "first_seen": "2026-01-15",
    "last_seen": "2026-10-20"
   },
@@ -1246,21 +1254,21 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-19"
   },
   {
    "name": "Midstream & Gas",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-19"
   },
   {
    "name": "Transport & Logistics",
-   "count": 50,
+   "count": 52,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-21"
   },
   {
    "name": "Funds & Fundraising",
@@ -1276,15 +1284,15 @@
   },
   {
    "name": "Ports & Terminals",
-   "count": 38,
+   "count": 39,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-21"
   },
   {
    "name": "Nuclear & SMR",
-   "count": 11,
+   "count": 12,
    "first_seen": "2026-05-18",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-19"
   },
   {
    "name": "Social Infrastructure",
@@ -1306,6 +1314,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-21-ifm-investors-reported-to-take-control-of-associ-16c54d",
+   "d": "2026-10-21",
+   "h": "IFM Investors reported to take control of Associated British Ports in £10bn deal",
+   "s": "sponsor_moves",
+   "f": [
+    "IFM Investors"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-10",
+   "t": "story-ifm-investors-reported-to-take-control-o",
+   "x": 0
+  },
   {
    "id": "2026-10-20-cbre-agrees-to-buy-data-centre-services-firm-onn-ac9958",
    "d": "2026-10-20",
@@ -1355,6 +1381,59 @@
    "p": "high",
    "m": "2026-10",
    "t": "story-blackstone-closes-energy-transition-part",
+   "x": 0
+  },
+  {
+   "id": "2026-10-19-ares-takes-significant-minority-stake-in-statera-e612fc",
+   "d": "2026-10-19",
+   "h": "Ares takes significant minority stake in Statera's 1.9 GW UK storage and flexible power portfolio",
+   "s": "sponsor_moves",
+   "f": [
+    "Ares"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ares-takes-significant-minority-stake-in",
+   "x": 0
+  },
+  {
+   "id": "2026-10-19-i-squared-advancing-2bn-philippines-programme-ac-d392bb",
+   "d": "2026-10-19",
+   "h": "I Squared advancing $2bn Philippines programme across fuel storage, pipeline and cold chain",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-i-squared-advancing-2bn-philippines-prog",
+   "x": 1
+  },
+  {
+   "id": "2026-10-19-amazon-x-energy-and-aep-propose-up-to-960-mw-nuc-881607",
+   "d": "2026-10-19",
+   "h": "Amazon, X-energy and AEP propose up to 960 MW nuclear plant on former Indiana coal site",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Nuclear & SMR",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-amazon-x-energy-and-aep-propose-up-to-96",
    "x": 0
   },
   {

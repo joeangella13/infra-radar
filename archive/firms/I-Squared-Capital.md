@@ -1,6 +1,20 @@
 # I Squared Capital
 
-14 items, 2026-05-25 to 2026-10-12.
+15 items, 2026-05-25 to 2026-10-19.
+
+---
+
+### **[watchlist]** I Squared advancing $2bn Philippines programme across fuel storage, pipeline and cold chain
+
+`2026-10-19` · Sponsor moves · [Context.ph](https://context.ph/2026/10/19/i-squared-capital-advances-2b-energy-logistics-investments/)
+
+**Deal / players.** Context.ph reports I Squared Capital is advancing a USD2bn investment programme in the Philippines covering fuel storage, pipeline development and cold-chain logistics. Projects include fuel storage in Batangas and Davao being developed by Philippine Coastal Storage and Pipeline Corp, and a proposed Subic–Clark pipeline. The report says delivery depends on regulatory approvals and project execution. Equity split and timing not found.
+
+**Why it matters.** Storage and pipeline assets typically earn on fees tied to capacity or throughput, but contract terms here are not disclosed. The programme is large for a single market and still needs approvals. Watch permitting on the Subic–Clark pipeline and whether I Squared brings in co-investors or sells down part of the build.
+
+**Why you care.** Competitor I Squared is putting capital into Asian midstream and logistics, outside MSIP's mainly OECD focus; background on rival deployment, not a live overlap.
+
+<sub>Firms: I Squared Capital · Sectors: Midstream & Gas, Transport & Logistics · Geo: Philippines · id: `2026-10-19-i-squared-advancing-2bn-philippines-programme-ac-d392bb`</sub>
 
 ---
 

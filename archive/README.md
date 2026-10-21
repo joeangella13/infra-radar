@@ -1,13 +1,13 @@
 # Archive
 
-357 items, 2026-01-13 to 2026-10-20.
+361 items, 2026-01-13 to 2026-10-21.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 45 items
+- [2026-10](2026-10.md) — 49 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -34,7 +34,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 - [MSIP](firms/MSIP.md) ◆ — 22 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 16 items
-- [I Squared Capital](firms/I-Squared-Capital.md) — 14 items
+- [I Squared Capital](firms/I-Squared-Capital.md) — 15 items
 - [Stonepeak](firms/Stonepeak.md) — 13 items
 - [Blackstone](firms/Blackstone.md) — 13 items
 - [Brookfield](firms/Brookfield.md) — 12 items
@@ -43,8 +43,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
 - [Meridiam](firms/Meridiam.md) — 7 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 5 items
+- [IFM Investors](firms/IFM-Investors.md) — 5 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
-- [IFM Investors](firms/IFM-Investors.md) — 4 items
 - [Carlyle](firms/Carlyle.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
 - [Partners Group](firms/Partners-Group.md) — 3 items
@@ -62,6 +62,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [DigitalBridge](firms/DigitalBridge.md) — 1 items
 - [Quinbrook](firms/Quinbrook.md) — 1 items
 - [Ridgewood Infrastructure](firms/Ridgewood-Infrastructure.md) — 1 items
+- [Ares](firms/Ares.md) — 1 items
 - [Actis](firms/Actis.md) — 1 items
 - [Argo Infrastructure](firms/Argo-Infrastructure.md) — 1 items
 - [CPP Investments](firms/CPP-Investments.md) — 1 items
