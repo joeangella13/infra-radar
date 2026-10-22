@@ -2,7 +2,21 @@
 
 North American wind and solar portfolio transactions
 
-6 items, 2026-05-27 to 2026-09-30.
+7 items, 2026-05-27 to 2026-10-22.
+
+---
+
+### Interior asks federal judge to let it reconsider approval of Avangrid's New England Wind offshore project
+
+`2026-10-22` · Tracked situations · [Axios](https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles)
+
+**Deal / players.** Axios reports that this week the Interior Department asked a federal judge to allow it to reconsider the Biden-era approval of Avangrid's planned New England Wind project off Massachusetts. The report ties the move to a fragile Senate permitting deal that is drawing heavy lobbying, per newly filed disclosures. Project size and any court ruling were not in the part of the article I could read.
+
+**Why it matters.** Asking to revisit an approval already granted puts a permitted offshore project back in doubt. It shows federal permits can be reopened after issue, which is a risk for any pre-construction asset. Axios links the move to the permitting-reform talks. Watch whether the judge grants reconsideration and how senators respond.
+
+**Why you care.** Avangrid is on your list, but this is an offshore project, so check whether it touches the perimeter you worked on; mainly a reminder that US permits can be reopened after approval.
+
+<sub>Situations: avangrid_arclight · Sectors: Power & Renewables, Regulatory & Policy · Geo: US · id: `2026-10-22-interior-asks-federal-judge-to-let-it-reconsider-522bf6`</sub>
 
 ---
 
