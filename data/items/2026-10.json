@@ -34,6 +34,119 @@
  },
  {
   "date": "2026-10-21",
+  "headline": "FERC reliability conference centres on flexible data-centre load, per RTO Insider",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "RTO Insider",
+    "url": "https://www.rtoinsider.com/149155-ferc-tech-conference-explores-nitty-gritty-data-center-flexibility/"
+   },
+   {
+    "name": "FERC",
+    "url": "https://www.ferc.gov/news-events/events/commissioner-led-reliability-technical-conference-06122026"
+   }
+  ],
+  "players": "FERC held its annual Commissioner-led Reliability Technical Conference on Oct 21 (docket AD26-8-000) at its Washington headquarters, on reliability and security of the bulk-power system. RTO Insider reports the session became a long discussion on how to reliably connect flexible data centres to the grid. Only the RTO Insider summary was available; no commission action came out of the conference.",
+  "why_it_matters": "Flexible load means data centres that cut or shift demand when the grid is tight. It is one route around interconnection delays, after FERC rejected PJM's curtail-first plan on Oct 9. If regulators back it, data-centre-linked power and storage could connect sooner; if not, delay stays an underwriting risk. Watch post-conference comments.",
+  "why_you_care": "How regulators treat flexible load affects the timing risk you put in any data-centre-linked power, gas or storage model.",
+  "firms": [
+   "FERC"
+  ],
+  "companies": [],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-21-ferc-reliability-conference-centres-on-flexible-3f97ff",
+  "story_id": "story-ferc-reliability-conference-centres-on-f",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "EQT's private equity fund agrees €10.8bn Qiagen take-private with ADIA and CPP Investments co-investing",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Pulse 2.0",
+    "url": "https://pulse2.com/eqt-to-acquire-qiagen-in-e10-8-billion-take-private-with-adia-and-cpp-investments/"
+   },
+   {
+    "name": "The Enterprise (UAE)",
+    "url": "https://enterpriseam.com/uae/2026/10/23/abu-dhabis-sovereign-fund-is-helping-take-another-listed-company-private-alongside-eqt/"
+   }
+  ],
+  "players": "The EQT XI fund, through Crown NL Bidco, will offer €46.50 per Qiagen share in cash, a 40.3% premium to the July 8 undisturbed price. Enterprise value is about €10.8bn ($12.1bn), including about $1.1bn of net debt. ADIA (via Luxinva) and CPP Investments co-invest; stake sizes were not disclosed. Qiagen's boards back the offer, and Bloomberg reports KKR also bid.",
+  "why_it_matters": "This is a healthcare deal from EQT's private equity fund, not an infrastructure deal, so it says little about infrastructure pricing. It does show EQT pairing with ADIA again after Intertek, and KKR losing out on price. Watch whether the same sovereign co-investors appear on EQT's infrastructure take-privates.",
+  "why_you_care": "Background only: this is EQT Private Equity, not EQT Infrastructure, but ADIA and CPP co-invest is the same capital MSIP competes with on large deals.",
+  "firms": [
+   "EQT Infrastructure",
+   "ADIA",
+   "CPP Investments",
+   "KKR"
+  ],
+  "companies": [
+   "Qiagen"
+  ],
+  "sectors": [],
+  "geo": [
+   "Germany",
+   "Netherlands"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-10-21-eqt-s-private-equity-fund-agrees-10-8bn-qiagen-t-f8a4b6",
+  "story_id": "story-eqt-s-private-equity-fund-agrees-10-8bn",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-21",
+  "headline": "PJM's draft backstop refiling drops co-op and muni opt-out; AMP asks FERC to clarify or rehear",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "AI Data Center Insights (The Ledger, Oct 22)",
+    "url": "https://aidatacenterinsights.substack.com/p/the-ledger-sortable-october-22"
+   },
+   {
+    "name": "mgrid",
+    "url": "https://mgrid.org/2026/10/09/doe-makes-its-first-ferc-filing-in-five-years-on-pjms-6-8-gw-backstop-and-pjm-must-refile-by-october-29/"
+   }
+  ],
+  "players": "A newsletter tracking the filing reports that PJM's redlines for its backstop refiling strike the cooperative and municipal opt-out and allocate costs by total incremental large load reported. The Oct 21 update has each utility report the quantity and identity of incremental large load. AMP asked FERC to clarify or rehear the order. PJM must refile by Oct 29, and the newsletter lists a co-located load workshop on Oct 26. Newsletter-sourced; not checked against PJM's filing.",
+  "why_it_matters": "Cost allocation decides who pays for the 6.8 GW shortfall, and moving it to forecast data-centre load pushes the bill toward new large users rather than today's customers. A tighter allocation could make new generation easier to contract, but rehearing requests add delay risk. Watch the Oct 29 filing.",
+  "why_you_care": "Who pays for PJM backstop capacity feeds directly into the contract and capacity price assumptions on any PJM-exposed gas, storage or nuclear deal you mark.",
+  "firms": [
+   "PJM",
+   "FERC",
+   "DOE"
+  ],
+  "companies": [],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-21-pjm-s-draft-backstop-refiling-drops-co-op-and-mu-139c80",
+  "story_id": "story-pjm-s-draft-backstop-refiling-drops-co-o",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-21",
   "headline": "Stonepeak completes purchase of Chicago Parking Meters from MSIP, Allianz and an ADIA subsidiary",
   "section": "sponsor_moves",
   "sources": [

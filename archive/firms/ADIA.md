@@ -1,6 +1,20 @@
 # ADIA
 
-1 items, 2026-10-21 to 2026-10-21.
+2 items, 2026-10-21 to 2026-10-21.
+
+---
+
+### **[watchlist]** EQT's private equity fund agrees €10.8bn Qiagen take-private with ADIA and CPP Investments co-investing
+
+`2026-10-21` · Sponsor moves · [Pulse 2.0](https://pulse2.com/eqt-to-acquire-qiagen-in-e10-8-billion-take-private-with-adia-and-cpp-investments/), [The Enterprise (UAE)](https://enterpriseam.com/uae/2026/10/23/abu-dhabis-sovereign-fund-is-helping-take-another-listed-company-private-alongside-eqt/)
+
+**Deal / players.** The EQT XI fund, through Crown NL Bidco, will offer €46.50 per Qiagen share in cash, a 40.3% premium to the July 8 undisturbed price. Enterprise value is about €10.8bn ($12.1bn), including about $1.1bn of net debt. ADIA (via Luxinva) and CPP Investments co-invest; stake sizes were not disclosed. Qiagen's boards back the offer, and Bloomberg reports KKR also bid.
+
+**Why it matters.** This is a healthcare deal from EQT's private equity fund, not an infrastructure deal, so it says little about infrastructure pricing. It does show EQT pairing with ADIA again after Intertek, and KKR losing out on price. Watch whether the same sovereign co-investors appear on EQT's infrastructure take-privates.
+
+**Why you care.** Background only: this is EQT Private Equity, not EQT Infrastructure, but ADIA and CPP co-invest is the same capital MSIP competes with on large deals.
+
+<sub>Firms: EQT Infrastructure, ADIA, CPP Investments, KKR · Geo: Germany, Netherlands · id: `2026-10-21-eqt-s-private-equity-fund-agrees-10-8bn-qiagen-t-f8a4b6`</sub>
 
 ---
 
