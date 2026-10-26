@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:17:42+00:00",
+ "generated_at": "2026-10-26T16:52:05+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 367,
+ "total_items": 371,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-22"
+  "2026-10-26"
  ],
  "firms": [
   {
@@ -50,9 +50,9 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 16,
+   "count": 17,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-22"
   },
   {
    "name": "I Squared Capital",
@@ -119,20 +119,20 @@
    "last_seen": "2026-10-06"
   },
   {
+   "name": "IFM Investors",
+   "watchlist": true,
+   "priority": false,
+   "count": 6,
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-10-22"
+  },
+  {
    "name": "Energy Capital Partners",
    "watchlist": true,
    "priority": false,
    "count": 5,
    "first_seen": "2026-05-31",
    "last_seen": "2026-10-13"
-  },
-  {
-   "name": "IFM Investors",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-10-21"
   },
   {
    "name": "Macquarie Asset Management",
@@ -189,6 +189,14 @@
    "count": 3,
    "first_seen": "2026-07-14",
    "last_seen": "2026-07-27"
+  },
+  {
+   "name": "CPP Investments",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-10-22"
   },
   {
    "name": "Copenhagen Infrastructure Partners",
@@ -285,14 +293,6 @@
    "count": 2,
    "first_seen": "2026-02-17",
    "last_seen": "2026-03-11"
-  },
-  {
-   "name": "CPP Investments",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-10-21"
   },
   {
    "name": "Canada Growth Fund",
@@ -453,6 +453,14 @@
    "count": 2,
    "first_seen": "2026-05-15",
    "last_seen": "2026-05-22"
+  },
+  {
+   "name": "3i Infrastructure",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
   },
   {
    "name": "A.P. Moller Capital",
@@ -815,6 +823,14 @@
    "last_seen": "2026-09-24"
   },
   {
+   "name": "Foundation Credit",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "name": "GPIF",
    "watchlist": false,
    "priority": false,
@@ -1039,6 +1055,14 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "OMERS",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22"
+  },
+  {
    "name": "Oaktree",
    "watchlist": false,
    "priority": false,
@@ -1212,9 +1236,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 26,
+   "count": 27,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-22"
   },
   {
    "key": "ftai_infrastructure",
@@ -1302,9 +1326,9 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 54,
+   "count": 55,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-19"
+   "last_seen": "2026-10-26"
   },
   {
    "name": "Midstream & Gas",
@@ -1320,21 +1344,21 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 48,
+   "count": 49,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "name": "Rail",
-   "count": 47,
+   "count": 48,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-07"
+   "last_seen": "2026-10-22"
   },
   {
    "name": "Ports & Terminals",
-   "count": 39,
+   "count": 40,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-22"
   },
   {
    "name": "Nuclear & SMR",
@@ -1362,6 +1386,61 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-26-3i-infrastructure-s-future-biogas-buys-remaining-bc9d26",
+   "d": "2026-10-26",
+   "h": "3i Infrastructure's Future Biogas buys remaining 49% of six anaerobic digestion plants for £104m",
+   "s": "sponsor_moves",
+   "f": [
+    "3i Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-3i-infrastructure-s-future-biogas-buys-r",
+   "x": 0
+  },
+  {
+   "id": "2026-10-22-miami-dade-mayor-reportedly-unhappy-with-brightl-25b45b",
+   "d": "2026-10-22",
+   "h": "Miami-Dade mayor reportedly unhappy with Brightline commuter contract proposal, per Trains citing Miami Herald",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-miami-dade-mayor-reportedly-unhappy-with",
+   "x": 0
+  },
+  {
+   "id": "2026-10-22-ifm-s-north-america-infrastructure-head-to-retir-212048",
+   "d": "2026-10-22",
+   "h": "IFM's North America infrastructure head to retire after 18 years; firm announces ABP majority stake from CPP and OMERS",
+   "s": "sponsor_moves",
+   "f": [
+    "IFM Investors",
+    "CPP Investments",
+    "OMERS"
+   ],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ifm-s-north-america-infrastructure-head",
+   "x": 0
+  },
   {
    "id": "2026-10-22-interior-asks-federal-judge-to-let-it-reconsider-522bf6",
    "d": "2026-10-22",
@@ -1473,6 +1552,23 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-pjm-s-draft-backstop-refiling-drops-co-o",
+   "x": 0
+  },
+  {
+   "id": "2026-10-21-foundation-credit-closes-infrastructure-debt-fun-1474bb",
+   "d": "2026-10-21",
+   "h": "Foundation Credit closes Infrastructure Debt Fund II at about $540m, above target",
+   "s": "market_regulatory",
+   "f": [
+    "Foundation Credit"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-foundation-credit-closes-infrastructure",
    "x": 0
   },
   {

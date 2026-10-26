@@ -1,6 +1,20 @@
 # Fortress Investment Group
 
-16 items, 2026-04-30 to 2026-10-13.
+17 items, 2026-04-30 to 2026-10-22.
+
+---
+
+### Miami-Dade mayor reportedly unhappy with Brightline commuter contract proposal, per Trains citing Miami Herald
+
+`2026-10-22` · Tracked situations · [Trains](https://trains.com/pro/passenger/commuter-regional/federal-state-moves-advance-south-florida-rail-projects)
+
+**Deal / players.** Trains reports the Miami Herald said on Oct 22, in a paywalled article, that Miami-Dade Mayor Daniella Levine Cava is not satisfied with the current contract proposal with Brightline. Trains notes the Chapter 11 restructuring and new funding let Brightline keep pursuing the commuter plan. FEC sued last year over the plan, saying it would significantly disrupt freight service.
+
+**Why it matters.** The commuter plan is part of the growth case that survives the restructuring, so the county contract decides who pays and who carries risk. FEC's lawsuit adds a second hurdle on the same project. I saw only a summary of a paywalled article, so the mayor's specific objections are unknown. Watch for revised terms from the county.
+
+**Why you care.** Brightline is your old deal, and local pushback on commuter rail is a risk to the growth leg worth flagging at MSIP if the restructured capital stack comes up.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US · id: `2026-10-22-miami-dade-mayor-reportedly-unhappy-with-brightl-25b45b`</sub>
 
 ---
 
