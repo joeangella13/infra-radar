@@ -1,6 +1,20 @@
 # I Squared Capital
 
-15 items, 2026-05-25 to 2026-10-19.
+16 items, 2026-05-25 to 2026-10-23.
+
+---
+
+### **[watchlist]** Maryland pension commits $350m across I Squared and Stonepeak funds; I Squared energy transition fund at $882m as of June
+
+`2026-10-23` · Market / regulatory · [IPE Real Assets](https://realassets.ipe.com/news/maryland-srps-commits-350m-to-i-squared-stonepeak-infrastructure-funds/10139049.article)
+
+**Deal / players.** Maryland State Retirement and Pension System committed $100m to the I Squared Energy Transition Fund and $100m to the I Squared Co-Investment Sidecar. It also committed $150m to Stonepeak Opportunities Fund II. The I Squared fund had raised $882m as of June against a $2bn to $2.5bn target, per an SEC filing cited by IPE. Stonepeak's fund targets $3.5bn with a $4bn hard cap.
+
+**Why it matters.** It shows where two direct rivals stand in fundraising. I Squared's energy transition vehicle is under half of its target, while Stonepeak's value-add fund is still raising. Both are chasing North American and European assets, so their fund size and speed of deployment shape how aggressively they bid against you on core-plus and value-add deals.
+
+**Why you care.** Both firms are direct competitors, and this gives a read on their dry powder: I Squared's energy transition fund is still well short of target, while Stonepeak Opportunities II is still raising.
+
+<sub>Firms: I Squared Capital, Stonepeak · Sectors: Funds & Fundraising · Geo: US, Europe · id: `2026-10-23-maryland-pension-commits-350m-across-i-squared-a-0fc0e6`</sub>
 
 ---
 

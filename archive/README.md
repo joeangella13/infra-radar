@@ -1,13 +1,13 @@
 # Archive
 
-371 items, 2026-01-13 to 2026-10-26.
+374 items, 2026-01-13 to 2026-10-27.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 59 items
+- [2026-10](2026-10.md) — 62 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -34,8 +34,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 - [MSIP](firms/MSIP.md) ◆ — 23 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 17 items
-- [I Squared Capital](firms/I-Squared-Capital.md) — 15 items
-- [Stonepeak](firms/Stonepeak.md) — 14 items
+- [I Squared Capital](firms/I-Squared-Capital.md) — 16 items
+- [Stonepeak](firms/Stonepeak.md) — 15 items
 - [Blackstone](firms/Blackstone.md) — 13 items
 - [Brookfield](firms/Brookfield.md) — 12 items
 - [KKR](firms/KKR.md) — 11 items
@@ -67,6 +67,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Ares](firms/Ares.md) — 1 items
 - [Actis](firms/Actis.md) — 1 items
 - [Argo Infrastructure](firms/Argo-Infrastructure.md) — 1 items
+- [CDPQ](firms/CDPQ.md) — 1 items
 - [OMERS](firms/OMERS.md) — 1 items
 - [Mubadala](firms/Mubadala.md) — 1 items
 
