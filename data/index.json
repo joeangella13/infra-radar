@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:56:56+00:00",
+ "generated_at": "2026-10-28T16:45:13+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 374,
+ "total_items": 377,
  "months": [
   "2026-10",
   "2026-09",
@@ -50,7 +50,7 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 17,
+   "count": 18,
    "first_seen": "2026-04-30",
    "last_seen": "2026-10-22"
   },
@@ -445,6 +445,14 @@
    "count": 2,
    "first_seen": "2026-06-02",
    "last_seen": "2026-06-03"
+  },
+  {
+   "name": "Sixth Street",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-10-27"
   },
   {
    "name": "Tiger Infrastructure",
@@ -1167,14 +1175,6 @@
    "last_seen": "2026-07-09"
   },
   {
-   "name": "Sixth Street",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-07-29",
-   "last_seen": "2026-07-29"
-  },
-  {
    "name": "Skadden Arps Slate Meagher & Flom",
    "watchlist": false,
    "priority": false,
@@ -1244,7 +1244,7 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 27,
+   "count": 28,
    "first_seen": "2026-05-15",
    "last_seen": "2026-10-22"
   },
@@ -1316,13 +1316,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 138,
+   "count": 139,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-26"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 114,
+   "count": 115,
    "first_seen": "2026-01-15",
    "last_seen": "2026-10-27"
   },
@@ -1333,15 +1333,15 @@
    "last_seen": "2026-10-22"
   },
   {
+   "name": "Midstream & Gas",
+   "count": 56,
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-27"
+  },
+  {
    "name": "Energy Transition & Storage",
    "count": 55,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-26"
-  },
-  {
-   "name": "Midstream & Gas",
-   "count": 55,
-   "first_seen": "2026-04-30",
    "last_seen": "2026-10-26"
   },
   {
@@ -1358,7 +1358,7 @@
   },
   {
    "name": "Rail",
-   "count": 48,
+   "count": 49,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-22"
   },
@@ -1412,6 +1412,23 @@
    "x": 0
   },
   {
+   "id": "2026-10-27-howard-energy-partners-agrees-to-buy-sixth-stree-49b4bf",
+   "d": "2026-10-27",
+   "h": "Howard Energy Partners agrees to buy Sixth Street's Iron Horse Midstream, Oklahoma gas gathering and processing; price undisclosed",
+   "s": "sponsor_moves",
+   "f": [
+    "Sixth Street"
+   ],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-howard-energy-partners-agrees-to-buy-six",
+   "x": 0
+  },
+  {
    "id": "2026-10-26-eqt-corp-the-gas-producer-agrees-all-stock-range-c5fdd2",
    "d": "2026-10-26",
    "h": "EQT Corp (the gas producer) agrees all-stock Range Resources deal worth about $13bn; unrelated to EQT Infrastructure",
@@ -1445,6 +1462,22 @@
    "x": 0
   },
   {
+   "id": "2026-10-26-eco-dc-solutions-announces-partnership-for-30-do-fbf1ab",
+   "d": "2026-10-26",
+   "h": "Eco DC Solutions announces partnership for 30 Dongfang gas turbines for Canadian data centres; price and delivery undisclosed",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-eco-dc-solutions-announces-partnership-f",
+   "x": 0
+  },
+  {
    "id": "2026-10-23-maryland-pension-commits-350m-across-i-squared-a-0fc0e6",
    "d": "2026-10-23",
    "h": "Maryland pension commits $350m across I Squared and Stonepeak funds; I Squared energy transition fund at $882m as of June",
@@ -1461,6 +1494,25 @@
    "m": "2026-10",
    "t": "story-maryland-pension-commits-350m-across-i-s",
    "x": 1
+  },
+  {
+   "id": "2026-10-22-florida-restores-200m-for-miami-aventura-commute-7ce160",
+   "d": "2026-10-22",
+   "h": "Florida restores $200m for Miami-Aventura commuter line on Brightline track; Brightline deal still not agreed",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-florida-restores-200m-for-miami-aventura",
+   "x": 0
   },
   {
    "id": "2026-10-22-miami-dade-mayor-reportedly-unhappy-with-brightl-25b45b",

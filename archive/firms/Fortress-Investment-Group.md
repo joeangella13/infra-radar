@@ -1,6 +1,20 @@
 # Fortress Investment Group
 
-17 items, 2026-04-30 to 2026-10-22.
+18 items, 2026-04-30 to 2026-10-22.
+
+---
+
+### Florida restores $200m for Miami-Aventura commuter line on Brightline track; Brightline deal still not agreed
+
+`2026-10-22` · Tracked situations · [WLRN](https://www.wlrn.org/light/transportation/2026-10-22/northeast-corridor-miami-aventura-commuter-train), [Axios Miami](https://www.axios.com/local/miami/2026/10/23/miami-train-project-northeast-corridor-funding), [Miami Times](https://www.miamitimesonline.com/news/local/miami-aventura-commuter-rail-gets-200-million-in-state-funding-but-hurdles-remain/article_5fbaa49e-9d8d-4bad-97d3-f98f5e6aae00.html)
+
+**Deal / players.** FDOT added $200m back to its five-year plan for the Northeast Corridor (Coastal Link), closing the funding gap on a $927.3m project. The rest is $389m federal and $337.9m from Miami-Dade. Per Axios, citing WLRN and the Miami Herald, Brightline would build the line and the county would pay operating costs and track-access fees. A county consultant flagged cost-overrun risk and a dispute between Brightline and the freight operator on the same track.
+
+**Why it matters.** A funded commuter deal would give Brightline a third-party contract on its corridor while its parent entities restructure in Chapter 11. A 2024 bond document anticipated about $330m from a potential Miami-Dade commuter agreement. With the mayor unconvinced and no vote scheduled, that cash is not certain. Watch the county vote and the freight dispute.
+
+**Why you care.** Your old deal: the commuter contract was part of the story you underwrote, and funding no longer blocks it, but the contract terms and the freight dispute still do.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail · Geo: US, Florida · id: `2026-10-22-florida-restores-200m-for-miami-aventura-commute-7ce160`</sub>
 
 ---
 

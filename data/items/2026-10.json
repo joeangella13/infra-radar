@@ -42,6 +42,40 @@
   "story_size": 1
  },
  {
+  "date": "2026-10-27",
+  "headline": "Howard Energy Partners agrees to buy Sixth Street's Iron Horse Midstream, Oklahoma gas gathering and processing; price undisclosed",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "CityBiz",
+    "url": "https://www.citybiz.co/article/925171/howard-energy-partners-to-acquire-iron-horse-midstream-expanding-anadarko-basin-operations/"
+   }
+  ],
+  "players": "Howard Energy Partners signed a definitive agreement to buy Iron Horse Midstream from Sixth Street. The package covers about 400 miles of gas pipeline, several compressor stations and a processing complex rated at 425 million cubic feet a day. Assets are backed by multidecade contracts on about 167,000 dedicated acres in Canadian, Caddo and Grady counties. Close is expected by end-2026; terms undisclosed.",
+  "why_it_matters": "Dedicated acreage under multidecade contracts points to fee-based, volume-driven cash flow, and the 425 MMcf/d plant gives the buyer room to fill with more volume. Howard says its Midcontinent purchases over two years now total about $2.5bn. No price was disclosed, so there is no multiple to mark yet; watch for one in trade press or a closing filing.",
+  "why_you_care": "A sponsor exit in mid-size gas gathering and processing; a possible comp if MSIP looks at gas midstream, though price is missing so it cannot be marked yet.",
+  "firms": [
+   "Sixth Street"
+  ],
+  "companies": [
+   "Howard Energy Partners",
+   "Iron Horse Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US",
+   "Oklahoma"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-27-howard-energy-partners-agrees-to-buy-sixth-stree-49b4bf",
+  "story_id": "story-howard-energy-partners-agrees-to-buy-six",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-26",
   "headline": "EQT Corp (the gas producer) agrees all-stock Range Resources deal worth about $13bn; unrelated to EQT Infrastructure",
   "section": "sector_themes",
@@ -114,6 +148,43 @@
   "story_size": 1
  },
  {
+  "date": "2026-10-26",
+  "headline": "Eco DC Solutions announces partnership for 30 Dongfang gas turbines for Canadian data centres; price and delivery undisclosed",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "ACCESS Newswire via FinancialContent",
+    "url": "https://markets.financialcontent.com/talkmarkets/article/accwirecq-2026-10-26-adag-groups-eco-dc-solutions-secures-30-dongfang-gas-turbines-unlocking-over-21-gw-for-canadian-data-centres"
+   },
+   {
+    "name": "Mugglehead",
+    "url": "https://mugglehead.com/dongfang-electric-eco-dc-solutions-canadian-gas-turbines/"
+   }
+  ],
+  "players": "Montreal-based Eco DC Solutions, part of Adag Group, announced a partnership with Dongfang Turbine to import 30 G50 gas turbines as North American partner. The company says the fleet would support more than 2.1 GW in combined-cycle setup. Per Mugglehead, the release gives no turbine price, binding purchase terms, delivery dates, financing close or construction start. It expands an earlier order of 10 units.",
+  "why_it_matters": "Data-centre developers are reaching for turbines from non-Western makers to get power sooner, a sign of how tight supply is. But this is an announced partnership, not a financed project: no price, no binding order, no first-power date. Treat the 2.1 GW as an ambition until a contract, financing and an offtaker show up.",
+  "why_you_care": "A caution when marking gas-to-data-centre pipelines: headline gigawatts from turbine announcements often lack financing, a binding order and delivery dates, so discount them in underwriting.",
+  "firms": [],
+  "companies": [
+   "Eco DC Solutions",
+   "Adag Group",
+   "Dongfang Electric"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "Canada"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-26-eco-dc-solutions-announces-partnership-for-30-do-fbf1ab",
+  "story_id": "story-eco-dc-solutions-announces-partnership-f",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-23",
   "headline": "Maryland pension commits $350m across I Squared and Stonepeak funds; I Squared energy transition fund at $882m as of June",
   "section": "market_regulatory",
@@ -148,6 +219,50 @@
   ],
   "id": "2026-10-23-maryland-pension-commits-350m-across-i-squared-a-0fc0e6",
   "story_id": "story-maryland-pension-commits-350m-across-i-s",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-22",
+  "headline": "Florida restores $200m for Miami-Aventura commuter line on Brightline track; Brightline deal still not agreed",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "WLRN",
+    "url": "https://www.wlrn.org/light/transportation/2026-10-22/northeast-corridor-miami-aventura-commuter-train"
+   },
+   {
+    "name": "Axios Miami",
+    "url": "https://www.axios.com/local/miami/2026/10/23/miami-train-project-northeast-corridor-funding"
+   },
+   {
+    "name": "Miami Times",
+    "url": "https://www.miamitimesonline.com/news/local/miami-aventura-commuter-rail-gets-200-million-in-state-funding-but-hurdles-remain/article_5fbaa49e-9d8d-4bad-97d3-f98f5e6aae00.html"
+   }
+  ],
+  "players": "FDOT added $200m back to its five-year plan for the Northeast Corridor (Coastal Link), closing the funding gap on a $927.3m project. The rest is $389m federal and $337.9m from Miami-Dade. Per Axios, citing WLRN and the Miami Herald, Brightline would build the line and the county would pay operating costs and track-access fees. A county consultant flagged cost-overrun risk and a dispute between Brightline and the freight operator on the same track.",
+  "why_it_matters": "A funded commuter deal would give Brightline a third-party contract on its corridor while its parent entities restructure in Chapter 11. A 2024 bond document anticipated about $330m from a potential Miami-Dade commuter agreement. With the mayor unconvinced and no vote scheduled, that cash is not certain. Watch the county vote and the freight dispute.",
+  "why_you_care": "Your old deal: the commuter contract was part of the story you underwrote, and funding no longer blocks it, but the contract terms and the freight dispute still do.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "Brightline Florida",
+   "Florida East Coast Railway"
+  ],
+  "sectors": [
+   "Rail"
+  ],
+  "geo": [
+   "US",
+   "Florida"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-10-22-florida-restores-200m-for-miami-aventura-commute-7ce160",
+  "story_id": "story-florida-restores-200m-for-miami-aventura",
   "story_size": 1
  },
  {
