@@ -2,7 +2,35 @@
 
 Distributed generation services, gas-to-AI power
 
-3 items, 2026-01-13 to 2026-03-12.
+5 items, 2026-01-13 to 2026-10-28.
+
+---
+
+### Latitude Media: on-site gas for data centres shows turbine failures and fuel-price exposure, risks flagged in Anthropic IPO filing
+
+`2026-10-28` · Tracked situations · [Latitude Media](https://www.latitudemedia.com/news/cracks-ai-race-for-onsite-gas-power/)
+
+**Deal / players.** Latitude Media reported on Oct 28 that power providers and EPC firms are getting more calls from data-centre developers whose gas turbines have broken down and who lack their own operating teams. It also says behind-the-meter gas projects are exposed to fuel price shocks and pipeline constraints, risks Anthropic detailed in its IPO filing this week. Latitude says Anthropic is moving to build its own data centres, including a $50bn investment in Texas and New York. I read only the opening of the article.
+
+**Why it matters.** Behind-the-meter gas gets sold as the fast route to power, but the cash flows depend on equipment reliability, fuel supply and who runs the plant. That favours experienced operators and service providers over developers who simply buy turbines. Pressure-test any on-site power thesis for operating track record, fuel contracts and outage risk, and watch for more public disclosures from AI tenants.
+
+**Why you care.** This is a risk check on gas-to-AI power underwriting, and it reads across to Sisu/Miratech, which you know well, where operating and service capability is the product.
+
+<sub>Situations: sisu_miratech · Sectors: Digital Infrastructure, Midstream & Gas, Power & Renewables · Geo: United States · id: `2026-10-28-latitude-media-on-site-gas-for-data-centres-show-04c232`</sub>
+
+---
+
+### Mitsubishi Power says new large gas turbine orders now face delivery around 2031, per Bloomberg
+
+`2026-10-27` · Tracked situations · [Energy News Beat (citing Bloomberg, Oct 27)](https://energynewsbeat.co/electrical-generation/mitsubishi-power-deliveries-stretch-to-2031-as-gas-turbine-shortage-hits-data-centers-and-utilities/)
+
+**Deal / players.** Akihiro Ondo, CEO of Mitsubishi Power Asia Pacific, said at Singapore International Energy Week on Oct 27 that new large-frame units ordered now would be delivered around 2031. Energy News Beat relayed the comment from a Bloomberg report. The remark ties the shortage to both utilities and AI data-centre load. I did not open the Bloomberg article itself.
+
+**Why it matters.** A delivery date of about 2031 for large-frame units means a turbine slot, a grid connection and a site are now scarce assets. That supports value in existing gas plants and in quicker-to-deliver options such as smaller on-site units and engines. For underwriting, assume new-build gas timelines slip and equipment costs hold up. Watch for further order-book and price disclosures from turbine makers.
+
+**Why you care.** A 2031 turbine lead time is a direct input when MSIP underwrites new gas-to-power build or compares it with buying operating plants.
+
+<sub>Situations: sisu_miratech · Sectors: Power & Renewables, Midstream & Gas · Geo: Asia-Pacific · id: `2026-10-27-mitsubishi-power-says-new-large-gas-turbine-orde-8f247b`</sub>
 
 ---
 

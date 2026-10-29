@@ -1,6 +1,20 @@
 # Macquarie Asset Management
 
-5 items, 2026-05-14 to 2026-10-05.
+6 items, 2026-05-14 to 2026-10-28.
+
+---
+
+### Macquarie's MAIF4 signs deals to buy Gabia and KINX stakes at KRW 53,000 and 190,000 a share, with tender offers to follow
+
+`2026-10-28` · Sponsor moves · [Macquarie (press release)](https://www.macquarie.com/au/en/about/news/2026/macquarie-asset-management-agrees-to-acquire-shares-in-gabia-and-kinx.html), [The Asia Business Daily](https://view.asiae.co.kr/en/article/2026102811030289452), [The Elec](https://www.thelec.net/news/articleView.html?idxno=15026)
+
+**Deal / players.** Macquarie Asia-Pacific Infrastructure Fund 4 signed agreements to buy the shareholdings of Gabia management, Align Partners, Miri Capital and Gumshoe Capital in Gabia and its listed subsidiary KINX, at KRW 53,000 per Gabia share and KRW 190,000 per KINX share. Once approvals are in, an acquisition vehicle plans tender offers for all remaining shares at the same prices, with no minimum or cap, then delisting. Management will reinvest part of its proceeds. Approvals needed include Korea's foreign-investment and national-security review and Fair Trade Commission clearance.
+
+**Why it matters.** This is a second attempt. A July tender at KRW 48,000 failed because too few shares were tendered. The new price is about 10% higher and the activist holder is now a seller. Taking both listed companies private at once removes the dual-listing structure, and adds to Macquarie's Korean data-centre exposure, which already includes CoreHub. Watch the regulatory approvals and tender launch.
+
+**Why you care.** Macquarie is paying up and fixing a minority-holder fight to take control of Korean digital infrastructure, a live price point for any Asia-Pacific data-centre or hosting idea MSIP looks at.
+
+<sub>Firms: Macquarie Asset Management · Sectors: Digital Infrastructure · Geo: South Korea · id: `2026-10-28-macquarie-s-maif4-signs-deals-to-buy-gabia-and-k-f21a1f`</sub>
 
 ---
 

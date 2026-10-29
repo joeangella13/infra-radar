@@ -1,13 +1,13 @@
 # Archive
 
-377 items, 2026-01-13 to 2026-10-27.
+382 items, 2026-01-13 to 2026-10-29.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-10](2026-10.md) — 65 items
+- [2026-10](2026-10.md) — 70 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
 - [2026-07](2026-07.md) — 111 items
@@ -28,13 +28,13 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 7 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 7 items
 - [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
-- [Sisu / Miratech](situations/sisu_miratech.md) — 3 items
+- [Sisu / Miratech](situations/sisu_miratech.md) — 5 items
 
 ## Firms
 
 - [MSIP](firms/MSIP.md) ◆ — 23 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 18 items
-- [I Squared Capital](firms/I-Squared-Capital.md) — 16 items
+- [I Squared Capital](firms/I-Squared-Capital.md) — 17 items
 - [Stonepeak](firms/Stonepeak.md) — 15 items
 - [Blackstone](firms/Blackstone.md) — 13 items
 - [Brookfield](firms/Brookfield.md) — 12 items
@@ -42,8 +42,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 11 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
 - [Meridiam](firms/Meridiam.md) — 7 items
+- [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 6 items
 - [IFM Investors](firms/IFM-Investors.md) — 6 items
-- [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 5 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
 - [Carlyle](firms/Carlyle.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items

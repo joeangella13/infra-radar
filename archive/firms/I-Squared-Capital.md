@@ -1,6 +1,20 @@
 # I Squared Capital
 
-16 items, 2026-05-25 to 2026-10-23.
+17 items, 2026-05-25 to 2026-10-28.
+
+---
+
+### **[watchlist]** I Squared Capital signs definitive deal to buy Orizon Aerostructures, a Kansas City aerospace parts maker; terms undisclosed
+
+`2026-10-28` · Sponsor moves · [I Squared Capital (press release)](https://isquaredcapital.com/news/orizon-aerostructures-acquisition/), [Yahoo Finance / Business Wire](https://finance.yahoo.com/technology/articles/squared-capital-acquire-orizon-aerostructures-110000159.html)
+
+**Deal / players.** I Squared Capital announced on Oct 28 that it has signed a definitive agreement to acquire Orizon Aerostructures. Orizon was founded in 2016 and is based in Kansas City, Missouri. It makes large structural components for commercial aviation, defence and space, and has more than 900 employees across five facilities in Kansas and Oklahoma. The release points to long-term, life-of-program contracts. Price, fund and seller were not in the material I read.
+
+**Why it matters.** I Squared is pitching a contract-backed aerospace manufacturer as infrastructure, because life-of-program contracts give long, visible revenue. The value lever is adding production capacity to an already automated plant base. With no price disclosed there is no multiple to mark against. Watch for the equity size, which fund is used, and whether other mid-market sponsors chase defence-linked industrial assets.
+
+**Why you care.** A direct rival is stretching the infrastructure label into aerospace manufacturing; useful to know where I Squared's mid-market playbook is drifting relative to MSIP's core sectors.
+
+<sub>Firms: I Squared Capital · Geo: United States · id: `2026-10-28-i-squared-capital-signs-definitive-deal-to-buy-o-7926bb`</sub>
 
 ---
 

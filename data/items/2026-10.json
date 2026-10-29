@@ -1,5 +1,177 @@
 [
  {
+  "date": "2026-10-29",
+  "headline": "Infrastructure Investor: Five Point Infrastructure lifts fund target to $4bn after five-month haul",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Infrastructure Investor",
+    "url": "https://infrastructureinvestor.com/2026-awards-send-us-your-submissions"
+   }
+  ],
+  "players": "Infrastructure Investor lists an exclusive saying Five Point Infrastructure has raised its fund target to $4bn after a five-month fundraising haul. I saw only the headline on a listing page, so the amount raised so far, the prior target and the strategy are not confirmed here.",
+  "why_it_matters": "Raising a target after only five months says LPs are still backing specific strategies, even though Infralogic data in the archive shows nine-month infrastructure fundraising running 39% below 2025. It points to capital concentrating in managers with a clear pitch. Details on strategy and commitments are paywalled, so treat this as a signal only and check the full article.",
+  "why_you_care": "Fundraising conditions shape competition for deals; a fund raising its target quickly shows where LP money is flowing, which matters for MSIP's own positioning.",
+  "firms": [
+   "Five Point Infrastructure"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-29-infrastructure-investor-five-point-infrastructur-30b197",
+  "story_id": "story-infrastructure-investor-five-point-infra",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-28",
+  "headline": "I Squared Capital signs definitive deal to buy Orizon Aerostructures, a Kansas City aerospace parts maker; terms undisclosed",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "I Squared Capital (press release)",
+    "url": "https://isquaredcapital.com/news/orizon-aerostructures-acquisition/"
+   },
+   {
+    "name": "Yahoo Finance / Business Wire",
+    "url": "https://finance.yahoo.com/technology/articles/squared-capital-acquire-orizon-aerostructures-110000159.html"
+   }
+  ],
+  "players": "I Squared Capital announced on Oct 28 that it has signed a definitive agreement to acquire Orizon Aerostructures. Orizon was founded in 2016 and is based in Kansas City, Missouri. It makes large structural components for commercial aviation, defence and space, and has more than 900 employees across five facilities in Kansas and Oklahoma. The release points to long-term, life-of-program contracts. Price, fund and seller were not in the material I read.",
+  "why_it_matters": "I Squared is pitching a contract-backed aerospace manufacturer as infrastructure, because life-of-program contracts give long, visible revenue. The value lever is adding production capacity to an already automated plant base. With no price disclosed there is no multiple to mark against. Watch for the equity size, which fund is used, and whether other mid-market sponsors chase defence-linked industrial assets.",
+  "why_you_care": "A direct rival is stretching the infrastructure label into aerospace manufacturing; useful to know where I Squared's mid-market playbook is drifting relative to MSIP's core sectors.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "Orizon Aerostructures"
+  ],
+  "sectors": [],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-10-28-i-squared-capital-signs-definitive-deal-to-buy-o-7926bb",
+  "story_id": "story-i-squared-capital-signs-definitive-deal",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-28",
+  "headline": "Latitude Media: on-site gas for data centres shows turbine failures and fuel-price exposure, risks flagged in Anthropic IPO filing",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Latitude Media",
+    "url": "https://www.latitudemedia.com/news/cracks-ai-race-for-onsite-gas-power/"
+   }
+  ],
+  "players": "Latitude Media reported on Oct 28 that power providers and EPC firms are getting more calls from data-centre developers whose gas turbines have broken down and who lack their own operating teams. It also says behind-the-meter gas projects are exposed to fuel price shocks and pipeline constraints, risks Anthropic detailed in its IPO filing this week. Latitude says Anthropic is moving to build its own data centres, including a $50bn investment in Texas and New York. I read only the opening of the article.",
+  "why_it_matters": "Behind-the-meter gas gets sold as the fast route to power, but the cash flows depend on equipment reliability, fuel supply and who runs the plant. That favours experienced operators and service providers over developers who simply buy turbines. Pressure-test any on-site power thesis for operating track record, fuel contracts and outage risk, and watch for more public disclosures from AI tenants.",
+  "why_you_care": "This is a risk check on gas-to-AI power underwriting, and it reads across to Sisu/Miratech, which you know well, where operating and service capability is the product.",
+  "firms": [],
+  "companies": [
+   "Anthropic"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Midstream & Gas",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [
+   "sisu_miratech"
+  ],
+  "flags": [],
+  "id": "2026-10-28-latitude-media-on-site-gas-for-data-centres-show-04c232",
+  "story_id": "story-latitude-media-on-site-gas-for-data-cent",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-28",
+  "headline": "Macquarie's MAIF4 signs deals to buy Gabia and KINX stakes at KRW 53,000 and 190,000 a share, with tender offers to follow",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Macquarie (press release)",
+    "url": "https://www.macquarie.com/au/en/about/news/2026/macquarie-asset-management-agrees-to-acquire-shares-in-gabia-and-kinx.html"
+   },
+   {
+    "name": "The Asia Business Daily",
+    "url": "https://view.asiae.co.kr/en/article/2026102811030289452"
+   },
+   {
+    "name": "The Elec",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15026"
+   }
+  ],
+  "players": "Macquarie Asia-Pacific Infrastructure Fund 4 signed agreements to buy the shareholdings of Gabia management, Align Partners, Miri Capital and Gumshoe Capital in Gabia and its listed subsidiary KINX, at KRW 53,000 per Gabia share and KRW 190,000 per KINX share. Once approvals are in, an acquisition vehicle plans tender offers for all remaining shares at the same prices, with no minimum or cap, then delisting. Management will reinvest part of its proceeds. Approvals needed include Korea's foreign-investment and national-security review and Fair Trade Commission clearance.",
+  "why_it_matters": "This is a second attempt. A July tender at KRW 48,000 failed because too few shares were tendered. The new price is about 10% higher and the activist holder is now a seller. Taking both listed companies private at once removes the dual-listing structure, and adds to Macquarie's Korean data-centre exposure, which already includes CoreHub. Watch the regulatory approvals and tender launch.",
+  "why_you_care": "Macquarie is paying up and fixing a minority-holder fight to take control of Korean digital infrastructure, a live price point for any Asia-Pacific data-centre or hosting idea MSIP looks at.",
+  "firms": [
+   "Macquarie Asset Management"
+  ],
+  "companies": [
+   "Gabia",
+   "KINX"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "South Korea"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-10-28-macquarie-s-maif4-signs-deals-to-buy-gabia-and-k-f21a1f",
+  "story_id": "story-macquarie-s-maif4-signs-deals-to-buy-gab",
+  "story_size": 1
+ },
+ {
+  "date": "2026-10-27",
+  "headline": "Mitsubishi Power says new large gas turbine orders now face delivery around 2031, per Bloomberg",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Energy News Beat (citing Bloomberg, Oct 27)",
+    "url": "https://energynewsbeat.co/electrical-generation/mitsubishi-power-deliveries-stretch-to-2031-as-gas-turbine-shortage-hits-data-centers-and-utilities/"
+   }
+  ],
+  "players": "Akihiro Ondo, CEO of Mitsubishi Power Asia Pacific, said at Singapore International Energy Week on Oct 27 that new large-frame units ordered now would be delivered around 2031. Energy News Beat relayed the comment from a Bloomberg report. The remark ties the shortage to both utilities and AI data-centre load. I did not open the Bloomberg article itself.",
+  "why_it_matters": "A delivery date of about 2031 for large-frame units means a turbine slot, a grid connection and a site are now scarce assets. That supports value in existing gas plants and in quicker-to-deliver options such as smaller on-site units and engines. For underwriting, assume new-build gas timelines slip and equipment costs hold up. Watch for further order-book and price disclosures from turbine makers.",
+  "why_you_care": "A 2031 turbine lead time is a direct input when MSIP underwrites new gas-to-power build or compares it with buying operating plants.",
+  "firms": [],
+  "companies": [
+   "Mitsubishi Power"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Asia-Pacific"
+  ],
+  "priority": "normal",
+  "situations": [
+   "sisu_miratech"
+  ],
+  "flags": [],
+  "id": "2026-10-27-mitsubishi-power-says-new-large-gas-turbine-orde-8f247b",
+  "story_id": "story-mitsubishi-power-says-new-large-gas-turb",
+  "story_size": 1
+ },
+ {
   "date": "2026-10-27",
   "headline": "La Caisse agrees to buy 49.9% of Bell's new TowerCo for C$2.45bn, valuing it at about C$4.91bn",
   "section": "sponsor_moves",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:45:13+00:00",
+ "generated_at": "2026-10-29T17:01:38+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 377,
+ "total_items": 382,
  "months": [
   "2026-10",
   "2026-09",
@@ -35,7 +35,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-10-27"
+  "2026-10-29"
  ],
  "firms": [
   {
@@ -58,9 +58,9 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 16,
+   "count": 17,
    "first_seen": "2026-05-25",
-   "last_seen": "2026-10-23"
+   "last_seen": "2026-10-28"
   },
   {
    "name": "Stonepeak",
@@ -127,20 +127,20 @@
    "last_seen": "2026-10-22"
   },
   {
+   "name": "Macquarie Asset Management",
+   "watchlist": true,
+   "priority": false,
+   "count": 6,
+   "first_seen": "2026-05-14",
+   "last_seen": "2026-10-28"
+  },
+  {
    "name": "Energy Capital Partners",
    "watchlist": true,
    "priority": false,
    "count": 5,
    "first_seen": "2026-05-31",
    "last_seen": "2026-10-13"
-  },
-  {
-   "name": "Macquarie Asset Management",
-   "watchlist": true,
-   "priority": false,
-   "count": 5,
-   "first_seen": "2026-05-14",
-   "last_seen": "2026-10-05"
   },
   {
    "name": "Blue Wolf Capital Partners",
@@ -831,6 +831,14 @@
    "last_seen": "2026-07-27"
   },
   {
+   "name": "Five Point Infrastructure",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29"
+  },
+  {
    "name": "Foresight",
    "watchlist": false,
    "priority": false,
@@ -1292,9 +1300,9 @@
    "key": "sisu_miratech",
    "label": "Sisu / Miratech",
    "note": "Distributed generation services, gas-to-AI power",
-   "count": 3,
+   "count": 5,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-03-12"
+   "last_seen": "2026-10-28"
   },
   {
    "key": "jennmar_weber",
@@ -1316,15 +1324,15 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 139,
+   "count": 141,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-10-28"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 115,
+   "count": 117,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "name": "Regulatory & Policy",
@@ -1334,9 +1342,9 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 56,
+   "count": 58,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-10-28"
   },
   {
    "name": "Energy Transition & Storage",
@@ -1352,9 +1360,9 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 50,
+   "count": 51,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-23"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Rail",
@@ -1394,6 +1402,92 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-10-29-infrastructure-investor-five-point-infrastructur-30b197",
+   "d": "2026-10-29",
+   "h": "Infrastructure Investor: Five Point Infrastructure lifts fund target to $4bn after five-month haul",
+   "s": "market_regulatory",
+   "f": [
+    "Five Point Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-infrastructure-investor-five-point-infra",
+   "x": 0
+  },
+  {
+   "id": "2026-10-28-i-squared-capital-signs-definitive-deal-to-buy-o-7926bb",
+   "d": "2026-10-28",
+   "h": "I Squared Capital signs definitive deal to buy Orizon Aerostructures, a Kansas City aerospace parts maker; terms undisclosed",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-i-squared-capital-signs-definitive-deal",
+   "x": 1
+  },
+  {
+   "id": "2026-10-28-latitude-media-on-site-gas-for-data-centres-show-04c232",
+   "d": "2026-10-28",
+   "h": "Latitude Media: on-site gas for data centres shows turbine failures and fuel-price exposure, risks flagged in Anthropic IPO filing",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "sisu_miratech"
+   ],
+   "c": [
+    "Digital Infrastructure",
+    "Midstream & Gas",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-latitude-media-on-site-gas-for-data-cent",
+   "x": 0
+  },
+  {
+   "id": "2026-10-28-macquarie-s-maif4-signs-deals-to-buy-gabia-and-k-f21a1f",
+   "d": "2026-10-28",
+   "h": "Macquarie's MAIF4 signs deals to buy Gabia and KINX stakes at KRW 53,000 and 190,000 a share, with tender offers to follow",
+   "s": "sponsor_moves",
+   "f": [
+    "Macquarie Asset Management"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-macquarie-s-maif4-signs-deals-to-buy-gab",
+   "x": 0
+  },
+  {
+   "id": "2026-10-27-mitsubishi-power-says-new-large-gas-turbine-orde-8f247b",
+   "d": "2026-10-27",
+   "h": "Mitsubishi Power says new large gas turbine orders now face delivery around 2031, per Bloomberg",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "sisu_miratech"
+   ],
+   "c": [
+    "Power & Renewables",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-mitsubishi-power-says-new-large-gas-turb",
+   "x": 0
+  },
   {
    "id": "2026-10-27-la-caisse-agrees-to-buy-49-9-of-bell-s-new-tower-0dff66",
    "d": "2026-10-27",
