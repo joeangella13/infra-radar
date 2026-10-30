@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T17:01:38+00:00",
+ "generated_at": "2026-10-30T16:46:23+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 382,
+ "total_items": 386,
  "months": [
   "2026-10",
   "2026-09",
@@ -66,9 +66,9 @@
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
-   "count": 15,
+   "count": 16,
    "first_seen": "2026-05-11",
-   "last_seen": "2026-10-23"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Blackstone",
@@ -1324,25 +1324,25 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 141,
+   "count": 144,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 117,
+   "count": 119,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 72,
+   "count": 73,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Midstream & Gas",
-   "count": 58,
+   "count": 59,
    "first_seen": "2026-04-30",
    "last_seen": "2026-10-28"
   },
@@ -1354,9 +1354,9 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-29"
   },
   {
    "name": "Funds & Fundraising",
@@ -1420,6 +1420,40 @@
    "x": 0
   },
   {
+   "id": "2026-10-29-pjm-refiles-backstop-plan-at-ferc-costs-tied-to-c27691",
+   "d": "2026-10-29",
+   "h": "PJM refiles backstop plan at FERC: costs tied to large-load growth, bidding proposed for March 2027",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-10",
+   "t": "story-pjm-refiles-backstop-plan-at-ferc-costs",
+   "x": 0
+  },
+  {
+   "id": "2026-10-29-stonepeak-completes-bmo-transportation-and-vendo-3fbf0f",
+   "d": "2026-10-29",
+   "h": "Stonepeak completes BMO transportation and vendor finance carve-out, relaunches it as Longview Capital Solutions; terms undisclosed",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-stonepeak-completes-bmo-transportation-a",
+   "x": 1
+  },
+  {
    "id": "2026-10-28-i-squared-capital-signs-definitive-deal-to-buy-o-7926bb",
    "d": "2026-10-28",
    "h": "I Squared Capital signs definitive deal to buy Orizon Aerostructures, a Kansas City aerospace parts maker; terms undisclosed",
@@ -1468,6 +1502,21 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-macquarie-s-maif4-signs-deals-to-buy-gab",
+   "x": 0
+  },
+  {
+   "id": "2026-10-28-ge-vernova-agrees-9bn-purchase-of-grid-equipment-60207f",
+   "d": "2026-10-28",
+   "h": "GE Vernova agrees $9bn purchase of grid-equipment maker Trench Group from Triton; close expected late 2027",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-ge-vernova-agrees-9bn-purchase-of-grid-e",
    "x": 0
   },
   {
@@ -1520,6 +1569,23 @@
    "p": "normal",
    "m": "2026-10",
    "t": "story-howard-energy-partners-agrees-to-buy-six",
+   "x": 0
+  },
+  {
+   "id": "2026-10-27-baker-hughes-announces-about-1-1-gw-gas-turbine-701c23",
+   "d": "2026-10-27",
+   "h": "Baker Hughes announces about 1.1 GW gas turbine order for AI computing power; customer not named in source",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-10",
+   "t": "story-baker-hughes-announces-about-1-1-gw-gas",
    "x": 0
   },
   {

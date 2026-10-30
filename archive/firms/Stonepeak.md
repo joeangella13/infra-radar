@@ -1,6 +1,20 @@
 # Stonepeak
 
-15 items, 2026-05-11 to 2026-10-23.
+16 items, 2026-05-11 to 2026-10-29.
+
+---
+
+### **[watchlist]** Stonepeak completes BMO transportation and vendor finance carve-out, relaunches it as Longview Capital Solutions; terms undisclosed
+
+`2026-10-29` · Sponsor moves · [CityBiz](https://www.citybiz.co/article/927038/stonepeak-completes-acquisition-of-bmos-equipment-finance-businesses-launches-longview-capital-solutions/), [Investing.com](https://ca.investing.com/news/stock-market-news/stonepeak-completes-acquisition-of-bmo-finance-units-93CH-4915915), [BMO 6-K (May 11 signing release)](https://www.sec.gov/Archives/edgar/data/0000927971/000119312526217296/d129173dex991.htm)
+
+**Deal / players.** Stonepeak closed its purchase of BMO's Transportation Finance and Vendor Finance businesses in the US and Canada, which BMO agreed to sell on May 11, 2026. The business now runs as Longview Capital Solutions, with two divisions. BMO keeps servicing and originating loans for Longview during a transition period. Price and valuation were not disclosed.
+
+**Why it matters.** This is equipment lending, not a hard asset, so earnings come from loan spreads and funding cost rather than long-term contracts. Longview is among the largest lenders to trucks and trailers, so it is tied to freight cycles. Stonepeak's levers are cheaper funding, technology and growth capital. With no price disclosed, there is no comp to take from this.
+
+**Why you care.** Stonepeak is pushing into asset finance tied to freight and logistics; this is a rival's deployment, not one MSIP appears to be chasing.
+
+<sub>Firms: Stonepeak · Sectors: Transport & Logistics · Geo: US, Canada · id: `2026-10-29-stonepeak-completes-bmo-transportation-and-vendo-3fbf0f`</sub>
 
 ---
 
