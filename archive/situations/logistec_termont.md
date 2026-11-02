@@ -2,7 +2,21 @@
 
 Canadian port terminal operations
 
-7 items, 2026-02-17 to 2026-10-05.
+8 items, 2026-02-17 to 2026-10-27.
+
+---
+
+### Enstructure names four regional presidents for 106-terminal North American network after buying LOGISTEC's marine services division
+
+`2026-10-27` · Tracked situations · [LOGISTEC / Enstructure release](https://www.logistec.com/enstructure-announces-four-regional-presidents-to-lead-expanded-north-american-terminal-network/)
+
+**Deal / players.** Enstructure appointed four Regional Presidents to run its expanded network of 106 marine terminals across the US and Canada, after acquiring LOGISTEC's marine services division. The company now has about 6,000 employees and terminals in 30 states and provinces, from the US Gulf Coast to the Canadian Arctic. The release does not name Termont, and no financial terms were in it.
+
+**Why it matters.** The deal has closed and the buyer is now building a regional management structure, which is the integration step that comes before cost savings and cross-selling. A single operator with 106 terminals gives scale in a fragmented North American port sector. Watch for add-on deals and any later sale of the combined platform.
+
+**Why you care.** Your LOGISTEC/Termont work has moved from deal to integration; the combined network is a live comp for terminal platforms, and its next acquisitions could be sourcing leads for MSIP.
+
+<sub>Situations: logistec_termont · Sectors: Ports & Terminals · Geo: United States, Canada · id: `2026-10-27-enstructure-names-four-regional-presidents-for-1-cc60ff`</sub>
 
 ---
 

@@ -1,6 +1,20 @@
 # Stonepeak
 
-16 items, 2026-05-11 to 2026-10-29.
+17 items, 2026-05-11 to 2026-11-02.
+
+---
+
+### **[watchlist]** Stonepeak completes purchase of 65% of Castrol from bp; bp keeps 35%, CPP Investments joins as indirect minority holder
+
+`2026-11-02` · Sponsor moves · [PE Professional](https://peprofessional.com/2026/11/stonepeak-completes-acquisition-of-castrol-stake-from-bp/), [Investing.com](https://uk.investing.com/news/stock-market-news/stonepeak-completes-acquisition-of-65-stake-in-castrol-from-bp-93CH-4948815), [bp (original announcement)](https://www.bp.com/press-and-publications/press-releases/bp-agrees-to-sell-a-65-per-cent-shareholding-in-castrol-to-stonepeak-at-an-enterprise-value-of-10-billion)
+
+**Deal / players.** Stonepeak closed its purchase of a 65% controlling stake in Castrol from bp, which keeps 35%. The deal was agreed in December 2025 at an enterprise value of about $10.1bn. CPP Investments committed up to $1.05bn as an indirect minority holder. The new board is chaired by Ben van Beurden and has three Stonepeak directors, two from bp and one from CPP. Anthony Borreca of Stonepeak said near-term work will focus on operational improvement.
+
+**Why it matters.** Lubricants earn from branded, replacement-driven demand, not a long-term contract, so Stonepeak is underwriting operating improvement and not a fixed yield. Per bp, its retained 35% is not expected to bring earnings or a dividend in the short to medium term. A Spanish outlet reports Stonepeak gets priority on distributions. Watch for a cost programme and any later bp exit.
+
+**Why you care.** Stonepeak, at about $98bn AUM, paid roughly $10bn of enterprise value for a consumer-facing industrial carve-out, a useful marker for how big the rival is willing to go outside classic contracted assets.
+
+<sub>Firms: Stonepeak, CPP Investments · Sectors: Midstream & Gas · Geo: United Kingdom, Global · id: `2026-11-02-stonepeak-completes-purchase-of-65-of-castrol-fr-153d11`</sub>
 
 ---
 
