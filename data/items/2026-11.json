@@ -1,5 +1,49 @@
 [
  {
+  "date": "2026-11-03",
+  "headline": "Drax, Brookfield and Radiant announce partnership for 1 GW+ AI data centre at Drax Power Station; first phase 100 MW by 2028",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Property Week",
+    "url": "https://www.propertyweek.com/news/drax-and-brookfield-team-up-for-20bn-north-yorkshire-data-centre-investment"
+   },
+   {
+    "name": "Proactive Investors",
+    "url": "https://www.proactiveinvestors.com/companies/news/1101130/drax-shares-jump-over-8-on-20bn-ai-data-centre-partnership-with-brookfield-1101130.html"
+   },
+   {
+    "name": "Oilprice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Drax-Unveils-20-Billion-AI-Data-Centre-Plans-at-UK-Biomass-Plant.html"
+   }
+  ],
+  "players": "Drax, Brookfield and Brookfield's UK AI platform Radiant announced the partnership on 3 November. Drax supplies land, power and its 4 GW grid connection. Brookfield supplies capital through its joint venture with Qatar's Qai, starting with £2.5bn for phase one. Total spend could pass £20bn, including chips. Phase one is up to 100 MW, targeted for Q1 2028, with a further 500 MW by 2031. Drax shares rose over 8% to 878p.",
+  "why_it_matters": "The scarce asset is the grid connection, not the building. Drax brings a 4 GW connection and 2.6 GW of dispatchable generation, which skips years of queue time. Brookfield funds it through a Qatar-backed joint venture. Phase one still needs planning and regulatory approval, commercial agreements and a customer, so a signed tenant is the next thing to watch.",
+  "why_you_care": "A live comp for turning an existing power site into AI capacity; MSIP's Flexential stake is its closest digital holding, so a connection-first premium is worth marking against.",
+  "firms": [
+   "Brookfield"
+  ],
+  "companies": [
+   "Drax",
+   "Brookfield",
+   "Radiant",
+   "Qai"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United Kingdom"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-03-drax-brookfield-and-radiant-announce-partnership-625a87",
+  "story_id": "story-drax-brookfield-and-radiant-announce-par",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-02",
   "headline": "Igneo closes fourth European diversified infrastructure strategy at its €6bn hard cap, six months after first close",
   "section": "market_regulatory",
