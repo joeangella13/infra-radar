@@ -1,13 +1,13 @@
 # Archive
 
-391 items, 2026-01-13 to 2026-11-03.
+398 items, 2026-01-13 to 2026-11-04.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 4 items
+- [2026-11](2026-11.md) — 11 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -22,21 +22,21 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 7 items
-- [Brightline Florida](situations/brightline.md) — 28 items
+- [Brightline Florida](situations/brightline.md) — 29 items
 - [FTAI Infrastructure](situations/ftai_infrastructure.md) — 9 items
 - [Hydrostor](situations/hydrostor.md) — 9 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 8 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 7 items
-- [Odfjell Terminals](situations/odfjell_terminals.md) — 2 items
+- [Odfjell Terminals](situations/odfjell_terminals.md) — 3 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 5 items
 
 ## Firms
 
 - [MSIP](firms/MSIP.md) ◆ — 23 items
+- [I Squared Capital](firms/I-Squared-Capital.md) — 19 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 18 items
 - [Stonepeak](firms/Stonepeak.md) — 17 items
-- [I Squared Capital](firms/I-Squared-Capital.md) — 17 items
 - [Brookfield](firms/Brookfield.md) — 13 items
 - [Blackstone](firms/Blackstone.md) — 13 items
 - [KKR](firms/KKR.md) — 11 items
@@ -53,13 +53,13 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Copenhagen Infrastructure Partners](firms/Copenhagen-Infrastructure-Partners.md) — 3 items
 - [ArcLight](firms/ArcLight.md) — 3 items
 - [Apollo](firms/Apollo.md) — 3 items
+- [ADIA](firms/ADIA.md) — 3 items
 - [Antin](firms/Antin.md) — 2 items
 - [InfraVia](firms/InfraVia.md) — 2 items
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items
 - [Tiger Infrastructure](firms/Tiger-Infrastructure.md) — 2 items
 - [Northleaf](firms/Northleaf.md) — 2 items
 - [GIC](firms/GIC.md) — 2 items
-- [ADIA](firms/ADIA.md) — 2 items
 - [MGX](firms/MGX.md) — 2 items
 - [Greenbriar Equity Group](firms/Greenbriar-Equity-Group.md) — 1 items
 - [DigitalBridge](firms/DigitalBridge.md) — 1 items

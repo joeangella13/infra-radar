@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:57:49+00:00",
+ "generated_at": "2026-11-04T18:09:43+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 391,
+ "total_items": 398,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-03"
+  "2026-11-04"
  ],
  "firms": [
   {
@@ -48,20 +48,20 @@
    "last_seen": "2026-10-21"
   },
   {
+   "name": "I Squared Capital",
+   "watchlist": true,
+   "priority": false,
+   "count": 19,
+   "first_seen": "2026-05-25",
+   "last_seen": "2026-11-03"
+  },
+  {
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
    "count": 18,
    "first_seen": "2026-04-30",
    "last_seen": "2026-10-22"
-  },
-  {
-   "name": "I Squared Capital",
-   "watchlist": true,
-   "priority": false,
-   "count": 17,
-   "first_seen": "2026-05-25",
-   "last_seen": "2026-10-28"
   },
   {
    "name": "Stonepeak",
@@ -176,6 +176,14 @@
    "last_seen": "2026-06-16"
   },
   {
+   "name": "ADIA",
+   "watchlist": true,
+   "priority": false,
+   "count": 3,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-11-02"
+  },
+  {
    "name": "Apollo",
    "watchlist": true,
    "priority": false,
@@ -230,14 +238,6 @@
    "count": 3,
    "first_seen": "2026-07-20",
    "last_seen": "2026-10-13"
-  },
-  {
-   "name": "ADIA",
-   "watchlist": true,
-   "priority": false,
-   "count": 2,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
   },
   {
    "name": "Antin",
@@ -502,6 +502,14 @@
    "count": 1,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
+  },
+  {
+   "name": "Allianz Global Investors",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
   },
   {
    "name": "Allspring Global Investments",
@@ -1269,9 +1277,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 28,
+   "count": 29,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-02"
   },
   {
    "key": "ftai_infrastructure",
@@ -1322,34 +1330,34 @@
    "last_seen": "2026-10-28"
   },
   {
+   "key": "odfjell_terminals",
+   "label": "Odfjell Terminals",
+   "note": "Liquids tank terminals, Houston and Charleston",
+   "count": 3,
+   "first_seen": "2026-05-06",
+   "last_seen": "2026-11-04"
+  },
+  {
    "key": "jennmar_weber",
    "label": "Jennmar / Weber Mining",
    "note": "Ground control and mining consumables",
    "count": 2,
    "first_seen": "2026-03-11",
    "last_seen": "2026-06-17"
-  },
-  {
-   "key": "odfjell_terminals",
-   "label": "Odfjell Terminals",
-   "note": "Liquids tank terminals, Houston and Charleston",
-   "count": 2,
-   "first_seen": "2026-05-06",
-   "last_seen": "2026-06-10"
   }
  ],
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 145,
+   "count": 146,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-04"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 121,
+   "count": 122,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-04"
   },
   {
    "name": "Regulatory & Policy",
@@ -1371,27 +1379,27 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 54,
+   "count": 55,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-02"
   },
   {
    "name": "Funds & Fundraising",
-   "count": 52,
+   "count": 54,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "name": "Rail",
+   "count": 50,
    "first_seen": "2026-05-04",
    "last_seen": "2026-11-02"
   },
   {
-   "name": "Rail",
-   "count": 49,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-10-22"
-  },
-  {
    "name": "Ports & Terminals",
-   "count": 41,
+   "count": 43,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-04"
   },
   {
    "name": "Nuclear & SMR",
@@ -1420,6 +1428,39 @@
  ],
  "items": [
   {
+   "id": "2026-11-04-rbc-transalta-s-proposed-alberta-data-centre-dea-d30ea8",
+   "d": "2026-11-04",
+   "h": "RBC: TransAlta's proposed Alberta data-centre deal would start at 230 MW from existing gas plants, scalable to 1,600 MW",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-rbc-transalta-s-proposed-alberta-data-ce",
+   "x": 0
+  },
+  {
+   "id": "2026-11-04-odfjell-se-reports-q3-2026-today-terminals-were-432a6a",
+   "d": "2026-11-04",
+   "h": "Odfjell SE reports Q3 2026 today; terminals were a small part of group earnings last year",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "odfjell_terminals"
+   ],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-odfjell-se-reports-q3-2026-today-termina",
+   "x": 0
+  },
+  {
    "id": "2026-11-03-drax-brookfield-and-radiant-announce-partnership-625a87",
    "d": "2026-11-03",
    "h": "Drax, Brookfield and Radiant announce partnership for 1 GW+ AI data centre at Drax Power Station; first phase 100 MW by 2028",
@@ -1436,6 +1477,73 @@
    "m": "2026-11",
    "t": "story-drax-brookfield-and-radiant-announce-par",
    "x": 0
+  },
+  {
+   "id": "2026-11-03-i-squared-closes-isq-global-infrastructure-credi-e1ddda",
+   "d": "2026-11-03",
+   "h": "I Squared closes ISQ Global Infrastructure Credit Fund II above $2.4bn; $3bn including co-investment vehicles",
+   "s": "market_regulatory",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-i-squared-closes-isq-global-infrastructu",
+   "x": 1
+  },
+  {
+   "id": "2026-11-03-tianjin-port-holdings-agrees-to-buy-two-terminal-8034d1",
+   "d": "2026-11-03",
+   "h": "Tianjin Port Holdings agrees to buy two terminal operators from parent for RMB6.224bn (about $932m)",
+   "s": "sponsor_moves",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-tianjin-port-holdings-agrees-to-buy-two",
+   "x": 0
+  },
+  {
+   "id": "2026-11-03-allianzgi-closes-infrastructure-credit-opportuni-25cd1c",
+   "d": "2026-11-03",
+   "h": "AllianzGI closes Infrastructure Credit Opportunities Fund II at €1.5bn, above its €1bn target",
+   "s": "market_regulatory",
+   "f": [
+    "Allianz Global Investors"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-allianzgi-closes-infrastructure-credit-o",
+   "x": 0
+  },
+  {
+   "id": "2026-11-02-i-squared-adia-subsidiary-and-avolon-agree-to-la-3a3c63",
+   "d": "2026-11-02",
+   "h": "I Squared, ADIA subsidiary and Avolon agree to launch Constellation Aviation with 22-aircraft, $1.4bn seed portfolio",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital",
+    "ADIA"
+   ],
+   "u": [],
+   "c": [
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-i-squared-adia-subsidiary-and-avolon-agr",
+   "x": 1
   },
   {
    "id": "2026-11-02-stonepeak-completes-purchase-of-65-of-castrol-fr-153d11",
@@ -1470,6 +1578,23 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-igneo-closes-fourth-european-diversified",
+   "x": 0
+  },
+  {
+   "id": "2026-11-02-brightline-suspends-orlandowest-palm-beach-train-8cf4f7",
+   "d": "2026-11-02",
+   "h": "Brightline suspends Orlando–West Palm Beach trains on Nov 2 over flooding in Brevard County; Miami service normal",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-brightline-suspends-orlandowest-palm-bea",
    "x": 0
   },
   {

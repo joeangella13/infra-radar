@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-28 items, 2026-05-15 to 2026-10-22.
+29 items, 2026-05-15 to 2026-11-02.
+
+---
+
+### Brightline suspends Orlando–West Palm Beach trains on Nov 2 over flooding in Brevard County; Miami service normal
+
+`2026-11-02` · Tracked situations · [WFTV](https://www.wftv.com/news/local/brightline-suspends-orlando-west-palm-beach-service-due-flooding/3SOC7V7GHFEUBDJI24VTBJD6DQ/), [Local10](https://www.local10.com/news/florida/2026/11/02/brightline-suspends-orlando-palm-beach-service-due-to-high-water/), [Fox 35 Orlando](https://www.fox35orlando.com/news/heavy-rain-floods-central-florida-forces-brightline-suspend-some-train-service)
+
+**Deal / players.** Brightline halted Orlando–West Palm Beach service on Monday night because of high water on the rail corridor in Brevard County. Service was expected to stay suspended until 8:30 p.m. on Nov 3; one outlet said trains to Orlando would be halted until Thursday. Brightline is working with Florida East Coast Railway to inspect tracks, signals and crossings once water recedes; West Palm Beach–Miami runs normally. DeSantis declared a state of emergency in seven counties.
+
+**Why it matters.** The Orlando link is the intercity leg that has to carry ridership and fares. A multi-day outage costs revenue and shows how exposed a shared corridor is to extreme weather. The cost is probably small against the restructuring, but watch the restart date, any damage found on inspection and whether bondholder updates mention it.
+
+**Why you care.** Your old deal: this is a weather outage, not a change to the thesis, though corridor resilience and insurance are worth flagging if MSIP ever looks at rail.
+
+<sub>Situations: brightline · Sectors: Rail · Geo: United States, Florida · id: `2026-11-02-brightline-suspends-orlandowest-palm-beach-train-8cf4f7`</sub>
 
 ---
 

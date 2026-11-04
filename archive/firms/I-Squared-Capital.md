@@ -1,6 +1,34 @@
 # I Squared Capital
 
-17 items, 2026-05-25 to 2026-10-28.
+19 items, 2026-05-25 to 2026-11-03.
+
+---
+
+### **[watchlist]** I Squared closes ISQ Global Infrastructure Credit Fund II above $2.4bn; $3bn including co-investment vehicles
+
+`2026-11-03` · Market / regulatory · [Business Wire via Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/squared-capital-closes-second-infrastructure-144500641.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-03/i-squared-raises-3-billion-to-fund-infrastructure-supercycle), [Law360](https://www.law360.com/assetmanagement/articles/2545781)
+
+**Deal / players.** I Squared announced the final close of ISQ Global Infrastructure Credit Fund II at more than $2.4bn, over four times its predecessor. Including co-investment vehicles, commitments reach $3bn, twice the initial target. The fund has already committed about 37% of its capital; Bloomberg says investors include insurers, sovereign wealth funds and pensions in the US and overseas. Latham & Watkins advised I Squared.
+
+**Why it matters.** Private infrastructure credit is becoming a bigger source of financing for power, data centres and other large projects, which gives sponsors another place to borrow besides banks and bonds. A fund already about 37% committed points to a steady deal flow. Watch whether I Squared pairs this credit with its own equity deals, and what pricing lenders accept.
+
+**Why you care.** I Squared can now offer capital across the structure; keep that in mind when MSIP bids against it, and use its credit deals as financing comps.
+
+<sub>Firms: I Squared Capital · Sectors: Funds & Fundraising · Geo: Global, United States · id: `2026-11-03-i-squared-closes-isq-global-infrastructure-credi-e1ddda`</sub>
+
+---
+
+### **[watchlist]** I Squared, ADIA subsidiary and Avolon agree to launch Constellation Aviation with 22-aircraft, $1.4bn seed portfolio
+
+`2026-11-02` · Sponsor moves · [I Squared Capital](https://isquaredcapital.com/news/avolon-isq-aida-launch-constellation-aviation/), [AviTrader](https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/), [Enterprise (UAE)](https://enterpriseam.com/uae/2026/11/03/adia-buys-into-usd-1-4-bn-of-avolons-leased-jets-through-a-new-leasing-platform-with-i-squared/)
+
+**Deal / players.** I Squared Capital and a wholly owned ADIA subsidiary agreed with Avolon to set up Constellation Aviation. On completion it is expected to buy 22 aircraft from Avolon with a current market value of $1.4bn, average age about five years, on lease to 17 airlines in 15 countries. Avolon keeps a minority stake and is exclusive manager and servicer; a bank-syndicated debt facility supports it, the deal needs regulatory approvals, and financial terms were not disclosed. Reuters, via a source, says the partners plan to grow it to as much as $6bn.
+
+**Why it matters.** The cash flows are contracted lease income, so value comes from growing the fleet, not from one purchase. Avolon's Boeing and Airbus order books supply new aircraft, which are the scarce input, and its minority stake keeps it aligned. DAE launched similar platforms with Neuberger and Blackstone this year. Watch regulatory sign-off and how fast the $6bn ambition gets funded.
+
+**Why you care.** A direct rival is stretching the infrastructure label to aircraft leasing alongside ADIA; treat it as a read on competitor appetite, with no clear overlap with MSIP's stated sectors.
+
+<sub>Firms: I Squared Capital, ADIA · Sectors: Transport & Logistics · Geo: Global, UAE, Ireland · id: `2026-11-02-i-squared-adia-subsidiary-and-avolon-agree-to-la-3a3c63`</sub>
 
 ---
 

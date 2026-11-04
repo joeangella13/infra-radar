@@ -2,7 +2,21 @@
 
 Liquids tank terminals, Houston and Charleston
 
-2 items, 2026-05-06 to 2026-06-10.
+3 items, 2026-05-06 to 2026-11-04.
+
+---
+
+### Odfjell SE reports Q3 2026 today; terminals were a small part of group earnings last year
+
+`2026-11-04` · Tracked situations · [Odfjell](https://www.odfjell.com/), [MarineLink](https://www.marinelink.com/news/odfjell-reports-strong-fourth-quarter-535627)
+
+**Deal / players.** Odfjell SE scheduled its third-quarter 2026 report for Nov 4, and its site shows a results presentation posted on Nov 3. I did not retrieve the Q3 figures. In the fourth quarter of 2025, Odfjell Terminals contributed a net result of $1.8m, against $2.6m in 3Q25. The terminals business covers Houston and Charleston in the US, as well as sites in Korea and Belgium.
+
+**Why it matters.** The group is mainly a chemical tanker business, so terminal profit is a small slice and the terminal story is easy to miss. Houston and Charleston occupancy and any commentary on specialty chemical storage demand are what to read for. Check the report for terminal earnings, capex and any portfolio moves.
+
+**Why you care.** Your old deal: read the terminals section of today's report for occupancy and earnings trend; there is nothing yet to flag at MSIP.
+
+<sub>Situations: odfjell_terminals · Sectors: Ports & Terminals · Geo: United States, Norway · id: `2026-11-04-odfjell-se-reports-q3-2026-today-terminals-were-432a6a`</sub>
 
 ---
 
