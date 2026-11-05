@@ -1,5 +1,119 @@
 [
  {
+  "date": "2026-11-05",
+  "headline": "Brightline restarts Orlando–West Palm Beach trains Nov 5 after flood closure that began Nov 2",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Yahoo News",
+    "url": "https://www.yahoo.com/news/weather-news/articles/brightline-resumes-orlando-west-palm-135001493.html"
+   },
+   {
+    "name": "WFTV",
+    "url": "https://www.wftv.com/news/local/brightline-offers-edc-orlando-attendees-up-15-percent-off-select-fares/RCJYNUKBN5GPHEL7L54DRC36HA/"
+   }
+  ],
+  "players": "Brightline resumed regular Orlando–West Palm Beach service on Thursday, Nov 5. The route had been closed since Monday because of high water in Brevard County, and the suspension was extended to 2 p.m. Wednesday. Service resumed after water receded, repairs were done and Florida East Coast Railway cleared the tracks, signals and crossings. West Palm Beach–Miami ran throughout. No revenue impact was disclosed.",
+  "why_it_matters": "A roughly three-day outage on the Orlando leg is small against a full year, and no financial impact has been given. The point is weather exposure on a shared corridor with a single route to Orlando, which matters for insurance, reliability and ridership assumptions. Still open: the bond restructuring and the Miami-Dade commuter contract talks.",
+  "why_you_care": "This is the asset you underwrote at Rothschild; a clean three-day recovery eases the immediate operating worry, but the corridor's flood risk belongs in any updated view of Brightline's downside.",
+  "firms": [],
+  "companies": [
+   "Brightline Florida",
+   "Florida East Coast Railway"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US",
+   "Florida"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-11-05-brightline-restarts-orlandowest-palm-beach-train-ff38f6",
+  "story_id": "story-brightline-suspends-orlandowest-palm-bea",
+  "story_size": 2
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "FERC clears MARA's purchase of Long Ridge from FTAI Infrastructure; deal not yet closed, MARA expects close in coming weeks",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://in.investing.com/news/stock-market-news/mara-holdings-receives-ferc-approval-for-long-ridge-acquisition-93CH-5683389"
+   },
+   {
+    "name": "FTAI Infrastructure release",
+    "url": "https://ir.fipinc.com/news-releases/news-release-details/ftai-infrastructure-inc-announces-agreement-sell-long-ridge"
+   },
+   {
+    "name": "Securities.io",
+    "url": "https://www.securities.io/ferc-clears-mara-holdings-1-5-billion-long-ridge-acquisition/"
+   }
+  ],
+  "players": "MARA said on Nov 5 that FERC found its purchase of Long Ridge Energy & Power from FTAI Infrastructure consistent with the public interest. The April 30 agreement values Long Ridge at about $1.52bn before closing adjustments; it covers a 505 MW combined-cycle gas plant in Hannibal, Ohio and 1,600+ acres. Mugglehead reports at least $785m of debt is assumed. FTAI Infrastructure reports Q3 after the close on Nov 5, with a call on Nov 6 at 8:00 a.m. ET.",
+  "why_it_matters": "The price works out to roughly $3m per MW of nameplate capacity (my arithmetic on the headline value, debt included). The buyer is a bitcoin miner moving into AI compute, so the upside rests on signing a tenant for the campus, and MARA still lists financing as a risk. FIP says it will use net proceeds to repay corporate debt. Watch the close, any tenant lease, and what is left at FIP.",
+  "why_you_care": "Your old FTAI Infrastructure situation just cleared its main regulatory hurdle; the Long Ridge price is a live gas-plus-land comp, and FIP's remaining assets are worth flagging to MSIP as angles.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "FTAI Infrastructure",
+   "MARA Holdings",
+   "Long Ridge Energy & Power"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US",
+   "Ohio"
+  ],
+  "priority": "high",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-11-05-ferc-clears-mara-s-purchase-of-long-ridge-from-f-dde98f",
+  "story_id": "story-ferc-clears-mara-s-purchase-of-long-ridg",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Tracker counts 69 large US data-centre projects cancelled since 2024; 39 withdrawn by developers, 27 denied by governments",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Programs.com data-centre cancellation tracker",
+    "url": "https://programs.com/resources/data-center-project-tracker/"
+   }
+  ],
+  "players": "A Programs.com tracker updated Nov 4 lists 69 US projects of at least 100 MW or $1bn that were withdrawn, denied or lost their land deal since January 2024, across 26 states. Of these, 39 were withdrawn by the developer, 27 were denied by a local or state government, and 3 ended over a land or utility deal. The counts and criteria are the site's own, not an official dataset.",
+  "why_it_matters": "Most infrastructure underwriting of AI power assumes announced data-centre load turns into real demand. Local denials and developer withdrawals are the clearest sign that some of it will not. For a gas plant or powered-land deal, that argues for contracts with take-or-pay terms and creditworthy tenants rather than pipeline megawatts. Treat the tracker as directional until checked against primary sources.",
+  "why_you_care": "It is a risk check for any data-centre power or powered-land deal MSIP looks at, including comps like Long Ridge, where the tenant is not yet signed.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-04-tracker-counts-69-large-us-data-centre-projects-b48da0",
+  "story_id": "story-tracker-counts-69-large-us-data-centre-p",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-04",
   "headline": "RBC: TransAlta's proposed Alberta data-centre deal would start at 230 MW from existing gas plants, scalable to 1,600 MW",
   "section": "sector_themes",
@@ -335,7 +449,7 @@
   "flags": [],
   "id": "2026-11-02-brightline-suspends-orlandowest-palm-beach-train-8cf4f7",
   "story_id": "story-brightline-suspends-orlandowest-palm-bea",
-  "story_size": 1
+  "story_size": 2
  },
  {
   "date": "2026-11-02",

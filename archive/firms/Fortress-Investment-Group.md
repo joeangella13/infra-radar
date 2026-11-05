@@ -1,6 +1,20 @@
 # Fortress Investment Group
 
-18 items, 2026-04-30 to 2026-10-22.
+19 items, 2026-04-30 to 2026-11-05.
+
+---
+
+### FERC clears MARA's purchase of Long Ridge from FTAI Infrastructure; deal not yet closed, MARA expects close in coming weeks
+
+`2026-11-05` · Tracked situations · [Investing.com (Reuters)](https://in.investing.com/news/stock-market-news/mara-holdings-receives-ferc-approval-for-long-ridge-acquisition-93CH-5683389), [FTAI Infrastructure release](https://ir.fipinc.com/news-releases/news-release-details/ftai-infrastructure-inc-announces-agreement-sell-long-ridge), [Securities.io](https://www.securities.io/ferc-clears-mara-holdings-1-5-billion-long-ridge-acquisition/)
+
+**Deal / players.** MARA said on Nov 5 that FERC found its purchase of Long Ridge Energy & Power from FTAI Infrastructure consistent with the public interest. The April 30 agreement values Long Ridge at about $1.52bn before closing adjustments; it covers a 505 MW combined-cycle gas plant in Hannibal, Ohio and 1,600+ acres. Mugglehead reports at least $785m of debt is assumed. FTAI Infrastructure reports Q3 after the close on Nov 5, with a call on Nov 6 at 8:00 a.m. ET.
+
+**Why it matters.** The price works out to roughly $3m per MW of nameplate capacity (my arithmetic on the headline value, debt included). The buyer is a bitcoin miner moving into AI compute, so the upside rests on signing a tenant for the campus, and MARA still lists financing as a risk. FIP says it will use net proceeds to repay corporate debt. Watch the close, any tenant lease, and what is left at FIP.
+
+**Why you care.** Your old FTAI Infrastructure situation just cleared its main regulatory hurdle; the Long Ridge price is a live gas-plus-land comp, and FIP's remaining assets are worth flagging to MSIP as angles.
+
+<sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Power & Renewables, Digital Infrastructure · Geo: US, Ohio · id: `2026-11-05-ferc-clears-mara-s-purchase-of-long-ridge-from-f-dde98f`</sub>
 
 ---
 

@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-29 items, 2026-05-15 to 2026-11-02.
+30 items, 2026-05-15 to 2026-11-05.
+
+---
+
+### Brightline restarts Orlando–West Palm Beach trains Nov 5 after flood closure that began Nov 2
+
+`2026-11-05` · Tracked situations · [Yahoo News](https://www.yahoo.com/news/weather-news/articles/brightline-resumes-orlando-west-palm-135001493.html), [WFTV](https://www.wftv.com/news/local/brightline-offers-edc-orlando-attendees-up-15-percent-off-select-fares/RCJYNUKBN5GPHEL7L54DRC36HA/)
+
+**Deal / players.** Brightline resumed regular Orlando–West Palm Beach service on Thursday, Nov 5. The route had been closed since Monday because of high water in Brevard County, and the suspension was extended to 2 p.m. Wednesday. Service resumed after water receded, repairs were done and Florida East Coast Railway cleared the tracks, signals and crossings. West Palm Beach–Miami ran throughout. No revenue impact was disclosed.
+
+**Why it matters.** A roughly three-day outage on the Orlando leg is small against a full year, and no financial impact has been given. The point is weather exposure on a shared corridor with a single route to Orlando, which matters for insurance, reliability and ridership assumptions. Still open: the bond restructuring and the Miami-Dade commuter contract talks.
+
+**Why you care.** This is the asset you underwrote at Rothschild; a clean three-day recovery eases the immediate operating worry, but the corridor's flood risk belongs in any updated view of Brightline's downside.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-11-05-brightline-restarts-orlandowest-palm-beach-train-ff38f6`</sub>
 
 ---
 
