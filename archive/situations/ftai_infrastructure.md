@@ -2,7 +2,7 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-10 items, 2026-04-30 to 2026-11-05.
+11 items, 2026-04-30 to 2026-11-05.
 
 ---
 
@@ -17,6 +17,20 @@ Transtar, Long Ridge, Jefferson, Repauno
 **Why you care.** Your old FTAI Infrastructure situation just cleared its main regulatory hurdle; the Long Ridge price is a live gas-plus-land comp, and FIP's remaining assets are worth flagging to MSIP as angles.
 
 <sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Power & Renewables, Digital Infrastructure · Geo: US, Ohio · id: `2026-11-05-ferc-clears-mara-s-purchase-of-long-ridge-from-f-dde98f`</sub>
+
+---
+
+### FTAI Infrastructure now expects Long Ridge sale to close by end-November; gross proceeds just over $1.5bn, mostly to repay debt
+
+`2026-11-05` · Tracked situations · [FTAI Infrastructure Q3 2026 release](https://ir.fipinc.com/news-releases/news-release-details/ftai-infrastructure-inc-reports-third-quarter-2026-results), [Daily Political (Q3 call summary)](https://www.dailypolitical.com/2026/11/06/what-ftai-infrastructure-fip-said-on-its-q3-earnings-call.html), [Chartmill](https://www.chartmill.com/news/FIP/Chartmill-58104-FTAI-Infrastructure-NASDAQFIP-Q3-2026-Revenue-Beat-Masks-Wider-Loss-as-Portfolio-Reshaping-Accelerates)
+
+**Deal / players.** FTAI Infrastructure reported record Q3 adjusted EBITDA of $95.3m ($54.4m excluding Long Ridge) and said regulatory approval for the Long Ridge sale to MARA is in hand, with closing expected by end of November. CEO Ken Nicholson said gross proceeds are just over $1.5bn and will go almost entirely to repay debt. The company still booked a $150m net loss attributable to common holders for the quarter.
+
+**Why it matters.** The sale turns Long Ridge into cash for debt paydown and leaves rail as the core business. Long Ridge supplied about $40.9m of the $95.3m Q3 adjusted EBITDA, so the earnings base shrinks even as debt falls. Management cites an active rail M&A pipeline. Watch the closing and leverage after repayment.
+
+**Why you care.** This is the Long Ridge exit moving to close, and the first hard read on how much debt it clears, which is a useful comp for gas-fired power sale pricing.
+
+<sub>Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals, Power & Renewables, Rail · Geo: US · id: `2026-11-05-ftai-infrastructure-agrees-255m-purchase-of-usd-800f70`</sub>
 
 ---
 

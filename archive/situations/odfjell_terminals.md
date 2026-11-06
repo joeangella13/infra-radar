@@ -2,7 +2,21 @@
 
 Liquids tank terminals, Houston and Charleston
 
-3 items, 2026-05-06 to 2026-11-04.
+4 items, 2026-05-06 to 2026-11-05.
+
+---
+
+### Odfjell Q3: terminals net result $2.2m (Q2 $1.8m), EBITDA $11.3m, occupancy 95% unchanged
+
+`2026-11-05` · Tracked situations · [Inderes (Odfjell SE 3Q26 release)](https://www.inderes.fi/en/releases/odfjell-se-3q26-solid-performance), [GuruFocus via Investing.com (call highlights)](https://ca.investing.com/news/company-news/odfjell-se-odjbf-q3-2026-earnings-call-highlights-solid-time-charter-earnings-of-192--4937965)
+
+**Deal / players.** Odfjell SE reported its Q3 on Nov 4 and presented on Nov 5. The terminals unit contributed $2.2m to group net result, up from $1.8m in Q2, with terminals EBITDA of $11.3m (Q2: $10.7m) and occupancy of 95%. Group net result was $40m, down from $54m, and the company expects a somewhat lower underlying result in Q4.
+
+**Why it matters.** Terminals are a small, steady slice of a group whose earnings swing with chemical tanker rates. Rising EBITDA at full occupancy supports the tank-storage thesis, but the group-level figure does not break out Houston and Charleston separately. A softer tanker outlook keeps the terminals' stability in focus.
+
+**Why you care.** Odfjell Terminals is a deal you ran; steady occupancy and EBITDA growth back the thesis you underwrote, though the terminals stay too small to move group results.
+
+<sub>Situations: odfjell_terminals · Sectors: Ports & Terminals, Midstream & Gas · Geo: US, Norway · id: `2026-11-05-odfjell-q3-terminals-net-result-2-2m-q2-1-8m-ebi-c8da69`</sub>
 
 ---
 

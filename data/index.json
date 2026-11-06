@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:10:19+00:00",
+ "generated_at": "2026-11-06T17:37:27+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 401,
+ "total_items": 405,
  "months": [
   "2026-11",
   "2026-10",
@@ -1285,7 +1285,7 @@
    "key": "ftai_infrastructure",
    "label": "FTAI Infrastructure",
    "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 10,
+   "count": 11,
    "first_seen": "2026-04-30",
    "last_seen": "2026-11-05"
   },
@@ -1333,9 +1333,9 @@
    "key": "odfjell_terminals",
    "label": "Odfjell Terminals",
    "note": "Liquids tank terminals, Houston and Charleston",
-   "count": 3,
+   "count": 4,
    "first_seen": "2026-05-06",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "key": "jennmar_weber",
@@ -1349,7 +1349,7 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 148,
+   "count": 150,
    "first_seen": "2026-01-13",
    "last_seen": "2026-11-05"
   },
@@ -1367,13 +1367,13 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 60,
+   "count": 62,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-05"
   },
   {
    "name": "Transport & Logistics",
-   "count": 56,
+   "count": 57,
    "first_seen": "2026-02-17",
    "last_seen": "2026-11-05"
   },
@@ -1385,21 +1385,21 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 54,
+   "count": 55,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-04"
   },
   {
    "name": "Rail",
-   "count": 51,
+   "count": 52,
    "first_seen": "2026-05-04",
    "last_seen": "2026-11-05"
   },
   {
    "name": "Ports & Terminals",
-   "count": 43,
+   "count": 45,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-05"
   },
   {
    "name": "Nuclear & SMR",
@@ -1448,6 +1448,22 @@
    "x": 0
   },
   {
+   "id": "2026-11-05-l-squared-buys-vegetation-management-firm-edko-f-0a00c5",
+   "d": "2026-11-05",
+   "h": "L Squared buys vegetation-management firm Edko from Incline Equity, first deal from its $2bn Fund V",
+   "s": "sponsor_moves",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-l-squared-buys-vegetation-management-fir",
+   "x": 0
+  },
+  {
    "id": "2026-11-05-brightline-restarts-orlandowest-palm-beach-train-ff38f6",
    "d": "2026-11-05",
    "h": "Brightline restarts Orlando–West Palm Beach trains Nov 5 after flood closure that began Nov 2",
@@ -1463,6 +1479,44 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-brightline-suspends-orlandowest-palm-bea",
+   "x": 0
+  },
+  {
+   "id": "2026-11-05-odfjell-q3-terminals-net-result-2-2m-q2-1-8m-ebi-c8da69",
+   "d": "2026-11-05",
+   "h": "Odfjell Q3: terminals net result $2.2m (Q2 $1.8m), EBITDA $11.3m, occupancy 95% unchanged",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "odfjell_terminals"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-odfjell-se-reports-1q26-net-result-of-32",
+   "x": 0
+  },
+  {
+   "id": "2026-11-05-ftai-infrastructure-agrees-255m-purchase-of-usd-800f70",
+   "d": "2026-11-05",
+   "h": "FTAI Infrastructure now expects Long Ridge sale to close by end-November; gross proceeds just over $1.5bn, mostly to repay debt",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals",
+    "Power & Renewables",
+    "Rail"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-ftai-infrastructure-now-expects-long-rid",
    "x": 0
   },
   {
@@ -1495,6 +1549,21 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-rbc-transalta-s-proposed-alberta-data-ce",
+   "x": 0
+  },
+  {
+   "id": "2026-11-04-preqin-european-infrastructure-deals-hit-56bn-in-82c23c",
+   "d": "2026-11-04",
+   "h": "Preqin: European infrastructure deals hit €56bn in H1 2026, over two-thirds of 2025's €81bn full-year total",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-preqin-european-infrastructure-deals-hit",
    "x": 0
   },
   {

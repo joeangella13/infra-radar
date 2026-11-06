@@ -1,6 +1,42 @@
 [
  {
   "date": "2026-11-05",
+  "headline": "L Squared buys vegetation-management firm Edko from Incline Equity, first deal from its $2bn Fund V",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Middle Market Growth, PE Weekly Oct 30–Nov 5",
+    "url": "https://middlemarketgrowth.org/pe-weekly-october-20-november-5-2026/"
+   }
+  ],
+  "players": "L Squared Capital Partners said it acquired Edko, which provides vegetation-management services to utilities, pipelines, refineries and renewable assets. Incline Equity is the seller. It is the first platform investment from L Squared's $2bn Fund V; terms were not given in the roundup, and the date shown is the roundup's publication date.",
+  "why_it_matters": "Vegetation management is recurring, non-discretionary spend for utilities and pipeline owners, which is why infrastructure funds like service businesses of this kind. A mid-market fund using its first Fund V cheque here suggests continued appetite for asset-light infrastructure services. Price and multiple are undisclosed, so there is no comp yet.",
+  "why_you_care": "Background on mid-market competition for utility-services platforms, a space near MSIP's energy and utilities work; no sign MSIP was involved.",
+  "firms": [],
+  "companies": [
+   "L Squared Capital Partners",
+   "Edko",
+   "Incline Equity",
+   "Northampton Capital Partners",
+   "ABR Capital Partners",
+   "Biynah Industrial Partners"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-05-l-squared-buys-vegetation-management-firm-edko-f-0a00c5",
+  "story_id": "story-l-squared-buys-vegetation-management-fir",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-05",
   "headline": "Brightline restarts Orlando–West Palm Beach trains Nov 5 after flood closure that began Nov 2",
   "section": "tracked_situations",
   "sources": [
@@ -36,6 +72,45 @@
   "flags": [],
   "id": "2026-11-05-brightline-restarts-orlandowest-palm-beach-train-ff38f6",
   "story_id": "story-brightline-suspends-orlandowest-palm-bea",
+  "story_size": 2
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "Odfjell Q3: terminals net result $2.2m (Q2 $1.8m), EBITDA $11.3m, occupancy 95% unchanged",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Inderes (Odfjell SE 3Q26 release)",
+    "url": "https://www.inderes.fi/en/releases/odfjell-se-3q26-solid-performance"
+   },
+   {
+    "name": "GuruFocus via Investing.com (call highlights)",
+    "url": "https://ca.investing.com/news/company-news/odfjell-se-odjbf-q3-2026-earnings-call-highlights-solid-time-charter-earnings-of-192--4937965"
+   }
+  ],
+  "players": "Odfjell SE reported its Q3 on Nov 4 and presented on Nov 5. The terminals unit contributed $2.2m to group net result, up from $1.8m in Q2, with terminals EBITDA of $11.3m (Q2: $10.7m) and occupancy of 95%. Group net result was $40m, down from $54m, and the company expects a somewhat lower underlying result in Q4.",
+  "why_it_matters": "Terminals are a small, steady slice of a group whose earnings swing with chemical tanker rates. Rising EBITDA at full occupancy supports the tank-storage thesis, but the group-level figure does not break out Houston and Charleston separately. A softer tanker outlook keeps the terminals' stability in focus.",
+  "why_you_care": "Odfjell Terminals is a deal you ran; steady occupancy and EBITDA growth back the thesis you underwrote, though the terminals stay too small to move group results.",
+  "firms": [],
+  "companies": [
+   "Odfjell SE",
+   "Odfjell Terminals"
+  ],
+  "sectors": [
+   "Ports & Terminals",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US",
+   "Norway"
+  ],
+  "priority": "normal",
+  "situations": [
+   "odfjell_terminals"
+  ],
+  "flags": [],
+  "id": "2026-11-05-odfjell-q3-terminals-net-result-2-2m-q2-1-8m-ebi-c8da69",
+  "story_id": "story-odfjell-se-reports-1q26-net-result-of-32",
   "story_size": 2
  },
  {
@@ -82,6 +157,53 @@
   "flags": [],
   "id": "2026-11-05-ferc-clears-mara-s-purchase-of-long-ridge-from-f-dde98f",
   "story_id": "story-ferc-clears-mara-s-purchase-of-long-ridg",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-05",
+  "headline": "FTAI Infrastructure now expects Long Ridge sale to close by end-November; gross proceeds just over $1.5bn, mostly to repay debt",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "FTAI Infrastructure Q3 2026 release",
+    "url": "https://ir.fipinc.com/news-releases/news-release-details/ftai-infrastructure-inc-reports-third-quarter-2026-results"
+   },
+   {
+    "name": "Daily Political (Q3 call summary)",
+    "url": "https://www.dailypolitical.com/2026/11/06/what-ftai-infrastructure-fip-said-on-its-q3-earnings-call.html"
+   },
+   {
+    "name": "Chartmill",
+    "url": "https://www.chartmill.com/news/FIP/Chartmill-58104-FTAI-Infrastructure-NASDAQFIP-Q3-2026-Revenue-Beat-Masks-Wider-Loss-as-Portfolio-Reshaping-Accelerates"
+   }
+  ],
+  "players": "FTAI Infrastructure reported record Q3 adjusted EBITDA of $95.3m ($54.4m excluding Long Ridge) and said regulatory approval for the Long Ridge sale to MARA is in hand, with closing expected by end of November. CEO Ken Nicholson said gross proceeds are just over $1.5bn and will go almost entirely to repay debt. The company still booked a $150m net loss attributable to common holders for the quarter.",
+  "why_it_matters": "The sale turns Long Ridge into cash for debt paydown and leaves rail as the core business. Long Ridge supplied about $40.9m of the $95.3m Q3 adjusted EBITDA, so the earnings base shrinks even as debt falls. Management cites an active rail M&A pipeline. Watch the closing and leverage after repayment.",
+  "why_you_care": "This is the Long Ridge exit moving to close, and the first hard read on how much debt it clears, which is a useful comp for gas-fired power sale pricing.",
+  "firms": [],
+  "companies": [
+   "FTAI Infrastructure",
+   "USD Group",
+   "Jefferson Terminal",
+   "MARA",
+   "Long Ridge"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Ports & Terminals",
+   "Power & Renewables",
+   "Rail"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-11-05-ftai-infrastructure-agrees-255m-purchase-of-usd-800f70",
+  "story_id": "story-ftai-infrastructure-now-expects-long-rid",
   "story_size": 1
  },
  {
@@ -143,6 +265,35 @@
   "flags": [],
   "id": "2026-11-04-rbc-transalta-s-proposed-alberta-data-centre-dea-d30ea8",
   "story_id": "story-rbc-transalta-s-proposed-alberta-data-ce",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-04",
+  "headline": "Preqin: European infrastructure deals hit €56bn in H1 2026, over two-thirds of 2025's €81bn full-year total",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "AltAssets Deal Roundup",
+    "url": "https://altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-cinven-agrees-e2-6bn-theramex-buyout-brookfield-targets-20bn-uk-data-centre-development.html"
+   }
+  ],
+  "players": "AltAssets reported on Nov 4 that new Preqin research puts European infrastructure transactions at €56bn in the first half of 2026, against €81bn for all of 2025. The article headline says the private equity valuation gap with the US is widening; I only saw the headline and summary, not the full report.",
+  "why_it_matters": "Deal value running at this pace points to a strong 2026 for European infrastructure, backed by recent large closes such as Igneo's €6bn fund. A wider valuation gap would mean Europe prices below the US, which affects where buyers hunt for value and where sellers should expect to clear. Check the Preqin report itself before using it as a comp.",
+  "why_you_care": "A reported US-Europe valuation gap is a market-context point for underwriting: it bears on whether MSIP's OECD mandate is better served by European or US entry prices.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "Europe",
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-04-preqin-european-infrastructure-deals-hit-56bn-in-82c23c",
+  "story_id": "story-preqin-european-infrastructure-deals-hit",
   "story_size": 1
  },
  {
