@@ -1,6 +1,34 @@
 # Brookfield
 
-13 items, 2026-06-30 to 2026-11-03.
+15 items, 2026-06-30 to 2026-11-09.
+
+---
+
+### PSP Investments signs to buy 50% of Canadian home-services platform Enercare for about $1.6bn
+
+`2026-11-09` · Sponsor moves · [PSP Investments release (PR Newswire)](https://www.prnewswire.com/news-releases/psp-investments-to-acquire-50-of-enercare-one-of-canadas-leading-home-infrastructure-platforms-for-approximately-1-6-billion-302933417.html)
+
+**Deal / players.** PSP Investments announced on Nov 9 that it signed an agreement to acquire a 50% interest in Enercare for approximately $1.6bn. Enercare serves more than 1.4 million Canadian homes. PSP has been an investor since 2018, when it co-invested alongside Brookfield in the take-private, and will hold the stake in its inflation-linked infrastructure portfolio. Closing timing and the seller were not in the excerpt I read.
+
+**Why it matters.** PSP points to recurring revenue and strong customer relationships as the reason to treat a home-services business as infrastructure, and calls it one of its largest direct infrastructure holdings in Canada. An ongoing PSP-Brookfield partnership suggests this is a recycling of an existing position. Without EBITDA or debt figures, the valuation cannot be derived from the headline price.
+
+**Why you care.** Background rather than a direct overlap: a large pension is paying up for contracted-style consumer services in Canada, a useful reference when MSIP looks at recurring-revenue service platforms.
+
+<sub>Firms: PSP Investments, Brookfield · Sectors: Social Infrastructure · Geo: Canada · id: `2026-11-09-psp-investments-signs-to-buy-50-of-canadian-home-9a2867`</sub>
+
+---
+
+### Brookfield reported at $26bn for Infrastructure Fund VI, final close eyed early 2027; fifth debt fund at $8bn
+
+`2026-11-06` · Market / regulatory · [Infrastructure Investor](https://www.infrastructureinvestor.com/brookfield-eyes-early-2027-final-close-after-raising-26bn-for-fund-vi/), [Briefs: Brookfield Q3 fundraising](https://www.briefs.co/news/brookfield-raises-25-billion-in-q3-as-it-backs-ai-infrastruc/)
+
+**Deal / players.** Infrastructure Investor reports Brookfield has raised $26bn for Infrastructure Fund VI and is eyeing a final close in early 2027, while its fifth infrastructure debt fund has reached $8bn. A summary of Brookfield's Q3 results says its infrastructure arm raised $7bn in the quarter, including $3.4bn for the flagship, and that management expects to exceed its $30bn target in early 2027.
+
+**Why it matters.** Brookfield now runs the largest infrastructure equity and credit funds on record, so it can bid for large power, digital and transport assets with both equity and debt in hand. The fundraising is concentrated in a few giants, as Igneo's and Cube's recent closes show for mid-market. Watch for a final close above $30bn and what Brookfield deploys into AI infrastructure.
+
+**Why you care.** Brookfield's war chest sets the competitive backdrop for the large power and digital assets MSIP bids on; it is context on rival capital, not a direct overlap.
+
+<sub>Firms: Brookfield · Sectors: Funds & Fundraising · Geo: Global · id: `2026-11-06-brookfield-reported-at-26bn-for-infrastructure-f-d61690`</sub>
 
 ---
 

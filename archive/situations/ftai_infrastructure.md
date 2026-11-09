@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-11 items, 2026-04-30 to 2026-11-05.
+12 items, 2026-04-30 to 2026-11-06.
+
+---
+
+### FTAI Infra plans Jefferson sale next year; $255m USD Group deal due mid-Nov, Q3 adjusted EBITDA record $95.3m
+
+`2026-11-06` · Tracked situations · [FTAI Infrastructure Q3 2026 results (GlobeNewswire)](https://globenewswire.com/news-release/2026/11/05/3397142/0/en/ftai-infrastructure-inc-reports-third-quarter-2026-results-declares-dividend-of-0-03-per-share-of-common-stock.html), [FTAI Infrastructure 8-K](https://www.sec.gov/Archives/edgar/data/0001899883/000114036126040580/ef20084326_8k.htm), [Yahoo Finance: Q3 call highlights](https://finance.yahoo.com/markets/stocks/articles/ftai-infrastructure-inc-fip-q3-111105002.html)
+
+**Deal / players.** FTAI Infrastructure posted record Q3 adjusted EBITDA of $95.3m. Its Jefferson unit agreed on Sept 28 to buy USD Group's crude logistics assets at a $255m enterprise value, with closing now expected in mid-November. On the call, management said it is preparing Jefferson for a possible sale next year, and Jefferson's 2027 pro forma target is adjusted EBITDA of about $138m versus about $88m stand-alone.
+
+**Why it matters.** The USD assets carry a long-term contract with minimum volumes from an investment-grade customer, which should turn a cash-tight terminal into a steadier earner before any sale. Management expects combined Jefferson EBITDA above $100m and says purchase price plus capital spend will sit well below sale proceeds. The 2027 targets are management's, not results. Watch the close and any sale-process launch.
+
+**Why you care.** Jefferson is one of your Rothschild-era situations heading toward a sale; a contracted Gulf Coast terminal with a clearer EBITDA base is a possible look for MSIP next year.
+
+<sub>Situations: ftai_infrastructure · Sectors: Ports & Terminals, Midstream & Gas · Geo: US · id: `2026-11-06-ftai-infra-plans-jefferson-sale-next-year-255m-u-47d280`</sub>
 
 ---
 

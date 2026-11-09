@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:37:27+00:00",
+ "generated_at": "2026-11-09T20:54:56+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 405,
+ "total_items": 410,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-05"
+  "2026-11-09"
  ],
  "firms": [
   {
@@ -72,20 +72,20 @@
    "last_seen": "2026-11-02"
   },
   {
+   "name": "Brookfield",
+   "watchlist": true,
+   "priority": false,
+   "count": 15,
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-11-09"
+  },
+  {
    "name": "Blackstone",
    "watchlist": true,
    "priority": false,
    "count": 13,
    "first_seen": "2026-05-04",
    "last_seen": "2026-10-19"
-  },
-  {
-   "name": "Brookfield",
-   "watchlist": true,
-   "priority": false,
-   "count": 13,
-   "first_seen": "2026-06-30",
-   "last_seen": "2026-11-03"
   },
   {
    "name": "EQT Infrastructure",
@@ -968,6 +968,14 @@
    "last_seen": "2026-05-12"
   },
   {
+   "name": "J.P. Morgan Asset Management",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
    "name": "Jersey Telecom",
    "watchlist": false,
    "priority": false,
@@ -1136,6 +1144,14 @@
    "last_seen": "2026-10-21"
   },
   {
+   "name": "PSP Investments",
+   "watchlist": true,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  {
    "name": "Paul Weiss Rifkind Wharton & Garrison",
    "watchlist": false,
    "priority": false,
@@ -1285,9 +1301,9 @@
    "key": "ftai_infrastructure",
    "label": "FTAI Infrastructure",
    "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 11,
+   "count": 12,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "key": "hydrostor",
@@ -1349,7 +1365,7 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 150,
+   "count": 151,
    "first_seen": "2026-01-13",
    "last_seen": "2026-11-05"
   },
@@ -1367,9 +1383,9 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 62,
+   "count": 63,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "name": "Transport & Logistics",
@@ -1378,16 +1394,16 @@
    "last_seen": "2026-11-05"
   },
   {
+   "name": "Funds & Fundraising",
+   "count": 57,
+   "first_seen": "2026-05-04",
+   "last_seen": "2026-11-09"
+  },
+  {
    "name": "Energy Transition & Storage",
    "count": 55,
    "first_seen": "2026-01-13",
    "last_seen": "2026-10-26"
-  },
-  {
-   "name": "Funds & Fundraising",
-   "count": 55,
-   "first_seen": "2026-05-04",
-   "last_seen": "2026-11-04"
   },
   {
    "name": "Rail",
@@ -1397,9 +1413,9 @@
   },
   {
    "name": "Ports & Terminals",
-   "count": 45,
+   "count": 46,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-06"
   },
   {
    "name": "Nuclear & SMR",
@@ -1409,9 +1425,9 @@
   },
   {
    "name": "Social Infrastructure",
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-05-20",
-   "last_seen": "2026-10-06"
+   "last_seen": "2026-11-09"
   },
   {
    "name": "Water & Environmental",
@@ -1427,6 +1443,74 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-11-09-psp-investments-signs-to-buy-50-of-canadian-home-9a2867",
+   "d": "2026-11-09",
+   "h": "PSP Investments signs to buy 50% of Canadian home-services platform Enercare for about $1.6bn",
+   "s": "sponsor_moves",
+   "f": [
+    "PSP Investments",
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Social Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-psp-investments-signs-to-buy-50-of-canad",
+   "x": 0
+  },
+  {
+   "id": "2026-11-09-cube-infrastructure-managers-hits-587m-first-clo-47aad0",
+   "d": "2026-11-09",
+   "h": "Cube Infrastructure Managers hits €587m first close on Cube IV, targeting €1.5bn",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-cube-infrastructure-managers-hits-587m-f",
+   "x": 0
+  },
+  {
+   "id": "2026-11-06-ftai-infra-plans-jefferson-sale-next-year-255m-u-47d280",
+   "d": "2026-11-06",
+   "h": "FTAI Infra plans Jefferson sale next year; $255m USD Group deal due mid-Nov, Q3 adjusted EBITDA record $95.3m",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-ftai-infra-plans-jefferson-sale-next-yea",
+   "x": 0
+  },
+  {
+   "id": "2026-11-06-brookfield-reported-at-26bn-for-infrastructure-f-d61690",
+   "d": "2026-11-06",
+   "h": "Brookfield reported at $26bn for Infrastructure Fund VI, final close eyed early 2027; fifth debt fund at $8bn",
+   "s": "market_regulatory",
+   "f": [
+    "Brookfield"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-brookfield-reported-at-26bn-for-infrastr",
+   "x": 0
+  },
   {
    "id": "2026-11-05-ferc-clears-mara-s-purchase-of-long-ridge-from-f-dde98f",
    "d": "2026-11-05",
@@ -1445,6 +1529,23 @@
    "p": "high",
    "m": "2026-11",
    "t": "story-ferc-clears-mara-s-purchase-of-long-ridg",
+   "x": 0
+  },
+  {
+   "id": "2026-11-05-dte-energy-agrees-to-sell-non-utility-dte-vantag-152188",
+   "d": "2026-11-05",
+   "h": "DTE Energy agrees to sell non-utility DTE Vantage to J.P. Morgan AM infrastructure investors for about $3bn",
+   "s": "sponsor_moves",
+   "f": [
+    "J.P. Morgan Asset Management"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-dte-energy-agrees-to-sell-non-utility-dt",
    "x": 0
   },
   {
