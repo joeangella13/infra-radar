@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-30 items, 2026-05-15 to 2026-11-05.
+31 items, 2026-05-15 to 2026-11-09.
+
+---
+
+### Brightline West still awaiting $6bn federal loan; opening slips to late 2029 at earliest; bond tender pushed to Jan 12
+
+`2026-11-09` · Tracked situations · [Los Angeles Business Journal](https://labusinessjournal.com/special-reports/special-report-brighter-prospects/), [The Bond Buyer](https://www.bondbuyer.com/news/brightline-west-misses-nov-2-mandatory-tender-holders-extend-until-january)
+
+**Deal / players.** This is Brightline West (Las Vegas to Rancho Cucamonga), not the Florida line. LA Business Journal says it awaits a decision on a $6bn federal loan, with over $11bn of private money likely hinging on it; opening moved from early 2028 to at least late 2029, possibly 2030. Per Bond Buyer, a majority of bondholders agreed to delay the Nov 2 mandatory tender and the $400m equity-raise deadline to Jan 12, 2027, the sixth extension. The trustee appointed RPA Advisors as cash manager, and spending is trimmed to just under $43m for the rest of 2026.
+
+**Why it matters.** The project still needs the $400m equity raise and the federal loan, and each extension costs carry while a cash manager now controls spend. A later opening pushes out any revenue and raises the odds of a harder restructuring. Watch the loan decision and whether bondholders extend a seventh time in January.
+
+**Why you care.** Separate project from the Florida line he advised on, but its bond stress is a read-through for how the market treats Brightline credit while the Florida restructuring and commuter-rail talks continue.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US · id: `2026-11-09-brightline-west-still-awaiting-6bn-federal-loan-034f5e`</sub>
 
 ---
 

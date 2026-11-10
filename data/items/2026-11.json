@@ -1,5 +1,45 @@
 [
  {
+  "date": "2026-11-10",
+  "headline": "FERC large-load deadlines land: PJM compliance filing due about now, RTO show-cause responses due Nov 16 (SPP Nov 20)",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Troutman Energy Report",
+    "url": "https://www.troutmanenergyreport.com/2026/10/ferc-accepts-pjms-large-load-and-large-load-registry-definition-but-rejects-interim-resource-adequacy-service-proposal/"
+   },
+   {
+    "name": "Reslink",
+    "url": "https://www.reslink.org/blogs/ferc-interconnection-reform/"
+   },
+   {
+    "name": "FERC docket EL26-67 tracker (unofficial)",
+    "url": "https://pranava0x0.github.io/FERC-Orders-June-2026/dockets/el26-67-000-pjm/"
+   }
+  ],
+  "players": "On Oct 9 FERC accepted PJM's Large Load definition and registry (ER26-3515) but rejected its curtail-first IRAS and BYONC frameworks, and gave PJM 30 days to file the accepted pieces. Separately, show-cause orders issued June 18 to six grid operators are in abeyance; responses or Section 205 filings are due Nov 16, with SPP on Nov 20. An unofficial docket tracker says PJM plans a Section 205 filing in early-to-mid November; I did not confirm a filing was made.",
+  "why_it_matters": "The rules on who pays for grid upgrades and who gets curtailed when data centres connect decide whether co-located and behind-the-meter power is worth building. FERC rejected PJM's curtail-first design on authority and evidence grounds but kept the definition and registry. Watch what PJM and the other five operators file by Nov 16, since cost allocation changes underwriting for large-load-linked assets.",
+  "why_you_care": "Who pays for network upgrades and curtailment feeds directly into data-centre-linked power deals; mark your PJM large-load cases against the Nov 16 filings.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-10-ferc-large-load-deadlines-land-pjm-compliance-fi-ed2093",
+  "story_id": "story-ferc-large-load-deadlines-land-pjm-compl",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-09",
   "headline": "PSP Investments signs to buy 50% of Canadian home-services platform Enercare for about $1.6bn",
   "section": "sponsor_moves",
@@ -64,6 +104,87 @@
   "flags": [],
   "id": "2026-11-09-cube-infrastructure-managers-hits-587m-first-clo-47aad0",
   "story_id": "story-cube-infrastructure-managers-hits-587m-f",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "Brightline West still awaiting $6bn federal loan; opening slips to late 2029 at earliest; bond tender pushed to Jan 12",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Los Angeles Business Journal",
+    "url": "https://labusinessjournal.com/special-reports/special-report-brighter-prospects/"
+   },
+   {
+    "name": "The Bond Buyer",
+    "url": "https://www.bondbuyer.com/news/brightline-west-misses-nov-2-mandatory-tender-holders-extend-until-january"
+   }
+  ],
+  "players": "This is Brightline West (Las Vegas to Rancho Cucamonga), not the Florida line. LA Business Journal says it awaits a decision on a $6bn federal loan, with over $11bn of private money likely hinging on it; opening moved from early 2028 to at least late 2029, possibly 2030. Per Bond Buyer, a majority of bondholders agreed to delay the Nov 2 mandatory tender and the $400m equity-raise deadline to Jan 12, 2027, the sixth extension. The trustee appointed RPA Advisors as cash manager, and spending is trimmed to just under $43m for the rest of 2026.",
+  "why_it_matters": "The project still needs the $400m equity raise and the federal loan, and each extension costs carry while a cash manager now controls spend. A later opening pushes out any revenue and raises the odds of a harder restructuring. Watch the loan decision and whether bondholders extend a seventh time in January.",
+  "why_you_care": "Separate project from the Florida line he advised on, but its bond stress is a read-through for how the market treats Brightline credit while the Florida restructuring and commuter-rail talks continue.",
+  "firms": [],
+  "companies": [
+   "Brightline West"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-11-09-brightline-west-still-awaiting-6bn-federal-loan-034f5e",
+  "story_id": "story-brightline-west-still-awaiting-6bn-feder",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-08",
+  "headline": "Anthropic reportedly takes over 1.7 GW of Caterpillar gas-generator orders from OnePWR for about $3.4bn, FT says",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Dataconomy",
+    "url": "https://dataconomy.com/2026/11/09/anthropic-buys-34bn-in-gas-generators-for-data-centres/"
+   },
+   {
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
+   },
+   {
+    "name": "Business Upturn",
+    "url": "https://businessupturn.com/technology/anthropic-buys-3-4-billion-of-gas-turbines-to-power-its-ai-data-centres/"
+   }
+  ],
+  "players": "The FT reported on Nov 8, citing a person familiar, that Anthropic signed in late September to pay about $3.4bn for 1.7 GW of gas-fired generators. It takes over Caterpillar orders that Texas supplier OnePWR Solutions placed about two years earlier but could not finance. The deal includes the engineering and construction work to install them. Anthropic did not buy OnePWR, and the site was not disclosed. This is a report, not a company announcement.",
+  "why_it_matters": "At roughly $2m per MW (my arithmetic; includes install work) it is a usable price mark for on-site gas power. Anthropic first planned to buy power from the supplier, then took over its equipment orders to skip a turbine wait reported at up to six years. Watch whether other tenants own equipment rather than rent, which would hit power-as-a-service providers' contract model.",
+  "why_you_care": "Read-through for the gas-to-AI power thesis behind Sisu/Miratech: a hyperscale tenant paying for equipment directly sets a price and lead-time benchmark, and shows demand for install and service work.",
+  "firms": [],
+  "companies": [
+   "Anthropic",
+   "OnePWR Solutions",
+   "Caterpillar"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure",
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [
+   "sisu_miratech"
+  ],
+  "flags": [],
+  "id": "2026-11-08-anthropic-reportedly-takes-over-1-7-gw-of-caterp-7bf2ab",
+  "story_id": "story-anthropic-reportedly-takes-over-1-7-gw-o",
   "story_size": 1
  },
  {

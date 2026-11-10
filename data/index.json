@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T20:54:56+00:00",
+ "generated_at": "2026-11-10T18:02:48+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 410,
+ "total_items": 413,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-09"
+  "2026-11-10"
  ],
  "firms": [
   {
@@ -1293,9 +1293,9 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 30,
+   "count": 31,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-09"
   },
   {
    "key": "ftai_infrastructure",
@@ -1341,9 +1341,9 @@
    "key": "sisu_miratech",
    "label": "Sisu / Miratech",
    "note": "Distributed generation services, gas-to-AI power",
-   "count": 5,
+   "count": 6,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-08"
   },
   {
    "key": "odfjell_terminals",
@@ -1365,33 +1365,33 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 151,
+   "count": 153,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 124,
+   "count": 126,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 73,
+   "count": 74,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-10"
   },
   {
    "name": "Midstream & Gas",
-   "count": 63,
+   "count": 64,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-08"
   },
   {
    "name": "Transport & Logistics",
-   "count": 57,
+   "count": 58,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-09"
   },
   {
    "name": "Funds & Fundraising",
@@ -1407,9 +1407,9 @@
   },
   {
    "name": "Rail",
-   "count": 52,
+   "count": 53,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-09"
   },
   {
    "name": "Ports & Terminals",
@@ -1444,6 +1444,23 @@
  ],
  "items": [
   {
+   "id": "2026-11-10-ferc-large-load-deadlines-land-pjm-compliance-fi-ed2093",
+   "d": "2026-11-10",
+   "h": "FERC large-load deadlines land: PJM compliance filing due about now, RTO show-cause responses due Nov 16 (SPP Nov 20)",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-ferc-large-load-deadlines-land-pjm-compl",
+   "x": 0
+  },
+  {
    "id": "2026-11-09-psp-investments-signs-to-buy-50-of-canadian-home-9a2867",
    "d": "2026-11-09",
    "h": "PSP Investments signs to buy 50% of Canadian home-services platform Enercare for about $1.6bn",
@@ -1474,6 +1491,43 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-cube-infrastructure-managers-hits-587m-f",
+   "x": 0
+  },
+  {
+   "id": "2026-11-09-brightline-west-still-awaiting-6bn-federal-loan-034f5e",
+   "d": "2026-11-09",
+   "h": "Brightline West still awaiting $6bn federal loan; opening slips to late 2029 at earliest; bond tender pushed to Jan 12",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-brightline-west-still-awaiting-6bn-feder",
+   "x": 0
+  },
+  {
+   "id": "2026-11-08-anthropic-reportedly-takes-over-1-7-gw-of-caterp-7bf2ab",
+   "d": "2026-11-08",
+   "h": "Anthropic reportedly takes over 1.7 GW of Caterpillar gas-generator orders from OnePWR for about $3.4bn, FT says",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "sisu_miratech"
+   ],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure",
+    "Midstream & Gas"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-anthropic-reportedly-takes-over-1-7-gw-o",
    "x": 0
   },
   {

@@ -2,7 +2,21 @@
 
 Distributed generation services, gas-to-AI power
 
-5 items, 2026-01-13 to 2026-10-28.
+6 items, 2026-01-13 to 2026-11-08.
+
+---
+
+### Anthropic reportedly takes over 1.7 GW of Caterpillar gas-generator orders from OnePWR for about $3.4bn, FT says
+
+`2026-11-08` · Tracked situations · [Dataconomy](https://dataconomy.com/2026/11/09/anthropic-buys-34bn-in-gas-generators-for-data-centres/), [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers), [Business Upturn](https://businessupturn.com/technology/anthropic-buys-3-4-billion-of-gas-turbines-to-power-its-ai-data-centres/)
+
+**Deal / players.** The FT reported on Nov 8, citing a person familiar, that Anthropic signed in late September to pay about $3.4bn for 1.7 GW of gas-fired generators. It takes over Caterpillar orders that Texas supplier OnePWR Solutions placed about two years earlier but could not finance. The deal includes the engineering and construction work to install them. Anthropic did not buy OnePWR, and the site was not disclosed. This is a report, not a company announcement.
+
+**Why it matters.** At roughly $2m per MW (my arithmetic; includes install work) it is a usable price mark for on-site gas power. Anthropic first planned to buy power from the supplier, then took over its equipment orders to skip a turbine wait reported at up to six years. Watch whether other tenants own equipment rather than rent, which would hit power-as-a-service providers' contract model.
+
+**Why you care.** Read-through for the gas-to-AI power thesis behind Sisu/Miratech: a hyperscale tenant paying for equipment directly sets a price and lead-time benchmark, and shows demand for install and service work.
+
+<sub>Situations: sisu_miratech · Sectors: Power & Renewables, Digital Infrastructure, Midstream & Gas · Geo: US · id: `2026-11-08-anthropic-reportedly-takes-over-1-7-gw-of-caterp-7bf2ab`</sub>
 
 ---
 
