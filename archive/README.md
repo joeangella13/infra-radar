@@ -1,13 +1,13 @@
 # Archive
 
-413 items, 2026-01-13 to 2026-11-10.
+415 items, 2026-01-13 to 2026-11-11.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 26 items
+- [2026-11](2026-11.md) — 28 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -42,8 +42,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [KKR](firms/KKR.md) — 11 items
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 11 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
+- [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 7 items
 - [Meridiam](firms/Meridiam.md) — 7 items
-- [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 6 items
 - [IFM Investors](firms/IFM-Investors.md) — 6 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
 - [Carlyle](firms/Carlyle.md) — 4 items
@@ -59,6 +59,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Basalt Infrastructure](firms/Basalt-Infrastructure.md) — 2 items
 - [Tiger Infrastructure](firms/Tiger-Infrastructure.md) — 2 items
 - [Northleaf](firms/Northleaf.md) — 2 items
+- [CDPQ](firms/CDPQ.md) — 2 items
 - [GIC](firms/GIC.md) — 2 items
 - [MGX](firms/MGX.md) — 2 items
 - [Greenbriar Equity Group](firms/Greenbriar-Equity-Group.md) — 1 items
@@ -68,7 +69,6 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Ares](firms/Ares.md) — 1 items
 - [Actis](firms/Actis.md) — 1 items
 - [Argo Infrastructure](firms/Argo-Infrastructure.md) — 1 items
-- [CDPQ](firms/CDPQ.md) — 1 items
 - [OMERS](firms/OMERS.md) — 1 items
 - [PSP Investments](firms/PSP-Investments.md) — 1 items
 - [Mubadala](firms/Mubadala.md) — 1 items

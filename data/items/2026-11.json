@@ -1,5 +1,42 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": "Macquarie commits US$450m and La Caisse US$150m to expand India toll-road vehicle Maple Infrastructure Trust",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Investment Executive",
+    "url": "https://www.investmentexecutive.com/news/deals-bmo-closes-financing-business-sale-expands-in-australia/"
+   },
+   {
+    "name": "Morgan Stanley Investment Management",
+    "url": "https://www.morganstanley.com/im/en-us/capital-seeker/infrastructure/overview.html"
+   }
+  ],
+  "players": "Per an Investment Executive deals roundup dated Nov 11, La Caisse is partnering with Macquarie Asset Management to expand Maple Infrastructure Trust, which operates seven toll roads in India. Macquarie committed US$450m, including US$150m for future acquisitions. La Caisse committed a further US$150m. The roundup does not give the original announcement date.",
+  "why_it_matters": "The deal is a pooled platform with money set aside for further acquisitions, rather than a single-asset buy. Fresh capital from two large investors points to continued appetite for India road concessions and for building scale through add-ons. Terms such as valuation and stakes were not in the roundup, so check the primary releases for entry pricing.",
+  "why_you_care": "Macquarie, a watchlist firm, is putting new money into Indian roads; MSIP runs a separate India infrastructure strategy for privately sourced deals, so this shows what a rival is building there.",
+  "firms": [
+   "Macquarie Asset Management",
+   "CDPQ"
+  ],
+  "companies": [
+   "Maple Infrastructure Trust"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "India"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-11-macquarie-commits-us-450m-and-la-caisse-us-150m-129c6f",
+  "story_id": "story-macquarie-commits-us-450m-and-la-caisse",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-10",
   "headline": "FERC large-load deadlines land: PJM compliance filing due about now, RTO show-cause responses due Nov 16 (SPP Nov 20)",
   "section": "market_regulatory",
@@ -70,6 +107,39 @@
   "flags": [],
   "id": "2026-11-09-psp-investments-signs-to-buy-50-of-canadian-home-9a2867",
   "story_id": "story-psp-investments-signs-to-buy-50-of-canad",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-09",
+  "headline": "X-energy gets NRC construction permit for four commercial SMRs in Texas; Dow site not operating until early 2030s",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors"
+   }
+  ],
+  "players": "X-energy said Monday it received a US Nuclear Regulatory Commission construction permit to build its first four commercial reactors in Texas. TechCrunch says X-energy expects Dow's reactors to be running in the early 2030s, and no SMR is operating in the US today. Amazon's Climate Pledge Fund led X-energy's $500m Series C-1, Amazon has committed to buy 5 GW of capacity, and an April IPO raised $1bn.",
+  "why_it_matters": "A construction permit removes one big regulatory risk, but there is still no operating SMR in the US and TechCrunch expects the first units to be expensive. Cash flows are early 2030s at best, so returns hinge on build cost and long-term offtake from hyperscalers and industrial users like Dow. Watch the first-unit cost and who funds construction.",
+  "why_you_care": "A nuclear comp: it shows what is actually bankable in SMRs today (permit plus anchor offtake), which sets how much construction and cost risk you can underwrite.",
+  "firms": [],
+  "companies": [
+   "X-energy",
+   "Dow",
+   "Amazon"
+  ],
+  "sectors": [
+   "Nuclear & SMR",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-09-x-energy-gets-nrc-construction-permit-for-four-c-4fb271",
+  "story_id": "story-x-energy-gets-nrc-construction-permit-fo",
   "story_size": 1
  },
  {

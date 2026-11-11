@@ -1,6 +1,20 @@
 # CDPQ
 
-1 items, 2026-10-27 to 2026-10-27.
+2 items, 2026-10-27 to 2026-11-11.
+
+---
+
+### Macquarie commits US$450m and La Caisse US$150m to expand India toll-road vehicle Maple Infrastructure Trust
+
+`2026-11-11` · Sponsor moves · [Investment Executive](https://www.investmentexecutive.com/news/deals-bmo-closes-financing-business-sale-expands-in-australia/), [Morgan Stanley Investment Management](https://www.morganstanley.com/im/en-us/capital-seeker/infrastructure/overview.html)
+
+**Deal / players.** Per an Investment Executive deals roundup dated Nov 11, La Caisse is partnering with Macquarie Asset Management to expand Maple Infrastructure Trust, which operates seven toll roads in India. Macquarie committed US$450m, including US$150m for future acquisitions. La Caisse committed a further US$150m. The roundup does not give the original announcement date.
+
+**Why it matters.** The deal is a pooled platform with money set aside for further acquisitions, rather than a single-asset buy. Fresh capital from two large investors points to continued appetite for India road concessions and for building scale through add-ons. Terms such as valuation and stakes were not in the roundup, so check the primary releases for entry pricing.
+
+**Why you care.** Macquarie, a watchlist firm, is putting new money into Indian roads; MSIP runs a separate India infrastructure strategy for privately sourced deals, so this shows what a rival is building there.
+
+<sub>Firms: Macquarie Asset Management, CDPQ · Sectors: Transport & Logistics · Geo: India · id: `2026-11-11-macquarie-commits-us-450m-and-la-caisse-us-150m-129c6f`</sub>
 
 ---
 
