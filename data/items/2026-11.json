@@ -1,6 +1,42 @@
 [
  {
   "date": "2026-11-11",
+  "headline": "KKR and Diamondback reported to buy Five Point's 70% of Permian water platform Deep Blue in $2.1bn deal",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "AltAssets",
+    "url": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/zacua-ventures-more-than-doubles-fund-size-to-135m-with-backing-from-industrial-giants.html"
+   }
+  ],
+  "players": "KKR and Diamondback Energy have agreed to buy Five Point Infrastructure's 70% stake in Deep Blue Midland Basin, a water infrastructure platform serving oil and gas producers in West Texas. AltAssets puts the deal at a reported $2.1bn. I read only a headline and summary, so the split between buyers, the price basis, closing timing and approvals are not confirmed.",
+  "why_it_matters": "A sponsor-backed oilfield water platform is changing hands with an infrastructure investor and a producer buying together. That suggests an exit priced off producer volumes rather than a pure financial sale. The source gives no contract terms or multiple. Watch for the confirmed price, each buyer's share, and whether this becomes a comp for Permian water and midstream assets.",
+  "why_you_care": "KKR paying for a Permian water platform gives you a fresh pricing mark for energy-services infrastructure; I found no sign of MSIP involvement, so use it as a comp only.",
+  "firms": [
+   "KKR",
+   "Five Point Infrastructure"
+  ],
+  "companies": [
+   "Deep Blue Midland Basin",
+   "Diamondback Energy"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Water & Environmental"
+  ],
+  "geo": [
+   "US",
+   "Texas"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-11-kkr-and-diamondback-reported-to-buy-five-point-s-1475e5",
+  "story_id": "story-kkr-and-diamondback-reported-to-buy-five",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-11",
   "headline": "Macquarie commits US$450m and La Caisse US$150m to expand India toll-road vehicle Maple Infrastructure Trust",
   "section": "sponsor_moves",
   "sources": [

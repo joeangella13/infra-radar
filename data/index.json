@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:58:28+00:00",
+ "generated_at": "2026-11-12T18:29:05+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 415,
+ "total_items": 416,
  "months": [
   "2026-11",
   "2026-10",
@@ -88,19 +88,19 @@
    "last_seen": "2026-10-19"
   },
   {
+   "name": "KKR",
+   "watchlist": true,
+   "priority": false,
+   "count": 12,
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-11-11"
+  },
+  {
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
    "count": 11,
    "first_seen": "2026-05-07",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "name": "KKR",
-   "watchlist": true,
-   "priority": false,
-   "count": 11,
-   "first_seen": "2026-06-10",
    "last_seen": "2026-10-21"
   },
   {
@@ -334,6 +334,14 @@
    "count": 2,
    "first_seen": "2026-07-01",
    "last_seen": "2026-07-09"
+  },
+  {
+   "name": "Five Point Infrastructure",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-11-11"
   },
   {
    "name": "GIC",
@@ -838,14 +846,6 @@
    "count": 1,
    "first_seen": "2026-07-27",
    "last_seen": "2026-07-27"
-  },
-  {
-   "name": "Five Point Infrastructure",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
   },
   {
    "name": "Foresight",
@@ -1383,9 +1383,9 @@
   },
   {
    "name": "Midstream & Gas",
-   "count": 64,
+   "count": 65,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-11"
   },
   {
    "name": "Transport & Logistics",
@@ -1431,9 +1431,9 @@
   },
   {
    "name": "Water & Environmental",
-   "count": 7,
+   "count": 8,
    "first_seen": "2026-06-22",
-   "last_seen": "2026-10-19"
+   "last_seen": "2026-11-11"
   },
   {
    "name": "Mining Services",
@@ -1443,6 +1443,25 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-11-11-kkr-and-diamondback-reported-to-buy-five-point-s-1475e5",
+   "d": "2026-11-11",
+   "h": "KKR and Diamondback reported to buy Five Point's 70% of Permian water platform Deep Blue in $2.1bn deal",
+   "s": "sponsor_moves",
+   "f": [
+    "KKR",
+    "Five Point Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Midstream & Gas",
+    "Water & Environmental"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-kkr-and-diamondback-reported-to-buy-five",
+   "x": 0
+  },
   {
    "id": "2026-11-11-macquarie-commits-us-450m-and-la-caisse-us-150m-129c6f",
    "d": "2026-11-11",
