@@ -2,7 +2,21 @@
 
 Long-duration compressed air energy storage
 
-9 items, 2026-01-28 to 2026-10-13.
+10 items, 2026-01-28 to 2026-11-12.
+
+---
+
+### Hydrostor posts 'From Proven Components to Bankable Projects' as Willow Rock targets financial close in late 2026
+
+`2026-11-12` · Tracked situations · [Hydrostor](https://hydrostor.ca/), [Davies Ward Phillips & Vineberg](https://www.dwpv.com/insights/2026/hydrostor-secures-230-million-progress-projects)
+
+**Deal / players.** Hydrostor's homepage lists a Nov 12 insights post titled 'From Proven Components to Bankable Projects'; I saw only the title, not the content. Separately, in an August financing, Hydrostor secured US$230m of equity from Canada Growth Fund, Goldman Sachs Alternatives, CPP Investments, Baker Hughes, Hatch and others. That money is meant to take the 500 MW Willow Rock project toward financial close in late 2026.
+
+**Why it matters.** The bankability message points at project financing. Willow Rock's financial close is the next real test of whether lenders will fund long-duration compressed air storage at scale. The title is only a signal; there is no new financing news in this window. Watch for a close announcement or further offtake and loan news.
+
+**Why you care.** Your old deal is pitching bankability just as Willow Rock nears financial close. A completed project financing would back the thesis you underwrote and could be worth raising at MSIP.
+
+<sub>Situations: hydrostor · Sectors: Energy Transition & Storage · Geo: North America · id: `2026-11-12-hydrostor-posts-from-proven-components-to-bankab-782a40`</sub>
 
 ---
 

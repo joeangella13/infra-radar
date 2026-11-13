@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:29:05+00:00",
+ "generated_at": "2026-11-13T17:56:54+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 416,
+ "total_items": 420,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-11"
+  "2026-11-13"
  ],
  "firms": [
   {
@@ -67,9 +67,9 @@
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
-   "count": 17,
+   "count": 18,
    "first_seen": "2026-05-11",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-12"
   },
   {
    "name": "Brookfield",
@@ -302,6 +302,14 @@
    "count": 2,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-11"
+  },
+  {
+   "name": "CVC DIF",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-05-19",
+   "last_seen": "2026-11-13"
   },
   {
    "name": "Canada Growth Fund",
@@ -654,14 +662,6 @@
    "count": 1,
    "first_seen": "2026-07-06",
    "last_seen": "2026-07-06"
-  },
-  {
-   "name": "CVC DIF",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-05-19",
-   "last_seen": "2026-05-19"
   },
   {
    "name": "CalPERS",
@@ -1309,9 +1309,9 @@
    "key": "hydrostor",
    "label": "Hydrostor",
    "note": "Long-duration compressed air energy storage",
-   "count": 9,
+   "count": 10,
    "first_seen": "2026-01-28",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-11-12"
   },
   {
    "key": "logistec_termont",
@@ -1371,9 +1371,9 @@
   },
   {
    "name": "Digital Infrastructure",
-   "count": 126,
+   "count": 127,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-12"
   },
   {
    "name": "Regulatory & Policy",
@@ -1389,21 +1389,21 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 59,
+   "count": 60,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-12"
   },
   {
    "name": "Funds & Fundraising",
-   "count": 57,
+   "count": 58,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-13"
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 55,
+   "count": 56,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-12"
   },
   {
    "name": "Rail",
@@ -1413,9 +1413,9 @@
   },
   {
    "name": "Ports & Terminals",
-   "count": 46,
+   "count": 47,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-06"
+   "last_seen": "2026-11-12"
   },
   {
    "name": "Nuclear & SMR",
@@ -1443,6 +1443,73 @@
   }
  ],
  "items": [
+  {
+   "id": "2026-11-13-cvc-dif-reportedly-set-for-3bn-final-close-of-va-edc2ea",
+   "d": "2026-11-13",
+   "h": "CVC DIF reportedly set for €3bn final close of Value Add IV in November, 50% above its €2bn target",
+   "s": "market_regulatory",
+   "f": [
+    "CVC DIF"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-cvc-dif-reportedly-set-for-3bn-final-clo",
+   "x": 0
+  },
+  {
+   "id": "2026-11-12-hydrostor-posts-from-proven-components-to-bankab-782a40",
+   "d": "2026-11-12",
+   "h": "Hydrostor posts 'From Proven Components to Bankable Projects' as Willow Rock targets financial close in late 2026",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "hydrostor"
+   ],
+   "c": [
+    "Energy Transition & Storage"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-hydrostor-posts-from-proven-components-t",
+   "x": 0
+  },
+  {
+   "id": "2026-11-12-stonepeak-european-real-estate-trust-lifts-2026-ecd37d",
+   "d": "2026-11-12",
+   "h": "Stonepeak European Real Estate Trust lifts 2026 guidance in Q3; shifting toward data centres and logistics",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-stonepeak-european-real-estate-trust-lif",
+   "x": 1
+  },
+  {
+   "id": "2026-11-12-boluda-shipping-reported-to-have-bought-matrans-c0f332",
+   "d": "2026-11-12",
+   "h": "Boluda Shipping reported to have bought Matrans, a Rotterdam short-sea terminal",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Ports & Terminals"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-boluda-shipping-reported-to-have-bought",
+   "x": 0
+  },
   {
    "id": "2026-11-11-kkr-and-diamondback-reported-to-buy-five-point-s-1475e5",
    "d": "2026-11-11",

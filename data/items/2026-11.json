@@ -1,5 +1,138 @@
 [
  {
+  "date": "2026-11-13",
+  "headline": "CVC DIF reportedly set for €3bn final close of Value Add IV in November, 50% above its €2bn target",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "ION Analytics (Infralogic)",
+    "url": "https://ionanalytics.com/insights/infralogic/cvc-dif-nears-eur-3bn-final-close-for-value-add-fund/"
+   }
+  ],
+  "players": "A source told Infralogic that CVC DIF expects to hold a €3bn final close for DIF Value Add Infrastructure Fund IV in November. The fund had about €2.7bn by end-September, per CVC's Q3 update. That update confirmed the hard cap was reached but did not give its size. Fund III raised €1.6bn.",
+  "why_it_matters": "A value-add fund closing 50% over target, and nearly twice its predecessor, shows investors still want mid-market infrastructure with development pipelines and growth. More capital chasing that space means more bidders on mid-sized platform deals. The €3bn figure is from one source; CVC has not confirmed it. Watch for the formal announcement and CVC's deal pace.",
+  "why_you_care": "A well-funded rival in the mid-market value-add space is a likely bidder on the kinds of platform deals MSIP also looks at, so it sets a pricing reference.",
+  "firms": [
+   "CVC DIF"
+  ],
+  "companies": [],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "Europe",
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-13-cvc-dif-reportedly-set-for-3bn-final-close-of-va-edc2ea",
+  "story_id": "story-cvc-dif-reportedly-set-for-3bn-final-clo",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "Hydrostor posts 'From Proven Components to Bankable Projects' as Willow Rock targets financial close in late 2026",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Hydrostor",
+    "url": "https://hydrostor.ca/"
+   },
+   {
+    "name": "Davies Ward Phillips & Vineberg",
+    "url": "https://www.dwpv.com/insights/2026/hydrostor-secures-230-million-progress-projects"
+   }
+  ],
+  "players": "Hydrostor's homepage lists a Nov 12 insights post titled 'From Proven Components to Bankable Projects'; I saw only the title, not the content. Separately, in an August financing, Hydrostor secured US$230m of equity from Canada Growth Fund, Goldman Sachs Alternatives, CPP Investments, Baker Hughes, Hatch and others. That money is meant to take the 500 MW Willow Rock project toward financial close in late 2026.",
+  "why_it_matters": "The bankability message points at project financing. Willow Rock's financial close is the next real test of whether lenders will fund long-duration compressed air storage at scale. The title is only a signal; there is no new financing news in this window. Watch for a close announcement or further offtake and loan news.",
+  "why_you_care": "Your old deal is pitching bankability just as Willow Rock nears financial close. A completed project financing would back the thesis you underwrote and could be worth raising at MSIP.",
+  "firms": [],
+  "companies": [
+   "Hydrostor"
+  ],
+  "sectors": [
+   "Energy Transition & Storage"
+  ],
+  "geo": [
+   "North America"
+  ],
+  "priority": "normal",
+  "situations": [
+   "hydrostor"
+  ],
+  "flags": [],
+  "id": "2026-11-12-hydrostor-posts-from-proven-components-to-bankab-782a40",
+  "story_id": "story-hydrostor-posts-from-proven-components-t",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "Stonepeak European Real Estate Trust lifts 2026 guidance in Q3; shifting toward data centres and logistics",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Investing.com (earnings call transcript)",
+    "url": "https://ng.investing.com/news/stock-market-news/earnings-call-transcript-stonepeak-european-real-estate-trust-lifts-2026-guidance-in-q3-93CH-2801539"
+   }
+  ],
+  "players": "The trust now expects to pay at least 13.39 euro cents per security in 2026. Management cited steady underlying income, higher logistics rents and a move toward data centres and industrial property. It also said it will not redeem its SGD 100m perpetual securities at the first reset date in November.",
+  "why_it_matters": "This is a listed Stonepeak vehicle, not an infrastructure fund deal. It still shows Stonepeak pushing data centres and logistics across its platform. Skipping the perpetual call will likely raise the trust's funding cost, so watch how it refinances. It tells you little about infrastructure pricing.",
+  "why_you_care": "Background on Stonepeak's data-centre and logistics tilt in Europe; not a direct infrastructure comp, but it shows where a main rival is putting capital.",
+  "firms": [
+   "Stonepeak"
+  ],
+  "companies": [
+   "Stonepeak European Real Estate Trust"
+  ],
+  "sectors": [
+   "Digital Infrastructure",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-11-12-stonepeak-european-real-estate-trust-lifts-2026-ecd37d",
+  "story_id": "story-stonepeak-european-real-estate-trust-lif",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "Boluda Shipping reported to have bought Matrans, a Rotterdam short-sea terminal",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Heavy Lift & Project Forwarding International",
+    "url": "https://www.heavyliftpfi.com/"
+   }
+  ],
+  "players": "Boluda Shipping has acquired the Matrans terminal in Eemhaven, one of Rotterdam's main short-sea shipping hubs. The page I read gave no price, stake detail or seller.",
+  "why_it_matters": "The buyer is a shipping operator, not a financial sponsor, so this is a strategic deal for a small terminal asset. It adds a small data point on strategic buyers adding Northern European terminal capacity. With no price disclosed, it cannot be used as a valuation comp yet.",
+  "why_you_care": "Background only: no price, so it is not a usable terminal comp, but it shows strategics buying terminals in Europe alongside the sponsors.",
+  "firms": [],
+  "companies": [
+   "Boluda Shipping",
+   "Matrans"
+  ],
+  "sectors": [
+   "Ports & Terminals"
+  ],
+  "geo": [
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-12-boluda-shipping-reported-to-have-bought-matrans-c0f332",
+  "story_id": "story-boluda-shipping-reported-to-have-bought",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-11",
   "headline": "KKR and Diamondback reported to buy Five Point's 70% of Permian water platform Deep Blue in $2.1bn deal",
   "section": "sponsor_moves",

@@ -1,6 +1,20 @@
 # Stonepeak
 
-17 items, 2026-05-11 to 2026-11-02.
+18 items, 2026-05-11 to 2026-11-12.
+
+---
+
+### **[watchlist]** Stonepeak European Real Estate Trust lifts 2026 guidance in Q3; shifting toward data centres and logistics
+
+`2026-11-12` · Sponsor moves · [Investing.com (earnings call transcript)](https://ng.investing.com/news/stock-market-news/earnings-call-transcript-stonepeak-european-real-estate-trust-lifts-2026-guidance-in-q3-93CH-2801539)
+
+**Deal / players.** The trust now expects to pay at least 13.39 euro cents per security in 2026. Management cited steady underlying income, higher logistics rents and a move toward data centres and industrial property. It also said it will not redeem its SGD 100m perpetual securities at the first reset date in November.
+
+**Why it matters.** This is a listed Stonepeak vehicle, not an infrastructure fund deal. It still shows Stonepeak pushing data centres and logistics across its platform. Skipping the perpetual call will likely raise the trust's funding cost, so watch how it refinances. It tells you little about infrastructure pricing.
+
+**Why you care.** Background on Stonepeak's data-centre and logistics tilt in Europe; not a direct infrastructure comp, but it shows where a main rival is putting capital.
+
+<sub>Firms: Stonepeak · Sectors: Digital Infrastructure, Transport & Logistics · Geo: Europe · id: `2026-11-12-stonepeak-european-real-estate-trust-lifts-2026-ecd37d`</sub>
 
 ---
 
