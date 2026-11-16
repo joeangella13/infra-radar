@@ -1,6 +1,20 @@
 # Blackstone
 
-13 items, 2026-05-04 to 2026-10-19.
+14 items, 2026-05-04 to 2026-11-16.
+
+---
+
+### Blackstone Digital Infrastructure Trust signs ~$5bn deal for 75% of two AWS data-centre JVs at 7.0% initial cap rate
+
+`2026-11-16` · Sponsor moves · [Blackstone press release](https://www.blackstone.com/news/press/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/), [IREI](https://irei.com/news/blackstone-digital-infrastructure-trust-announces-5b-acquisition-of-stabilized-data-center-portfolio-4/), [Mugglehead](https://mugglehead.com/blackstone-digital-infrastructure-trust-data-centre-acquisition)
+
+**Deal / players.** Blackstone Digital Infrastructure Trust (NYSE: BXDC) signed a definitive agreement to buy a 75% majority interest in two joint ventures with AWS, in a deal valued at about $5bn at an initial cap rate of 7.0%. It is BXDC's first investment. AWS leases back 100% on a triple-net basis, with a 12-year initial term and 32 years if fully extended; close is expected in Q4 2026. One report puts the portfolio at 647 MW of powered-shell capacity, newly built.
+
+**Why it matters.** A 7.0% cap rate on a 12-year triple-net lease to an AA-rated parent (per one report) is a clean yield marker for stabilised hyperscale shells. On $5bn it implies roughly $350m of year-one base rent. Cash flow is fixed rent with long extensions, so value rests on renewals, not development risk. Watch for the debt package and whether others sell at similar yields.
+
+**Why you care.** A fresh yield comp for stabilised data-centre assets, and a sale-leaseback template to mark against MSIP's digital holdings such as Flexential if similar structures come up.
+
+<sub>Firms: Blackstone · Sectors: Digital Infrastructure · Geo: US · id: `2026-11-16-blackstone-digital-infrastructure-trust-signs-5b-24f3f1`</sub>
 
 ---
 

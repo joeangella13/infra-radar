@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-12 items, 2026-04-30 to 2026-11-06.
+13 items, 2026-04-30 to 2026-11-12.
+
+---
+
+### FTAI Infrastructure CEO buys $1.5m of stock after Q3; Long Ridge sale still due to close by end-November
+
+`2026-11-12` · Tracked situations · [MLQ.ai](https://mlq.ai/news/ftai-infrastructure-ceo-ken-nicholson-buys-15-million-of-stock), [Yahoo Finance, Q3 call summary](https://finance.yahoo.com/markets/stocks/articles/ftai-infrastructure-inc-q3-2026-133000884.html), [FTAI Infrastructure, 8-K exhibit (Sept 28)](https://www.sec.gov/Archives/edgar/data/0001899883/000114036126037763/ef20082849_ex99-1.htm)
+
+**Deal / players.** CEO Ken Nicholson bought $1.5m of FTAI Infrastructure stock three business days after Q3 results, per MLQ. The company says the roughly $1.5bn Long Ridge sale to MARA has regulatory approval and should close by end-November. It expects the sale to remove about $1.4bn of debt and cut parent-level debt service by about $25m a year. The $255m USD Group purchase (Port Arthur Terminal plus 50% of a Hardisty diluent recovery unit) is planned to close in November.
+
+**Why it matters.** The Long Ridge exit turns a capital-heavy power asset into cash and cuts debt, so the equity story shifts to rail and Jefferson. The USD Group deal adds a take-or-pay crude logistics contract and, per the company, more than doubles Jefferson's adjusted EBITDA. An insider buy ahead of closing is a small signal. Watch the Long Ridge close and Jefferson sale timing.
+
+**Why you care.** Your Rothschild deal is moving: Long Ridge closes within weeks and a Jefferson sale is planned for next year, a possible sourcing angle for MSIP.
+
+<sub>Firms: Fortress Investment Group · Situations: ftai_infrastructure · Sectors: Midstream & Gas, Power & Renewables · Geo: US · id: `2026-11-12-ftai-infrastructure-ceo-buys-1-5m-of-stock-after-5306a8`</sub>
 
 ---
 

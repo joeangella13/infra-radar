@@ -1,5 +1,76 @@
 [
  {
+  "date": "2026-11-16",
+  "headline": "Capital Infra Trust discloses six India road assets bought at 5% below independent valuation; AUM up 45%",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Investing.com, Q2 FY27 slides",
+    "url": "https://in.investing.com/news/stock-market-news/capital-infra-trust-q2-fy27-slides-6asset-acquisition-expands-aum-45-93CH-5706118"
+   }
+  ],
+  "players": "Capital Infra Trust, an Indian infrastructure investment trust that holds only annuity-based (Hybrid Annuity Model) road assets, presented Q2 and H1 FY27 results on Nov 16. It bought six assets across Himachal Pradesh, Haryana, Rajasthan, Maharashtra and Uttar Pradesh/Uttarakhand in November 2026 at an enterprise value of Rs 27,818m. That is 5.0% below the independent valuer's June 2026 figure of Rs 29,214m. It lists 12 sponsor projects with a total bid project cost of Rs 155,570m in its right-of-first-offer pipeline.",
+  "why_it_matters": "Annuity roads pay government-backed fixed amounts, so pricing is a spread over sovereign yields rather than a traffic bet. A 5% discount to the valuer's mark shows assets changing hands slightly below book. A large sponsor pipeline gives the trust repeat acquisitions, which supports its unit price. It follows Macquarie's recent toll-road vehicle expansion in India.",
+  "why_you_care": "A pricing point for Indian road assets that you can mark against; Morgan Stanley runs a separate India infrastructure strategy, so this is background for MSIP unless an India angle comes up.",
+  "firms": [],
+  "companies": [
+   "Capital Infra Trust"
+  ],
+  "sectors": [
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "India"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-capital-infra-trust-discloses-six-india-road-ass-36a10d",
+  "story_id": "story-capital-infra-trust-discloses-six-india",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "Blackstone Digital Infrastructure Trust signs ~$5bn deal for 75% of two AWS data-centre JVs at 7.0% initial cap rate",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Blackstone press release",
+    "url": "https://www.blackstone.com/news/press/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/"
+   },
+   {
+    "name": "IREI",
+    "url": "https://irei.com/news/blackstone-digital-infrastructure-trust-announces-5b-acquisition-of-stabilized-data-center-portfolio-4/"
+   },
+   {
+    "name": "Mugglehead",
+    "url": "https://mugglehead.com/blackstone-digital-infrastructure-trust-data-centre-acquisition"
+   }
+  ],
+  "players": "Blackstone Digital Infrastructure Trust (NYSE: BXDC) signed a definitive agreement to buy a 75% majority interest in two joint ventures with AWS, in a deal valued at about $5bn at an initial cap rate of 7.0%. It is BXDC's first investment. AWS leases back 100% on a triple-net basis, with a 12-year initial term and 32 years if fully extended; close is expected in Q4 2026. One report puts the portfolio at 647 MW of powered-shell capacity, newly built.",
+  "why_it_matters": "A 7.0% cap rate on a 12-year triple-net lease to an AA-rated parent (per one report) is a clean yield marker for stabilised hyperscale shells. On $5bn it implies roughly $350m of year-one base rent. Cash flow is fixed rent with long extensions, so value rests on renewals, not development risk. Watch for the debt package and whether others sell at similar yields.",
+  "why_you_care": "A fresh yield comp for stabilised data-centre assets, and a sale-leaseback template to mark against MSIP's digital holdings such as Flexential if similar structures come up.",
+  "firms": [
+   "Blackstone"
+  ],
+  "companies": [
+   "Blackstone Digital Infrastructure Trust",
+   "Amazon Web Services"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-blackstone-digital-infrastructure-trust-signs-5b-24f3f1",
+  "story_id": "story-blackstone-digital-infrastructure-trust",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-13",
   "headline": "CVC DIF reportedly set for €3bn final close of Value Add IV in November, 50% above its €2bn target",
   "section": "market_regulatory",
@@ -28,6 +99,86 @@
   "flags": [],
   "id": "2026-11-13-cvc-dif-reportedly-set-for-3bn-final-close-of-va-edc2ea",
   "story_id": "story-cvc-dif-reportedly-set-for-3bn-final-clo",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "FTAI Infrastructure CEO buys $1.5m of stock after Q3; Long Ridge sale still due to close by end-November",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "MLQ.ai",
+    "url": "https://mlq.ai/news/ftai-infrastructure-ceo-ken-nicholson-buys-15-million-of-stock"
+   },
+   {
+    "name": "Yahoo Finance, Q3 call summary",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ftai-infrastructure-inc-q3-2026-133000884.html"
+   },
+   {
+    "name": "FTAI Infrastructure, 8-K exhibit (Sept 28)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001899883/000114036126037763/ef20082849_ex99-1.htm"
+   }
+  ],
+  "players": "CEO Ken Nicholson bought $1.5m of FTAI Infrastructure stock three business days after Q3 results, per MLQ. The company says the roughly $1.5bn Long Ridge sale to MARA has regulatory approval and should close by end-November. It expects the sale to remove about $1.4bn of debt and cut parent-level debt service by about $25m a year. The $255m USD Group purchase (Port Arthur Terminal plus 50% of a Hardisty diluent recovery unit) is planned to close in November.",
+  "why_it_matters": "The Long Ridge exit turns a capital-heavy power asset into cash and cuts debt, so the equity story shifts to rail and Jefferson. The USD Group deal adds a take-or-pay crude logistics contract and, per the company, more than doubles Jefferson's adjusted EBITDA. An insider buy ahead of closing is a small signal. Watch the Long Ridge close and Jefferson sale timing.",
+  "why_you_care": "Your Rothschild deal is moving: Long Ridge closes within weeks and a Jefferson sale is planned for next year, a possible sourcing angle for MSIP.",
+  "firms": [
+   "Fortress Investment Group"
+  ],
+  "companies": [
+   "FTAI Infrastructure",
+   "MARA Holdings",
+   "USD Group"
+  ],
+  "sectors": [
+   "Midstream & Gas",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-11-12-ftai-infrastructure-ceo-buys-1-5m-of-stock-after-5306a8",
+  "story_id": "story-ftai-infrastructure-now-expects-long-rid",
+  "story_size": 2
+ },
+ {
+  "date": "2026-11-12",
+  "headline": "Infranity closes fourth senior infrastructure debt vintage at its €1.5bn target, including co-investment vehicles",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/12/infranity-raises-e1-5bn-for-fourth-infra-debt-fund/"
+   },
+   {
+    "name": "IREI",
+    "url": "https://irei.com/news/infranity-closes-fourth-vintage-of-its-senior-infrastructure-debt-strategy-at-e1-5b/"
+   }
+  ],
+  "players": "Infranity, part of Generali Investments, closed the fourth vintage of its senior infrastructure debt strategy at €1.5bn, counting the fund and its co-investment vehicles. It has made 16 European investments so far. The manager has about €15bn of assets, and the senior strategy has raised €6.65bn in total.",
+  "why_it_matters": "Senior infra debt capacity keeps growing, which supports leverage on European deals. Infranity landed on target rather than above it, unlike the oversubscribed closes at Igneo and AllianzGI earlier this month. Its CEO says it is already preparing the next vintage and cites higher margins and illiquidity premia, so watch lending terms in European sponsor deals.",
+  "why_you_care": "Lender appetite and margins feed straight into your financing assumptions on European mid-market deals, where Infranity says pricing has improved for debt providers.",
+  "firms": [],
+  "companies": [
+   "Infranity",
+   "Generali Investments"
+  ],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-12-infranity-closes-fourth-senior-infrastructure-de-973e9c",
+  "story_id": "story-infranity-closes-fourth-senior-infrastru",
   "story_size": 1
  },
  {
@@ -745,7 +896,7 @@
   "flags": [],
   "id": "2026-11-05-ftai-infrastructure-agrees-255m-purchase-of-usd-800f70",
   "story_id": "story-ftai-infrastructure-now-expects-long-rid",
-  "story_size": 1
+  "story_size": 2
  },
  {
   "date": "2026-11-04",
