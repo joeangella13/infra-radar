@@ -1,13 +1,13 @@
 # Archive
 
-424 items, 2026-01-13 to 2026-11-16.
+427 items, 2026-01-13 to 2026-11-17.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 37 items
+- [2026-11](2026-11.md) — 40 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -35,8 +35,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 
 - [MSIP](firms/MSIP.md) ◆ — 23 items
 - [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 20 items
+- [Stonepeak](firms/Stonepeak.md) — 19 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 19 items
-- [Stonepeak](firms/Stonepeak.md) — 18 items
 - [Brookfield](firms/Brookfield.md) — 15 items
 - [Blackstone](firms/Blackstone.md) — 14 items
 - [KKR](firms/KKR.md) — 12 items
@@ -46,9 +46,9 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Meridiam](firms/Meridiam.md) — 7 items
 - [IFM Investors](firms/IFM-Investors.md) — 6 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
+- [CPP Investments](firms/CPP-Investments.md) — 5 items
 - [Carlyle](firms/Carlyle.md) — 4 items
 - [Grain Management](firms/Grain-Management.md) — 4 items
-- [CPP Investments](firms/CPP-Investments.md) — 4 items
 - [Partners Group](firms/Partners-Group.md) — 3 items
 - [Copenhagen Infrastructure Partners](firms/Copenhagen-Infrastructure-Partners.md) — 3 items
 - [ArcLight](firms/ArcLight.md) — 3 items

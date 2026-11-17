@@ -1,6 +1,20 @@
 # Stonepeak
 
-18 items, 2026-05-11 to 2026-11-12.
+19 items, 2026-05-11 to 2026-11-17.
+
+---
+
+### **[watchlist]** Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share
+
+`2026-11-17` · Sponsor moves · [SAHI](https://sahi.com/news/castrol-india-announces-offer-to-acquire-26-stake-at-199-45-per-share), [Stonepeak news](https://stonepeak.com/news-insights)
+
+**Deal / players.** Motion JVCo Limited, acting with Stonepeak entities, CPP Investment Board and Castrol Limited, announced an open offer for up to 26.00% of Castrol India's public equity at ₹199.45 per share in cash. The group acting in concert includes Stonepeak Motion Holdco and Stonepeak Infrastructure Fund V entities. If tenders exceed 26%, acceptance is proportionate under SEBI takeover rules.
+
+**Why it matters.** This looks like the Indian listed-subsidiary follow-on to Stonepeak's Nov 2 completion of its 65% Castrol purchase from bp, though the source does not say so. The draw is Castrol India's distribution scale and strong cash conversion. The final stake depends on how many shares are tendered. Offer period dates and the premium to market were not in the source.
+
+**Why you care.** A rival is adding listed Indian exposure to a cash-generative lubricants business at a disclosed per-share price, a take-private style comp to mark against; MSIP also runs an India infrastructure strategy.
+
+<sub>Firms: Stonepeak, CPP Investments · Geo: India · id: `2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582`</sub>
 
 ---
 

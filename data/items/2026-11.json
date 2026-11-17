@@ -1,5 +1,43 @@
 [
  {
+  "date": "2026-11-17",
+  "headline": "Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "SAHI",
+    "url": "https://sahi.com/news/castrol-india-announces-offer-to-acquire-26-stake-at-199-45-per-share"
+   },
+   {
+    "name": "Stonepeak news",
+    "url": "https://stonepeak.com/news-insights"
+   }
+  ],
+  "players": "Motion JVCo Limited, acting with Stonepeak entities, CPP Investment Board and Castrol Limited, announced an open offer for up to 26.00% of Castrol India's public equity at ₹199.45 per share in cash. The group acting in concert includes Stonepeak Motion Holdco and Stonepeak Infrastructure Fund V entities. If tenders exceed 26%, acceptance is proportionate under SEBI takeover rules.",
+  "why_it_matters": "This looks like the Indian listed-subsidiary follow-on to Stonepeak's Nov 2 completion of its 65% Castrol purchase from bp, though the source does not say so. The draw is Castrol India's distribution scale and strong cash conversion. The final stake depends on how many shares are tendered. Offer period dates and the premium to market were not in the source.",
+  "why_you_care": "A rival is adding listed Indian exposure to a cash-generative lubricants business at a disclosed per-share price, a take-private style comp to mark against; MSIP also runs an India infrastructure strategy.",
+  "firms": [
+   "Stonepeak",
+   "CPP Investments"
+  ],
+  "companies": [
+   "Castrol India",
+   "Castrol"
+  ],
+  "sectors": [],
+  "geo": [
+   "India"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582",
+  "story_id": "story-stonepeak-cpp-and-castrol-ltd-launch-ope",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-16",
   "headline": "Capital Infra Trust discloses six India road assets bought at 5% below independent valuation; AUM up 45%",
   "section": "sector_themes",
@@ -27,6 +65,37 @@
   "flags": [],
   "id": "2026-11-16-capital-infra-trust-discloses-six-india-road-ass-36a10d",
   "story_id": "story-capital-infra-trust-discloses-six-india",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "PJM also proposes mandatory voltage and frequency ride-through standards for large data-centre loads",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "CASRAI summary",
+    "url": "https://casrai.org/news/pjm-ferc-data-center-voltage-frequency-ride-through-2026"
+   }
+  ],
+  "players": "On Nov 16 PJM filed proposed revisions to its Open Access Transmission Tariff and Manual 14B (Attachment D-2). They create a new category, Large Computational Load, with mandatory voltage and frequency ride-through requirements. The source says the aim is to prevent future load-shedding shocks. The source is a secondary summary; I did not open PJM's own filing.",
+  "why_it_matters": "Ride-through rules force large computing loads to stay online through grid disturbances instead of dropping off together. That is likely to add equipment and controls cost for data-centre developers and could become a condition of interconnection. Watch FERC's comment schedule and whether other grid operators copy it. Cost figures were not disclosed in the source.",
+  "why_you_care": "A new technical requirement on data-centre loads is a possible capex and interconnection-timing line in any PJM data-centre or co-located power underwriting at MSIP.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-pjm-also-proposes-mandatory-voltage-and-frequenc-e1dd56",
+  "story_id": "story-pjm-also-proposes-mandatory-voltage-and",
   "story_size": 1
  },
  {
@@ -68,6 +137,42 @@
   "flags": [],
   "id": "2026-11-16-blackstone-digital-infrastructure-trust-signs-5b-24f3f1",
   "story_id": "story-blackstone-digital-infrastructure-trust",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "PJM files large-load tariff revisions at FERC on Nov 16; asks for 60-day comment period and an order within 120 days",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Energy News Beat",
+    "url": "https://energynewsbeat.co/electrical-generation/pjm-asked-ferc-to-cut-grid-studies-to-12-months-data-center-groups-say-it-could-take-longer/"
+   },
+   {
+    "name": "W4NEWS",
+    "url": "https://w4news.org/ferc-five-grid-large-load-show-cause-filings-november-16-2026/"
+   }
+  ],
+  "players": "PJM filed Proposed Tariff Revisions for Large Loads, including compliance with FERC's EL26-67 show-cause order, on Nov 16. It asked for a 60-day comment period and a FERC order within 120 days. One report says the filing seeks to cut grid studies to 12 months, which data-center groups dispute. Another source says PJM's 50-MW large-load registry rules have comments due Nov 30. None of this is a FERC order yet.",
+  "why_it_matters": "This was the Nov 16 deadline flagged earlier, and PJM has now filed. How large loads are defined, studied and charged for network upgrades drives interconnection timing and cost for data-centre and co-located generation projects in PJM. Watch the Nov 30 comments and the five other RTO responses; SPP's is due Nov 20.",
+  "why_you_care": "If MSIP underwrites power or data-centre assets in PJM, study timelines and who pays for upgrades go straight into the base case; this filing sets that baseline.",
+  "firms": [],
+  "companies": [
+   "PJM Interconnection"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-pjm-files-large-load-tariff-revisions-at-ferc-on-8746a7",
+  "story_id": "story-pjm-files-large-load-tariff-revisions-at",
   "story_size": 1
  },
  {

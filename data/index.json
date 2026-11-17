@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:37:02+00:00",
+ "generated_at": "2026-11-17T19:15:55+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 424,
+ "total_items": 427,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-16"
+  "2026-11-17"
  ],
  "firms": [
   {
@@ -67,9 +67,9 @@
    "name": "Stonepeak",
    "watchlist": true,
    "priority": false,
-   "count": 18,
+   "count": 19,
    "first_seen": "2026-05-11",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Brookfield",
@@ -136,6 +136,14 @@
    "last_seen": "2026-10-22"
   },
   {
+   "name": "CPP Investments",
+   "watchlist": true,
+   "priority": false,
+   "count": 5,
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-11-17"
+  },
+  {
    "name": "Energy Capital Partners",
    "watchlist": true,
    "priority": false,
@@ -150,14 +158,6 @@
    "count": 4,
    "first_seen": "2026-02-17",
    "last_seen": "2026-06-15"
-  },
-  {
-   "name": "CPP Investments",
-   "watchlist": true,
-   "priority": false,
-   "count": 4,
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-11-02"
   },
   {
    "name": "Carlyle",
@@ -1365,21 +1365,21 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 155,
+   "count": 156,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-16"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 128,
+   "count": 130,
    "first_seen": "2026-01-15",
    "last_seen": "2026-11-16"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 74,
+   "count": 76,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-16"
   },
   {
    "name": "Midstream & Gas",
@@ -1444,6 +1444,22 @@
  ],
  "items": [
   {
+   "id": "2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582",
+   "d": "2026-11-17",
+   "h": "Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share",
+   "s": "sponsor_moves",
+   "f": [
+    "Stonepeak",
+    "CPP Investments"
+   ],
+   "u": [],
+   "c": [],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-stonepeak-cpp-and-castrol-ltd-launch-ope",
+   "x": 1
+  },
+  {
    "id": "2026-11-16-capital-infra-trust-discloses-six-india-road-ass-36a10d",
    "d": "2026-11-16",
    "h": "Capital Infra Trust discloses six India road assets bought at 5% below independent valuation; AUM up 45%",
@@ -1456,6 +1472,22 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-capital-infra-trust-discloses-six-india",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-pjm-also-proposes-mandatory-voltage-and-frequenc-e1dd56",
+   "d": "2026-11-16",
+   "h": "PJM also proposes mandatory voltage and frequency ride-through standards for large data-centre loads",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-pjm-also-proposes-mandatory-voltage-and",
    "x": 0
   },
   {
@@ -1473,6 +1505,23 @@
    "p": "high",
    "m": "2026-11",
    "t": "story-blackstone-digital-infrastructure-trust",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-pjm-files-large-load-tariff-revisions-at-ferc-on-8746a7",
+   "d": "2026-11-16",
+   "h": "PJM files large-load tariff revisions at FERC on Nov 16; asks for 60-day comment period and an order within 120 days",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-pjm-files-large-load-tariff-revisions-at",
    "x": 0
   },
   {
