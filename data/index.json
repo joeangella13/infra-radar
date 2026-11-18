@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:15:55+00:00",
+ "generated_at": "2026-11-18T18:57:11+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 427,
+ "total_items": 431,
  "months": [
   "2026-11",
   "2026-10",
@@ -88,20 +88,20 @@
    "last_seen": "2026-11-16"
   },
   {
+   "name": "EQT Infrastructure",
+   "watchlist": true,
+   "priority": false,
+   "count": 12,
+   "first_seen": "2026-05-07",
+   "last_seen": "2026-11-17"
+  },
+  {
    "name": "KKR",
    "watchlist": true,
    "priority": false,
    "count": 12,
    "first_seen": "2026-06-10",
    "last_seen": "2026-11-11"
-  },
-  {
-   "name": "EQT Infrastructure",
-   "watchlist": true,
-   "priority": false,
-   "count": 11,
-   "first_seen": "2026-05-07",
-   "last_seen": "2026-10-21"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -1293,17 +1293,17 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 31,
+   "count": 32,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-16"
   },
   {
    "key": "ftai_infrastructure",
    "label": "FTAI Infrastructure",
    "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 13,
+   "count": 14,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-16"
   },
   {
    "key": "hydrostor",
@@ -1365,13 +1365,13 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 156,
+   "count": 159,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 130,
+   "count": 132,
    "first_seen": "2026-01-15",
    "last_seen": "2026-11-16"
   },
@@ -1389,7 +1389,7 @@
   },
   {
    "name": "Transport & Logistics",
-   "count": 61,
+   "count": 62,
    "first_seen": "2026-02-17",
    "last_seen": "2026-11-16"
   },
@@ -1401,15 +1401,15 @@
   },
   {
    "name": "Energy Transition & Storage",
-   "count": 56,
+   "count": 57,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Rail",
-   "count": 53,
+   "count": 54,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-16"
   },
   {
    "name": "Ports & Terminals",
@@ -1444,6 +1444,24 @@
  ],
  "items": [
   {
+   "id": "2026-11-17-eqt-transition-infrastructure-signs-deal-to-buy-fea305",
+   "d": "2026-11-17",
+   "h": "EQT Transition Infrastructure signs deal to buy Flatiron Energy, a 24 GWh US battery-storage platform, from Hull Street Energy",
+   "s": "sponsor_moves",
+   "f": [
+    "EQT Infrastructure"
+   ],
+   "u": [],
+   "c": [
+    "Energy Transition & Storage",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-eqt-transition-infrastructure-signs-deal",
+   "x": 1
+  },
+  {
    "id": "2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582",
    "d": "2026-11-17",
    "h": "Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share",
@@ -1458,6 +1476,24 @@
    "m": "2026-11",
    "t": "story-stonepeak-cpp-and-castrol-ltd-launch-ope",
    "x": 1
+  },
+  {
+   "id": "2026-11-16-mara-launches-185m-of-8-75-long-ridge-notes-cond-67b614",
+   "d": "2026-11-16",
+   "h": "MARA launches $185m of 8.75% Long Ridge notes, conditional on closing its roughly $1.5bn purchase from FTAI Infrastructure",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-mara-launches-185m-of-8-75-long-ridge-no",
+   "x": 0
   },
   {
    "id": "2026-11-16-capital-infra-trust-discloses-six-india-road-ass-36a10d",
@@ -1505,6 +1541,40 @@
    "p": "high",
    "m": "2026-11",
    "t": "story-blackstone-digital-infrastructure-trust",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-brightline-florida-asks-court-to-drop-two-of-17-1a8be4",
+   "d": "2026-11-16",
+   "h": "Brightline Florida asks court to drop two of 17 Chapter 11 debtors after they agree to out-of-court talks with lenders holding $875m",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "brightline"
+   ],
+   "c": [
+    "Rail",
+    "Transport & Logistics"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-brightline-florida-asks-court-to-drop-tw",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-latitude-signed-data-centre-power-contracts-cove-a80489",
+   "d": "2026-11-16",
+   "h": "Latitude: signed data-centre power contracts cover about 22% of reported load; Georgia shows 12.8 GW signed against 80.1 GW reported",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-latitude-signed-data-centre-power-contra",
    "x": 0
   },
   {

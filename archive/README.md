@@ -1,13 +1,13 @@
 # Archive
 
-427 items, 2026-01-13 to 2026-11-17.
+431 items, 2026-01-13 to 2026-11-17.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 40 items
+- [2026-11](2026-11.md) — 44 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -22,8 +22,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 7 items
-- [Brightline Florida](situations/brightline.md) — 31 items
-- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 13 items
+- [Brightline Florida](situations/brightline.md) — 32 items
+- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 14 items
 - [Hydrostor](situations/hydrostor.md) — 10 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
 - [LOGISTEC / Termont](situations/logistec_termont.md) — 8 items
@@ -40,7 +40,7 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [Brookfield](firms/Brookfield.md) — 15 items
 - [Blackstone](firms/Blackstone.md) — 14 items
 - [KKR](firms/KKR.md) — 12 items
-- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 11 items
+- [EQT Infrastructure](firms/EQT-Infrastructure.md) — 12 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 8 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 7 items
 - [Meridiam](firms/Meridiam.md) — 7 items

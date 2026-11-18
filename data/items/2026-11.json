@@ -1,6 +1,51 @@
 [
  {
   "date": "2026-11-17",
+  "headline": "EQT Transition Infrastructure signs deal to buy Flatiron Energy, a 24 GWh US battery-storage platform, from Hull Street Energy",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "EQT (Cision release)",
+    "url": "https://news.cision.com/eqt/r/eqt-to-acquire-flatiron-energy--a-leading-developer-and-operator-of-battery-energy-storage-in-the-ea,c4425772"
+   },
+   {
+    "name": "Securities.io",
+    "url": "https://www.securities.io/eqt-agrees-to-acquire-flatiron-energy-and-its-24-gwh-battery-portfolio/"
+   },
+   {
+    "name": "GreentechLead",
+    "url": "https://greentechlead.com/energy-news/renewable-energy-news-amazon-flatiron-energy-revera-energy-56606"
+   }
+  ],
+  "players": "EQT Transition Infrastructure signed a definitive agreement on Nov 17 to buy Flatiron Energy from Hull Street Energy. Flatiron develops, builds and operates utility-scale batteries in New England, New York and the Mid-Atlantic. Its portfolio is 24 GWh, with 6 GWh under long-term contracts and 2 GWh under construction. Terms undisclosed; close expected in Q4 2026, subject to approvals. Santander advised EQT and Guggenheim advised Flatiron.",
+  "why_it_matters": "Only 6 GWh of the 24 GWh is under long-term contract, so most of the value is still development pipeline, not locked-in cash flow. EQT's lever is capital and speed in tight Eastern power markets, the same playbook as its Statera (UK) and Ju:niz (Germany) storage stakes. EQT expects storage in these markets to grow from 2 GWh in 2026 to 108 GWh in 2035. No price, so no multiple to mark.",
+  "why_you_care": "A direct competitor is paying for a storage developer-operator; MSIP's Torch Clean Energy is in the same solar-and-storage space, so this is a platform comp to watch once terms leak.",
+  "firms": [
+   "EQT Infrastructure"
+  ],
+  "companies": [
+   "Flatiron Energy",
+   "Hull Street Energy",
+   "EQT Transition Infrastructure"
+  ],
+  "sectors": [
+   "Energy Transition & Storage",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-11-17-eqt-transition-infrastructure-signs-deal-to-buy-fea305",
+  "story_id": "story-eqt-transition-infrastructure-signs-deal",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-17",
   "headline": "Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share",
   "section": "sponsor_moves",
   "sources": [
@@ -35,6 +80,46 @@
   ],
   "id": "2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582",
   "story_id": "story-stonepeak-cpp-and-castrol-ltd-launch-ope",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "MARA launches $185m of 8.75% Long Ridge notes, conditional on closing its roughly $1.5bn purchase from FTAI Infrastructure",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Terrain Labs",
+    "url": "https://terrainlabs.substack.com/p/mara-mara-acquisition-financing-5puy"
+   },
+   {
+    "name": "TIKR",
+    "url": "https://www.tikr.com/blog/mara-taps-8-75-debt-to-close-long-ridge-a-signed-lease-by-december-31-is-the-real-test?tlnk=yf-261117-2qv229v5"
+   }
+  ],
+  "players": "On Nov 16 MARA launched a private sale of $185m of 8.75% senior secured notes due 2032 at Long Ridge; the sale only goes ahead if the acquisition closes. The notes add to $600m of identical notes, taking the stack to $785m. FERC approved the purchase on Nov 4 and MARA says closing is expected in the coming weeks. FTAI Infrastructure agreed the sale on Apr 30 at about $1.52bn transaction value before closing adjustments.",
+  "why_it_matters": "The buyer is lining up the debt that lets the exit close, so closing risk has narrowed to financing and timing. TIKR puts annual interest on $785m at about $69m, roughly half the plant's annualised adjusted earnings. MARA's value case rests on signing AI tenants; it targets two leases by year-end but has warned they could slip. 8.75% is a useful marker for gas-to-AI power credit.",
+  "why_you_care": "Your FTAI Infrastructure deal is moving toward closing, which delevers FTAI. The 8.75% secured coupon and unsigned tenants are a ready marker for any gas-to-data-centre asset MSIP looks at.",
+  "firms": [],
+  "companies": [
+   "Long Ridge Energy & Power",
+   "MARA Holdings",
+   "FTAI Infrastructure"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US",
+   "Ohio"
+  ],
+  "priority": "normal",
+  "situations": [
+   "ftai_infrastructure"
+  ],
+  "flags": [],
+  "id": "2026-11-16-mara-launches-185m-of-8-75-long-ridge-notes-cond-67b614",
+  "story_id": "story-mara-launches-185m-of-8-75-long-ridge-no",
   "story_size": 1
  },
  {
@@ -100,6 +185,37 @@
  },
  {
   "date": "2026-11-16",
+  "headline": "Latitude: signed data-centre power contracts cover about 22% of reported load; Georgia shows 12.8 GW signed against 80.1 GW reported",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Tech Times (summarising Latitude Media)",
+    "url": "https://www.techtimes.com/articles/330794/20261116/latitude-finds-data-center-power-contracts-cover-22-reported-load-utilities-seek-power-plants.htm"
+   }
+  ],
+  "players": "Latitude Media's analysis of utility disclosures finds reported data-centre load runs 4.5 times higher than signed load, because utilities count pipelines and inquiries differently. In Georgia the gap is 12.8 GW signed versus 80.1 GW reported. Separately, Ohio voters decided 23 local data-centre measures and backed restrictions in most of them, per the Statehouse News Bureau tally cited in the piece.",
+  "why_it_matters": "Utility demand forecasts overstate what will actually be built, so plants and grid assets underwritten on headline load growth carry conversion risk. Contracted load is the number that supports cash flows; the rest is optionality. Local votes against projects add another way unsigned load never converts. Underwrite on signed megawatts and take-or-pay terms.",
+  "why_you_care": "A haircut to apply when marking power and grid deals against utility load forecasts: signed load, not reported load, should drive MSIP's data-centre-linked underwriting.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US",
+   "Georgia",
+   "Ohio"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-latitude-signed-data-centre-power-contracts-cove-a80489",
+  "story_id": "story-latitude-signed-data-centre-power-contra",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
   "headline": "Blackstone Digital Infrastructure Trust signs ~$5bn deal for 75% of two AWS data-centre JVs at 7.0% initial cap rate",
   "section": "sponsor_moves",
   "sources": [
@@ -137,6 +253,44 @@
   "flags": [],
   "id": "2026-11-16-blackstone-digital-infrastructure-trust-signs-5b-24f3f1",
   "story_id": "story-blackstone-digital-infrastructure-trust",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "Brightline Florida asks court to drop two of 17 Chapter 11 debtors after they agree to out-of-court talks with lenders holding $875m",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "Law360",
+    "url": "https://www.law360.com/florida/articles/2550593"
+   },
+   {
+    "name": "KTLA",
+    "url": "https://ktla.com/news/brightline-bankruptcy-socal-to-las-vegas-impact/"
+   }
+  ],
+  "players": "Per Law360 (Nov 16), Brightline Florida urged the New Jersey bankruptcy court to dismiss two of its 17 debtors from the Chapter 11 case. Those two entities agreed with lenders holding $875m in claims to resume debt talks outside court. The Law360 summary does not name the two entities. Background: Brightline Florida filed in September seeking to cut nearly $6bn of debt, with stakeholders adding $490m of long-term capital, per KTLA.",
+  "why_it_matters": "A lender group owed $875m is choosing private negotiation over the court process, which suggests the debt cut is being settled creditor group by group rather than in one plan. That can shorten the case but leaves open who ends up with the equity and what the final capital structure is. Watch which entities are dropped and whether other lender groups follow.",
+  "why_you_care": "This is your Rothschild deal's capital structure being reworked in court. The ridership thesis is separate from the debt, so any equity or credit angle for MSIP is worth flagging.",
+  "firms": [],
+  "companies": [
+   "Brightline Florida"
+  ],
+  "sectors": [
+   "Rail",
+   "Transport & Logistics"
+  ],
+  "geo": [
+   "US",
+   "Florida"
+  ],
+  "priority": "high",
+  "situations": [
+   "brightline"
+  ],
+  "flags": [],
+  "id": "2026-11-16-brightline-florida-asks-court-to-drop-two-of-17-1a8be4",
+  "story_id": "story-brightline-florida-asks-court-to-drop-tw",
   "story_size": 1
  },
  {

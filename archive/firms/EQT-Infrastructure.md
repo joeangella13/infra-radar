@@ -1,6 +1,20 @@
 # EQT Infrastructure
 
-11 items, 2026-05-07 to 2026-10-21.
+12 items, 2026-05-07 to 2026-11-17.
+
+---
+
+### **[watchlist]** EQT Transition Infrastructure signs deal to buy Flatiron Energy, a 24 GWh US battery-storage platform, from Hull Street Energy
+
+`2026-11-17` · Sponsor moves · [EQT (Cision release)](https://news.cision.com/eqt/r/eqt-to-acquire-flatiron-energy--a-leading-developer-and-operator-of-battery-energy-storage-in-the-ea,c4425772), [Securities.io](https://www.securities.io/eqt-agrees-to-acquire-flatiron-energy-and-its-24-gwh-battery-portfolio/), [GreentechLead](https://greentechlead.com/energy-news/renewable-energy-news-amazon-flatiron-energy-revera-energy-56606)
+
+**Deal / players.** EQT Transition Infrastructure signed a definitive agreement on Nov 17 to buy Flatiron Energy from Hull Street Energy. Flatiron develops, builds and operates utility-scale batteries in New England, New York and the Mid-Atlantic. Its portfolio is 24 GWh, with 6 GWh under long-term contracts and 2 GWh under construction. Terms undisclosed; close expected in Q4 2026, subject to approvals. Santander advised EQT and Guggenheim advised Flatiron.
+
+**Why it matters.** Only 6 GWh of the 24 GWh is under long-term contract, so most of the value is still development pipeline, not locked-in cash flow. EQT's lever is capital and speed in tight Eastern power markets, the same playbook as its Statera (UK) and Ju:niz (Germany) storage stakes. EQT expects storage in these markets to grow from 2 GWh in 2026 to 108 GWh in 2035. No price, so no multiple to mark.
+
+**Why you care.** A direct competitor is paying for a storage developer-operator; MSIP's Torch Clean Energy is in the same solar-and-storage space, so this is a platform comp to watch once terms leak.
+
+<sub>Firms: EQT Infrastructure · Sectors: Energy Transition & Storage, Power & Renewables · Geo: US · id: `2026-11-17-eqt-transition-infrastructure-signs-deal-to-buy-fea305`</sub>
 
 ---
 

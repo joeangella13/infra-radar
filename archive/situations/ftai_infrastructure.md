@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-13 items, 2026-04-30 to 2026-11-12.
+14 items, 2026-04-30 to 2026-11-16.
+
+---
+
+### MARA launches $185m of 8.75% Long Ridge notes, conditional on closing its roughly $1.5bn purchase from FTAI Infrastructure
+
+`2026-11-16` · Tracked situations · [Terrain Labs](https://terrainlabs.substack.com/p/mara-mara-acquisition-financing-5puy), [TIKR](https://www.tikr.com/blog/mara-taps-8-75-debt-to-close-long-ridge-a-signed-lease-by-december-31-is-the-real-test?tlnk=yf-261117-2qv229v5)
+
+**Deal / players.** On Nov 16 MARA launched a private sale of $185m of 8.75% senior secured notes due 2032 at Long Ridge; the sale only goes ahead if the acquisition closes. The notes add to $600m of identical notes, taking the stack to $785m. FERC approved the purchase on Nov 4 and MARA says closing is expected in the coming weeks. FTAI Infrastructure agreed the sale on Apr 30 at about $1.52bn transaction value before closing adjustments.
+
+**Why it matters.** The buyer is lining up the debt that lets the exit close, so closing risk has narrowed to financing and timing. TIKR puts annual interest on $785m at about $69m, roughly half the plant's annualised adjusted earnings. MARA's value case rests on signing AI tenants; it targets two leases by year-end but has warned they could slip. 8.75% is a useful marker for gas-to-AI power credit.
+
+**Why you care.** Your FTAI Infrastructure deal is moving toward closing, which delevers FTAI. The 8.75% secured coupon and unsigned tenants are a ready marker for any gas-to-data-centre asset MSIP looks at.
+
+<sub>Situations: ftai_infrastructure · Sectors: Power & Renewables, Digital Infrastructure · Geo: US, Ohio · id: `2026-11-16-mara-launches-185m-of-8-75-long-ridge-notes-cond-67b614`</sub>
 
 ---
 

@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-31 items, 2026-05-15 to 2026-11-09.
+32 items, 2026-05-15 to 2026-11-16.
+
+---
+
+### Brightline Florida asks court to drop two of 17 Chapter 11 debtors after they agree to out-of-court talks with lenders holding $875m
+
+`2026-11-16` · Tracked situations · [Law360](https://www.law360.com/florida/articles/2550593), [KTLA](https://ktla.com/news/brightline-bankruptcy-socal-to-las-vegas-impact/)
+
+**Deal / players.** Per Law360 (Nov 16), Brightline Florida urged the New Jersey bankruptcy court to dismiss two of its 17 debtors from the Chapter 11 case. Those two entities agreed with lenders holding $875m in claims to resume debt talks outside court. The Law360 summary does not name the two entities. Background: Brightline Florida filed in September seeking to cut nearly $6bn of debt, with stakeholders adding $490m of long-term capital, per KTLA.
+
+**Why it matters.** A lender group owed $875m is choosing private negotiation over the court process, which suggests the debt cut is being settled creditor group by group rather than in one plan. That can shorten the case but leaves open who ends up with the equity and what the final capital structure is. Watch which entities are dropped and whether other lender groups follow.
+
+**Why you care.** This is your Rothschild deal's capital structure being reworked in court. The ridership thesis is separate from the debt, so any equity or credit angle for MSIP is worth flagging.
+
+<sub>Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US, Florida · id: `2026-11-16-brightline-florida-asks-court-to-drop-two-of-17-1a8be4`</sub>
 
 ---
 
