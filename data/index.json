@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:57:11+00:00",
+ "generated_at": "2026-11-19T19:05:14+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 431,
+ "total_items": 436,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-17"
+  "2026-11-18"
  ],
  "firms": [
   {
@@ -51,9 +51,9 @@
    "name": "Fortress Investment Group",
    "watchlist": true,
    "priority": false,
-   "count": 20,
+   "count": 21,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-16"
   },
   {
    "name": "I Squared Capital",
@@ -936,6 +936,14 @@
    "last_seen": "2026-06-26"
   },
   {
+   "name": "Igneo",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16"
+  },
+  {
    "name": "Igneo Infrastructure Partners",
    "watchlist": false,
    "priority": false,
@@ -1293,7 +1301,7 @@
    "key": "brightline",
    "label": "Brightline Florida",
    "note": "Passenger rail; bond restructuring, ridership, commuter rail",
-   "count": 32,
+   "count": 33,
    "first_seen": "2026-05-15",
    "last_seen": "2026-11-16"
   },
@@ -1301,9 +1309,9 @@
    "key": "ftai_infrastructure",
    "label": "FTAI Infrastructure",
    "note": "Transtar, Long Ridge, Jefferson, Repauno",
-   "count": 14,
+   "count": 15,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "key": "hydrostor",
@@ -1317,9 +1325,9 @@
    "key": "logistec_termont",
    "label": "LOGISTEC / Termont",
    "note": "Canadian port terminal operations",
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-18"
   },
   {
    "key": "avangrid_arclight",
@@ -1349,9 +1357,9 @@
    "key": "odfjell_terminals",
    "label": "Odfjell Terminals",
    "note": "Liquids tank terminals, Houston and Charleston",
-   "count": 4,
+   "count": 5,
    "first_seen": "2026-05-06",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-16"
   },
   {
    "key": "jennmar_weber",
@@ -1365,33 +1373,33 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 159,
+   "count": 160,
    "first_seen": "2026-01-13",
    "last_seen": "2026-11-17"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 132,
+   "count": 133,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 76,
+   "count": 77,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Midstream & Gas",
-   "count": 66,
+   "count": 68,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Transport & Logistics",
-   "count": 62,
+   "count": 64,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-18"
   },
   {
    "name": "Funds & Fundraising",
@@ -1407,15 +1415,15 @@
   },
   {
    "name": "Rail",
-   "count": 54,
+   "count": 56,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Ports & Terminals",
-   "count": 47,
+   "count": 50,
    "first_seen": "2026-02-17",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-18"
   },
   {
    "name": "Nuclear & SMR",
@@ -1444,6 +1452,24 @@
  ],
  "items": [
   {
+   "id": "2026-11-18-shipping-lines-keep-buying-port-terminal-stakes-0e0599",
+   "d": "2026-11-18",
+   "h": "Shipping lines keep buying port-terminal stakes; Hapag-Lloyd completed 25% of APM Terminals Maasvlakte II on Nov 9",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "logistec_termont"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Transport & Logistics"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-shipping-lines-keep-buying-port-terminal",
+   "x": 0
+  },
+  {
    "id": "2026-11-17-eqt-transition-infrastructure-signs-deal-to-buy-fea305",
    "d": "2026-11-17",
    "h": "EQT Transition Infrastructure signs deal to buy Flatiron Energy, a 24 GWh US battery-storage platform, from Hull Street Energy",
@@ -1462,6 +1488,23 @@
    "x": 1
   },
   {
+   "id": "2026-11-17-grid-operators-file-large-load-reforms-at-ferc-p-0d7e78",
+   "d": "2026-11-17",
+   "h": "Grid operators file large-load reforms at FERC; PJM proposes one-year joint study of large-load and generation requests",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-grid-operators-file-large-load-reforms-a",
+   "x": 0
+  },
+  {
    "id": "2026-11-17-stonepeak-cpp-and-castrol-ltd-launch-open-offer-e95582",
    "d": "2026-11-17",
    "h": "Stonepeak, CPP and Castrol Ltd launch open offer for up to 26% of Castrol India at ₹199.45 a share",
@@ -1476,6 +1519,25 @@
    "m": "2026-11",
    "t": "story-stonepeak-cpp-and-castrol-ltd-launch-ope",
    "x": 1
+  },
+  {
+   "id": "2026-11-17-ftai-infrastructure-closes-255m-usd-group-deal-o-b804a2",
+   "d": "2026-11-17",
+   "h": "FTAI Infrastructure closes $255m USD Group deal on Nov 16, adding a Port Arthur terminal to Jefferson",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "ftai_infrastructure"
+   ],
+   "c": [
+    "Midstream & Gas",
+    "Ports & Terminals",
+    "Rail"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-ftai-s-jefferson-signs-deal-to-buy-port",
+   "x": 0
   },
   {
    "id": "2026-11-16-mara-launches-185m-of-8-75-long-ridge-notes-cond-67b614",
@@ -1493,6 +1555,26 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-mara-launches-185m-of-8-75-long-ridge-no",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-adani-ports-purchase-of-evos-from-igneo-valued-a-af2850",
+   "d": "2026-11-16",
+   "h": "Adani Ports' purchase of Evos from Igneo valued at €2.56bn enterprise value; source does not state deal status",
+   "s": "tracked_situations",
+   "f": [
+    "Igneo"
+   ],
+   "u": [
+    "odfjell_terminals"
+   ],
+   "c": [
+    "Ports & Terminals",
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-adani-ports-purchase-of-evos-from-igneo",
    "x": 0
   },
   {
@@ -1544,6 +1626,22 @@
    "x": 0
   },
   {
+   "id": "2026-11-16-latitude-signed-data-centre-power-contracts-cove-a80489",
+   "d": "2026-11-16",
+   "h": "Latitude: signed data-centre power contracts cover about 22% of reported load; Georgia shows 12.8 GW signed against 80.1 GW reported",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-latitude-signed-data-centre-power-contra",
+   "x": 0
+  },
+  {
    "id": "2026-11-16-brightline-florida-asks-court-to-drop-two-of-17-1a8be4",
    "d": "2026-11-16",
    "h": "Brightline Florida asks court to drop two of 17 Chapter 11 debtors after they agree to out-of-court talks with lenders holding $875m",
@@ -1562,19 +1660,23 @@
    "x": 0
   },
   {
-   "id": "2026-11-16-latitude-signed-data-centre-power-contracts-cove-a80489",
+   "id": "2026-11-16-brightline-morgan-stanley-senior-funding-is-agen-858bf5",
    "d": "2026-11-16",
-   "h": "Latitude: signed data-centre power contracts cover about 22% of reported load; Georgia shows 12.8 GW signed against 80.1 GW reported",
-   "s": "sector_themes",
-   "f": [],
-   "u": [],
+   "h": "Brightline: Morgan Stanley Senior Funding is agent on the two facilities ($113m, $775m) being pulled from Chapter 11",
+   "s": "tracked_situations",
+   "f": [
+    "Fortress Investment Group"
+   ],
+   "u": [
+    "brightline"
+   ],
    "c": [
-    "Digital Infrastructure",
-    "Power & Renewables"
+    "Rail",
+    "Transport & Logistics"
    ],
    "p": "normal",
    "m": "2026-11",
-   "t": "story-latitude-signed-data-centre-power-contra",
+   "t": "story-brightline-morgan-stanley-senior-funding",
    "x": 0
   },
   {

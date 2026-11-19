@@ -2,7 +2,21 @@
 
 Canadian port terminal operations
 
-8 items, 2026-02-17 to 2026-10-27.
+9 items, 2026-02-17 to 2026-11-18.
+
+---
+
+### Shipping lines keep buying port-terminal stakes; Hapag-Lloyd completed 25% of APM Terminals Maasvlakte II on Nov 9
+
+`2026-11-18` · Tracked situations · [El Estrecho Digital](https://www.elestrechodigital.com/en/2026/11/18/major-shipping-lines-accelerate-acquisitions-of-stakes-in-port-terminals)
+
+**Deal / players.** Hapag-Lloyd completed its purchase of 25% of APM Terminals Maasvlakte II in Rotterdam on Nov 9. MSC's TiL bought 100% of Terminal Portuario Paracas in Peru. In June, Hapag-Lloyd's Hanseatic Global Terminals signed a preliminary agreement for 20% of Eurogate Container Terminal Hamburg and to lift its TC3 Tanger Med stake from 10% to 20%.
+
+**Why it matters.** Carriers are buying terminal stakes because they want guaranteed berth access, not just a financial return, so they can pay prices that reflect that value. That pushes up entry prices for infrastructure funds bidding on the same terminals. Carrier-backed minority stakes can also bring volume commitments that support the cash flows. Watch for funds partnering with carriers.
+
+**Why you care.** A pricing and competition point for any container-terminal idea at MSIP: carriers can outbid on strategic value, and a carrier partner could be a way to win one.
+
+<sub>Situations: logistec_termont · Sectors: Ports & Terminals, Transport & Logistics · Geo: Netherlands, Germany, Morocco, Peru · id: `2026-11-18-shipping-lines-keep-buying-port-terminal-stakes-0e0599`</sub>
 
 ---
 

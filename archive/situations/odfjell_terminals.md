@@ -2,7 +2,21 @@
 
 Liquids tank terminals, Houston and Charleston
 
-4 items, 2026-05-06 to 2026-11-05.
+5 items, 2026-05-06 to 2026-11-16.
+
+---
+
+### Adani Ports' purchase of Evos from Igneo valued at €2.56bn enterprise value; source does not state deal status
+
+`2026-11-16` · Tracked situations · [Business Standard](https://www.business-standard.com/companies/news/markets-stock-market-adani-ports-growth-outlook-evos-acquisition-q2fy27-results-126111500048_1.html)
+
+**Deal / players.** Business Standard reports Adani Ports and SEZ is acquiring 100% of Netherlands-based Evos from Igneo Infrastructure Partners at an enterprise value of €2.56bn. The deal lifts Adani's footprint from 20 to 28 ports and terminals across 10 countries and more than doubles its liquid storage capacity. The article does not give signing or closing status, or an EBITDA multiple.
+
+**Why it matters.** This is a large liquids-storage exit by an infrastructure fund to a strategic buyer, which is a useful price marker for tank terminals. No multiple is disclosed, so the read-across needs Evos's EBITDA from other sources. It also shows strategics paying for scale in liquid storage and energy-transition fuels. Confirm the announcement date and terms from the primary release.
+
+**Why you care.** A fresh €2.56bn comp for liquids terminals, the same asset class as Odfjell Terminals; compare it with Odfjell's Houston and Charleston economics before using it in any pricing view.
+
+<sub>Firms: Igneo · Situations: odfjell_terminals · Sectors: Ports & Terminals, Midstream & Gas · Geo: Netherlands, India · id: `2026-11-16-adani-ports-purchase-of-evos-from-igneo-valued-a-af2850`</sub>
 
 ---
 

@@ -2,7 +2,21 @@
 
 Passenger rail; bond restructuring, ridership, commuter rail
 
-32 items, 2026-05-15 to 2026-11-16.
+33 items, 2026-05-15 to 2026-11-16.
+
+---
+
+### Brightline: Morgan Stanley Senior Funding is agent on the two facilities ($113m, $775m) being pulled from Chapter 11
+
+`2026-11-16` · Tracked situations · [Bloomberg Law](https://news.bloomberglaw.com/bankruptcy-law/brightline-seeks-to-dismiss-900-million-debtors-from-chapter-11), [Law360](https://www.law360.com/articles/2550593/lenders-owed-875m-reach-deal-with-2-brightline-debtors)
+
+**Deal / players.** Per a Nov 13 court filing, BL Florida LLC and BLH Investment LLC borrowed $113m and $775m under credit facilities. Morgan Stanley Senior Funding, Inc. is lender and administrative agent to BL Florida and administrative agent to BLH Investment. Both entities signed forbearance agreements with the lenders while they pursue an out-of-court fix.
+
+**Why it matters.** This adds the lender names to the archived dismissal request. The two entities are being moved out of the court process, with forbearance in place, which suggests lenders prefer a negotiated outcome to a court-set one. Creditors holding about $4.6bn of debt backed the wider exit plan in September. Watch whether the out-of-court talks produce a deal.
+
+**Why you care.** A Morgan Stanley entity sits on the lender side of your old Brightline deal. The sources show no MSIP link, but check with compliance before any Brightline work.
+
+<sub>Firms: Fortress Investment Group · Situations: brightline · Sectors: Rail, Transport & Logistics · Geo: US · id: `2026-11-16-brightline-morgan-stanley-senior-funding-is-agen-858bf5`</sub>
 
 ---
 

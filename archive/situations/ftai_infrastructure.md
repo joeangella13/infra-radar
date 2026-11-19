@@ -2,7 +2,21 @@
 
 Transtar, Long Ridge, Jefferson, Repauno
 
-14 items, 2026-04-30 to 2026-11-16.
+15 items, 2026-04-30 to 2026-11-17.
+
+---
+
+### FTAI Infrastructure closes $255m USD Group deal on Nov 16, adding a Port Arthur terminal to Jefferson
+
+`2026-11-17` · Tracked situations · [Investing.com (Jones Trading note)](https://in.investing.com/news/stock-market-news/jones-trading-reiterates-buy-on-ftai-infrastructure-stock-93CH-5709973), [Motley Fool – FTAI Infrastructure Q3 2026 call transcript](https://www.fool.com/earnings/call-transcripts/2026/11/06/ftai-infrastructure-fip-q3-2026-earnings-call-transcript/)
+
+**Deal / players.** FTAI Infrastructure completed its acquisition of USD Group's Port Arthur terminal and a 50% interest in the Hardisty diluent recovery unit on Nov 16, on a $255m enterprise value. Jones Trading says the deal needed effectively no parent-level cash, and it kept a Buy rating and $8.75 target with the stock at $3.76. The Long Ridge sale to MARA is still due to close by end-November.
+
+**Why it matters.** The deal adds a rail-connected crude terminal and a 50% diluent recovery unit to Jefferson. Management says this should double the segment's adjusted EBITDA ahead of a potential 2027 sale. It cost almost no parent cash, so it grows the asset a buyer will price. Watch the Long Ridge close by end-November and when a Jefferson sale process starts.
+
+**Why you care.** Your old deal is being bulked up for a 2027 sale; if a process starts, Jefferson is a credible sourcing angle to raise at MSIP.
+
+<sub>Situations: ftai_infrastructure · Sectors: Midstream & Gas, Ports & Terminals, Rail · Geo: US · id: `2026-11-17-ftai-infrastructure-closes-255m-usd-group-deal-o-b804a2`</sub>
 
 ---
 

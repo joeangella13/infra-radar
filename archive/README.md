@@ -1,13 +1,13 @@
 # Archive
 
-431 items, 2026-01-13 to 2026-11-17.
+436 items, 2026-01-13 to 2026-11-18.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 44 items
+- [2026-11](2026-11.md) — 49 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -22,19 +22,19 @@ monthly file; items are additionally cross-filed by situation and by firm.
 ## Tracked situations
 
 - [Avangrid / ArcLight Renewables](situations/avangrid_arclight.md) — 7 items
-- [Brightline Florida](situations/brightline.md) — 32 items
-- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 14 items
+- [Brightline Florida](situations/brightline.md) — 33 items
+- [FTAI Infrastructure](situations/ftai_infrastructure.md) — 15 items
 - [Hydrostor](situations/hydrostor.md) — 10 items
 - [Jennmar / Weber Mining](situations/jennmar_weber.md) — 2 items
-- [LOGISTEC / Termont](situations/logistec_termont.md) — 8 items
+- [LOGISTEC / Termont](situations/logistec_termont.md) — 9 items
 - [McDermott / NMDC](situations/mcdermott_nmdc.md) — 7 items
-- [Odfjell Terminals](situations/odfjell_terminals.md) — 4 items
+- [Odfjell Terminals](situations/odfjell_terminals.md) — 5 items
 - [Sisu / Miratech](situations/sisu_miratech.md) — 6 items
 
 ## Firms
 
 - [MSIP](firms/MSIP.md) ◆ — 23 items
-- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 20 items
+- [Fortress Investment Group](firms/Fortress-Investment-Group.md) — 21 items
 - [Stonepeak](firms/Stonepeak.md) — 19 items
 - [I Squared Capital](firms/I-Squared-Capital.md) — 19 items
 - [Brookfield](firms/Brookfield.md) — 15 items
