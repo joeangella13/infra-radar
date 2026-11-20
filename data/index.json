@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:05:14+00:00",
+ "generated_at": "2026-11-20T18:41:53+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 436,
+ "total_items": 439,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,7 +36,7 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-18"
+  "2026-11-19"
  ],
  "firms": [
   {
@@ -91,7 +91,7 @@
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
-   "count": 12,
+   "count": 13,
    "first_seen": "2026-05-07",
    "last_seen": "2026-11-17"
   },
@@ -107,9 +107,9 @@
    "name": "Global Infrastructure Partners",
    "watchlist": true,
    "priority": false,
-   "count": 8,
+   "count": 9,
    "first_seen": "2026-05-15",
-   "last_seen": "2026-09-24"
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Macquarie Asset Management",
@@ -310,6 +310,14 @@
    "count": 2,
    "first_seen": "2026-05-19",
    "last_seen": "2026-11-13"
+  },
+  {
+   "name": "CalPERS",
+   "watchlist": false,
+   "priority": false,
+   "count": 2,
+   "first_seen": "2026-06-01",
+   "last_seen": "2026-11-17"
   },
   {
    "name": "Canada Growth Fund",
@@ -662,14 +670,6 @@
    "count": 1,
    "first_seen": "2026-07-06",
    "last_seen": "2026-07-06"
-  },
-  {
-   "name": "CalPERS",
-   "watchlist": false,
-   "priority": false,
-   "count": 1,
-   "first_seen": "2026-06-01",
-   "last_seen": "2026-06-01"
   },
   {
    "name": "California Community Power",
@@ -1176,6 +1176,14 @@
    "last_seen": "2026-06-26"
   },
   {
+   "name": "Qatar Investment Authority",
+   "watchlist": false,
+   "priority": false,
+   "count": 1,
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
    "name": "Quinbrook",
    "watchlist": true,
    "priority": false,
@@ -1373,27 +1381,27 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 160,
+   "count": 162,
    "first_seen": "2026-01-13",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-19"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 133,
+   "count": 134,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-19"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 77,
+   "count": 79,
    "first_seen": "2026-05-04",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-19"
   },
   {
    "name": "Midstream & Gas",
-   "count": 68,
+   "count": 69,
    "first_seen": "2026-04-30",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-19"
   },
   {
    "name": "Transport & Logistics",
@@ -1452,6 +1460,38 @@
  ],
  "items": [
   {
+   "id": "2026-11-19-illinois-lawmakers-debate-data-centre-bill-requi-44cedd",
+   "d": "2026-11-19",
+   "h": "Illinois lawmakers debate data-centre bill requiring new green capacity; gas and nuclear not counted",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure",
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-illinois-lawmakers-debate-data-centre-bi",
+   "x": 0
+  },
+  {
+   "id": "2026-11-19-energy-transfer-completes-vaquero-midstream-purc-04fed0",
+   "d": "2026-11-19",
+   "h": "Energy Transfer completes Vaquero Midstream purchase: $1.95bn cash plus about 33.3m units",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-energy-transfer-agrees-to-buy-vaquero-mi",
+   "x": 0
+  },
+  {
    "id": "2026-11-18-shipping-lines-keep-buying-port-terminal-stakes-0e0599",
    "d": "2026-11-18",
    "h": "Shipping lines keep buying port-terminal stakes; Hapag-Lloyd completed 25% of APM Terminals Maasvlakte II on Nov 9",
@@ -1468,6 +1508,27 @@
    "m": "2026-11",
    "t": "story-shipping-lines-keep-buying-port-terminal",
    "x": 0
+  },
+  {
+   "id": "2026-11-17-aes-gets-final-ferc-approval-for-gip-eqt-take-pr-48a6c4",
+   "d": "2026-11-17",
+   "h": "AES gets final FERC approval for GIP/EQT take-private; closing expected Dec 2",
+   "s": "sponsor_moves",
+   "f": [
+    "EQT Infrastructure",
+    "Global Infrastructure Partners",
+    "CalPERS",
+    "Qatar Investment Authority"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables",
+    "Regulatory & Policy"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-aes-gets-final-ferc-approval-for-gip-eqt",
+   "x": 1
   },
   {
    "id": "2026-11-17-eqt-transition-infrastructure-signs-deal-to-buy-fea305",

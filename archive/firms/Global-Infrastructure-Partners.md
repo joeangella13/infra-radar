@@ -1,6 +1,20 @@
 # Global Infrastructure Partners
 
-8 items, 2026-05-15 to 2026-09-24.
+9 items, 2026-05-15 to 2026-11-17.
+
+---
+
+### **[watchlist]** AES gets final FERC approval for GIP/EQT take-private; closing expected Dec 2
+
+`2026-11-17` · Sponsor moves · [PR Newswire (AES release)](https://www.prnewswire.com/news-releases/aes-receives-final-regulatory-approval-for-acquisition-by-consortium-led-by-global-infrastructure-partners-and-eqt-closing-expected-december-2-2026-302942908.html), [Blue Vault (deal terms, March 2026)](https://bluevaultpartners.com/consortium-led-by-global-infrastructure-partners-and-eqt-agrees-to-acquire-aes/)
+
+**Deal / players.** AES said a final FERC order is the last suspensory regulatory approval needed for its acquisition by a consortium led by Global Infrastructure Partners (part of BlackRock) and the EQT Infrastructure VI fund, with CalPERS and QIA as co-underwriters. Closing is expected on December 2, 2026, subject to remaining closing conditions. The deal was announced at $15.00 a share in cash: equity value $10.7bn, enterprise value about $33.4bn, a 40.3% premium to the 30-day VWAP before the first media report.
+
+**Why it matters.** This is the largest listed-utility-style take-private in the sector and it is now effectively locked. The roughly $22.7bn gap between equity and enterprise value shows how much debt and other claims come with it. AES's regulated units (AES Indiana, AES Ohio) stay under state and federal oversight, so value will come from the growth plan and balance-sheet work. Watch the Dec 2 close and any asset sales or syndication.
+
+**Why you care.** EQT is a direct competitor, and this is the benchmark for what a sponsor pays for a regulated-plus-renewables platform; mark the 40.3% premium and ~$33.4bn EV against any US power deal MSIP looks at.
+
+<sub>Firms: EQT Infrastructure, Global Infrastructure Partners, CalPERS, Qatar Investment Authority · Sectors: Power & Renewables, Regulatory & Policy · Geo: United States · id: `2026-11-17-aes-gets-final-ferc-approval-for-gip-eqt-take-pr-48a6c4`</sub>
 
 ---
 

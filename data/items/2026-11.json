@@ -1,5 +1,75 @@
 [
  {
+  "date": "2026-11-19",
+  "headline": "Illinois lawmakers debate data-centre bill requiring new green capacity; gas and nuclear not counted",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "The Center Square via cities929.com",
+    "url": "https://www.cities929.com/2026/11/19/data-center-debate-steered-toward-renewables/"
+   }
+  ],
+  "players": "In the Illinois veto session, lawmakers weighed the POWER Act, which would tie new data-centre rules to new green energy capacity. Panel members questioned why nuclear and natural gas are left off the list of qualifying capacity. Other panel members supporting the act said they would be open to adding new or expanded nuclear in an amendment before passage. The bill has not passed.",
+  "why_it_matters": "If the bill passes as drafted, data-centre load in Illinois would be linked to renewables, not firm gas or nuclear power, changing who wins the supply contracts. An amendment adding nuclear would help owners of existing plants and new-build developers. The state's coal and gas closure deadline under the Climate Equitable Jobs Act is also seen as increasingly hard to meet. Watch for amendment text and a floor vote.",
+  "why_you_care": "Policy risk for any data-centre or power asset in Illinois or PJM-adjacent markets; if MSIP underwrites firm-power supply there, whether gas and nuclear qualify changes the thesis.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Regulatory & Policy",
+   "Digital Infrastructure",
+   "Power & Renewables"
+  ],
+  "geo": [
+   "United States",
+   "Illinois"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-19-illinois-lawmakers-debate-data-centre-bill-requi-44cedd",
+  "story_id": "story-illinois-lawmakers-debate-data-centre-bi",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-19",
+  "headline": "Energy Transfer completes Vaquero Midstream purchase: $1.95bn cash plus about 33.3m units",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "Energy Transfer (press release)",
+    "url": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-completes-acquisition-vaquero-midstream"
+   },
+   {
+    "name": "Rigzone",
+    "url": "https://www.rigzone.com/news/energy_transfer_seals_vaquero_acquisition-20-nov-2026-185135-article/"
+   },
+   {
+    "name": "Energy Transfer Form 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001276187/000127618726000070/et-20260930.htm"
+   }
+  ],
+  "players": "Energy Transfer closed its purchase of Vaquero Midstream on Nov 19, paying $1.95bn in cash and about 33.3m newly issued common units. Its 10-Q puts total consideration at about $2.63bn when the agreement was signed on Oct 6; Rigzone reports $2.625bn. The assets are the Caymus Processing Complex (three trains, about 675 MMcf/d) and about 300 miles of Delaware Basin pipeline; the seller was not named in the sources I read.",
+  "why_it_matters": "A strategic buyer paid roughly $2.6bn for contracted Permian processing and gathering, closing about six weeks after signing. Rigzone, citing the joint announcement, reports contracts with about 10 years left on average, which supports the price. The units portion shows public midstream using its own paper to compete with private capital. No multiple was disclosed, so there is no EBITDA comp yet.",
+  "why_you_care": "A recent, closed Permian midstream comp with long contracts and a strategic buyer; useful for marking MSIP's gas-pipeline underwriting, though no multiple was disclosed.",
+  "firms": [],
+  "companies": [
+   "Energy Transfer",
+   "Vaquero Midstream"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-19-energy-transfer-completes-vaquero-midstream-purc-04fed0",
+  "story_id": "story-energy-transfer-agrees-to-buy-vaquero-mi",
+  "story_size": 2
+ },
+ {
   "date": "2026-11-18",
   "headline": "Shipping lines keep buying port-terminal stakes; Hapag-Lloyd completed 25% of APM Terminals Maasvlakte II on Nov 9",
   "section": "tracked_situations",
@@ -198,6 +268,50 @@
   "id": "2026-11-17-ftai-infrastructure-closes-255m-usd-group-deal-o-b804a2",
   "story_id": "story-ftai-s-jefferson-signs-deal-to-buy-port",
   "story_size": 2
+ },
+ {
+  "date": "2026-11-17",
+  "headline": "AES gets final FERC approval for GIP/EQT take-private; closing expected Dec 2",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "PR Newswire (AES release)",
+    "url": "https://www.prnewswire.com/news-releases/aes-receives-final-regulatory-approval-for-acquisition-by-consortium-led-by-global-infrastructure-partners-and-eqt-closing-expected-december-2-2026-302942908.html"
+   },
+   {
+    "name": "Blue Vault (deal terms, March 2026)",
+    "url": "https://bluevaultpartners.com/consortium-led-by-global-infrastructure-partners-and-eqt-agrees-to-acquire-aes/"
+   }
+  ],
+  "players": "AES said a final FERC order is the last suspensory regulatory approval needed for its acquisition by a consortium led by Global Infrastructure Partners (part of BlackRock) and the EQT Infrastructure VI fund, with CalPERS and QIA as co-underwriters. Closing is expected on December 2, 2026, subject to remaining closing conditions. The deal was announced at $15.00 a share in cash: equity value $10.7bn, enterprise value about $33.4bn, a 40.3% premium to the 30-day VWAP before the first media report.",
+  "why_it_matters": "This is the largest listed-utility-style take-private in the sector and it is now effectively locked. The roughly $22.7bn gap between equity and enterprise value shows how much debt and other claims come with it. AES's regulated units (AES Indiana, AES Ohio) stay under state and federal oversight, so value will come from the growth plan and balance-sheet work. Watch the Dec 2 close and any asset sales or syndication.",
+  "why_you_care": "EQT is a direct competitor, and this is the benchmark for what a sponsor pays for a regulated-plus-renewables platform; mark the 40.3% premium and ~$33.4bn EV against any US power deal MSIP looks at.",
+  "firms": [
+   "EQT Infrastructure",
+   "Global Infrastructure Partners",
+   "CalPERS",
+   "Qatar Investment Authority"
+  ],
+  "companies": [
+   "AES",
+   "AES Indiana",
+   "AES Ohio"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Regulatory & Policy"
+  ],
+  "geo": [
+   "United States"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-11-17-aes-gets-final-ferc-approval-for-gip-eqt-take-pr-48a6c4",
+  "story_id": "story-aes-gets-final-ferc-approval-for-gip-eqt",
+  "story_size": 1
  },
  {
   "date": "2026-11-16",
