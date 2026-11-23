@@ -1,5 +1,51 @@
 [
  {
+  "date": "2026-11-20",
+  "headline": "KKR's Helix reported in talks to buy majority of EdgeCore from Partners Group at $8bn–$10bn valuation",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "Bloomberg",
+    "url": "https://bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion"
+   },
+   {
+    "name": "Investing.com (citing Bloomberg)",
+    "url": "https://investing.com/news/stock-market-news/kkr-weighs-8b-to-10b-deal-for-partners-groups-edgecore--bloomberg-5042338"
+   },
+   {
+    "name": "Benzinga",
+    "url": "https://benzinga.com/markets/private-markets/26/11/63512945/kkr-targets-8-billion-plus-edgecore-deal-as-data-center-gold-rush-continues"
+   }
+  ],
+  "players": "Bloomberg reports, citing people familiar, that KKR's Helix Digital Infrastructure is negotiating to buy a majority stake in EdgeCore Digital Infrastructure. The deal could value EdgeCore at $8bn to $10bn, and talks could end without a deal. Investing.com names Partners Group as the current owner. EdgeCore has more than 2.27 GW of leased and planned capacity across Virginia, Arizona, Nevada and California.",
+  "why_it_matters": "This is talks only, not a signed deal. If it signs, it sets a closely watched price for a mostly development-stage data-centre platform, and a way for a sponsor to cash out early AI bets. The sources do not say whether $8bn–$10bn is enterprise or equity value, or what share of capacity is leased. Watch for signing and the basis of the price.",
+  "why_you_care": "A priced majority sale of a 2.27 GW platform is a fresh mark for digital-infrastructure underwriting, including anything MSIP does around Flexential or new data-centre platforms.",
+  "firms": [
+   "KKR",
+   "Partners Group",
+   "MSIP"
+  ],
+  "companies": [
+   "EdgeCore Digital Infrastructure",
+   "Helix Digital Infrastructure",
+   "Flexential"
+  ],
+  "sectors": [
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-11-20-kkr-s-helix-reported-in-talks-to-buy-majority-of-883c63",
+  "story_id": "story-kkr-s-helix-reported-in-talks-to-buy-maj",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-19",
   "headline": "Illinois lawmakers debate data-centre bill requiring new green capacity; gas and nuclear not counted",
   "section": "market_regulatory",
@@ -68,6 +114,75 @@
   "id": "2026-11-19-energy-transfer-completes-vaquero-midstream-purc-04fed0",
   "story_id": "story-energy-transfer-agrees-to-buy-vaquero-mi",
   "story_size": 2
+ },
+ {
+  "date": "2026-11-19",
+  "headline": "US Senate passes bipartisan bill to speed approvals for data centres and power plants",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "NPR",
+    "url": "https://npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
+   }
+  ],
+  "players": "The Senate passed a bipartisan energy bill on Thursday that would speed up the approval process for data centres and power plants. Sen. Whitehouse said it would make data centres pay for the power they use. Sen. Merkley opposed it, saying it opens the way for gas-fired power for data centres while expanded renewable transmission stays subject to the administration's obstruction. The source I read does not cover House action.",
+  "why_it_matters": "Faster permitting would shorten the time to power for gas-to-power and co-located generation, which is what drives value in data-centre power platforms. The pay-for-your-power language and public pushback on data centres point to cost-allocation fights continuing. Watch for House action and the final text on permitting timelines and who pays for grid upgrades.",
+  "why_you_care": "Permitting speed is a direct input to development timelines and cost in any gas or data-centre power case you underwrite; this bill is not law yet.",
+  "firms": [],
+  "companies": [],
+  "sectors": [
+   "Regulatory & Policy",
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-19-us-senate-passes-bipartisan-bill-to-speed-approv-172557",
+  "story_id": "story-us-senate-passes-bipartisan-bill-to-spee",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-19",
+  "headline": "KKR-backed accounts invest in Gentari's Indian renewables platform, about 8 GW; terms not given",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "AD HOC NEWS",
+    "url": "https://ad-hoc-news.de/boerse/news/corporate-news/kkr-stock-gentari-stake-and-integer-deal-shape-weekly-focus/70542092"
+   },
+   {
+    "name": "KKR Media Center",
+    "url": "https://media.kkr.com/"
+   }
+  ],
+  "players": "KKR-backed accounts invested in Gentari's Indian renewables platform on Nov 19, per a secondary report. The Indian business has about 8 GW of operating, under-construction and contracted capacity across solar, wind, hybrid power and battery storage. It serves commercial, industrial and government customers. The report gives no stake size or price.",
+  "why_it_matters": "The platform mixes operating assets with a large contracted pipeline, so returns depend on finishing builds and holding a customer mix beyond utilities. With no price or stake disclosed, there is no comp yet. KKR's own release is the place to check for size and structure before treating this as a pricing point.",
+  "why_you_care": "A large sponsor is adding India renewables exposure; MSIP's India infrastructure vehicle works the same market, so this is context on who else is bidding there, not a priced comp.",
+  "firms": [
+   "KKR",
+   "MSIP"
+  ],
+  "companies": [
+   "Gentari"
+  ],
+  "sectors": [
+   "Power & Renewables"
+  ],
+  "geo": [
+   "India"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "priority_firm"
+  ],
+  "id": "2026-11-19-kkr-backed-accounts-invest-in-gentari-s-indian-r-7855c7",
+  "story_id": "story-kkr-backed-accounts-invest-in-gentari-s",
+  "story_size": 1
  },
  {
   "date": "2026-11-18",

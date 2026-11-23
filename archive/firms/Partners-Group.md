@@ -1,6 +1,20 @@
 # Partners Group
 
-3 items, 2026-07-20 to 2026-10-13.
+4 items, 2026-07-20 to 2026-11-20.
+
+---
+
+### **[watchlist]** KKR's Helix reported in talks to buy majority of EdgeCore from Partners Group at $8bn–$10bn valuation
+
+`2026-11-20` · Sponsor moves · [Bloomberg](https://bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion), [Investing.com (citing Bloomberg)](https://investing.com/news/stock-market-news/kkr-weighs-8b-to-10b-deal-for-partners-groups-edgecore--bloomberg-5042338), [Benzinga](https://benzinga.com/markets/private-markets/26/11/63512945/kkr-targets-8-billion-plus-edgecore-deal-as-data-center-gold-rush-continues)
+
+**Deal / players.** Bloomberg reports, citing people familiar, that KKR's Helix Digital Infrastructure is negotiating to buy a majority stake in EdgeCore Digital Infrastructure. The deal could value EdgeCore at $8bn to $10bn, and talks could end without a deal. Investing.com names Partners Group as the current owner. EdgeCore has more than 2.27 GW of leased and planned capacity across Virginia, Arizona, Nevada and California.
+
+**Why it matters.** This is talks only, not a signed deal. If it signs, it sets a closely watched price for a mostly development-stage data-centre platform, and a way for a sponsor to cash out early AI bets. The sources do not say whether $8bn–$10bn is enterprise or equity value, or what share of capacity is leased. Watch for signing and the basis of the price.
+
+**Why you care.** A priced majority sale of a 2.27 GW platform is a fresh mark for digital-infrastructure underwriting, including anything MSIP does around Flexential or new data-centre platforms.
+
+<sub>Firms: KKR, Partners Group, MSIP · Sectors: Digital Infrastructure · Geo: US · id: `2026-11-20-kkr-s-helix-reported-in-talks-to-buy-majority-of-883c63`</sub>
 
 ---
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:41:53+00:00",
+ "generated_at": "2026-11-23T22:08:14+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 439,
+ "total_items": 442,
  "months": [
   "2026-11",
   "2026-10",
@@ -36,16 +36,16 @@
  ],
  "date_range": [
   "2026-01-13",
-  "2026-11-19"
+  "2026-11-20"
  ],
  "firms": [
   {
    "name": "MSIP",
    "watchlist": true,
    "priority": true,
-   "count": 23,
+   "count": 25,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-11-20"
   },
   {
    "name": "Fortress Investment Group",
@@ -88,20 +88,20 @@
    "last_seen": "2026-11-16"
   },
   {
+   "name": "KKR",
+   "watchlist": true,
+   "priority": false,
+   "count": 14,
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-11-20"
+  },
+  {
    "name": "EQT Infrastructure",
    "watchlist": true,
    "priority": false,
    "count": 13,
    "first_seen": "2026-05-07",
    "last_seen": "2026-11-17"
-  },
-  {
-   "name": "KKR",
-   "watchlist": true,
-   "priority": false,
-   "count": 12,
-   "first_seen": "2026-06-10",
-   "last_seen": "2026-11-11"
   },
   {
    "name": "Global Infrastructure Partners",
@@ -176,6 +176,14 @@
    "last_seen": "2026-06-16"
   },
   {
+   "name": "Partners Group",
+   "watchlist": true,
+   "priority": false,
+   "count": 4,
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-11-20"
+  },
+  {
    "name": "ADIA",
    "watchlist": true,
    "priority": false,
@@ -230,14 +238,6 @@
    "count": 3,
    "first_seen": "2026-02-25",
    "last_seen": "2026-07-09"
-  },
-  {
-   "name": "Partners Group",
-   "watchlist": true,
-   "priority": false,
-   "count": 3,
-   "first_seen": "2026-07-20",
-   "last_seen": "2026-10-13"
   },
   {
    "name": "Antin",
@@ -1381,19 +1381,19 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 162,
+   "count": 164,
    "first_seen": "2026-01-13",
    "last_seen": "2026-11-19"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 134,
+   "count": 136,
    "first_seen": "2026-01-15",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-20"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 79,
+   "count": 80,
    "first_seen": "2026-05-04",
    "last_seen": "2026-11-19"
   },
@@ -1460,6 +1460,25 @@
  ],
  "items": [
   {
+   "id": "2026-11-20-kkr-s-helix-reported-in-talks-to-buy-majority-of-883c63",
+   "d": "2026-11-20",
+   "h": "KKR's Helix reported in talks to buy majority of EdgeCore from Partners Group at $8bn–$10bn valuation",
+   "s": "sponsor_moves",
+   "f": [
+    "KKR",
+    "Partners Group",
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Digital Infrastructure"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-kkr-s-helix-reported-in-talks-to-buy-maj",
+   "x": 1
+  },
+  {
    "id": "2026-11-19-illinois-lawmakers-debate-data-centre-bill-requi-44cedd",
    "d": "2026-11-19",
    "h": "Illinois lawmakers debate data-centre bill requiring new green capacity; gas and nuclear not counted",
@@ -1490,6 +1509,41 @@
    "m": "2026-11",
    "t": "story-energy-transfer-agrees-to-buy-vaquero-mi",
    "x": 0
+  },
+  {
+   "id": "2026-11-19-us-senate-passes-bipartisan-bill-to-speed-approv-172557",
+   "d": "2026-11-19",
+   "h": "US Senate passes bipartisan bill to speed approvals for data centres and power plants",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Power & Renewables",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-us-senate-passes-bipartisan-bill-to-spee",
+   "x": 0
+  },
+  {
+   "id": "2026-11-19-kkr-backed-accounts-invest-in-gentari-s-indian-r-7855c7",
+   "d": "2026-11-19",
+   "h": "KKR-backed accounts invest in Gentari's Indian renewables platform, about 8 GW; terms not given",
+   "s": "sponsor_moves",
+   "f": [
+    "KKR",
+    "MSIP"
+   ],
+   "u": [],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-kkr-backed-accounts-invest-in-gentari-s",
+   "x": 1
   },
   {
    "id": "2026-11-18-shipping-lines-keep-buying-port-terminal-stakes-0e0599",
