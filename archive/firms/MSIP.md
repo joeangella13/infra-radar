@@ -1,6 +1,20 @@
 # MSIP
 
-25 items, 2026-01-15 to 2026-11-20.
+26 items, 2026-01-15 to 2026-11-24.
+
+---
+
+### **[watchlist]** Partners Group agrees to buy StraitNZ, New Zealand's Cook Strait ferry and freight operator, from Morgan Stanley Infrastructure Partners
+
+`2026-11-24` · Sponsor moves · [IREI](https://irei.com/news/partners-group-to-acquire-essential-transport-infrastructure-provider-in-new-zealand/), [Business Wire (MSIP StraitNZ acquisition, 2022)](https://www.businesswire.com/news/home/20220331005841/en/Morgan-Stanley-Infrastructure-Partners-Completes-Investment-in-StraitNZ-Holdings-Limited)
+
+**Deal / players.** Partners Group has agreed to acquire StraitNZ from funds managed by MSIP. StraitNZ runs two vessels on daily freight and passenger service between New Zealand's North and South Islands, plus a road freight and forwarding business. MSIP bought the company in 2022. Price, stake and timing were not in the source I read: terms undisclosed.
+
+**Why it matters.** This is an MSIP exit of a 2022 buy. Partners Group points to freight contracts that are protected against inflation and passenger fares set by dynamic pricing. It also notes StraitNZ is one of only two operators on the route, alongside a government-controlled one, and no bridge or tunnel competes. Price and multiple will show what a buyer pays for a ferry monopoly-like asset. Watch for the disclosed value.
+
+**Why you care.** This is your own firm selling a portfolio company. Expect the realised price and the value-creation story (contracts, pricing, fleet) to become a reference point inside MSIP.
+
+<sub>Firms: MSIP, Partners Group · Sectors: Transport & Logistics, Ports & Terminals · Geo: New Zealand · id: `2026-11-24-partners-group-agrees-to-buy-straitnz-new-zealan-29093e`</sub>
 
 ---
 
