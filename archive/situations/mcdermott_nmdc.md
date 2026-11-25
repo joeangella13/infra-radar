@@ -2,7 +2,21 @@
 
 Energy engineering and marine construction
 
-7 items, 2026-05-18 to 2026-10-11.
+8 items, 2026-05-18 to 2026-11-19.
+
+---
+
+### INPEX awards McDermott–Baker Hughes consortium next-phase subsea contract on Ichthys LNG; value undisclosed
+
+`2026-11-19` · Tracked situations · [PR Newswire (McDermott release)](https://www.prnewswire.com/news-releases/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development-302944442.html), [Globe Newswire via Manila Times](https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development/2473997), [LNG Industry](https://www.lngindustry.com/liquefaction/19112026/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development/)
+
+**Deal / players.** McDermott, in consortium with Baker Hughes, won the contract from INPEX for the next phase of Ichthys LNG offshore Western Australia. It covers engineering, procurement, construction, installation and commissioning of new subsea infrastructure tying back to the existing production system, and was signed Nov 16 and announced Nov 19. The contract value was not disclosed. McDermott will manage it from Perth, with fabrication in Batam, Indonesia.
+
+**Why it matters.** The award came under an existing subsea framework agreement, so it is repeat work from a known client rather than a new tender win. Tie-backs to a producing field carry less execution risk than greenfield work. With no value disclosed, the backlog effect cannot be sized. Watch McDermott's next results for backlog and margin on framework call-offs.
+
+**Why you care.** A live update on McDermott, a deal you ran at Rothschild: steady framework work from a repeat client supports the backlog and cash-flow case you underwrote, though no value was given.
+
+<sub>Situations: mcdermott_nmdc · Sectors: Midstream & Gas · Geo: Australia · id: `2026-11-19-inpex-awards-mcdermottbaker-hughes-consortium-ne-c12216`</sub>
 
 ---
 

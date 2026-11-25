@@ -223,6 +223,48 @@
  },
  {
   "date": "2026-11-19",
+  "headline": "INPEX awards McDermott–Baker Hughes consortium next-phase subsea contract on Ichthys LNG; value undisclosed",
+  "section": "tracked_situations",
+  "sources": [
+   {
+    "name": "PR Newswire (McDermott release)",
+    "url": "https://www.prnewswire.com/news-releases/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development-302944442.html"
+   },
+   {
+    "name": "Globe Newswire via Manila Times",
+    "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development/2473997"
+   },
+   {
+    "name": "LNG Industry",
+    "url": "https://www.lngindustry.com/liquefaction/19112026/inpex-awards-mcdermott-baker-hughes-consortium-contract-for-ichthys-lng-development/"
+   }
+  ],
+  "players": "McDermott, in consortium with Baker Hughes, won the contract from INPEX for the next phase of Ichthys LNG offshore Western Australia. It covers engineering, procurement, construction, installation and commissioning of new subsea infrastructure tying back to the existing production system, and was signed Nov 16 and announced Nov 19. The contract value was not disclosed. McDermott will manage it from Perth, with fabrication in Batam, Indonesia.",
+  "why_it_matters": "The award came under an existing subsea framework agreement, so it is repeat work from a known client rather than a new tender win. Tie-backs to a producing field carry less execution risk than greenfield work. With no value disclosed, the backlog effect cannot be sized. Watch McDermott's next results for backlog and margin on framework call-offs.",
+  "why_you_care": "A live update on McDermott, a deal you ran at Rothschild: steady framework work from a repeat client supports the backlog and cash-flow case you underwrote, though no value was given.",
+  "firms": [],
+  "companies": [
+   "McDermott",
+   "Baker Hughes",
+   "INPEX"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Australia"
+  ],
+  "priority": "normal",
+  "situations": [
+   "mcdermott_nmdc"
+  ],
+  "flags": [],
+  "id": "2026-11-19-inpex-awards-mcdermottbaker-hughes-consortium-ne-c12216",
+  "story_id": "story-inpex-awards-mcdermottbaker-hughes-conso",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-19",
   "headline": "KKR-backed accounts invest in Gentari's Indian renewables platform, about 8 GW; terms not given",
   "section": "sponsor_moves",
   "sources": [
@@ -503,6 +545,37 @@
   "id": "2026-11-17-aes-gets-final-ferc-approval-for-gip-eqt-take-pr-48a6c4",
   "story_id": "story-aes-gets-final-ferc-approval-for-gip-eqt",
   "story_size": 1
+ },
+ {
+  "date": "2026-11-16",
+  "headline": "NERC petitions FERC to approve three new reliability standards for large computational loads such as data centres",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "NERC Large Loads Action Plan",
+    "url": "https://www.nerc.com/initiatives/large-loads-action-plan"
+   }
+  ],
+  "players": "On Nov 16, NERC submitted a petition asking FERC to approve proposed Reliability Standards CLO-001-1, CLO-002-1 and CLO-003-1. They address reliability risks from connecting computational loads to the bulk power system. FERC has not yet acted; the same day, grid operators filed their own large-load responses at FERC.",
+  "why_it_matters": "These would be the first mandatory national reliability rules aimed at data-centre-type loads, sitting alongside the regional tariff filings already in the archive. Requirements on how large loads ride through grid disturbances could add cost and design limits for data-centre sites. Watch FERC's comment schedule and whether the standards line up with PJM's proposed ride-through rules.",
+  "why_you_care": "A new compliance layer for any data-centre or large-load asset MSIP underwrites; treat it as a possible cost and timing risk in power-to-compute models.",
+  "firms": [],
+  "companies": [
+   "NERC"
+  ],
+  "sectors": [
+   "Regulatory & Policy",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-16-nerc-petitions-ferc-to-approve-three-new-reliabi-4b2525",
+  "story_id": "story-ferc-directs-nerc-to-develop-reliability",
+  "story_size": 2
  },
  {
   "date": "2026-11-16",
@@ -1294,6 +1367,45 @@
   "story_size": 1
  },
  {
+  "date": "2026-11-09",
+  "headline": "LS Power agrees to buy six NRG gas plants (4.9 GW) for $4bn cash; one Texas plant priced at $1,400/kW",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "BIC Magazine",
+    "url": "https://www.bicmagazine.com/industry/investment-banking/nrg-energy-announces-asset-sale/"
+   },
+   {
+    "name": "Securities.io",
+    "url": "https://www.securities.io/ls-power-agrees-to-4-billion-purchase-of-six-nrg-gas-plants/"
+   },
+   {
+    "name": "Utility Dive",
+    "url": "https://utilitydive.com/news/2026-q3-roundup-utilities-seek-to-reassure-investors-amid-election-fallout/875726"
+   }
+  ],
+  "players": "NRG signed a definitive agreement on Nov 9 to sell six gas plants totalling 4.9 GW to LS Power for $4bn in cash, subject to adjustments; the plants sit in NYISO, ISO-NE and ERCOT, and closing is targeted for Q2 2027. NRG's presentation puts the plants' 2027 adjusted EBITDA at $500m. NRG's CEO said the deal values one 1.2 GW Texas plant at $1,400/kW, against just over $1,000/kW to build new in Texas.",
+  "why_it_matters": "The $500m EBITDA figure implies about 8x on $4bn (my arithmetic from disclosed numbers). Existing plants priced above new-build cost shows how much buyers pay for power that is already connected and running. The price covers only the plants sold, not NRG's full fleet. Watch the Q2 2027 close and whether other generators sell down similar assets.",
+  "why_you_care": "A fresh gas-plant comp, in dollars per kW and on EBITDA, that you can mark against any dispatchable power deal MSIP looks at. Note the date: announced Nov 9.",
+  "firms": [],
+  "companies": [
+   "LS Power",
+   "NRG Energy"
+  ],
+  "sectors": [
+   "Power & Renewables"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "high",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-09-ls-power-agrees-to-buy-six-nrg-gas-plants-4-9-gw-131775",
+  "story_id": "story-ls-power-agrees-to-buy-six-nrg-gas-plant",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-08",
   "headline": "Anthropic reportedly takes over 1.7 GW of Caterpillar gas-generator orders from OnePWR for about $3.4bn, FT says",
   "section": "tracked_situations",
@@ -1828,6 +1940,41 @@
   "flags": [],
   "id": "2026-11-03-drax-brookfield-and-radiant-announce-partnership-625a87",
   "story_id": "story-drax-brookfield-and-radiant-announce-par",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-03",
+  "headline": "I Squared Capital closes second infrastructure credit fund above $2.4bn, over four times its predecessor",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "HedgeCo.Net",
+    "url": "https://hedgeco.net/news/11/2026/i-squared-capital-closed-its-second-infrastructure-credit-fund-above-2-4-billion-with-3-billion-including-co-investment.html"
+   }
+  ],
+  "players": "I Squared held the final close of ISQ Global Infrastructure Credit Fund II at more than $2.4bn, over four times the size of its predecessor, and about $3bn including co-investment, per HedgeCo.Net's report of the firm's Nov 3 announcement. The fund lends mainly senior debt to mid-market owners of power, grids, fiber, data centres, ports, terminals and logistics in North America and Europe. I Squared manages over $60bn.",
+  "why_it_matters": "Debt secured on contracted or regulated cash flows is now a standalone allocation, not a sleeve of private credit. For sponsors in the mid-market, that means more lenders competing to finance deals in the same sectors, which helps leverage terms. I Squared can also lend to assets it does not own. Watch whether it uses credit to compete with equity bidders.",
+  "why_you_care": "I Squared is a direct competitor; a larger credit arm in the same mid-market sectors could give it a financing edge when it bids against MSIP, and could be a source of debt for MSIP deals.",
+  "firms": [
+   "I Squared Capital"
+  ],
+  "companies": [
+   "I Squared Capital"
+  ],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "North America",
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [
+   "secondary_firm"
+  ],
+  "id": "2026-11-03-i-squared-capital-closes-second-infrastructure-c-1da26e",
+  "story_id": "story-i-squared-capital-closes-second-infrastr",
   "story_size": 1
  },
  {

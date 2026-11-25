@@ -1,6 +1,20 @@
 # I Squared Capital
 
-19 items, 2026-05-25 to 2026-11-03.
+20 items, 2026-05-25 to 2026-11-03.
+
+---
+
+### **[watchlist]** I Squared Capital closes second infrastructure credit fund above $2.4bn, over four times its predecessor
+
+`2026-11-03` · Sponsor moves · [HedgeCo.Net](https://hedgeco.net/news/11/2026/i-squared-capital-closed-its-second-infrastructure-credit-fund-above-2-4-billion-with-3-billion-including-co-investment.html)
+
+**Deal / players.** I Squared held the final close of ISQ Global Infrastructure Credit Fund II at more than $2.4bn, over four times the size of its predecessor, and about $3bn including co-investment, per HedgeCo.Net's report of the firm's Nov 3 announcement. The fund lends mainly senior debt to mid-market owners of power, grids, fiber, data centres, ports, terminals and logistics in North America and Europe. I Squared manages over $60bn.
+
+**Why it matters.** Debt secured on contracted or regulated cash flows is now a standalone allocation, not a sleeve of private credit. For sponsors in the mid-market, that means more lenders competing to finance deals in the same sectors, which helps leverage terms. I Squared can also lend to assets it does not own. Watch whether it uses credit to compete with equity bidders.
+
+**Why you care.** I Squared is a direct competitor; a larger credit arm in the same mid-market sectors could give it a financing edge when it bids against MSIP, and could be a source of debt for MSIP deals.
+
+<sub>Firms: I Squared Capital · Sectors: Funds & Fundraising · Geo: North America, Europe · id: `2026-11-03-i-squared-capital-closes-second-infrastructure-c-1da26e`</sub>
 
 ---
 

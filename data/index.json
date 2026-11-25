@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:44:23+00:00",
+ "generated_at": "2026-11-25T20:01:07+00:00",
  "site_title": "Infra Radar",
  "site_tagline": "Infrastructure PE deal flow, sector themes and tracked situations",
  "sections": [
@@ -20,7 +20,7 @@
    "label": "Tracked situations"
   }
  ],
- "total_items": 444,
+ "total_items": 448,
  "months": [
   "2026-11",
   "2026-10",
@@ -59,7 +59,7 @@
    "name": "I Squared Capital",
    "watchlist": true,
    "priority": false,
-   "count": 19,
+   "count": 20,
    "first_seen": "2026-05-25",
    "last_seen": "2026-11-03"
   },
@@ -1338,20 +1338,20 @@
    "last_seen": "2026-11-18"
   },
   {
+   "key": "mcdermott_nmdc",
+   "label": "McDermott / NMDC",
+   "note": "Energy engineering and marine construction",
+   "count": 8,
+   "first_seen": "2026-05-18",
+   "last_seen": "2026-11-19"
+  },
+  {
    "key": "avangrid_arclight",
    "label": "Avangrid / ArcLight Renewables",
    "note": "North American wind and solar portfolio transactions",
    "count": 7,
    "first_seen": "2026-05-27",
    "last_seen": "2026-10-22"
-  },
-  {
-   "key": "mcdermott_nmdc",
-   "label": "McDermott / NMDC",
-   "note": "Energy engineering and marine construction",
-   "count": 7,
-   "first_seen": "2026-05-18",
-   "last_seen": "2026-10-11"
   },
   {
    "key": "sisu_miratech",
@@ -1381,25 +1381,25 @@
  "sectors": [
   {
    "name": "Power & Renewables",
-   "count": 164,
+   "count": 165,
    "first_seen": "2026-01-13",
    "last_seen": "2026-11-19"
   },
   {
    "name": "Digital Infrastructure",
-   "count": 137,
+   "count": 138,
    "first_seen": "2026-01-15",
    "last_seen": "2026-11-24"
   },
   {
    "name": "Regulatory & Policy",
-   "count": 80,
+   "count": 81,
    "first_seen": "2026-05-04",
    "last_seen": "2026-11-19"
   },
   {
    "name": "Midstream & Gas",
-   "count": 69,
+   "count": 70,
    "first_seen": "2026-04-30",
    "last_seen": "2026-11-19"
   },
@@ -1411,7 +1411,7 @@
   },
   {
    "name": "Funds & Fundraising",
-   "count": 59,
+   "count": 60,
    "first_seen": "2026-05-04",
    "last_seen": "2026-11-13"
   },
@@ -1562,6 +1562,23 @@
    "x": 0
   },
   {
+   "id": "2026-11-19-inpex-awards-mcdermottbaker-hughes-consortium-ne-c12216",
+   "d": "2026-11-19",
+   "h": "INPEX awards McDermott–Baker Hughes consortium next-phase subsea contract on Ichthys LNG; value undisclosed",
+   "s": "tracked_situations",
+   "f": [],
+   "u": [
+    "mcdermott_nmdc"
+   ],
+   "c": [
+    "Midstream & Gas"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-inpex-awards-mcdermottbaker-hughes-conso",
+   "x": 0
+  },
+  {
    "id": "2026-11-19-kkr-backed-accounts-invest-in-gentari-s-indian-r-7855c7",
    "d": "2026-11-19",
    "h": "KKR-backed accounts invest in Gentari's Indian renewables platform, about 8 GW; terms not given",
@@ -1686,6 +1703,22 @@
    "p": "normal",
    "m": "2026-11",
    "t": "story-ftai-s-jefferson-signs-deal-to-buy-port",
+   "x": 0
+  },
+  {
+   "id": "2026-11-16-nerc-petitions-ferc-to-approve-three-new-reliabi-4b2525",
+   "d": "2026-11-16",
+   "h": "NERC petitions FERC to approve three new reliability standards for large computational loads such as data centres",
+   "s": "market_regulatory",
+   "f": [],
+   "u": [],
+   "c": [
+    "Regulatory & Policy",
+    "Digital Infrastructure"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-ferc-directs-nerc-to-develop-reliability",
    "x": 0
   },
   {
@@ -2036,6 +2069,21 @@
    "x": 0
   },
   {
+   "id": "2026-11-09-ls-power-agrees-to-buy-six-nrg-gas-plants-4-9-gw-131775",
+   "d": "2026-11-09",
+   "h": "LS Power agrees to buy six NRG gas plants (4.9 GW) for $4bn cash; one Texas plant priced at $1,400/kW",
+   "s": "sector_themes",
+   "f": [],
+   "u": [],
+   "c": [
+    "Power & Renewables"
+   ],
+   "p": "high",
+   "m": "2026-11",
+   "t": "story-ls-power-agrees-to-buy-six-nrg-gas-plant",
+   "x": 0
+  },
+  {
    "id": "2026-11-09-cube-infrastructure-managers-hits-587m-first-clo-47aad0",
    "d": "2026-11-09",
    "h": "Cube Infrastructure Managers hits €587m first close on Cube IV, targeting €1.5bn",
@@ -2312,6 +2360,23 @@
    "m": "2026-11",
    "t": "story-drax-brookfield-and-radiant-announce-par",
    "x": 0
+  },
+  {
+   "id": "2026-11-03-i-squared-capital-closes-second-infrastructure-c-1da26e",
+   "d": "2026-11-03",
+   "h": "I Squared Capital closes second infrastructure credit fund above $2.4bn, over four times its predecessor",
+   "s": "sponsor_moves",
+   "f": [
+    "I Squared Capital"
+   ],
+   "u": [],
+   "c": [
+    "Funds & Fundraising"
+   ],
+   "p": "normal",
+   "m": "2026-11",
+   "t": "story-i-squared-capital-closes-second-infrastr",
+   "x": 1
   },
   {
    "id": "2026-11-03-i-squared-closes-isq-global-infrastructure-credi-e1ddda",
