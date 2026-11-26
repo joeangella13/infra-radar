@@ -1,5 +1,46 @@
 [
  {
+  "date": "2026-11-25",
+  "headline": "Eldridge-led group signs to buy LUKOIL International via share swap; OFAC approval still needed",
+  "section": "sponsor_moves",
+  "sources": [
+   {
+    "name": "World Oil",
+    "url": "https://www.worldoil.com/news/2026/11/26/u-s-led-consortium-agrees-to-acquire-lukoil-s-international-portfolio-in-share-swap-deal/"
+   },
+   {
+    "name": "Business Wire release via Studio Magenta",
+    "url": "https://www.studiomagenta.co.th/2026/11/26/american-led-consortium-announces-agreement-to-acquire-lukoil-internationals-global-energy-portfolio/"
+   }
+  ],
+  "players": "A consortium led by Eldridge, with the U.S. DFC, Catena Investment Holding and Xtellus Partners, signed a definitive agreement for LUKOIL International GmbH, which holds LUKOIL's non-Russian oil and gas assets. It pays in restricted Russian shares of PJSC LUKOIL and other Russian companies for 100% of the equity, not cash. World Oil cites about 350,000 boed of production in 11 countries and three European refineries (Burgas, Zeeland, Petrotel). Closing needs conditional OFAC approval, due diligence and other regulatory approvals.",
+  "why_it_matters": "This is a sanctions-driven carve-out where no cash price is stated. It gives no clean multiple to mark against, and press valuation figures vary. The buyers' first job is restoring full refining capacity. The release says the portfolio runs from upstream through refining and pipelines to downstream. Watch OFAC timing, and whether pipeline or terminal pieces come to market later.",
+  "why_you_care": "Background only: it is not an infrastructure-fund deal and no MSIP link shows up, but any pipeline or terminal pieces sold on later could be midstream sourcing.",
+  "firms": [
+   "Eldridge"
+  ],
+  "companies": [
+   "LUKOIL International",
+   "Eldridge",
+   "Catena Investment Holding",
+   "Xtellus Partners",
+   "U.S. International Development Finance Corporation"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Global",
+   "Europe"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-25-eldridge-led-group-signs-to-buy-lukoil-internati-a18066",
+  "story_id": "story-eldridge-led-group-signs-to-buy-lukoil-i",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-24",
   "headline": "Osiris Group signs to buy EDOTCO's Pakistan tower business and 70% of EDOTCO Bangladesh from Axiata unit",
   "section": "sponsor_moves",
