@@ -1,6 +1,20 @@
 # IFM Investors
 
-6 items, 2026-07-07 to 2026-10-22.
+7 items, 2026-07-07 to 2026-11-26.
+
+---
+
+### Nest commits £500m to new IFM mid-market infrastructure equity fund; total with IFM above £1bn
+
+`2026-11-26` · Market / regulatory · [Markets Group](https://www.marketsgroup.org/news/nest-commits-500m-to-new-ifm-infrastructure-equity-fund)
+
+**Deal / players.** Nest, the UK state-backed workplace pension scheme, committed £500m to a new IFM Investors infrastructure equity fund. The money goes through a custom feeder fund aimed at middle-market infrastructure companies globally. Nest's total with IFM is now above £1bn, and it targets £5bn by 2030. Nest owns 10% of IFM's parent, Industry Super Holdings, and can co-design strategies with IFM.
+
+**Why it matters.** Large pension schemes are building bespoke mid-market sleeves with managers they part-own, which takes capital from the open-market fundraising pool. That means more capital chasing mid-sized assets and tighter pricing in auctions. Fund size, fees and first deals are not disclosed in the source; watch for IFM's first mid-market deals.
+
+**Why you care.** Another well-funded bidder is aiming at the mid-market, the size range where MSIP, I Squared and EQT also compete, so expect more competition in those processes.
+
+<sub>Firms: IFM Investors · Sectors: Funds & Fundraising · Geo: UK, Global · id: `2026-11-26-nest-commits-500m-to-new-ifm-mid-market-infrastr-1bd557`</sub>
 
 ---
 

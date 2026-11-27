@@ -1,5 +1,102 @@
 [
  {
+  "date": "2026-11-26",
+  "headline": "Enbridge reported in talks to sell 6% of Line 3 to an Indigenous consortium for about C$1.5bn",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "GuruFocus",
+    "url": "https://www.gurufocus.com/news/9227695/enbridge-enb-eyes-c15-billion-sale-of-6-line-3-pipeline-stake-to-indigenous-consortium"
+   }
+  ],
+  "players": "Enbridge said on Nov 26 it is in talks to sell a 6% interest in its Line 3 crude pipeline to a consortium of Indigenous communities for about C$1.5bn, per GuruFocus. No agreement has been announced. Line 3 is part of Enbridge's Mainline system, which carries most Canadian crude exports to the US Midwest and Gulf Coast. Financing structure and implied valuation are not in the source.",
+  "why_it_matters": "A stake in a regulated-style, long-haul crude pipeline sold to a community consortium is a large comp for minority pipeline stakes and shows Indigenous co-ownership scaling up. Enbridge recycles capital while keeping operatorship and fees. Watch for the financing structure, any government loan guarantee, and whether a price per percentage point is disclosed.",
+  "why_you_care": "This is a pricing and structure comp for minority midstream stakes, plus a model for bringing Indigenous equity partners into North American pipeline deals you may look at.",
+  "firms": [],
+  "companies": [
+   "Enbridge"
+  ],
+  "sectors": [
+   "Midstream & Gas"
+  ],
+  "geo": [
+   "Canada",
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-26-enbridge-reported-in-talks-to-sell-6-of-line-3-t-2cd178",
+  "story_id": "story-enbridge-reported-in-talks-to-sell-6-of",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-26",
+  "headline": "Quanta reported to buy two Bloom Energy fuel-cell microgrid systems for about $367m",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "DatacenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/"
+   }
+  ],
+  "players": "Taiwan-based server maker Quanta has reportedly acquired two Bloom fuel-cell microgrid systems for about $367m. A California project is valued at about $249.9m and a Tennessee project at about $117.1m, and technical services are expected to be included. Capacity in MW was not given. It is Quanta's third Bloom deal, after $80m in October 2024 and $20m in April 2024.",
+  "why_it_matters": "Buyers are paying real money for on-site gas-fed fuel-cell power rather than waiting for grid connections. Without MW, a cost per kW cannot be worked out, so it is not a clean comp yet. Bloom also has an Equinix deal across 19 data centres and an AEP agreement for up to 1 GW. Watch for MW disclosure and who owns and operates the units.",
+  "why_you_care": "If you underwrite behind-the-meter data-centre power, this adds a data point for on-site power costs; the missing MW means treat it as directional only.",
+  "firms": [],
+  "companies": [
+   "Quanta",
+   "Bloom Energy"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-26-quanta-reported-to-buy-two-bloom-energy-fuel-cel-d3dbdf",
+  "story_id": "story-quanta-reported-to-buy-two-bloom-energy",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-26",
+  "headline": "Nest commits £500m to new IFM mid-market infrastructure equity fund; total with IFM above £1bn",
+  "section": "market_regulatory",
+  "sources": [
+   {
+    "name": "Markets Group",
+    "url": "https://www.marketsgroup.org/news/nest-commits-500m-to-new-ifm-infrastructure-equity-fund"
+   }
+  ],
+  "players": "Nest, the UK state-backed workplace pension scheme, committed £500m to a new IFM Investors infrastructure equity fund. The money goes through a custom feeder fund aimed at middle-market infrastructure companies globally. Nest's total with IFM is now above £1bn, and it targets £5bn by 2030. Nest owns 10% of IFM's parent, Industry Super Holdings, and can co-design strategies with IFM.",
+  "why_it_matters": "Large pension schemes are building bespoke mid-market sleeves with managers they part-own, which takes capital from the open-market fundraising pool. That means more capital chasing mid-sized assets and tighter pricing in auctions. Fund size, fees and first deals are not disclosed in the source; watch for IFM's first mid-market deals.",
+  "why_you_care": "Another well-funded bidder is aiming at the mid-market, the size range where MSIP, I Squared and EQT also compete, so expect more competition in those processes.",
+  "firms": [
+   "IFM Investors"
+  ],
+  "companies": [
+   "IFM Investors",
+   "Nest"
+  ],
+  "sectors": [
+   "Funds & Fundraising"
+  ],
+  "geo": [
+   "UK",
+   "Global"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-26-nest-commits-500m-to-new-ifm-mid-market-infrastr-1bd557",
+  "story_id": "story-nest-commits-500m-to-new-ifm-mid-market",
+  "story_size": 1
+ },
+ {
   "date": "2026-11-25",
   "headline": "Eldridge-led group signs to buy LUKOIL International via share swap; OFAC approval still needed",
   "section": "sponsor_moves",
@@ -38,6 +135,40 @@
   "flags": [],
   "id": "2026-11-25-eldridge-led-group-signs-to-buy-lukoil-internati-a18066",
   "story_id": "story-eldridge-led-group-signs-to-buy-lukoil-i",
+  "story_size": 1
+ },
+ {
+  "date": "2026-11-25",
+  "headline": "ERCOT large-load queue at 474 GW versus ~90 GW peak; Chevron's 2.67 GW Microsoft gas deal targets FID by year-end",
+  "section": "sector_themes",
+  "sources": [
+   {
+    "name": "OilPrice.com",
+    "url": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html"
+   }
+  ],
+  "players": "An OilPrice analysis says ERCOT's large-load queue stands at 474 GW, more than five times the grid's all-time peak of a little over 90 GW. It says Texas officials effectively froze new data-centre grid connections in August, though the governor's office says no permits have been approved. Chevron has a 20-year deal to supply Microsoft with 2.67 GW of gas-fired power in Reeves County, with power expected in 2028 and a final investment decision due by year-end.",
+  "why_it_matters": "Most of the queue is speculative, so headline demand overstates real load. Data centres that must bring their own power push value toward dedicated gas generation backed by long-term contracts with creditworthy buyers, and away from grid-dependent campuses. Watch the Chevron FID, any state permit rules, and how much of the queue has signed contracts.",
+  "why_you_care": "A risk to haircut when you mark Texas data-centre and gas-to-power cases: queue size is not demand, and bring-your-own-power is becoming the working assumption.",
+  "firms": [],
+  "companies": [
+   "Chevron",
+   "Microsoft",
+   "ERCOT"
+  ],
+  "sectors": [
+   "Power & Renewables",
+   "Midstream & Gas",
+   "Digital Infrastructure"
+  ],
+  "geo": [
+   "US"
+  ],
+  "priority": "normal",
+  "situations": [],
+  "flags": [],
+  "id": "2026-11-25-ercot-large-load-queue-at-474-gw-versus-90-gw-pe-443ea9",
+  "story_id": "story-ercot-large-load-queue-at-474-gw-versus",
   "story_size": 1
  },
  {

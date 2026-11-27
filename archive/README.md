@@ -1,13 +1,13 @@
 # Archive
 
-449 items, 2026-01-13 to 2026-11-25.
+453 items, 2026-01-13 to 2026-11-26.
 
 Plain-text mirror of the JSON the site reads. Every item appears in its
 monthly file; items are additionally cross-filed by situation and by firm.
 
 ## By month
 
-- [2026-11](2026-11.md) — 62 items
+- [2026-11](2026-11.md) — 66 items
 - [2026-10](2026-10.md) — 75 items
 - [2026-09](2026-09.md) — 46 items
 - [2026-08](2026-08.md) — 28 items
@@ -43,8 +43,8 @@ monthly file; items are additionally cross-filed by situation and by firm.
 - [EQT Infrastructure](firms/EQT-Infrastructure.md) — 13 items
 - [Global Infrastructure Partners](firms/Global-Infrastructure-Partners.md) — 9 items
 - [Macquarie Asset Management](firms/Macquarie-Asset-Management.md) — 7 items
+- [IFM Investors](firms/IFM-Investors.md) — 7 items
 - [Meridiam](firms/Meridiam.md) — 7 items
-- [IFM Investors](firms/IFM-Investors.md) — 6 items
 - [Energy Capital Partners](firms/Energy-Capital-Partners.md) — 5 items
 - [Partners Group](firms/Partners-Group.md) — 5 items
 - [CPP Investments](firms/CPP-Investments.md) — 5 items
